@@ -1,0 +1,3863 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Macau Baronları</title>
+<script>
+  /* İsim hatırlama: cookie / session → localStorage (Safari / Simulator yedekleri) */
+  (function(){
+    try{
+      var n=localStorage.getItem('kk-name')||'';
+      if(!n){
+        try{n=sessionStorage.getItem('kk-name')||'';}catch(e){}
+      }
+      if(!n){
+        var m=document.cookie.match(/(?:^|; )kk-name=([^;]*)/);
+        if(m)n=decodeURIComponent(m[1]||'');
+      }
+      n=(n||'').trim();
+      if(n){
+        localStorage.setItem('kk-name',n);
+        try{sessionStorage.setItem('kk-name',n);}catch(e){}
+      }
+    }catch(e){}
+  })();
+  window.Ionic = { config: { mode: 'ios', rippleEffect: false } };
+</script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@ionic/core@8/css/ionic.bundle.css" />
+<script type="module" src="https://cdn.jsdelivr.net/npm/@ionic/core@8/dist/ionic/ionic.esm.js"></script>
+<script nomodule src="https://cdn.jsdelivr.net/npm/@ionic/core@8/dist/ionic/ionic.js"></script>
+<script type="module" src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<script type="module">
+  import { toastController } from 'https://cdn.jsdelivr.net/npm/@ionic/core@8/dist/ionic/index.esm.js';
+  window.toastController = toastController;
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.js"></script>
+<script>
+window.SB_URL = "https://wuhdnfhnweuydnfjwdxb.supabase.co";
+window.SB_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind1aGRuZmhud2V1eWRuZmp3ZHhiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODM3NDgwMzYsImV4cCI6MjA5OTMyNDAzNn0.64uBMG-DGOUKwbBPyU6a3GArB0wIONig8REh2OzSEsw";
+window.USE_SUPABASE = true;
+</script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.49.1/dist/umd/supabase.min.js"></script>
+<style>
+:root {
+  --ion-color-primary: #ff7a1a;
+  --ion-color-primary-rgb: 255,122,26;
+  --ion-color-primary-contrast: #0c1838;
+  --ion-color-primary-contrast-rgb: 12,24,56;
+  --ion-color-primary-shade: #e06b17;
+  --ion-color-primary-tint: #ff8831;
+  --ion-color-secondary: #7d1f35;
+  --ion-color-secondary-rgb: 125,31,53;
+  --ion-color-secondary-contrast: #ffffff;
+  --ion-color-secondary-contrast-rgb: 255,255,255;
+  --ion-color-secondary-shade: #6e1b2f;
+  --ion-color-secondary-tint: #8a3549;
+  --ion-color-dark: #0c1838;
+  --ion-color-dark-rgb: 12,24,56;
+  --ion-color-dark-contrast: #ffffff;
+  --ion-color-dark-contrast-rgb: 255,255,255;
+  --ion-color-dark-shade: #0a152f;
+  --ion-color-dark-tint: #242f4c;
+  --ion-background-color: #070d1a;
+  --ion-toolbar-background: #0a1226;
+  --ion-toolbar-color: #fff;
+  --ion-tab-bar-background: rgba(10,18,38,.96);
+  --ion-tab-bar-color: #8fa0c8;
+  --ion-tab-bar-color-selected: #ff7a1a;
+  --bg:#070d1a; --card:#f7f8fc; --ink:#141c32; --muted:#5a6788; --line:#e4e8f2;
+  --green:#0d7a3f; --green-soft:#e6f4ec; --red:#c0392b; --red-soft:#fdecea;
+  --amber:#b7791f; --amber-soft:#fdf3e0; --blue:#2b6cb0; --blue-soft:#e8f0fb;
+  --navy:#0c1838; --yellow:#ff7a1a; --bordo:#7d1f35;
+  --radius:14px; --shadow:0 6px 20px rgba(4,10,28,.22);
+  --font:"Plus Jakarta Sans",system-ui,sans-serif;
+  --display:"Outfit",system-ui,sans-serif;
+  --ion-font-family:var(--font);
+}
+
+*{box-sizing:border-box}
+html,body{height:100%;margin:0;width:100%;max-width:100%;overflow-x:hidden;-webkit-text-size-adjust:100%}
+body{font-family:var(--font);background:var(--bg);color:var(--ink);letter-spacing:-.015em}
+ion-app,ion-button,ion-tab-button,ion-label,ion-chip,button,input,select{font-family:var(--font)}
+ion-app{
+  width:100%;max-width:100%;overflow-x:hidden;
+  background:
+  radial-gradient(ellipse 90% 50% at 10% -10%,rgba(125,31,53,.4),transparent 55%),
+  radial-gradient(ellipse 70% 40% at 100% 0%,rgba(255,122,26,.15),transparent 50%),
+  linear-gradient(165deg,#070d1a 0%,#101c3d 48%,#1a0f24 100%);
+  font-family:inherit}
+.app-header{
+  background:linear-gradient(115deg,#0a1226 0%,#1a2d5c 58%,#4a1228 100%);
+  border-bottom:2px solid var(--yellow);
+  padding:10px 14px 12px;
+  color:#fff;
+  width:100%;max-width:100%;box-sizing:border-box;
+  overflow:visible;
+  flex-shrink:0;
+}
+.app-header-top{display:flex;align-items:center;gap:10px;justify-content:space-between}
+.hdr-brand{display:flex;align-items:center;gap:10px;min-width:0;flex:1}
+.hdr-brand .logo{flex-shrink:0;width:36px;height:36px;filter:drop-shadow(0 2px 6px rgba(0,0,0,.35))}
+.hdr-brand .brand-text{min-width:0;line-height:1.2}
+.hdr-brand .brand-name{
+  font-family:var(--display);font-size:16px;font-weight:700;color:#fff;
+  letter-spacing:-.03em;line-height:1.15;
+}
+.hdr-brand .brand-who{font-family:var(--font);font-size:11px;font-weight:600;color:rgba(255,255,255,.72);margin-top:3px}
+.app-header-actions{display:flex;align-items:center;gap:6px;flex-shrink:0}
+.app-header #btnRefresh{--padding-start:8px;--padding-end:8px;margin:0;flex-shrink:0}
+.hdr-swipe{
+  flex-shrink:0;min-height:34px;height:34px;padding:0 12px;border-radius:999px;
+  border:1px solid rgba(255,185,46,.45);background:rgba(255,185,46,.14);
+  color:#ffd089;font-family:var(--display);font-size:12px;font-weight:800;
+  letter-spacing:.02em;cursor:pointer;white-space:nowrap;
+}
+.hdr-swipe:active{transform:scale(.97)}
+.hdr-balances{
+  display:grid;grid-template-columns:1.2fr 1fr;gap:10px;
+  margin-top:12px;padding-top:10px;
+  border-top:1px solid rgba(255,255,255,.12);
+  align-items:start;
+}
+.hdr-balances .b{text-align:center;min-width:0}
+.hdr-balances label{
+  display:block;font-family:var(--font);font-size:9px;text-transform:uppercase;
+  letter-spacing:.55px;opacity:.65;color:#fff;font-weight:600;margin-bottom:3px;
+}
+.hdr-balances .val{
+  display:block;font-family:var(--display);font-weight:800;font-size:18px;
+  color:#ffb066;font-variant-numeric:tabular-nums;letter-spacing:-.03em;
+  line-height:1.15;
+}
+.hdr-balances .b.kasa .val.up{color:#7dffa8}
+.hdr-balances .b.kasa .val.down{color:#ff8f8f}
+.hdr-balances .b.open .val-line{
+  display:flex;align-items:baseline;justify-content:center;gap:6px;
+  flex-wrap:nowrap;white-space:nowrap;min-width:0;
+}
+.hdr-balances .b.open .val{display:inline;font-size:18px;font-weight:800;color:rgba(255,176,102,.92)}
+.hdr-balances .b.open .val.pot{font-weight:800;color:#ffb066}
+.hdr-balances .b.open .val-sep{
+  font-family:var(--display);font-size:14px;font-weight:700;
+  color:rgba(255,255,255,.45);flex-shrink:0;
+}
+#appMain{
+  width:min(100%,520px);max-width:100%;margin:0 auto;
+  padding:12px 14px;padding-bottom:calc(78px + env(safe-area-inset-bottom,0px));
+  box-sizing:border-box;overflow-x:hidden;min-width:0;
+  flex:1 1 auto;min-height:0;overflow-y:auto;-webkit-overflow-scrolling:touch;
+}
+.card{background:var(--card);border:1px solid rgba(255,255,255,.08);border-radius:var(--radius);padding:14px;margin-bottom:12px;box-shadow:var(--shadow);color:var(--ink)}
+.card h2{font-family:var(--display);font-size:12px;letter-spacing:.4px;text-transform:uppercase;color:var(--navy);font-weight:700;margin:0 0 12px;border-left:3px solid var(--yellow);padding-left:10px}
+.notice{
+  display:none;margin:0 0 10px;padding:10px 12px;border-radius:10px;
+  background:rgba(192,57,43,.2);border:1px solid rgba(255,140,120,.45);
+  color:#ffd0c4;font-size:13px;font-weight:600;line-height:1.35;
+}
+.grp-title{
+  display:flex;align-items:center;gap:10px;flex-wrap:wrap;
+  margin:14px 0 8px;padding:8px 11px;
+  border-radius:10px;border:1px solid rgba(255,255,255,.12);
+  background:rgba(255,255,255,.06);
+}
+.grp-title.type-main{
+  margin:18px 0 10px;padding:11px 14px;border-radius:12px;
+}
+.grp-title.type-main strong{font-size:17px;letter-spacing:.01em}
+.grp-title.type-main span{font-size:14px}
+.grp-sep{
+  height:1px;margin:18px 0 6px;border:0;
+  background:linear-gradient(90deg,transparent,rgba(255,122,26,.5) 20%,rgba(255,176,102,.35) 80%,transparent);
+}
+.props-day-filter{
+  display:flex;gap:6px;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;
+  margin:0 0 12px;padding:2px 0 4px;
+}
+.props-day-filter::-webkit-scrollbar{display:none}
+.props-day-filter .chip{
+  flex:0 0 auto;min-height:34px;height:34px;padding:0 12px;font-size:12px;font-weight:700;
+  border-radius:999px;white-space:nowrap;
+}
+.props-day-filter .chip.pdf-b{
+  min-width:38px;padding:0 11px;font-weight:800;letter-spacing:-.02em;
+}
+.props-day-filter .chip.pdf-b.on{
+  background:var(--navy);border-color:var(--navy);color:var(--yellow);
+}
+#swipeOverlay{
+  position:fixed;inset:0;z-index:180;display:none;
+  background:linear-gradient(165deg,#0a1228 0%,#132044 45%,#1a0f28 100%);
+  color:#fff;flex-direction:column;
+  padding:calc(12px + env(safe-area-inset-top,0px)) 16px calc(16px + env(safe-area-inset-bottom,0px));
+  box-sizing:border-box;
+}
+#swipeOverlay.open{display:flex}
+.swipe-top{
+  display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:10px;
+}
+.swipe-top h2{
+  margin:0;font-family:var(--display);font-size:18px;font-weight:800;letter-spacing:-.02em;
+}
+.swipe-top .swipe-sub{display:block;font-size:11px;font-weight:600;color:rgba(255,255,255,.62);margin-top:2px}
+.swipe-x{
+  flex-shrink:0;width:40px;height:40px;border-radius:12px;border:1px solid rgba(255,255,255,.16);
+  background:rgba(255,255,255,.06);color:#fff;display:inline-flex;align-items:center;justify-content:center;
+  cursor:pointer;padding:0;
+}
+.swipe-x ion-icon{font-size:22px}
+.swipe-progress{
+  font-size:12px;font-weight:700;color:rgba(255,255,255,.7);margin:0 0 12px;
+  font-variant-numeric:tabular-nums;
+}
+.swipe-stage{
+  flex:1;min-height:0;position:relative;display:flex;align-items:center;justify-content:center;
+  touch-action:none;user-select:none;
+}
+.swipe-card{
+  position:absolute;left:50%;top:50%;width:min(100%,380px);
+  transform:translate(-50%,-50%);
+  background:#fff;color:var(--ink);border-radius:18px;
+  box-shadow:0 18px 50px rgba(0,0,0,.45);
+  padding:18px 16px 16px;box-sizing:border-box;
+  will-change:transform;cursor:grab;
+}
+.swipe-card:active{cursor:grabbing}
+.swipe-card .sc-league{
+  font-size:10px;font-weight:800;letter-spacing:.45px;text-transform:uppercase;
+  color:var(--muted);margin:0 0 8px;
+}
+.swipe-card .sc-match{
+  margin:0 0 8px;font-family:var(--display);font-size:22px;font-weight:800;
+  letter-spacing:-.03em;line-height:1.2;color:var(--navy);
+}
+.swipe-card .sc-pick{
+  margin:0 0 14px;font-size:14px;font-weight:600;color:#44506e;line-height:1.4;
+}
+.swipe-card .sc-pick b{color:var(--ink)}
+.swipe-card .sc-row{
+  display:flex;align-items:flex-end;justify-content:space-between;gap:10px;
+}
+.swipe-card .sc-odd{
+  font-family:var(--display);font-size:28px;font-weight:800;color:var(--navy);letter-spacing:-.04em;line-height:1;
+}
+.swipe-card .sc-meta{font-size:12px;color:var(--muted);font-weight:600;margin-top:6px}
+.swipe-stamp{
+  position:absolute;top:18px;padding:6px 12px;border-radius:10px;font-family:var(--display);
+  font-size:18px;font-weight:800;letter-spacing:.04em;opacity:0;pointer-events:none;
+  border:3px solid;transform:rotate(-12deg);
+}
+.swipe-stamp.like{left:16px;color:#0d7a3f;border-color:#0d7a3f}
+.swipe-stamp.pass{right:16px;color:var(--bordo);border-color:var(--bordo);transform:rotate(12deg)}
+.swipe-empty{
+  text-align:center;padding:24px 12px;max-width:300px;
+}
+.swipe-empty p{margin:0 0 14px;font-size:15px;font-weight:600;color:rgba(255,255,255,.85);line-height:1.4}
+.swipe-actions{
+  display:flex;justify-content:center;align-items:center;gap:22px;
+  padding:14px 0 4px;
+}
+.swipe-actions button{
+  width:64px;height:64px;border-radius:50%;border:2px solid rgba(255,255,255,.18);
+  background:rgba(255,255,255,.08);color:#fff;display:inline-flex;align-items:center;justify-content:center;
+  cursor:pointer;padding:0;box-shadow:0 8px 24px rgba(0,0,0,.25);
+}
+.swipe-actions button ion-icon{font-size:28px}
+.swipe-actions .sa-pass{border-color:rgba(125,31,53,.55);color:#ffb0a0}
+.swipe-actions .sa-like{border-color:rgba(13,122,63,.55);color:#7dffa8;background:rgba(13,122,63,.18)}
+.swipe-hint{
+  text-align:center;font-size:11px;font-weight:600;color:rgba(255,255,255,.5);margin:6px 0 0;
+}
+.swipe-chapter{
+  text-align:center;padding:28px 16px;max-width:320px;
+  animation:swipeChapterIn .55s cubic-bezier(.2,.8,.2,1) both;
+}
+.swipe-chapter .sch-kicker{
+  display:inline-block;font-size:11px;font-weight:800;letter-spacing:.5px;text-transform:uppercase;
+  color:rgba(255,255,255,.55);margin:0 0 10px;
+}
+.swipe-chapter .sch-title{
+  margin:0;font-family:var(--display);font-size:42px;font-weight:800;letter-spacing:-.04em;line-height:1;
+  text-shadow:0 8px 28px rgba(0,0,0,.35);
+}
+.swipe-chapter .sch-range{
+  margin:12px 0 0;font-size:14px;font-weight:700;color:rgba(255,255,255,.72);
+}
+.swipe-chapter.banko .sch-title{color:#7dffa8}
+.swipe-chapter.plase .sch-title{color:#7eb6ff}
+.swipe-chapter.surpriz .sch-title{color:#ffb066}
+.swipe-chapter.uzun .sch-title{color:#d2b4ff}
+@keyframes swipeChapterIn{
+  from{opacity:0;transform:scale(.86) translateY(14px)}
+  to{opacity:1;transform:scale(1) translateY(0)}
+}
+.grp-title strong{
+  font-family:var(--display);font-size:14px;letter-spacing:.02em;
+  text-transform:none;font-weight:800;color:#fff;line-height:1.2;
+}
+.grp-title span{
+  font-family:var(--font);font-size:13px;color:#fff;font-weight:800;
+  font-variant-numeric:tabular-nums;letter-spacing:-.02em;opacity:.95;
+}
+.grp-title.banko{border-color:rgba(13,122,63,.45);background:rgba(13,122,63,.18)}
+.grp-title.banko strong,.grp-title.banko span{color:#7dffa8}
+.grp-title.plase{border-color:rgba(43,108,176,.45);background:rgba(43,108,176,.18)}
+.grp-title.plase strong,.grp-title.plase span{color:#9ec5ff}
+.grp-title.surpriz{border-color:rgba(255,122,26,.45);background:rgba(255,122,26,.16)}
+.grp-title.surpriz strong,.grp-title.surpriz span{color:#ffc48a}
+.grp-title.uzun{border-color:rgba(183,121,31,.45);background:rgba(183,121,31,.16)}
+.grp-title.uzun strong,.grp-title.uzun span{color:#ffd78a}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.grow{flex:1}
+.muted{color:var(--muted)}
+.pos{color:var(--green);font-weight:700}
+.neg{color:var(--red);font-weight:700}
+.btn,button.btn{border:1px solid var(--line);background:#fff;border-radius:10px;padding:8px 14px;font-size:13px;font-weight:600;color:var(--ink);cursor:pointer;font-family:inherit}
+.btn.primary,button.btn.primary{background:var(--yellow);border-color:var(--yellow);color:var(--navy);font-weight:700}
+.btn.danger,button.btn.danger{color:var(--red)}
+.btn.tiny,button.btn.tiny{padding:6px 10px;font-size:12px;border-radius:8px;min-height:36px}
+.btn:disabled{opacity:.5}
+.chip,button.chip{border:1px solid var(--line);background:#fff;border-radius:999px;padding:6px 12px;font-size:12px;font-weight:600;color:var(--muted);cursor:pointer;min-height:36px;font-family:inherit}
+.chip.on,button.chip.on,.chip-on{background:var(--navy)!important;border-color:var(--navy)!important;color:var(--yellow)!important}
+.chip.cf-won{border-color:rgba(13,122,63,.35);color:var(--green)}
+.chip.cf-won.on,button.chip.cf-won.on{background:var(--green)!important;border-color:var(--green)!important;color:#fff!important}
+.chip.cf-lost{border-color:rgba(192,57,43,.35);color:var(--red)}
+.chip.cf-lost.on,button.chip.cf-lost.on{background:var(--red)!important;border-color:var(--red)!important;color:#fff!important}
+.pill{display:inline-block;padding:2px 9px;border-radius:999px;font-size:11px;font-weight:700}
+.pill.open{background:var(--blue-soft);color:var(--blue)}
+.pill.won{background:var(--green-soft);color:var(--green)}
+.pill.lost{background:var(--red-soft);color:var(--red)}
+.pill.void{background:#eee;color:#777}
+.pill.banko{background:var(--green-soft);color:var(--green)}
+.pill.highconf{background:#0a5c2f;color:#e8fff0}
+.pill.plase{background:var(--blue-soft);color:var(--blue)}
+.pill.surpriz{background:var(--amber-soft);color:var(--amber)}
+.pill.uzun{background:#efe8f8;color:#5b3d8a}
+.pill.diger{background:var(--blue-soft);color:var(--blue)}
+.pill.macau{background:var(--bordo);color:#ffd9c4}
+input,select{font:inherit;font-size:16px;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:#fff;color:var(--ink);min-height:44px}
+#propList{display:flex;flex-direction:column;gap:8px}
+.prop{
+  border:1px solid rgba(228,232,242,.95);border-radius:12px;padding:10px 12px;margin:0;
+  display:flex;flex-direction:column;gap:6px;background:#fff;
+  box-shadow:0 1px 2px rgba(4,10,28,.06);
+}
+.prop-top{display:flex;justify-content:space-between;align-items:flex-start;gap:8px}
+.prop-title{flex:1;min-width:0}
+.prop-title>b{
+  font-family:var(--font);font-size:14px;line-height:1.25;display:block;font-weight:700;
+  letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.prop-badges{display:inline-flex;flex-wrap:wrap;gap:3px;margin-top:3px}
+.prop-odd{flex-shrink:0;text-align:right}
+.prop-odd .podd{display:block;font-family:var(--display);font-size:17px;font-weight:700;color:var(--navy);letter-spacing:-.03em;line-height:1.1}
+.prop-odd-pill{font-size:9px;margin-top:2px;display:inline-block}
+.prop-meta{
+  font-size:11px;color:var(--muted);line-height:1.35;font-weight:500;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+}
+.prop-foot{display:flex;align-items:center;gap:6px;padding-top:6px;border-top:1px solid #eef1f7}
+.prop-votes{display:flex;align-items:center;gap:5px;flex:1;min-width:0}
+.prop-btns{display:flex;gap:4px;align-items:center;flex-shrink:0}
+.prop-btns .btn.tiny{
+  min-height:32px;height:32px;padding:0 8px;font-size:11px;border-radius:8px;
+  display:inline-flex;align-items:center;justify-content:center;gap:3px;font-weight:700;
+}
+.prop-btns .btn.tiny.icon-only{width:32px;padding:0;flex:0 0 32px;position:relative}
+.prop-btns .btn.tiny.icon-only.has-comment{
+  background:rgba(29,127,191,.1);border-color:rgba(29,127,191,.45);color:var(--blue);
+}
+.prop-btns .btn.tiny.icon-only .cmt-dot{
+  position:absolute;top:4px;right:4px;width:7px;height:7px;border-radius:50%;
+  background:var(--blue);border:1.5px solid #fff;pointer-events:none;
+}
+.prop-btns ion-icon{font-size:15px;width:15px;height:15px}
+.comment-sheet .cs-match{font-size:14px;font-weight:700;margin:0 0 4px;line-height:1.3}
+.comment-sheet .cs-meta{font-size:12px;color:var(--muted);margin:0 0 12px;line-height:1.4}
+.comment-sheet textarea{
+  width:100%;min-height:96px;resize:vertical;box-sizing:border-box;
+  font:inherit;font-size:16px;line-height:1.45;padding:10px 12px;
+  border:1px solid var(--line);border-radius:10px;background:#fff;color:var(--ink);
+}
+.comment-sheet .cs-body{
+  margin:0;padding:12px 14px;border-radius:10px;background:#f4f6fb;border:1px solid #e8ecf4;
+  font-size:14px;line-height:1.5;white-space:pre-wrap;word-break:break-word;min-height:72px;
+}
+.comment-sheet .cs-empty{color:var(--muted);font-style:italic}
+.votebtn{
+  border:1px solid var(--line);background:#f7f8fc;border-radius:9px;padding:0 8px;
+  font-size:12px;font-weight:700;min-height:32px;height:32px;width:auto;min-width:48px;
+  cursor:pointer;touch-action:manipulation;font-family:inherit;
+  display:inline-flex;align-items:center;justify-content:center;gap:4px;flex-shrink:0;
+}
+.votebtn ion-icon{font-size:14px;width:14px;height:14px}
+.votebtn .vcount{font-variant-numeric:tabular-nums}
+.votebtn.on{background:var(--navy);border-color:var(--navy);color:var(--yellow)}
+.votebtn.down.on{background:var(--bordo);border-color:var(--bordo);color:#ffd9c4}
+.vote-roster{display:flex;flex-direction:column;gap:5px;min-width:0}
+.vote-roster:empty{display:none}
+.vote-line{display:flex;align-items:flex-start;gap:6px;min-width:0}
+.vote-line .vl-icon{
+  flex-shrink:0;font-size:12px;width:14px;height:14px;margin-top:3px;
+}
+.vote-line.up .vl-icon{color:var(--green)}
+.vote-line.down .vl-icon{color:var(--bordo)}
+.vote-chips{display:flex;flex-wrap:wrap;gap:4px;min-width:0;flex:1}
+.vote-chip{
+  display:inline-flex;align-items:center;max-width:100%;
+  padding:2px 8px;border-radius:999px;font-size:10px;font-weight:700;
+  line-height:1.4;letter-spacing:-.01em;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.vote-chip.up{background:var(--green-soft);color:var(--green)}
+.vote-chip.down{background:var(--red-soft);color:var(--red)}
+.vote-chip.me{box-shadow:inset 0 0 0 1.5px currentColor}
+.empty-state{text-align:center;padding:36px 16px;color:var(--muted)}
+.empty-state ion-icon{font-size:36px;color:#8fa0c8;margin-bottom:8px}
+.empty-state p{margin:0 0 14px;font-weight:600;font-size:14px;color:#c5d0ea}
+#bottomTabs{position:fixed;left:0;right:0;bottom:0;z-index:50;--background:rgba(10,18,38,.97);backdrop-filter:saturate(160%) blur(16px);padding-bottom:env(safe-area-inset-bottom,0px);border-top:1px solid rgba(255,122,26,.22);height:calc(54px + env(safe-area-inset-bottom,0px))}
+#bottomTabs ion-tab-button{--color:#91a0c4;--color-selected:#ff7a1a;min-height:54px;font-weight:600}
+#bottomTabs ion-icon{font-size:22px;margin-bottom:2px}
+#bottomTabs ion-label{font-size:10px;font-weight:700;letter-spacing:.2px;margin:0}
+.basket-fields{display:grid;grid-template-columns:1fr;gap:10px;margin-top:10px}
+.basket-fields label{font-size:11px;color:var(--muted);display:block;margin-bottom:4px}
+.basket-actions{display:flex;flex-direction:column;gap:8px;margin-top:12px}
+.basket-actions .btn.primary{width:100%;min-height:48px;font-size:15px}
+.basket-actions .secondary{display:flex;flex-wrap:wrap;gap:8px}
+.basket-actions .secondary .btn{flex:1 1 40%;min-height:44px}
+.basket-card{padding:0;overflow:hidden;margin-top:18px}
+.basket-card>h2{display:none}
+.basket-head{
+  display:flex;align-items:center;justify-content:space-between;gap:10px;
+  padding:12px 14px;border-bottom:1px solid var(--line);
+  background:linear-gradient(180deg,#fff 0%,#f4f6fb 100%);
+}
+.basket-head .bh-title{
+  display:flex;align-items:center;gap:8px;min-width:0;
+  font-family:var(--display);font-size:15px;font-weight:800;color:var(--navy);letter-spacing:-.02em;
+}
+.basket-head .bh-title ion-icon{font-size:18px;color:var(--yellow)}
+.basket-count{
+  flex-shrink:0;min-width:28px;height:28px;padding:0 9px;
+  display:inline-flex;align-items:center;justify-content:center;
+  border-radius:999px;background:var(--navy);color:var(--yellow);
+  font-size:12px;font-weight:800;font-variant-numeric:tabular-nums;
+}
+.basket-body{padding:12px 14px 14px}
+.basket-sels{display:flex;flex-direction:column;gap:8px;margin-bottom:12px;min-width:0}
+.basket-empty{
+  text-align:center;padding:18px 12px;border-radius:12px;
+  background:#f0f3fa;border:1px dashed #c9d2e8;color:var(--muted);
+}
+.basket-empty ion-icon{font-size:26px;color:#8fa0c8;margin-bottom:6px}
+.basket-empty p{margin:0;font-size:12.5px;line-height:1.45;font-weight:600;color:#5a6788}
+.bsel{
+  display:flex;align-items:flex-start;gap:10px;
+  padding:10px 11px;border-radius:12px;background:#fff;
+  border:1px solid var(--line);box-shadow:0 1px 2px rgba(4,10,28,.04);
+}
+.bsel-main{flex:1;min-width:0}
+.bsel-main>b{
+  display:block;font-size:13px;font-weight:800;color:var(--ink);line-height:1.25;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;letter-spacing:-.01em;
+}
+.bsel-main small{
+  display:block;margin-top:3px;font-size:11px;color:var(--muted);line-height:1.35;font-weight:500;
+}
+.bsel-main small b{color:var(--ink);font-weight:700}
+.bsel-side{flex-shrink:0;display:flex;flex-direction:column;align-items:flex-end;gap:6px}
+.bsel-side .odd{
+  font-family:var(--display);font-size:15px;font-weight:800;color:var(--navy);
+  letter-spacing:-.03em;line-height:1;width:auto;text-align:right;
+}
+.bsel-rm{
+  width:28px;height:28px;padding:0;border-radius:8px;border:1px solid #f0d0cc;
+  background:#fdf2f0;color:var(--red);cursor:pointer;
+  display:inline-flex;align-items:center;justify-content:center;
+}
+.bsel-rm ion-icon{font-size:16px}
+.basket-card .basket-fields{
+  display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:0 0 12px;
+  align-items:end;
+}
+.basket-card .basket-fields>div{min-width:0;display:flex;flex-direction:column}
+.basket-card .basket-fields .bf-type{grid-column:1 / -1}
+.basket-card .basket-fields label{
+  font-size:10px;font-weight:700;letter-spacing:.4px;text-transform:uppercase;
+  color:var(--muted);margin-bottom:5px;
+}
+.basket-card .basket-fields input,
+.basket-card .basket-fields select{
+  width:100%;max-width:100%;min-width:0;box-sizing:border-box;
+  min-height:44px;height:44px;padding:8px 10px;font-size:16px;font-weight:600;
+  border-radius:10px;background:#f7f8fc;line-height:1.2;
+}
+.basket-card .basket-fields input[type="date"]{
+  -webkit-appearance:none;appearance:none;
+  display:block;padding:8px 10px;
+}
+.basket-card .basket-fields input[type="date"]::-webkit-date-and-time-value{
+  text-align:left;margin:0;min-height:1.2em;
+}
+.basket-card .basket-fields input[type="date"]::-webkit-calendar-picker-indicator{
+  margin:0;padding:0;opacity:.65;
+}
+.basket-summary{
+  display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:12px;
+}
+.basket-summary .bs-item{
+  padding:10px 11px;border-radius:11px;background:#f0f3fa;border:1px solid var(--line);
+  display:flex;flex-direction:column;gap:4px;min-width:0;
+}
+.basket-summary .bs-item span{
+  font-size:10px;font-weight:700;letter-spacing:.4px;text-transform:uppercase;color:var(--muted);
+}
+.basket-summary .bs-item b{
+  font-family:var(--display);font-size:16px;font-weight:800;color:var(--navy);
+  letter-spacing:-.03em;font-variant-numeric:tabular-nums;
+}
+.basket-summary .bs-item.highlight{
+  background:linear-gradient(145deg,#e8f7ee,#f3fbf6);
+  border-color:rgba(13,122,63,.22);
+}
+.basket-summary .bs-item.highlight b{color:var(--green)}
+.basket-card .basket-actions{margin:0;gap:8px}
+.basket-card .basket-actions .btn.primary{
+  min-height:46px;font-size:15px;font-weight:800;border-radius:12px;
+  box-shadow:0 4px 14px rgba(255,122,26,.28);
+}
+.basket-card .basket-actions .secondary{gap:6px}
+.basket-card .basket-actions .secondary .btn{
+  flex:1 1 0;min-height:40px;font-size:12px;padding:8px 6px;border-radius:10px;
+  display:inline-flex;align-items:center;justify-content:center;gap:4px;
+}
+.basket-card .basket-actions .secondary .btn ion-icon{font-size:15px}
+/* Build / matches */
+.build-shell{display:flex;flex-direction:column;gap:10px;min-width:0;max-width:100%;overflow-x:hidden}
+.build-toolbar{
+  min-width:0;max-width:100%;overflow-x:hidden;
+  background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);
+  border-radius:14px;padding:10px;backdrop-filter:blur(8px);
+}
+.build-toolbar .fetch-row{display:flex;gap:8px;align-items:center;margin-bottom:8px}
+.build-toolbar .fetch-row .btn.primary{flex:1;min-height:40px}
+.build-quota{
+  display:flex;flex-direction:column;align-items:flex-end;justify-content:center;
+  flex-shrink:0;line-height:1.15;padding:6px 10px;border-radius:10px;
+  background:rgba(255,255,255,.08);border:1px solid rgba(255,176,102,.35);
+  min-width:58px;
+}
+.build-quota .bq-label{
+  font-size:9px;font-weight:700;letter-spacing:.4px;text-transform:uppercase;
+  color:#9aabcc;
+}
+.build-quota .bq-val{
+  font-family:var(--display);font-size:15px;font-weight:800;color:#ffb066;
+  font-variant-numeric:tabular-nums;letter-spacing:-.02em;
+}
+.build-quota.low{border-color:rgba(255,122,26,.55);background:rgba(255,122,26,.16)}
+.build-quota.low .bq-val{color:#ffc48a}
+.build-quota.empty{border-color:rgba(192,57,43,.5);background:rgba(192,57,43,.22)}
+.build-quota.empty .bq-val{color:#ffb0a0}
+.build-meta{font-size:11px;color:#9aabcc;font-weight:500;margin-top:6px}
+.build-filters{display:flex;flex-direction:column;gap:6px;margin-bottom:6px;max-width:100%;min-width:0}
+.build-filter-group{
+  display:flex;gap:5px;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;
+  padding:5px;border-radius:10px;background:rgba(0,0,0,.18);border:1px solid rgba(255,255,255,.08);
+  max-width:100%;min-width:0;
+}
+.build-filter-group::-webkit-scrollbar{display:none}
+.build-filter-group .chip{
+  flex:1 1 0;min-height:28px;height:28px;padding:0 8px;font-size:11px;border-radius:8px;
+  display:inline-flex;align-items:center;justify-content:center;text-align:center;
+}
+.build-search{display:flex;gap:6px;align-items:center;min-width:0;max-width:100%;margin-bottom:2px}
+.build-search input{
+  flex:1;min-width:0;min-height:32px;height:32px;padding:4px 10px;
+  font-size:16px;border-radius:8px;background:rgba(255,255,255,.08);
+  border:1px solid rgba(255,255,255,.12);color:#e8eefc;
+}
+.build-search input::placeholder{color:#8fa0c8;font-size:13px}
+.league-scroll{
+  display:flex;gap:5px;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;
+  margin-top:6px;padding:5px;border-radius:10px;
+  background:rgba(0,0,0,.18);border:1px solid rgba(255,255,255,.08);
+  max-width:100%;min-width:0;
+}
+.league-scroll::-webkit-scrollbar{display:none}
+.league-scroll .chip{
+  flex:0 0 auto;min-height:28px;height:28px;padding:0 10px;font-size:11px;
+  border-radius:8px;white-space:nowrap;
+  display:inline-flex;align-items:center;justify-content:center;
+}
+#matchList{display:flex;flex-direction:column;gap:8px;max-height:none;padding-bottom:8px;min-width:0;max-width:100%}
+.match-card{
+  background:#fff;border-radius:12px;padding:10px 12px;
+  box-shadow:0 1px 2px rgba(4,10,28,.06);border:1px solid rgba(228,232,242,.95);
+  width:100%;max-width:100%;box-sizing:border-box;overflow:hidden;min-width:0;
+}
+.match-card-top{display:flex;align-items:flex-start;gap:8px;margin-bottom:8px;min-width:0}
+.match-time{
+  flex-shrink:0;width:40px;text-align:center;font-size:11px;font-weight:700;
+  color:var(--navy);line-height:1.25;padding-top:1px;
+}
+.match-time span{display:block;font-size:10px;font-weight:600;color:var(--muted)}
+.match-teams{flex:1;min-width:0}
+.match-teams b{display:block;font-size:13px;font-weight:700;line-height:1.25;color:var(--ink);
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.match-teams small{display:block;margin-top:2px;font-size:10px;color:var(--muted);font-weight:500;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.match-teams .hot{color:#c46a10;font-weight:700}
+.match-actions{flex-shrink:0;display:flex;flex-direction:column;gap:4px;align-items:stretch}
+.match-more{flex-shrink:0;min-height:28px;height:28px;padding:0 8px;font-size:10px;border-radius:8px;white-space:nowrap}
+.match-odds{
+  display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;width:100%;min-width:0;
+  margin-top:2px;
+}
+.oddbtn{
+  border:0;background:transparent;border-radius:0;padding:0;
+  width:100%;min-width:0;max-width:100%;box-sizing:border-box;
+  font-size:12px;text-align:center;min-height:0;cursor:pointer;font-family:inherit;
+  display:flex;flex-direction:column;align-items:stretch;justify-content:flex-start;gap:5px;
+  overflow:visible;
+}
+.oddbtn small{
+  display:block;color:var(--ink);font-size:12px;font-weight:800;line-height:1.2;
+  text-transform:none;letter-spacing:-.01em;
+}
+.oddbtn b{
+  display:flex;align-items:center;justify-content:center;
+  width:100%;min-height:38px;padding:8px 4px;box-sizing:border-box;
+  font-family:var(--display);font-size:15px;font-weight:800;color:#141c32;
+  letter-spacing:-.02em;background:#eceff4;border-radius:8px;
+  border:1px solid transparent;
+}
+.oddbtn.sel{background:transparent}
+.oddbtn.sel small{color:var(--navy)}
+.oddbtn.sel b{background:var(--navy);border-color:var(--navy);color:var(--yellow)}
+.oddbtn:active b{transform:scale(.98)}
+.match-closed{font-size:11px;color:var(--muted);padding:6px 0 2px;font-weight:500}
+.draft-dock{
+  position:fixed;left:50%;transform:translateX(-50%);
+  width:min(100%,520px);max-width:100%;
+  bottom:calc(54px + env(safe-area-inset-bottom,0px));z-index:60;
+  background:rgba(10,18,38,.98);backdrop-filter:blur(14px);
+  border:1px solid rgba(255,122,26,.28);border-bottom:none;
+  border-radius:14px 14px 0 0;padding:10px 12px;
+  box-shadow:0 -8px 28px rgba(0,0,0,.4);margin:0;
+  box-sizing:border-box;
+  /* sticky ile tab bar üstünde kaybolmasın; her zaman ekranın altında */
+}
+.draft-dock.empty,.draft-dock.tab-hidden{display:none}
+.draft-dock h3{font-family:var(--display);font-size:11px;font-weight:700;color:#ffb066;margin:0;letter-spacing:.3px;text-transform:uppercase;display:flex;align-items:center;justify-content:space-between;gap:8px}
+.draft-dock .draft-actions{display:flex;gap:8px;margin-top:8px}
+.draft-dock .draft-actions .btn{
+  flex:1;min-height:44px;font-size:14px;font-weight:700;white-space:nowrap;
+  touch-action:manipulation;-webkit-tap-highlight-color:transparent;cursor:pointer;
+}
+.draft-dock.empty .draft-actions{display:none}
+.draft-dock.empty #builderSels{display:none}
+.draft-dock .selrow{border-color:rgba(255,255,255,.12);padding:6px 0;flex-wrap:wrap}
+.draft-dock .selrow .inf b{color:#fff;font-size:12px}
+.draft-dock .selrow .inf small{color:#9aabcc}
+.draft-dock .selrow .odd{color:#ffb066}
+.draft-dock .selrow .sel-cmt{
+  flex:1 1 100%;width:100%;margin-top:4px;min-height:40px;padding:8px 10px;
+  font-size:16px;border-radius:8px;border:1px solid rgba(255,255,255,.14);
+  background:rgba(255,255,255,.06);color:#e8eefc;box-sizing:border-box;
+}
+.draft-dock .selrow .sel-cmt::placeholder{color:#7a8aaa}
+.draft-dock .selrow .sel-cmt:focus{outline:none;border-color:rgba(255,176,102,.55);background:rgba(255,255,255,.09)}
+.draft-dock .muted{color:#9aabcc;font-size:12px;margin:6px 0 0}
+#appMain.has-draft-pad{padding-bottom:calc(220px + env(safe-area-inset-bottom,0px))}
+.mrow{display:flex;align-items:center;gap:10px;padding:10px 2px;border-bottom:1px solid var(--line)}
+.selrow{display:flex;gap:8px;align-items:center;padding:8px 0;border-bottom:1px dashed var(--line);flex-wrap:wrap}
+.selrow .inf{flex:1;min-width:140px}
+.selrow .inf b{font-size:12.5px}
+.selrow .inf small{display:block;color:var(--muted);font-size:11px}
+.selrow .odd{font-weight:800;color:var(--navy);width:46px;text-align:right}
+.totline{display:flex;justify-content:space-between;padding:6px 0;font-size:13px}
+.totline b.big{font-size:17px}
+.coupon{border:1px solid var(--line);border-radius:12px;margin-bottom:12px;overflow:hidden;background:#fff}
+.coupon .chead{display:flex;gap:8px;align-items:center;padding:11px 14px;background:linear-gradient(180deg,#fbfcfe,#f4f6fb);border-bottom:1px solid var(--line);flex-wrap:wrap}
+.coupon .cbody{padding:6px 14px}
+.coupon .cfoot{display:flex;gap:10px;align-items:center;padding:10px 14px;border-top:1px solid var(--line);font-size:12.5px;flex-wrap:wrap}
+.legrow{display:flex;gap:8px;align-items:center;padding:7px 0;border-bottom:1px dashed var(--line);font-size:12.5px;flex-wrap:wrap}
+.legrow:last-child{border-bottom:none}
+.legrow .lm{flex:1;min-width:140px}
+.legrow .lm small{display:block;color:var(--muted);font-size:11px}
+.resbtn{border:1px solid var(--line);background:#fff;border-radius:6px;width:36px;height:36px;font-size:14px;cursor:pointer}
+.resbtn.w.on{background:var(--green);border-color:var(--green);color:#fff}
+.resbtn.l.on{background:var(--red);border-color:var(--red);color:#fff}
+.resbtn.v.on{background:#999;border-color:#999;color:#fff}
+.statgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px}
+.stat{background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px}
+.stat label{font-size:10px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);display:block;margin-bottom:4px}
+.stat span{font-family:var(--display);font-size:18px;font-weight:700}
+table.t{width:100%;border-collapse:collapse;font-size:12.5px;background:#fff;border-radius:12px;overflow:hidden}
+table.t th{text-align:left;color:var(--muted);font-size:10.5px;text-transform:uppercase;letter-spacing:.4px;padding:7px 8px;border-bottom:1px solid var(--line)}
+table.t td{padding:7px 8px;border-bottom:1px solid var(--line)}
+#chartWrap{height:230px;position:relative;background:#fff;border-radius:12px;padding:8px}
+.spin{display:inline-block;width:14px;height:14px;border:2px solid var(--line);border-top-color:var(--yellow);border-radius:50%;animation:sp .7s linear infinite;vertical-align:-2px}
+@keyframes sp{to{transform:rotate(360deg)}}
+#busy{position:fixed;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,#ff7a1a,#ffb066);z-index:300;display:none;animation:bz 1s ease infinite}
+@keyframes bz{0%{opacity:.4}50%{opacity:1}100%{opacity:.4}}
+.toast{position:fixed;bottom:calc(80px + env(safe-area-inset-bottom,0px));left:50%;transform:translateX(-50%);background:var(--bordo);color:#ffe8d6;padding:10px 18px;border-radius:12px;font-size:13px;z-index:99;opacity:0;transition:opacity .25s;pointer-events:none;max-width:90vw;text-align:center}
+.toast.show{opacity:1}
+#loginNames{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:16px 0}
+#loginNames .login-chip{margin:0;min-height:48px;font-weight:700;font-size:15px;cursor:pointer;background:rgba(255,255,255,.95);border:1.5px solid;border-radius:12px;font-family:inherit}
+.login-sheet{padding:16px 12px 28px;text-align:center;background:#f7f8fc;color:var(--ink);border-radius:18px}
+.login-sheet h2{margin:4px 0 6px;font-family:var(--display);font-size:24px;color:#0c1838;font-weight:700;letter-spacing:-.03em}
+.login-sheet p{margin:0 0 12px;color:#5a6788;font-size:14px;font-weight:600}
+.login-landing{display:none;padding:8px 4px 4px}
+.login-landing.show{display:block}
+.login-landing .ll-tag{
+  display:inline-block;font-size:10px;font-weight:800;letter-spacing:.55px;text-transform:uppercase;
+  color:#c46a10;margin:8px 0 6px;
+}
+.login-landing .ll-copy{margin:0 0 18px;color:#5a6788;font-size:14px;font-weight:600;line-height:1.4}
+.login-landing .ll-next{
+  width:100%;min-height:48px;border:0;border-radius:12px;cursor:pointer;font-family:inherit;
+  font-size:16px;font-weight:800;background:var(--navy);color:var(--yellow);
+}
+.login-pick{display:none}
+.login-pick.show{display:block}
+ion-modal#loginModal{--border-radius:18px;--width:92%;--max-width:380px;--height:auto;--background:#f7f8fc}
+#modal{
+  position:fixed;inset:0;background:rgba(6,10,22,.62);backdrop-filter:blur(6px);
+  display:none;align-items:flex-end;justify-content:center;z-index:200;
+  padding:0;overflow:hidden;
+}
+#modal.open{display:flex!important}
+#modalBox.box.card,#modalBox{
+  max-width:540px;width:100%;margin:0;padding:0;overflow:hidden;
+  max-height:min(88vh,720px);border-radius:18px 18px 0 0;
+  display:flex;flex-direction:column;box-shadow:0 -8px 40px rgba(0,0,0,.35);
+}
+@media(min-width:540px){
+  #modal{align-items:center;padding:24px 12px}
+  #modalBox.box.card,#modalBox{border-radius:18px;max-height:min(82vh,720px)}
+}
+.modal-shell{display:flex;flex-direction:column;min-height:0;max-height:inherit;height:100%}
+.modal-head{
+  flex-shrink:0;display:flex;align-items:flex-start;gap:10px;
+  padding:14px 14px 12px;border-bottom:1px solid var(--line);
+  background:linear-gradient(180deg,#fff,#f7f8fc);position:relative;
+}
+.modal-head-text{flex:1;min-width:0;padding-right:8px}
+.modal-head h3{
+  margin:0;font-family:var(--display);font-size:16px;font-weight:800;color:var(--navy);
+  letter-spacing:-.02em;line-height:1.25;
+}
+.modal-head .modal-sub{margin:5px 0 0;font-size:12px;color:var(--muted);font-weight:500;line-height:1.4}
+.modal-head .modal-sub b{color:var(--green);font-weight:700}
+.modal-x{
+  flex-shrink:0;width:36px;height:36px;border-radius:10px;border:1px solid var(--line);
+  background:#fff;color:var(--ink);cursor:pointer;
+  display:inline-flex;align-items:center;justify-content:center;
+  margin:-2px -2px 0 0;
+}
+.modal-x ion-icon{font-size:20px}
+.modal-body{flex:1;min-height:0;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:12px 14px 8px}
+.modal-body #mktSearch{
+  width:100%;min-height:32px;height:32px;margin-bottom:10px;padding:4px 10px;
+  font-size:16px;border-radius:8px;background:#f0f3fa;border:1px solid var(--line);
+}
+.modal-body #mktSearch::placeholder{font-size:12px;color:var(--muted)}
+.modal-foot{
+  flex-shrink:0;padding:10px 14px calc(10px + env(safe-area-inset-bottom,0px));
+  border-top:1px solid var(--line);background:rgba(255,255,255,.96);
+  backdrop-filter:blur(8px);position:sticky;bottom:0;
+}
+.modal-foot .btn.primary{width:100%;min-height:46px;font-size:15px;font-weight:800;border-radius:12px}
+.mktgrp{
+  margin-bottom:10px;padding:10px;border-radius:12px;
+  background:#f7f8fc;border:1px solid var(--line);
+}
+.mktgrp h4{font-size:11px;color:var(--muted);margin:0 0 8px;font-weight:800;letter-spacing:.3px;text-transform:uppercase}
+.mktgrp .row{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(72px,1fr));gap:8px;
+}
+.mktgrp .oddbtn{width:100%;min-width:0}
+.team-form{
+  margin:0 0 12px;padding:10px 11px;border-radius:12px;
+  background:linear-gradient(145deg,#0f1a36,#162447);color:#e8eefc;
+  border:1px solid rgba(255,122,26,.25);
+}
+.team-form h5{
+  margin:0 0 8px;font-size:10px;font-weight:800;letter-spacing:.45px;
+  text-transform:uppercase;color:#ffb066;
+}
+.team-form .tf-row{
+  display:flex;align-items:center;gap:8px;margin-top:6px;min-width:0;
+}
+.team-form .tf-name{
+  flex:0 0 88px;max-width:38%;font-size:12px;font-weight:800;color:#fff;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.team-form .tf-pills{display:flex;gap:4px;flex-wrap:wrap;min-width:0;flex:1}
+.team-form .tf-pill{
+  width:22px;height:22px;border-radius:6px;font-size:10px;font-weight:800;
+  display:inline-flex;align-items:center;justify-content:center;
+}
+.team-form .tf-pill.G{background:#0d7a3f;color:#fff}
+.team-form .tf-pill.B{background:#b7791f;color:#fff}
+.team-form .tf-pill.M{background:#c0392b;color:#fff}
+.team-form .tf-muted{font-size:11px;color:#9aabcc;font-weight:600;margin:0}
+.team-form .tf-lines{margin:4px 0 0 0;padding:0;list-style:none}
+.team-form .tf-lines li{
+  font-size:10px;color:#9aabcc;font-weight:600;line-height:1.35;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.team-form .tf-lines .tf-res{font-weight:800;margin-right:4px}
+.team-form .tf-lines .tf-res.G{color:#3dd68c}
+.team-form .tf-lines .tf-res.B{color:#f0c14b}
+.team-form .tf-lines .tf-res.M{color:#ff8a7a}
+.modal-stats-bar{
+  display:none;align-items:center;gap:8px;
+  margin:8px 0 0;
+}
+.modal-stats-bar.show{display:flex}
+.modal-stats-bar .btn{min-height:32px;height:32px;padding:0 12px;font-size:12px}
+#teamFormSlot{margin:0 0 12px}
+#teamFormSlot.collapsed{display:none}
+@media(min-width:520px){
+  .basket-card .basket-fields{grid-template-columns:1.1fr .9fr .9fr}
+  .basket-card .basket-fields .bf-type{grid-column:auto}
+}
+</style>
+</head>
+<body>
+<ion-app>
+<div id="busy"></div>
+
+<header class="app-header">
+  <div class="app-header-top">
+    <div class="hdr-brand">
+      <svg class="logo" width="36" height="36" viewBox="70 60 372 380" xmlns="http://www.w3.org/2000/svg"><path d="M150 336 L150 148 L186 108 L214 148 L256 96 L298 148 L326 108 L362 148 L362 336 Z" fill="#7d1f35" stroke="#3d0d1d" stroke-width="10" stroke-linejoin="round"/><circle cx="186" cy="100" r="13" fill="#ff7a1a" stroke="#3d0d1d" stroke-width="6"/><circle cx="256" cy="88" r="15" fill="#ffb92e" stroke="#3d0d1d" stroke-width="6"/><circle cx="326" cy="100" r="13" fill="#ff7a1a" stroke="#3d0d1d" stroke-width="6"/><rect x="106" y="238" width="52" height="108" rx="16" fill="#7d1f35" stroke="#3d0d1d" stroke-width="10"/><rect x="354" y="238" width="52" height="108" rx="16" fill="#7d1f35" stroke="#3d0d1d" stroke-width="10"/><rect x="118" y="336" width="276" height="40" rx="12" fill="#6d1830" stroke="#3d0d1d" stroke-width="10"/><rect x="138" y="376" width="34" height="52" rx="8" fill="#5c1428" stroke="#3d0d1d" stroke-width="8"/><rect x="340" y="376" width="34" height="52" rx="8" fill="#5c1428" stroke="#3d0d1d" stroke-width="8"/><path d="M256 132 C292 168 316 190 318 232 C348 214 340 186 334 170 C372 208 380 258 352 296 C330 322 300 334 256 336 C212 334 182 322 160 296 C132 258 140 208 178 170 C172 186 164 214 194 232 C196 190 220 168 256 132 Z" fill="#ff7a1a"/><path d="M256 190 C280 216 294 228 294 258 C312 248 310 232 306 220 C328 248 330 280 310 302 C296 318 278 326 256 326 C234 326 216 318 202 302 C182 280 184 248 206 220 C202 232 200 248 218 258 C218 228 232 216 256 190 Z" fill="#ffb92e"/><circle cx="256" cy="300" r="84" fill="#f5f7fc" stroke="#101c3d" stroke-width="9"/><clipPath id="hdrBallClip"><circle cx="256" cy="300" r="79"/></clipPath><g clip-path="url(#hdrBallClip)"><polygon points="256.0,254.0 266.6,285.4 299.7,285.8 273.1,305.6 283.0,337.2 256.0,318.0 229.0,337.2 238.9,305.6 212.3,285.8 245.4,285.4" fill="#101c3d"/><polygon points="320.7,211.0 312.8,235.8 333.7,251.3 307.7,251.5 299.5,276.1 291.3,251.5 265.3,251.3 286.2,235.8 278.3,211.0 299.5,226.1" fill="#101c3d"/><polygon points="360.6,334.0 334.6,334.2 326.4,358.9 318.1,334.2 292.1,334.0 313.1,318.5 305.2,293.7 326.4,308.9 347.5,293.7 339.7,318.5" fill="#101c3d"/><polygon points="256.0,410.0 247.8,385.3 221.8,385.1 242.7,369.7 234.8,344.9 256.0,360.0 277.2,344.9 269.3,369.7 290.2,385.1 264.2,385.3" fill="#101c3d"/><polygon points="151.4,334.0 172.3,318.5 164.5,293.7 185.6,308.9 206.8,293.7 198.9,318.5 219.9,334.0 193.9,334.2 185.6,358.9 177.4,334.2" fill="#101c3d"/><polygon points="191.3,211.0 212.5,226.1 233.7,211.0 225.8,235.8 246.7,251.3 220.7,251.5 212.5,276.1 204.3,251.5 178.3,251.3 199.2,235.8" fill="#101c3d"/></g></svg>
+      <div class="brand-text">
+        <div class="brand-name">Clausura Bahis Baronları</div>
+        <div class="brand-who" id="whoami">–</div>
+      </div>
+    </div>
+    <div class="app-header-actions">
+      <button type="button" class="hdr-swipe" id="btnSwipeDeck" title="Kaydırarak oyla">Kaydır</button>
+      <ion-button id="btnRefresh" fill="clear" color="warning" title="Yenile">
+        <ion-icon slot="icon-only" name="refresh-outline"></ion-icon>
+      </ion-button>
+    </div>
+  </div>
+  <div class="hdr-balances">
+    <div class="b kasa"><label>Kasa</label><span class="val" id="hdrBalance">–</span></div>
+    <div class="b open"><label>Açıkta</label><span class="val-line"><span class="val" id="hdrOpen">–</span><span class="val-sep" id="hdrOpenSep" hidden>→</span><span class="val pot" id="hdrOpenPot" hidden></span></span></div>
+  </div>
+</header>
+
+<div id="appMain">
+
+<section id="tab-props">
+  <div class="props-day-filter" id="propsDayFilter" role="group" aria-label="Gün filtresi">
+    <button type="button" class="chip pdf-b" id="propBFilter" title="Sadece 5+ oy" aria-pressed="false">5+</button>
+    <button type="button" class="chip pdf on" data-pdf="all">Tümü</button>
+    <button type="button" class="chip pdf" data-pdf="mon">Pzt</button>
+    <button type="button" class="chip pdf" data-pdf="tuewed">Salı Çarş</button>
+    <button type="button" class="chip pdf" data-pdf="thu">Perş</button>
+    <button type="button" class="chip pdf" data-pdf="fri">Cuma</button>
+    <button type="button" class="chip pdf" data-pdf="weekend">Cmt &amp; Pazar</button>
+  </div>
+  <div id="propList"></div>
+  <div class="card basket-card">
+    <div class="basket-head">
+      <div class="bh-title"><ion-icon name="cart-outline"></ion-icon> Kupon sepeti</div>
+      <span class="basket-count" id="basketCount">0</span>
+    </div>
+    <div class="basket-body">
+      <div id="basketSels" class="basket-sels">
+        <div class="basket-empty"><ion-icon name="add-circle-outline"></ion-icon><p>Sepet boş — önerilerden “Kupona” ile ekle.</p></div>
+      </div>
+      <div class="basket-fields">
+        <div class="bf-type"><label>Tür</label>
+          <select id="bType"><option value="banko">Banko</option><option value="plase">Plase</option><option value="surpriz">Sürpriz</option><option value="uzun">Uzun Vadeli</option></select>
+        </div>
+        <div class="bf-stake"><label>Yatırım (TL)</label><input id="bStake" type="number" min="0" step="10" value="100" inputmode="decimal"></div>
+        <div class="bf-date"><label>Tarih</label><input id="bDate" type="date"></div>
+      </div>
+      <div class="basket-summary">
+        <div class="bs-item"><span>Toplam oran</span><b id="bTotalOdds">1.00</b></div>
+        <div class="bs-item highlight"><span>Olası kazanç</span><b id="bPotential">0 TL</b></div>
+      </div>
+      <div class="basket-actions">
+        <button class="btn primary" id="btnSaveCoupon">Kupon oluştur</button>
+        <div class="secondary">
+          <button class="btn" id="btnRefreshBasket"><ion-icon name="refresh-outline"></ion-icon> Oran</button>
+          <button class="btn" id="btnCopyDraft"><ion-icon name="logo-whatsapp"></ion-icon> WA</button>
+          <button class="btn danger" id="btnClearBasket"><ion-icon name="trash-outline"></ion-icon> Boşalt</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="tab-build" style="display:none">
+  <div id="apiNotice" class="notice" style="display:none"></div>
+  <div class="build-shell">
+    <div class="build-toolbar">
+      <div class="fetch-row">
+        <button class="btn primary" id="btnFetch">Oranları getir</button>
+        <div class="build-quota" id="buildQuota" title="Bugünkü kalan öneri hakkı">
+          <span class="bq-label">Kalan</span>
+          <span class="bq-val" id="buildQuotaVal">–</span>
+        </div>
+      </div>
+      <div class="build-filters">
+        <div class="build-filter-group day" role="group" aria-label="Gün">
+          <button type="button" class="chip dayf on" data-day="today">Bugün</button>
+          <button type="button" class="chip dayf" data-day="tomorrow">Yarın</button>
+          <button type="button" class="chip dayf" data-day="all">Tümü</button>
+        </div>
+        <div class="build-filter-group mode" role="group" aria-label="Mod">
+          <button type="button" class="chip" id="popChip">Popüler</button>
+          <button type="button" class="chip" id="specChip">Özel</button>
+        </div>
+      </div>
+      <div class="build-search">
+        <input id="searchBox" placeholder="Takım ara…">
+      </div>
+      <div class="league-scroll" id="leagueChips"></div>
+      <div class="build-meta" id="fetchTime"></div>
+    </div>
+    <div id="matchList"><div class="empty-state" style="padding:28px 12px"><p style="color:#9aabcc">Maçları görmek için oranları getir.</p></div></div>
+  </div>
+</section>
+
+<section id="tab-coupons" style="display:none">
+  <div class="card">
+    <h2>Kuponlar</h2>
+    <div class="row" style="margin-bottom:8px">
+      <button class="chip cf on" data-f="open">Bekleyen</button>
+      <button class="chip cf cf-won" data-f="won">Tutan</button>
+      <button class="chip cf cf-lost" data-f="lost">Yatan</button>
+      <button class="chip cf" data-f="all">Hepsi</button>
+    </div>
+    <div class="row" style="margin-bottom:10px">
+      <button class="btn tiny primary" type="button" id="btnAutoSettle" style="min-height:40px;flex:1">Otomatik sonuç</button>
+    </div>
+    <div id="couponList"></div>
+  </div>
+</section>
+
+<section id="tab-stats" style="display:none">
+  <div class="card"><h2>Kasa Gelişimi</h2><div id="chartWrap"><canvas id="chart"></canvas></div></div>
+  <div class="card"><h2>Genel Durum</h2><div class="statgrid" id="statGrid"></div></div>
+  <div class="card"><h2>Tür Karşılaştırması</h2><table class="t" id="typeTable"></table></div>
+  <div class="card"><h2>Kim Ne Tutturdu?</h2><table class="t" id="memberTable"></table></div>
+  <div class="card">
+    <h2>Gönüllerin Baronu</h2>
+    <p class="muted" style="margin:0 0 10px;font-size:12px">38.707 kasadan itibaren kümülatif 👍 ve öneri (kendi like’ın hariç)</p>
+    <table class="t" id="likesTable"></table>
+  </div>
+  <div class="card">
+    <h2>Manuel Kasa Hareketi</h2>
+    <div class="row">
+      <input id="adjAmount" type="number" step="10" placeholder="Tutar (+/-)" style="width:105px">
+      <input id="adjNote" placeholder="Not" class="grow" style="min-width:150px">
+      <button class="btn" id="btnAdj">Ekle</button>
+    </div>
+    <table class="t" id="adjTable" style="margin-top:8px"></table>
+  </div>
+</section>
+
+<section id="tab-settings" style="display:none">
+  <div class="card">
+    <h2>Kasa</h2>
+    <div class="row"><label>Başlangıç kasası:</label><input id="setStart" type="number" step="100" style="width:110px"> <span class="muted">TL</span></div>
+    <p class="muted" style="margin:8px 0 0;font-size:12px">Kaydedince mevcut kasa bu tutara çekilir.</p>
+  </div>
+  <div class="card">
+    <h2>Ekip</h2>
+    <div id="memberInputs" class="row" style="flex-direction:column;align-items:stretch;gap:6px"></div>
+  </div>
+  <div class="card">
+    <ion-button expand="block" color="medium" id="btnSaveSettings">Kaydet</ion-button>
+    <ion-button expand="block" fill="outline" color="danger" id="btnLogout" style="margin-top:8px">Çıkış yap</ion-button>
+  </div>
+</section>
+
+</div>
+
+<div class="draft-dock empty tab-hidden" id="draftDock">
+  <h3>Seçimlerim <span id="draftCount" style="font-weight:500;opacity:.8"></span></h3>
+  <div id="builderSels"></div>
+  <div class="draft-actions">
+    <button type="button" class="btn primary" id="btnPropose">Paylaş</button>
+    <button type="button" class="btn danger" id="btnClearDraft">Temizle</button>
+  </div>
+</div>
+
+<ion-tab-bar id="bottomTabs">
+  <ion-tab-button tab="props" selected>
+    <ion-icon name="chatbubbles-outline"></ion-icon>
+    <ion-label>Öneriler</ion-label>
+  </ion-tab-button>
+  <ion-tab-button tab="build">
+    <ion-icon name="add-circle-outline"></ion-icon>
+    <ion-label>Öneri Yap</ion-label>
+  </ion-tab-button>
+  <ion-tab-button tab="coupons">
+    <ion-icon name="ticket-outline"></ion-icon>
+    <ion-label>Kuponlar</ion-label>
+  </ion-tab-button>
+  <ion-tab-button tab="stats">
+    <ion-icon name="wallet-outline"></ion-icon>
+    <ion-label>Kasa</ion-label>
+  </ion-tab-button>
+  <ion-tab-button tab="settings">
+    <ion-icon name="settings-outline"></ion-icon>
+    <ion-label>Ayarlar</ion-label>
+  </ion-tab-button>
+</ion-tab-bar>
+
+<ion-modal id="loginModal" backdrop-dismiss="false" is-open="false">
+  <div class="login-sheet ion-padding">
+    <div style="display:flex;justify-content:center;margin-bottom:4px"><svg class="logo" width="56" height="56" viewBox="70 60 372 380" xmlns="http://www.w3.org/2000/svg"><path d="M150 336 L150 148 L186 108 L214 148 L256 96 L298 148 L326 108 L362 148 L362 336 Z" fill="#7d1f35" stroke="#3d0d1d" stroke-width="10" stroke-linejoin="round"/><circle cx="186" cy="100" r="13" fill="#ff7a1a" stroke="#3d0d1d" stroke-width="6"/><circle cx="256" cy="88" r="15" fill="#ffb92e" stroke="#3d0d1d" stroke-width="6"/><circle cx="326" cy="100" r="13" fill="#ff7a1a" stroke="#3d0d1d" stroke-width="6"/><rect x="106" y="238" width="52" height="108" rx="16" fill="#7d1f35" stroke="#3d0d1d" stroke-width="10"/><rect x="354" y="238" width="52" height="108" rx="16" fill="#7d1f35" stroke="#3d0d1d" stroke-width="10"/><rect x="118" y="336" width="276" height="40" rx="12" fill="#6d1830" stroke="#3d0d1d" stroke-width="10"/><rect x="138" y="376" width="34" height="52" rx="8" fill="#5c1428" stroke="#3d0d1d" stroke-width="8"/><rect x="340" y="376" width="34" height="52" rx="8" fill="#5c1428" stroke="#3d0d1d" stroke-width="8"/><path d="M256 132 C292 168 316 190 318 232 C348 214 340 186 334 170 C372 208 380 258 352 296 C330 322 300 334 256 336 C212 334 182 322 160 296 C132 258 140 208 178 170 C172 186 164 214 194 232 C196 190 220 168 256 132 Z" fill="#ff7a1a"/><path d="M256 190 C280 216 294 228 294 258 C312 248 310 232 306 220 C328 248 330 280 310 302 C296 318 278 326 256 326 C234 326 216 318 202 302 C182 280 184 248 206 220 C202 232 200 248 218 258 C218 228 232 216 256 190 Z" fill="#ffb92e"/><circle cx="256" cy="300" r="84" fill="#f5f7fc" stroke="#101c3d" stroke-width="9"/><clipPath id="hdrBallClip"><circle cx="256" cy="300" r="79"/></clipPath><g clip-path="url(#hdrBallClip)"><polygon points="256.0,254.0 266.6,285.4 299.7,285.8 273.1,305.6 283.0,337.2 256.0,318.0 229.0,337.2 238.9,305.6 212.3,285.8 245.4,285.4" fill="#101c3d"/><polygon points="320.7,211.0 312.8,235.8 333.7,251.3 307.7,251.5 299.5,276.1 291.3,251.5 265.3,251.3 286.2,235.8 278.3,211.0 299.5,226.1" fill="#101c3d"/><polygon points="360.6,334.0 334.6,334.2 326.4,358.9 318.1,334.2 292.1,334.0 313.1,318.5 305.2,293.7 326.4,308.9 347.5,293.7 339.7,318.5" fill="#101c3d"/><polygon points="256.0,410.0 247.8,385.3 221.8,385.1 242.7,369.7 234.8,344.9 256.0,360.0 277.2,344.9 269.3,369.7 290.2,385.1 264.2,385.3" fill="#101c3d"/><polygon points="151.4,334.0 172.3,318.5 164.5,293.7 185.6,308.9 206.8,293.7 198.9,318.5 219.9,334.0 193.9,334.2 185.6,358.9 177.4,334.2" fill="#101c3d"/><polygon points="191.3,211.0 212.5,226.1 233.7,211.0 225.8,235.8 246.7,251.3 220.7,251.5 212.5,276.1 204.3,251.5 178.3,251.3 199.2,235.8" fill="#101c3d"/></g></svg></div>
+    <div id="loginLanding" class="login-landing">
+      <div class="ll-tag">Clausura</div>
+      <h2>Bahis Baronları</h2>
+      <p class="ll-copy">Öner, oyla, kupona yaz.<br>Bol şans.</p>
+      <button type="button" class="ll-next" id="btnLoginNext">Next</button>
+    </div>
+    <div id="loginPick" class="login-pick">
+      <h2>Clausura Bahis Baronları</h2>
+      <p>Kimsin? <span class="muted" style="font-size:12px">(bir kez seç, hatırlanır)</span></p>
+      <div id="loginNames"></div>
+    </div>
+  </div>
+</ion-modal>
+
+<div id="modal"><div class="box card" id="modalBox"></div></div>
+<div id="swipeOverlay" aria-hidden="true">
+  <div class="swipe-top">
+    <div>
+      <h2>Kaydır <span class="swipe-sub">Bugünün önerileri</span></h2>
+    </div>
+    <button type="button" class="swipe-x" id="swipeClose" aria-label="Kapat"><ion-icon name="close-outline"></ion-icon></button>
+  </div>
+  <div class="swipe-progress" id="swipeProgress"></div>
+  <div class="swipe-stage" id="swipeStage"></div>
+  <div class="swipe-actions" id="swipeActions">
+    <button type="button" class="sa-pass" id="swipePassBtn" aria-label="Pas"><ion-icon name="close"></ion-icon></button>
+    <button type="button" class="sa-like" id="swipeLikeBtn" aria-label="Beğen"><ion-icon name="thumbs-up"></ion-icon></button>
+  </div>
+  <p class="swipe-hint">Sola pas · Sağa 👍</p>
+</div>
+<div class="toast" id="toast"></div>
+
+</ion-app>
+
+<script>
+"use strict";
+/* ============ SUNUCU KÖPRÜSÜ ============ */
+/* ============ SUPABASE KÖPRÜSÜ (TEST — canlı Apps Script değil) ============ */
+function sbHeaders(extra){
+  var h={apikey:SB_KEY,Authorization:'Bearer '+SB_KEY,'Content-Type':'application/json'};
+  if(extra)for(var k in extra)h[k]=extra[k];
+  return h;
+}
+function sbFetch(path,opts){
+  opts=opts||{};
+  return fetch(SB_URL+'/rest/v1/'+path,{
+    method:opts.method||'GET',
+    headers:sbHeaders(opts.headers),
+    body:opts.body!=null?JSON.stringify(opts.body):undefined
+  }).then(function(r){
+    return r.text().then(function(t){
+      if(!r.ok)throw new Error((t&&t.slice(0,200))||('HTTP '+r.status));
+      if(!t)return null;
+      try{return JSON.parse(t);}catch(e){return t;}
+    });
+  });
+}
+function sbRpc(name,args){
+  return fetch(SB_URL+'/rest/v1/rpc/'+name,{
+    method:'POST',headers:sbHeaders(),body:JSON.stringify(args||{})
+  }).then(function(r){
+    return r.text().then(function(t){
+      if(!r.ok)throw new Error((t&&t.slice(0,200))||('RPC '+r.status));
+      if(!t)return null;
+      try{return JSON.parse(t);}catch(e){return t;}
+    });
+  });
+}
+function mapProposal(row,voteMap){
+  var v=voteMap[row.id]||{ups:[],downs:[]};
+  return{
+    id:row.id,date:row.date,by:row.by_name,also:row.also||[],
+    createdAt:row.created_at?new Date(row.created_at).getTime():0,
+    match:row.match,league:row.league||'',ko:row.ko,cls:row.cls,
+    market:row.market,pick:row.pick,odd:Number(row.odd),
+    eventId:row.event_id,mktI:row.mkt_i,no:row.no,
+    comment:row.comment||'',
+    votes:v.ups,downs:v.downs
+  };
+}
+function mapCoupon(row){
+  var sels=row.selections||[];
+  if(typeof sels==='string'){try{sels=JSON.parse(sels);}catch(e){sels=[];}}
+  if(!Array.isArray(sels))sels=[];
+  return{
+    id:row.id,date:row.date,type:row.type,stake:Number(row.stake)||0,
+    override:row.override||null,
+    createdAt:row.created_at?new Date(row.created_at).getTime():0,
+    createdBy:row.created_by,selections:sels
+  };
+}
+/** Kupon bacaklarına öneri also[] bilgisini yaz (eski kayıtlar / eksik also). */
+function enrichCouponsFromProposals(coupons,proposals){
+  var byId={};
+  (proposals||[]).forEach(function(p){if(p&&p.id)byId[p.id]=p;});
+  (coupons||[]).forEach(function(c){
+    (c.selections||[]).forEach(function(s){
+      var p=s.propId?byId[s.propId]:null;
+      if(!p&&!(s.also&&s.also.length))return;
+      var names=[],seen={};
+      function add(n){n=(n||'').trim();if(!n||seen[n])return;seen[n]=1;names.push(n);}
+      add(s.by);(s.also||[]).forEach(add);
+      if(p){add(p.by);(p.also||[]).forEach(add);}
+      if(names.length){s.by=names[0];s.also=names.slice(1);}
+    });
+  });
+  return coupons;
+}
+function mapAdj(row){
+  return{id:row.id,date:row.date,amount:Number(row.amount)||0,note:row.note||'',by:row.by_name};
+}
+function sbBootstrap(){
+  return Promise.all([
+    sbFetch('settings?id=eq.1&select=*'),
+    sbRpc('list_members',{}),
+    sbFetch('proposals?select=*&order=created_at.desc'),
+    sbFetch('proposal_votes?select=*'),
+    sbFetch('coupons?select=*&order=date.desc'),
+    sbFetch('adjustments?select=*&order=date.desc')
+  ]).then(function(res){
+    var settingsRow=(res[0]&&res[0][0])||{start_balance:88000};
+    var members=res[1]||[];
+    var voteMap={};
+    (res[3]||[]).forEach(function(v){
+      if(!voteMap[v.proposal_id])voteMap[v.proposal_id]={ups:[],downs:[]};
+      if(v.kind==='up')voteMap[v.proposal_id].ups.push(v.member_name);
+      else voteMap[v.proposal_id].downs.push(v.member_name);
+    });
+    var proposals=(res[2]||[]).map(function(r){return mapProposal(r,voteMap);});
+    var coupons=enrichCouponsFromProposals((res[4]||[]).map(mapCoupon), proposals);
+    return{
+      settings:{start:Number(settingsRow.start_balance)||0,members:members,hasPin:true},
+      proposals:proposals,
+      coupons:coupons,
+      adjustments:(res[5]||[]).map(mapAdj)
+    };
+  });
+}
+function rpc(fn){
+  var args=Array.prototype.slice.call(arguments,1);
+  document.getElementById('busy').style.display='block';
+  var p;
+  if(fn==='bootstrap')p=sbBootstrap();
+  else if(fn==='checkPin')p=Promise.resolve(false); // kişisel PIN: check_member_pin kullanılır
+  else if(fn==='getLiveScores')p=Promise.resolve({});
+  else p=Promise.reject(new Error('rpc yok: '+fn));
+  return p.then(function(v){document.getElementById('busy').style.display='none';return v;})
+    .catch(function(e){document.getElementById('busy').style.display='none';throw e;});
+}
+function rpcSilent(fn){return rpc.apply(null,arguments);}
+function getProposal(id){
+  for(var i=0;i<S.proposals.length;i++){if(S.proposals[i].id===id)return S.proposals[i];}
+  return null;
+}
+function propBadgesHtml(p){
+  var votes=p.votes||[],downs=p.downs||[];
+  var badge=votes.length>=6?'<span class="pill highconf">Yüksek Güven</span>':(votes.length===5?'<span class="pill banko">Güven</span>':'');
+  if(downs.length>=3)badge+=' <span class="pill macau">Macau Alert</span>';
+  if(p.ko&&p.ko*1000<=Date.now())badge+=' <span class="pill lost">Başladı</span>';
+  return badge;
+}
+function voteRosterHtml(votes,downs){
+  var ups=votes||[],dns=downs||[];
+  if(!ups.length&&!dns.length)return '';
+  function chips(list,kind){
+    return list.map(function(n){
+      var me=(ME&&ME.name&&n===ME.name)?' me':'';
+      return '<span class="vote-chip '+kind+me+'">'+esc(n)+'</span>';
+    }).join('');
+  }
+  var html='';
+  if(ups.length){
+    html+='<div class="vote-line up"><ion-icon class="vl-icon" name="thumbs-up"></ion-icon><div class="vote-chips">'+chips(ups,'up')+'</div></div>';
+  }
+  if(dns.length){
+    html+='<div class="vote-line down"><ion-icon class="vl-icon" name="thumbs-down"></ion-icon><div class="vote-chips">'+chips(dns,'down')+'</div></div>';
+  }
+  return html;
+}
+function voteBtnHtml(kind,count,on,started){
+  var icon=kind==='up'?'thumbs-up-outline':'thumbs-down-outline';
+  return '<button type="button" class="votebtn '+kind+(on?' on':'')+'"'+(started?' disabled':'')+'>'+
+    '<ion-icon name="'+icon+'"></ion-icon><span class="vcount">'+count+'</span></button>';
+}
+function patchPropCard(p){
+  var box=document.querySelector('.prop[data-id="'+p.id+'"]');
+  if(!box)return;
+  var votes=p.votes||[],downs=p.downs||[];
+  var mine=votes.indexOf(ME.name)>=0,mineDown=downs.indexOf(ME.name)>=0;
+  var started=p.ko&&p.ko*1000<=Date.now();
+  var up=box.querySelector('.votebtn.up'),down=box.querySelector('.votebtn.down');
+  if(!up||!down)return;
+  up.className='votebtn up'+(mine?' on':'');
+  down.className='votebtn down'+(mineDown?' on':'');
+  up.querySelector('.vcount').textContent=String(votes.length);
+  down.querySelector('.vcount').textContent=String(downs.length);
+  up.disabled=!!started;down.disabled=!!started;
+  var roster=box.querySelector('.vote-roster');
+  if(roster)roster.innerHTML=voteRosterHtml(votes,downs);
+  var badges=box.querySelector('.prop-badges'),bhtml=propBadgesHtml(p);
+  if(bhtml){
+    if(badges)badges.innerHTML=bhtml;
+    else box.querySelector('.prop-title').insertAdjacentHTML('beforeend','<div class="prop-badges">'+bhtml+'</div>');
+  }else if(badges)badges.remove();
+}
+function applyVoteToggle(id,name,isDown){
+  var pr=getProposal(id);
+  if(!pr)return false;
+  var v=pr.votes||[],dn=pr.downs||[];
+  var main=isDown?dn:v,other=isDown?v:dn;
+  var ix=main.indexOf(name);
+  if(ix>=0)main.splice(ix,1);
+  else{
+    main.push(name);
+    var ox=other.indexOf(name);
+    if(ox>=0)other.splice(ox,1);
+  }
+  pr.votes=v;pr.downs=dn;
+  return true;
+}
+var _votePending={};
+function voteMutate(action,payload){
+  if(!ME.name){toast('Önce giriş yap');showLogin();return;}
+  if(!payload||!payload.id)return;
+  var pr0=getProposal(payload.id);
+  if(!pr0)return;
+  var snapVotes=(pr0.votes||[]).slice();
+  var snapDowns=(pr0.downs||[]).slice();
+  if(!applyVoteToggle(payload.id,payload.name,action==='toggleDown'))return;
+  var pr=getProposal(payload.id);
+  if(pr)patchPropCard(pr);
+  _votePending[payload.id]=true;
+  var kind=action==='toggleDown'?'down':'up';
+  sbRpc('toggle_vote',{p_proposal_id:payload.id,p_name:ME.name,p_kind:kind}).then(function(res){
+    var cur=getProposal(payload.id);
+    if(cur&&res){
+      cur.votes=res.ups||[];
+      cur.downs=res.downs||[];
+      patchPropCard(cur);
+    }
+  }).catch(function(e){
+    var p2=getProposal(payload.id);
+    if(p2){p2.votes=snapVotes;p2.downs=snapDowns;patchPropCard(p2);}
+    toast('Oy kaydedilemedi: '+(e.message||e));
+  }).then(function(){delete _votePending[payload.id];});
+}
+function proposalToRow(p){
+  return{
+    id:String(p.id),date:p.date||null,by_name:p.by,also:p.also||[],
+    created_at:p.createdAt?new Date(p.createdAt).toISOString():new Date().toISOString(),
+    match:p.match,league:p.league||'',ko:p.ko!=null?Number(p.ko):null,cls:p.cls||null,
+    market:p.market,pick:p.pick,odd:Number(p.odd)||1,
+    event_id:p.eventId!=null?Number(p.eventId):null,
+    mkt_i:p.mktI!=null?Number(p.mktI):null,
+    no:p.no!=null?Number(p.no):null,
+    comment:String(p.comment||'').trim()
+  };
+}
+function couponToRow(c){
+  return{
+    id:String(c.id),date:c.date,type:c.type||'banko',stake:Number(c.stake)||0,
+    override:c.override||null,
+    created_at:c.createdAt?new Date(c.createdAt).toISOString():new Date().toISOString(),
+    created_by:c.createdBy||null,selections:c.selections||[]
+  };
+}
+function findSameProposal(s){
+  for(var i=0;i<(S.proposals||[]).length;i++){
+    var p=S.proposals[i];
+    if(s.eventId!=null&&p.eventId!=null){
+      if(Number(p.eventId)===Number(s.eventId)&&Number(p.mktI)===Number(s.mktI)&&Number(p.no)===Number(s.no))return p;
+    }else if((s.eventId==null||s.eventId==='')&&(p.eventId==null||p.eventId==='')){
+      if(p.match===s.match&&p.market===s.market&&p.pick===s.pick)return p;
+    }
+  }
+  return null;
+}
+function isOnProposal(p,name){
+  if(!p||!name)return false;
+  if(p.by===name)return true;
+  return (p.also||[]).indexOf(name)>=0;
+}
+var DAILY_PROPOSAL_LIMIT=6;
+function matchDayKey(item){
+  if(!item)return todayStr();
+  if(item.cls==='uzun'&&!item.ko)return 'uzun';
+  if(item.ko!=null&&item.ko!=='')return dstr(new Date(Number(item.ko)*1000));
+  if(item.date)return String(item.date).slice(0,10);
+  return todayStr();
+}
+function matchDayLabel(dayKey){
+  if(dayKey==='uzun')return 'uzun vadeli';
+  var parts=String(dayKey).split('-');
+  if(parts.length!==3)return dayKey;
+  var d=new Date(Number(parts[0]),Number(parts[1])-1,Number(parts[2]));
+  return d.toLocaleDateString('tr-TR',{day:'numeric',month:'long'});
+}
+function quotaFocusDay(){
+  if(typeof dayFilter!=='undefined'&&dayFilter==='tomorrow')return dstr(new Date(Date.now()+864e5));
+  return todayStr();
+}
+function isOnProposalAsMe(p){
+  return !!(p&&ME.name&&(p.by===ME.name||(p.also||[]).indexOf(ME.name)>=0));
+}
+function myProposalsOnMatchDay(dayKey){
+  if(!ME.name||!dayKey)return 0;
+  return (S.proposals||[]).filter(function(p){
+    return isOnProposalAsMe(p)&&matchDayKey(p)===dayKey;
+  }).length;
+}
+function proposeSlotsLeftForDay(dayKey){
+  return Math.max(0,DAILY_PROPOSAL_LIMIT-myProposalsOnMatchDay(dayKey));
+}
+function neededByMatchDay(sels){
+  var byDay={};
+  (sels||[]).forEach(function(s){
+    var exist=findSameProposal(s);
+    if(exist&&isOnProposal(exist,ME.name))return;
+    var day=matchDayKey(s);
+    byDay[day]=(byDay[day]||0)+1;
+  });
+  return byDay;
+}
+function countNeededProposals(sels){
+  var n=0,by=neededByMatchDay(sels);
+  Object.keys(by).forEach(function(k){n+=by[k];});
+  return n;
+}
+function assertCanProposeSels(sels){
+  if(!ME.name){toast('Önce giriş yap');showLogin();return false;}
+  var byDay=neededByMatchDay(sels);
+  var days=Object.keys(byDay);
+  if(!days.length)return true;
+  for(var i=0;i<days.length;i++){
+    var day=days[i],need=byDay[day],used=myProposalsOnMatchDay(day),left=Math.max(0,DAILY_PROPOSAL_LIMIT-used);
+    if(left<=0){
+      toast(matchDayLabel(day)+' maçları için öneri hakkın doldu (maks '+DAILY_PROPOSAL_LIMIT+').');
+      return false;
+    }
+    if(need>left){
+      toast(matchDayLabel(day)+' için en fazla '+DAILY_PROPOSAL_LIMIT+' öneri. Kalan '+left+', seçimin '+need+'.');
+      return false;
+    }
+  }
+  return true;
+}
+function assertCanProposeItem(item){
+  return assertCanProposeSels([item]);
+}
+function ensureProposerUpvote(proposalId, name){
+  if(!proposalId||!name)return Promise.resolve();
+  var q='proposal_votes?proposal_id=eq.'+encodeURIComponent(proposalId)+
+    '&member_name=eq.'+encodeURIComponent(name)+'&select=kind';
+  return sbFetch(q).then(function(rows){
+    var cur=rows&&rows[0];
+    if(cur&&cur.kind==='up')return;
+    if(cur&&cur.kind==='down'){
+      return sbFetch(
+        'proposal_votes?proposal_id=eq.'+encodeURIComponent(proposalId)+
+        '&member_name=eq.'+encodeURIComponent(name),
+        {method:'PATCH',headers:{Prefer:'return=minimal'},body:{kind:'up'}}
+      );
+    }
+    return sbFetch('proposal_votes?on_conflict=proposal_id,member_name',{
+      method:'POST',
+      headers:{Prefer:'resolution=merge-duplicates,return=minimal'},
+      body:{proposal_id:String(proposalId),member_name:name,kind:'up'}
+    });
+  }).catch(function(){
+    // Son çare: toggle yalnızca oy yoksa ekler; varsa up ise tekrar basma
+    return sbFetch(q).then(function(rows){
+      if(rows&&rows.length)return;
+      return sbRpc('toggle_vote',{p_proposal_id:String(proposalId),p_name:name,p_kind:'up'});
+    }).catch(function(){});
+  });
+}
+function mutate(action,payload){
+  document.getElementById('busy').style.display='block';
+  var p=Promise.resolve();
+  var addMeta=null;
+  if(action==='addProposal'){
+    var row=proposalToRow(payload);
+    var pj={
+      id:row.id,date:row.date,by:row.by_name,also:row.also,createdAt:row.created_at,
+      match:row.match,league:row.league,ko:row.ko,cls:row.cls,
+      market:row.market,pick:row.pick,odd:row.odd,
+      eventId:row.event_id,mktI:row.mkt_i,no:row.no,
+      comment:row.comment||''
+    };
+    p=sbRpc('add_proposal',{p:pj}).then(function(res){
+      addMeta=res;
+      var id=res&&res.id;
+      return ensureProposerUpvote(id, pj.by).then(function(){return sbBootstrap();});
+    });
+  }else if(action==='delProposal'){
+    p=sbFetch('proposals?id=eq.'+encodeURIComponent(payload.id),{method:'DELETE',headers:{Prefer:'return=minimal'}})
+      .then(function(){return sbBootstrap();});
+  }else if(action==='setProposalComment'){
+    p=sbFetch('proposals?id=eq.'+encodeURIComponent(payload.id),{
+      method:'PATCH',headers:{Prefer:'return=minimal'},
+      body:{comment:String(payload.comment||'').trim()}
+    }).then(function(){return sbBootstrap();});
+  }else if(action==='saveCoupon'||action==='updateCoupon'){
+    p=sbFetch('coupons?on_conflict=id',{method:'POST',headers:{Prefer:'resolution=merge-duplicates,return=minimal'},body:couponToRow(payload)})
+      .then(function(){return sbBootstrap();});
+  }else if(action==='delCoupon'){
+    p=sbFetch('coupons?id=eq.'+encodeURIComponent(payload.id),{method:'DELETE',headers:{Prefer:'return=minimal'}})
+      .then(function(){return sbBootstrap();});
+  }else if(action==='addAdj'){
+    p=sbFetch('adjustments?on_conflict=id',{method:'POST',headers:{Prefer:'resolution=merge-duplicates,return=minimal'},body:{
+      id:String(payload.id),date:payload.date,amount:Number(payload.amount)||0,note:payload.note||'',by_name:payload.by||null
+    }}).then(function(){return sbBootstrap();});
+  }else if(action==='delAdj'){
+    p=sbFetch('adjustments?id=eq.'+encodeURIComponent(payload.id),{method:'DELETE',headers:{Prefer:'return=minimal'}})
+      .then(function(){return sbBootstrap();});
+  }else if(action==='saveSettings'){
+    p=sbFetch('settings?id=eq.1',{method:'PATCH',headers:{Prefer:'return=minimal'},body:{start_balance:Number(payload.start)||0,updated_at:new Date().toISOString()}})
+      .then(function(){return sbBootstrap();});
+  }else{
+    p=Promise.reject(new Error('Bilinmeyen action: '+action));
+  }
+  return p.then(function(delta){
+    document.getElementById('busy').style.display='none';
+    if(delta){S=delta;renderAll();if(addMeta)delta._addMeta=addMeta;}
+    return delta;
+  }).catch(function(e){
+    document.getElementById('busy').style.display='none';
+    toast('Hata: '+(e.message||e));
+    throw e;
+  });
+}
+
+/* ============ DURUM ============ */
+var S={settings:{start:0,members:[]},proposals:[],coupons:[],adjustments:[]};
+var ME={name:(function(){try{return localStorage.getItem('kk-name')||'';}catch(e){return '';}})(),pin:''};
+var fmtTL=function(n){return new Intl.NumberFormat('tr-TR',{maximumFractionDigits:0}).format(n)+' TL';};
+var fmtOdd=function(n){return (Math.round(n*100)/100).toFixed(2);};
+function dstr(d){return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');}
+function todayStr(){return dstr(new Date());}
+function uid(){return Date.now().toString(36)+Math.random().toString(36).slice(2,6);}
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+function toast(m){
+  if(window.toastController){
+    window.toastController.create({message:String(m),duration:2300,position:'bottom',color:'dark'}).then(function(t){t.present();});
+    return;
+  }
+  var t=document.getElementById('toast');if(!t)return;t.textContent=m;t.classList.add('show');setTimeout(function(){t.classList.remove('show');},2300);
+}
+/* Üye renkleri — öneren ve oy isimleri her yerde aynı renkte görünür */
+var MEMBER_COLORS=['#e63946','#1d7fbf','#0d9e6e','#c46a10','#8e44ad','#d81b60','#455a64','#6d4c41'];
+function memberColor(name){
+  var ms=(S.settings.members||[]).map(function(m){return (m||'').trim();}).filter(Boolean);
+  var ix=ms.indexOf(name);
+  if(ix<0){var h=0;for(var i=0;i<name.length;i++)h=(h*31+name.charCodeAt(i))%997;ix=h;}
+  return MEMBER_COLORS[ix%MEMBER_COLORS.length];
+}
+function nameSpan(n){return '<b style="color:'+memberColor(n)+'">'+esc(n)+'</b>';}
+/** Kupon bacağındaki tüm önerenler (by + also; propId varsa öneriden zenginleştir). */
+function selectionProposers(s){
+  var names=[], seen={};
+  function add(n){
+    n=(n||'').trim();
+    if(!n||seen[n])return;
+    seen[n]=1;names.push(n);
+  }
+  if(!s)return names;
+  add(s.by);
+  (s.also||[]).forEach(add);
+  if(s.propId){
+    var p=(S.proposals||[]).filter(function(x){return x.id===s.propId;})[0];
+    if(p){add(p.by);(p.also||[]).forEach(add);}
+  }
+  return names;
+}
+function selectionProposersHtml(s){
+  var names=selectionProposers(s);
+  return names.length?names.map(nameSpan).join(', '):'';
+}
+function selectionProposersText(s){
+  return selectionProposers(s).join(', ');
+}
+/** Aynı bahis (öneri / event+market+pick) — kupon tekrarına bakılmaz. */
+function selectionBetKey(s){
+  if(!s)return '';
+  if(s.propId)return 'p:'+String(s.propId);
+  if(s.eventId!=null&&s.mktI!=null&&s.no!=null)return 'e:'+s.eventId+':'+s.mktI+':'+s.no;
+  return 'm:'+String(s.match||'')+'|'+String(s.market||'')+'|'+String(s.pick||'');
+}
+function copyText(txt){
+  return navigator.clipboard&&navigator.clipboard.writeText?navigator.clipboard.writeText(txt):new Promise(function(res,rej){
+    var ta=document.createElement('textarea');ta.value=txt;document.body.appendChild(ta);ta.select();
+    try{document.execCommand('copy');res();}catch(e){rej(e);}document.body.removeChild(ta);
+  });
+}
+
+/* ============ HESAP ============ */
+function couponOdds(c){return c.selections.reduce(function(p,s){return p*(s.result==='void'?1:(Number(s.odd)||1));},1);}
+function couponStatus(c){
+  if(c.override)return c.override;
+  var sels=c.selections;if(!sels.length)return 'open';
+  if(sels.some(function(s){return s.result==='lost';}))return 'lost';
+  if(sels.every(function(s){return s.result==='void';}))return 'void';
+  if(sels.every(function(s){return s.result==='won'||s.result==='void';}))return 'won';
+  return 'open';
+}
+function couponPnl(c){
+  var st=couponStatus(c),stake=Number(c.stake)||0;
+  if(st==='won')return stake*couponOdds(c)-stake;
+  if(st==='lost')return -stake;
+  if(st==='void')return 0;
+  return -stake;
+}
+function balance(upTo){
+  // Canlı ile aynı: start + düzeltmeler + kupon PnL
+  // open/lost → −stake | won → stake×oran−stake | void → 0
+  // upTo verilirse o günden önceki kayıtlar (Gün başı)
+  var b=Number(S.settings.start)||0;
+  (S.adjustments||[]).forEach(function(a){if(!upTo||a.date<upTo)b+=Number(a.amount)||0;});
+  (S.coupons||[]).forEach(function(c){if(!upTo||c.date<upTo)b+=couponPnl(c);});
+  return b;
+}
+function ledgerDelta(upTo){
+  var d=0;
+  (S.adjustments||[]).forEach(function(a){if(!upTo||a.date<upTo)d+=Number(a.amount)||0;});
+  (S.coupons||[]).forEach(function(c){if(!upTo||c.date<upTo)d+=couponPnl(c);});
+  return d;
+}
+/** Hedef güncel kasa için settings.start değerini hesapla (mevcut kasayı ezer). */
+function startBalanceForTarget(target){
+  return Math.round((Number(target)||0) - ledgerDelta());
+}
+function renderHeader(){
+  var kasa=statsBalance();
+  var balEl=document.getElementById('hdrBalance');
+  if(balEl){
+    balEl.textContent=fmtTL(kasa);
+    balEl.classList.remove('up','down');
+  }
+  var exp=0,pot=0;
+  statsCoupons().forEach(function(c){
+    if(couponStatus(c)==='open'){
+      var st=Number(c.stake)||0;
+      exp+=st;pot+=st*couponOdds(c);
+    }
+  });
+  var openEl=document.getElementById('hdrOpen');
+  var potEl=document.getElementById('hdrOpenPot');
+  var sepEl=document.getElementById('hdrOpenSep');
+  if(openEl){
+    if(exp>0){
+      openEl.textContent=fmtTL(exp);
+      if(potEl){potEl.textContent=fmtTL(pot);potEl.hidden=false;}
+      if(sepEl)sepEl.hidden=false;
+    }else{
+      openEl.textContent='—';
+      if(potEl){potEl.textContent='';potEl.hidden=true;}
+      if(sepEl)sepEl.hidden=true;
+    }
+  }
+  var who=document.getElementById('whoami');
+  if(who)who.textContent=ME.name?('Hoşgeldin '+ME.name+', Bol Şans'):'–';
+  renderProposeQuota();
+}
+function renderProposeQuota(){
+  var qEl=document.getElementById('buildQuota');
+  var qVal=document.getElementById('buildQuotaVal');
+  if(!qEl||!qVal)return;
+  if(!ME.name){
+    qEl.classList.remove('low','empty');
+    qVal.textContent='–';
+    qEl.title='Maç günü başına kalan öneri hakkı';
+    return;
+  }
+  var day=quotaFocusDay();
+  var left=proposeSlotsLeftForDay(day);
+  var used=myProposalsOnMatchDay(day);
+  qVal.textContent=left+'/'+DAILY_PROPOSAL_LIMIT;
+  qEl.title=matchDayLabel(day)+' maçları · '+used+' öneri · kalan '+left;
+  qEl.classList.toggle('empty',left<=0);
+  qEl.classList.toggle('low',left>0&&left<=2);
+}
+
+/* ============ GİRİŞ (PIN yok — isim seç, kalıcı hatırla) ============ */
+function readPersistedName(){
+  var n='';
+  try{n=(localStorage.getItem('kk-name')||'').trim();}catch(e){}
+  if(!n){try{n=(sessionStorage.getItem('kk-name')||'').trim();}catch(e){}}
+  if(!n){
+    try{
+      var m=document.cookie.match(/(?:^|; )kk-name=([^;]*)/);
+      if(m)n=decodeURIComponent(m[1]||'').trim();
+    }catch(e){}
+  }
+  if(n){
+    try{localStorage.setItem('kk-name',n);}catch(e){}
+    try{sessionStorage.setItem('kk-name',n);}catch(e){}
+  }
+  return n||'';
+}
+function persistName(name){
+  name=(name||'').trim();
+  if(!name)return;
+  try{localStorage.setItem('kk-name',name);localStorage.removeItem('kk-pin');}catch(e){}
+  try{sessionStorage.setItem('kk-name',name);}catch(e){}
+  try{document.cookie='kk-name='+encodeURIComponent(name)+';path=/;max-age=31536000;SameSite=Lax';}catch(e){}
+  // IndexedDB yedek (Safari ITP / storage wipe’a karşı)
+  try{
+    if(window.indexedDB){
+      var req=indexedDB.open('kk-auth',1);
+      req.onupgradeneeded=function(){req.result.createObjectStore('kv');};
+      req.onsuccess=function(){
+        try{
+          var db=req.result;
+          var tx=db.transaction('kv','readwrite');
+          tx.objectStore('kv').put(name,'name');
+        }catch(e){}
+      };
+    }
+  }catch(e){}
+}
+function clearPersistedName(){
+  try{localStorage.removeItem('kk-name');localStorage.removeItem('kk-pin');}catch(e){}
+  try{sessionStorage.removeItem('kk-name');}catch(e){}
+  try{document.cookie='kk-name=;path=/;max-age=0';}catch(e){}
+  try{
+    if(window.indexedDB){
+      var req=indexedDB.open('kk-auth',1);
+      req.onupgradeneeded=function(){req.result.createObjectStore('kv');};
+      req.onsuccess=function(){
+        try{
+          var db=req.result;
+          var tx=db.transaction('kv','readwrite');
+          tx.objectStore('kv').delete('name');
+        }catch(e){}
+      };
+    }
+  }catch(e){}
+}
+function readNameFromIdb(){
+  return new Promise(function(resolve){
+    try{
+      if(!window.indexedDB){resolve('');return;}
+      var req=indexedDB.open('kk-auth',1);
+      req.onerror=function(){resolve('');};
+      req.onupgradeneeded=function(){req.result.createObjectStore('kv');};
+      req.onsuccess=function(){
+        try{
+          var db=req.result;
+          var tx=db.transaction('kv','readonly');
+          var g=tx.objectStore('kv').get('name');
+          g.onsuccess=function(){resolve((g.result&&String(g.result).trim())||'');};
+          g.onerror=function(){resolve('');};
+        }catch(e){resolve('');}
+      };
+    }catch(e){resolve('');}
+  });
+}
+function restoreSession(){
+  ME.name=readPersistedName();
+  ME.pin='';
+}
+function syncNativeLogin(logout){
+  try{
+    if(window.webkit&&window.webkit.messageHandlers.kklogin){
+      if(logout) window.webkit.messageHandlers.kklogin.postMessage({logout:true});
+      else if(ME.name) window.webkit.messageHandlers.kklogin.postMessage({name:ME.name,pin:''});
+    }
+  }catch(e){}
+}
+function setLoginOpen(open){
+  var modal=document.getElementById('loginModal');
+  if(!modal)return;
+  try{
+    if(open){
+      modal.isOpen=true;
+      if(typeof modal.present==='function') modal.present();
+    }else{
+      modal.isOpen=false;
+      if(typeof modal.dismiss==='function') modal.dismiss();
+    }
+  }catch(e){
+    modal.isOpen=!!open;
+  }
+}
+function completeLogin(name){
+  name=(name||'').trim();
+  if(!name)return;
+  ME={name:name,pin:''};
+  persistName(name);
+  setLoginOpen(false);
+  syncNativeLogin(false);
+  renderAll();
+}
+function setLoginStep(step){
+  var land=document.getElementById('loginLanding');
+  var pick=document.getElementById('loginPick');
+  if(land)land.classList.toggle('show',step==='landing');
+  if(pick)pick.classList.toggle('show',step==='pick');
+}
+function showLanding(){
+  setLoginStep('landing');
+  setLoginOpen(true);
+  var next=document.getElementById('btnLoginNext');
+  if(next)next.onclick=function(){showLoginPick();};
+}
+function showLoginPick(){
+  var members=(S.settings.members||[]).filter(function(m){return m&&m.trim();});
+  var el=document.getElementById('loginNames');
+  if(!el)return;
+  el.innerHTML=members.map(function(m){
+    return '<button type="button" class="login-chip" style="color:'+memberColor(m)+';border-color:'+memberColor(m)+'">'+esc(m)+'</button>';
+  }).join('')||'<p class="muted">Üye listesi yok</p>';
+  el.querySelectorAll('.login-chip').forEach(function(b){
+    b.onclick=function(){completeLogin(b.textContent);};
+  });
+  setLoginStep('pick');
+  setLoginOpen(true);
+}
+function tryAutoLogin(){
+  restoreSession();
+  if(ME.name){
+    setLoginOpen(false);
+    renderAll();
+    syncNativeLogin(false);
+    return;
+  }
+  readNameFromIdb().then(function(n){
+    if(n){
+      ME={name:n,pin:''};
+      persistName(n);
+      setLoginOpen(false);
+      renderAll();
+      syncNativeLogin(false);
+      return;
+    }
+    showLanding();
+  });
+}
+function showLogin(){
+  restoreSession();
+  if(ME.name){setLoginOpen(false);return;}
+  showLanding();
+}
+document.getElementById('btnLogout').onclick=function(){
+  clearPersistedName();
+  ME={name:'',pin:''};
+  syncNativeLogin(true);
+  renderHeader();
+  showLanding();
+};
+
+/* ============ ÖNERİLER ============ */
+/* Oran sınıfı: 1.00–1.59 banko, 1.60–2.25 plase, 2.26+ sürpriz */
+function numOdd(odd){
+  if(typeof odd==='number'&&isFinite(odd))return odd;
+  var n=parseFloat(String(odd==null?'':odd).replace(',','.'));
+  return isFinite(n)?n:0;
+}
+function oddClass(odd){
+  odd=numOdd(odd)||1;
+  if(odd<1.60)return {k:'banko',t:'Banko'};
+  if(odd<=2.25)return {k:'plase',t:'Plase'};
+  return {k:'surpriz',t:'Sürpriz'};
+}
+function comparePropsByOdd(a,b){
+  var oa=numOdd(a.odd),ob=numOdd(b.odd);
+  if(oa!==ob)return oa-ob;
+  var da=proposalWhenDate(a),db=proposalWhenDate(b);
+  if(da&&db&&da.getTime()!==db.getTime())return da-db;
+  return (b.createdAt||0)-(a.createdAt||0);
+}
+function proposalKickoffPassed(p){
+  return !!(p.ko && Number(p.ko)*1000 <= Date.now());
+}
+var propDayFilter='all';
+var propBFilter=false;
+function proposalWhenDate(p){
+  if(p.ko) return new Date(Number(p.ko)*1000);
+  if(p.date){
+    var parts=String(p.date).split('-');
+    if(parts.length===3) return new Date(Number(parts[0]),Number(parts[1])-1,Number(parts[2]),12,0,0);
+  }
+  return null;
+}
+function isWithinNext5Days(d){
+  if(!d) return false;
+  var now=new Date();
+  var start=new Date(now.getFullYear(),now.getMonth(),now.getDate());
+  var end=start.getTime()+5*864e5;
+  var t=d.getTime();
+  return t>=start.getTime()&&t<end;
+}
+function propDayBucket(d){
+  var dow=d.getDay();
+  if(dow===1) return 'mon';
+  if(dow===2||dow===3) return 'tuewed';
+  if(dow===4) return 'thu';
+  if(dow===5) return 'fri';
+  if(dow===0||dow===6) return 'weekend';
+  return null;
+}
+function matchesPropDayFilter(p){
+  if(p.cls==='uzun') return true;
+  var d=proposalWhenDate(p);
+  if(!d) return propDayFilter==='all';
+  if(!isWithinNext5Days(d)) return false;
+  if(propDayFilter==='all') return true;
+  return propDayBucket(d)===propDayFilter;
+}
+function renderProps(){
+  var el=document.getElementById('propList');
+  // Geçmiş öneriler DB'de kalır; Öneriler listesinde yalnızca başlamamışlar gösterilir.
+  var list=(S.proposals||[]).filter(function(p){
+    if(proposalKickoffPassed(p)||!matchesPropDayFilter(p))return false;
+    if(propBFilter&&(p.votes||[]).length<5)return false;
+    return true;
+  });
+  list.sort(comparePropsByOdd);
+  if(!list.length){
+    var hasAny=(S.proposals||[]).some(function(p){return !proposalKickoffPassed(p);});
+    var msg=propBFilter?'5+ oy alan öneri yok':(hasAny?'Bu gün için öneri yok':'Henüz öneri yok');
+    el.innerHTML='<div class="empty-state"><ion-icon name="chatbubbles-outline"></ion-icon><p>'+msg+'</p>'+
+      (hasAny||propBFilter?'':'<button type="button" class="btn primary" id="goBuild">Öneri yap</button>')+'</div>';
+    var gb=document.getElementById('goBuild');if(gb)gb.onclick=function(){switchTab('build');};
+    return;
+  }
+  var groups={banko:[],plase:[],surpriz:[],uzun:[]};
+  list.forEach(function(p){groups[p.cls==='uzun'?'uzun':oddClass(p.odd).k].push(p);});
+  groups.banko.sort(comparePropsByOdd);
+  groups.plase.sort(comparePropsByOdd);
+  groups.surpriz.sort(comparePropsByOdd);
+  groups.uzun.sort(comparePropsByOdd);
+  var propHtml=function(p){
+    var votes=p.votes||[];var mine=votes.indexOf(ME.name)>=0;
+    var downs=p.downs||[];var mineDown=downs.indexOf(ME.name)>=0;
+    var badge=propBadgesHtml(p);
+    var started=p.ko&&p.ko*1000<=Date.now();
+    var oc=p.cls==='uzun'?{k:'uzun',t:'Uzun'}:oddClass(p.odd);
+    var when=p.ko?new Date(p.ko*1000).toLocaleString('tr-TR',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'}):'';
+    var hasCmt=!!String(p.comment||'').trim();
+    return '<div class="prop" data-id="'+p.id+'">'+
+      '<div class="prop-top">'+
+        '<div class="prop-title"><b>'+esc(p.match)+'</b>'+(badge?'<div class="prop-badges">'+badge+'</div>':'')+
+          '<div class="prop-meta">'+esc(p.market)+': <b>'+esc(p.pick)+'</b>'+(when?' · '+when:'')+' · '+[p.by].concat(p.also||[]).map(nameSpan).join(', ')+'</div></div>'+
+        '<div class="prop-odd"><span class="podd">@'+fmtOdd(p.odd)+'</span><span class="pill '+oc.k+' prop-odd-pill">'+oc.t+'</span></div>'+
+      '</div>'+
+      '<div class="prop-foot">'+
+        '<div class="prop-votes">'+
+          voteBtnHtml('up',votes.length,mine,started)+
+          voteBtnHtml('down',downs.length,mineDown,started)+
+        '</div>'+
+        '<div class="prop-btns">'+
+          (hasCmt?'<button class="btn tiny icon-only has-comment" data-act="comment" title="Yorum"><ion-icon name="chatbubble-outline"></ion-icon><span class="cmt-dot" aria-hidden="true"></span></button>':'')+
+          '<button class="btn tiny" data-act="tocoupon"'+(started?' disabled':'')+'><ion-icon name="cart-outline"></ion-icon></button>'+
+          (p.eventId?'<button class="btn tiny icon-only" data-act="frommatch"'+(started?' disabled':'')+' title="Maçtan"><ion-icon name="flash-outline"></ion-icon></button>':'')+
+          '<button class="btn tiny danger icon-only" data-act="del" title="Sil"><ion-icon name="trash-outline"></ion-icon></button>'+
+        '</div>'+
+      '</div>'+
+      '<div class="vote-roster">'+voteRosterHtml(votes,downs)+'</div>'+
+      '</div>';
+  };
+  var GRP=[['banko','Banko','1.00–1.59'],['plase','Plase','1.60–2.25'],['surpriz','Sürpriz','2.26+'],['uzun','Uzun vadeli','özel']];
+  var mainKeys=['banko','plase','surpriz'];
+  var html='', mainCount=0;
+  mainKeys.forEach(function(k){
+    if(!groups[k].length)return;
+    if(mainCount)html+='<div class="grp-sep" aria-hidden="true"></div>';
+    var g=GRP.filter(function(x){return x[0]===k;})[0];
+    html+='<div class="grp-title type-main '+g[0]+'"><strong>'+g[1]+'</strong><span>'+g[2]+'</span></div>'+groups[k].map(propHtml).join('');
+    mainCount++;
+  });
+  if(groups.uzun.length){
+    if(mainCount)html+='<div class="grp-sep" aria-hidden="true"></div>';
+    var ug=GRP[3];
+    html+='<div class="grp-title '+ug[0]+'"><strong>'+ug[1]+'</strong><span>'+ug[2]+'</span></div>'+groups.uzun.map(propHtml).join('');
+  }
+  el.innerHTML=html;
+  el.querySelectorAll('.prop').forEach(function(box){
+    var p=S.proposals.filter(function(x){return x.id===box.dataset.id;})[0];
+    box.querySelector('.votebtn.up').onclick=function(ev){ev.preventDefault();if(this.disabled)return;voteMutate('toggleVote',{id:p.id,name:ME.name});};
+    box.querySelector('.votebtn.down').onclick=function(ev){ev.preventDefault();if(this.disabled)return;voteMutate('toggleDown',{id:p.id,name:ME.name});};
+    var cmtBtn=box.querySelector('[data-act=comment]');
+    if(cmtBtn)cmtBtn.onclick=function(){openProposalComment(p);};
+    box.querySelector('[data-act=tocoupon]').onclick=function(){
+      if(p.ko&&p.ko*1000<=Date.now()){toast('Maç başlamış — kupona eklenemez');return;}
+      if(basket().some(function(x){return x.propId===p.id;})){toast('Bu öneri zaten sepette');return;}
+      basket().push({id:uid(),propId:p.id,eventId:p.eventId||null,mktI:p.mktI||null,no:p.no||null,match:p.match,league:p.league||'',ko:p.ko||null,cls:p.cls||null,market:p.market,pick:p.pick,odd:p.odd,by:p.by,also:(p.also||[]).slice(),result:'open'});
+      var k=p.cls==='uzun'?'uzun':oddClass(p.odd).k;
+      document.getElementById('bType').value=k; // tür, önerinin geldiği gruba göre otomatik
+      saveBasket();renderBasket();toast('Sepete eklendi · '+TYPE_TR[k]);
+    };
+    var delBtn=box.querySelector('[data-act=del]');
+    if(delBtn)delBtn.onclick=function(){
+      if(p.by!==ME.name){
+        toast('Sadece öneren kişi silebilir'+(p.by?' ('+p.by+')':''));
+        return;
+      }
+      if(!confirm('Öneriyi silmek istediğine emin misin?'))return;
+      mutate('delProposal',{id:p.id});
+    };
+    var fm=box.querySelector('[data-act=frommatch]');
+    if(fm)fm.onclick=function(){openDetail(p.eventId,true);};
+  });
+}
+
+/* ============ MAÇ PROGRAMI ============ */
+var EV=[],COMPS={},dayFilter='today',leagueFilter=null,searchQ='';
+var WC_CI=202607;
+/* Öneri Yap — sadece bu ligler (sıra önemli) */
+var LEAGUE_ALLOW=[
+  {label:'Türkiye Süper Ligi', test:function(n){return /türkiye.*süper\s*lig|trendyol\s*süper/i.test(n)&&!/1\.\s*lig|kupa|kadın|u1[89]|u2[01]/i.test(n);}},
+  {label:'Premier Lig', test:function(n){return /(ingiltere|İngiltere|england).*(premier|epl)/i.test(n)&&!/şili|rusya|irlanda|çek|czech|lebanon|çin|iskoç|scotland|chile|russia|slovak|sloven/i.test(n);}},
+  {label:'Fransa Ligi', test:function(n){return /fransa.*(ligue\s*1|1\.\s*lig)|ligue\s*1/i.test(n)&&!/ligue\s*2|kadın/i.test(n);}},
+  {label:'Bundesliga', test:function(n){return /bundesliga/i.test(n)&&!/2\.|3\.|kadın|frauen/i.test(n);}},
+  {label:'Serie A', test:function(n){return /(italya|İtalya).*serie\s*a|(^|\s)serie\s*a(\s|$)/i.test(n)&&!/brezilya|serie\s*b|kadın/i.test(n);}},
+  {label:'La Liga', test:function(n){return /(ispanya|İspanya).*la\s*liga|(^|\s)la\s*liga(\s|$)|laliga/i.test(n)&&!/2|smartbank|hypermotion|kadın/i.test(n);}},
+  {label:'UCL', test:function(n){return /şampiyonlar\s*ligi|champions\s*league/i.test(n)&&!/kadın|genç|youth|women/i.test(n);}},
+  {label:'Avrupa Ligi', test:function(n){return /avrupa\s*ligi|europa\s*league/i.test(n)&&!/konferans|conference|kadın/i.test(n);}},
+  {label:'Konferans Ligi', test:function(n){return /konferans\s*ligi|conference\s*league/i.test(n)&&!/kadın|women/i.test(n);}}
+];
+var LEAGUE_ID_HINTS={126:'UCL',23986:'Konferans Ligi',588:'Avrupa Ligi',71522:'UCL',76759:'Konferans Ligi'};
+var DAILY_COMP_IDS={71522:1,76759:1};
+function registerDailyComps(compsMap){
+  for(var id in compsMap){
+    var ci=Number(id), n=String(compsMap[id]||'');
+    if(!ci||!/günlük\s*bahis/i.test(n))continue;
+    DAILY_COMP_IDS[ci]=1;
+    if(/şamp|champ/i.test(n)&&!LEAGUE_ID_HINTS[ci])LEAGUE_ID_HINTS[ci]='UCL';
+    else if(/konferans|conference/i.test(n)&&!LEAGUE_ID_HINTS[ci])LEAGUE_ID_HINTS[ci]='Konferans Ligi';
+    else if(/avrupa|europa/i.test(n)&&!/konferans|conference/i.test(n)&&!LEAGUE_ID_HINTS[ci])LEAGUE_ID_HINTS[ci]='Avrupa Ligi';
+  }
+}
+function isDailyComp(ci){return !!DAILY_COMP_IDS[ci];}
+function dailyEventName(e){
+  return e.n||e.hn||((e.hn||'')+(e.an?(' – '+e.an):''))||'Günlük bahis';
+}
+function leagueNameOf(ci){
+  if(ci===WC_CI)return 'Dünya Kupası';
+  return COMPS[ci]||LEAGUE_ID_HINTS[ci]||('Lig '+ci);
+}
+function matchAllowedLeague(ci){
+  if(isDailyComp(ci)){
+    var hint=LEAGUE_ID_HINTS[ci]||'Günlük Bahis';
+    for(var d=0;d<LEAGUE_ALLOW.length;d++){if(LEAGUE_ALLOW[d].label===hint)return LEAGUE_ALLOW[d];}
+    return {label:hint,test:function(){return true;}};
+  }
+  if(LEAGUE_ID_HINTS[ci]){
+    var hint=LEAGUE_ID_HINTS[ci];
+    for(var i=0;i<LEAGUE_ALLOW.length;i++){if(LEAGUE_ALLOW[i].label===hint)return LEAGUE_ALLOW[i];}
+  }
+  var n=leagueNameOf(ci);
+  for(var j=0;j<LEAGUE_ALLOW.length;j++){
+    if(LEAGUE_ALLOW[j].test(n))return LEAGUE_ALLOW[j];
+  }
+  return null;
+}
+function isAllowedLeague(ci){return !!matchAllowedLeague(ci);}
+function allowedLeagueLabel(ci){
+  var m=matchAllowedLeague(ci);
+  return m?m.label:leagueNameOf(ci);
+}
+function allowedLeagueOrder(ci){
+  var m=matchAllowedLeague(ci);
+  if(!m)return 999;
+  for(var i=0;i<LEAGUE_ALLOW.length;i++){if(LEAGUE_ALLOW[i]===m)return i;}
+  return 999;
+}
+var MKT_NAMES={4:'Maç Sonucu',14:'Alt/Üst',131:'Karş. Gol Var/Yok',129:'Çifte Şans',136:'Tek/Çift',12:'Handikaplı MS',100:'Handikaplı MS',63:'İY Alt/Üst',47:'İlk Yarı Sonucu',625:'İY Çifte Şans'};
+function formatSov(sov){
+  if(sov==null||sov==='')return '';
+  var s=String(sov).trim();
+  if(/^\d+\s*:\s*\d+$/.test(s))return s.replace(/\s/g,'');
+  if(/^\d+[\.,]\d+$/.test(s))return s.replace(',', '.');
+  var n=parseFloat(s.replace(',','.'));
+  if(isNaN(n))return s;
+  if(n<0)return '0:'+String(Math.abs(n)).replace(/\.0$/,'');
+  if(n>0)return String(n).replace(/\.0$/,'')+':0';
+  if(n===0)return '0:0';
+  return s;
+}
+function formatMarketLabel(n,sov){
+  if(!n)return '';
+  var h=formatSov(sov);
+  n=String(n).replace(/\{h\}/gi,h?'('+h+')':'').replace(/\{0\}/g,h?'('+h+')':'').replace(/\{\d+\}/g,'');
+  return n.replace(/\(\s*\)/g,h?'('+h+')':'').replace(/\s{2,}/g,' ').trim();
+}
+function formatPickName(n,sov){
+  if(!n)return '';
+  var h=formatSov(sov);
+  n=String(n).replace(/\{h\}/gi,h).replace(/\{0\}/g,h).replace(/\{\d+\}/g,'');
+  return n.replace(/\(\s*\)/g,h?'('+h+')':'').replace(/\s{2,}/g,' ').trim();
+}
+function mktLabel(m){
+  if(m.nm)return formatMarketLabel(m.nm,m.sov);
+  var n=MKT_NAMES[m.st]||('Market #'+m.st);
+  var h=formatSov(m.sov);
+  return h?n+' ('+h+')':n;
+}
+function evDate(e){return dstr(new Date(e.d*1000));}
+
+/* ============ İDDAA — doğrudan telefondan (Apps Script proxy'si atlanır) ============ */
+var IDDAA='https://sportsbookv2.iddaa.com/sportsbook';
+function iddaaFetch(path){
+  return fetch(IDDAA+path,{credentials:'omit'}).then(function(r){
+    if(!r.ok)throw new Error('iddaa '+r.status);
+    return r.json();
+  });
+}
+function getMktCfg(){
+  try{
+    var c=JSON.parse(localStorage.getItem('kk-mcfg')||'null');
+    if(c&&c.t&&Date.now()-c.t<21600000)return Promise.resolve(c.d);
+  }catch(e){}
+  return iddaaFetch('/get_market_config').then(function(j){
+    var out={},m=(j.data&&j.data.m)||{};
+    for(var k in m){if(m[k]&&m[k].n)out[k]=m[k].n;}
+    try{localStorage.setItem('kk-mcfg',JSON.stringify({t:Date.now(),d:out}));}catch(e){}
+    return out;
+  });
+}
+function resolveMktName(cfg,t,st,sov){
+  var n=cfg[t+'_'+st]||cfg['1_'+st]||cfg['2_'+st]||cfg['4_'+st];
+  if(!n)return null;
+  return formatMarketLabel(n,sov);
+}
+function buildBulletinClient(forceFresh){
+  if(!forceFresh){
+    try{
+      var hit=JSON.parse(localStorage.getItem('kk-ev')||'null');
+      // Boş sonucu cache'ten kullanma — tek cihazda "0 maç" kilitlenmesin
+      if(hit&&hit.t&&Date.now()-hit.t<2700000&&(hit.events||[]).length)return Promise.resolve(hit);
+    }catch(e){}
+  }
+  var comps={};
+  try{
+    var cc=JSON.parse(localStorage.getItem('kk-comps')||'null');
+    if(cc&&cc.t&&Date.now()-cc.t<21600000)comps=cc.d;
+  }catch(e){}
+  return Promise.all([
+    Object.keys(comps).length?Promise.resolve(comps):iddaaFetch('/competitions').then(function(cj){
+      (cj.data||[]).forEach(function(c){comps[c.i]=c.n||c.sn||'';});
+      try{localStorage.setItem('kk-comps',JSON.stringify({t:Date.now(),d:comps}));}catch(e){}
+      return comps;
+    }).catch(function(){return {};}),
+    iddaaFetch('/played-event-percentage?sportType=1').then(function(pj){return pj.data||{};}).catch(function(){return {};}),
+    getMktCfg().catch(function(){return {};})
+  ]).then(function(res){
+    comps=res[0];registerDailyComps(comps);var pp=res[1],cfg=res[2],map={};
+    return Promise.all(['0','1'].map(function(tp){
+      return iddaaFetch('/events?st=1&type='+tp+'&version=0').then(function(j){
+        ((j.data&&j.data.events)||[]).forEach(function(e){
+          if(e.sid!==1)return;
+          var ms=null,mm=null,list=e.m||[];
+          for(var q=0;q<list.length;q++){
+            var nm=resolveMktName(cfg,list[q].t,list[q].st,'');
+            if(nm==='Maç Sonucu'){mm=list[q];break;}
+          }
+          if(!mm)mm=list.filter(function(x){return x.st===4&&!x.sov&&(x.o||[]).length===3;})[0];
+          if(mm)ms={i:mm.i,o:mm.o.map(function(o){return{no:o.no,odd:o.odd,n:o.n};})};
+          var rec={i:e.i,hn:e.hn,an:e.an,ci:e.ci,d:e.d,ms:ms,hasM:(e.m||[]).length>0,
+            pp:(pp[e.i]!=null?pp[e.i]:(pp[e.bri]!=null?pp[e.bri]:null))};
+          var cur=map[e.i];
+          if(!cur){map[e.i]=rec;return;}
+          if(!cur.ms&&ms){map[e.i]=rec;return;}
+          if(cur.ms&&!ms)return;
+          map[e.i]=rec;
+        });
+      }).catch(function(){});
+    })).then(function(){
+      var allEvs=Object.keys(map).map(function(k){return map[k];}).sort(function(a,b){return a.d-b.d;});
+      var daily=[], evs=[];
+      allEvs.forEach(function(e){
+        if(isDailyComp(e.ci)){
+          daily.push({i:e.i,n:dailyEventName(e),ci:e.ci,d:e.d,hasM:!!e.hasM});
+        }else evs.push(e);
+      });
+      return iddaaFetch('/events?st=1&type=2&version=0').then(function(j2){
+        var specials=[];
+        ((j2.data&&j2.data.events)||[]).forEach(function(e){
+          if(e.sid!==1)return;
+          specials.push({i:e.i,n:e.n||((e.hn||'')+' - '+(e.an||'')),ci:e.ci,d:e.d,hasM:(e.m||[]).length>0});
+        });
+        var payload={t:Date.now(),events:evs,comps:comps,specials:specials,daily:daily};
+        if(evs.length){try{localStorage.setItem('kk-ev',JSON.stringify(payload));}catch(e){}}
+        else{try{localStorage.removeItem('kk-ev');}catch(e){}}
+        return payload;
+      }).catch(function(){
+        var payload={t:Date.now(),events:evs,comps:comps,specials:[],daily:daily};
+        if(evs.length){try{localStorage.setItem('kk-ev',JSON.stringify(payload));}catch(e){}}
+        else{try{localStorage.removeItem('kk-ev');}catch(e){}}
+        return payload;
+      });
+    });
+  });
+}
+function fetchEventDetailClient(evId,forceFresh){
+  var key='kk-evd'+evId;
+  if(!forceFresh){
+    try{
+      var hit=JSON.parse(localStorage.getItem(key)||'null');
+      if(hit&&hit.t&&Date.now()-hit.t<180000)return Promise.resolve(hit.d);
+    }catch(e){}
+  }
+  return Promise.all([getMktCfg().catch(function(){return {};}),iddaaFetch('/event/'+Number(evId))]).then(function(res){
+    var cfg=res[0],e=res[1].data||{};
+    var out={i:e.i,hn:e.hn,an:e.an,n:e.n||'',d:e.d,ci:e.ci,
+      m:(e.m||[]).map(function(m){
+        return{i:m.i,st:m.st,sov:m.sov||'',nm:resolveMktName(cfg,m.t,m.st,m.sov),
+          o:(m.o||[]).map(function(o){return{no:o.no,odd:o.odd,n:formatPickName(o.n,m.sov)};})};
+      })};
+    try{localStorage.setItem(key,JSON.stringify({t:Date.now(),d:out}));}catch(e){}
+    return out;
+  });
+}
+function fetchLiveScoresClient(ids){
+  ids=(ids||[]).slice(0,20);
+  if(!ids.length)return Promise.resolve({});
+  return Promise.all(ids.map(function(id){
+    return iddaaFetch('/event/'+Number(id)).then(function(j){
+      var d=j.data,sc=d&&d.sc;if(!sc)return null;
+      var ht=sc.ht||{},at=sc.at||{};
+      return{id:id,v:{
+        h:Number(ht.r)||0,a:Number(at.r)||0,
+        hh:ht.ht!=null?Number(ht.ht):null,ah:at.ht!=null?Number(at.ht):null,
+        he:Number(ht.et)||0,ae:Number(at.et)||0,
+        min:sc.min||0,ps:Number(sc.s)||0,
+        hc:Number(ht.co)||0,ac:Number(at.co)||0,
+        hco:Number(ht.hco)||0,aco:Number(at.hco)||0,
+        hy:Number(ht.yc)||0,ay:Number(at.yc)||0,
+        hr:Number(ht.rc)||0,ar:Number(at.rc)||0
+      }};
+    }).catch(function(){return null;});
+  })).then(function(rows){
+    var out={};rows.forEach(function(r){if(r)out[r.id]=r.v;});return out;
+  });
+}
+
+/* ============ OTOMATİK SONUÇ (İddaa skor → tuttu/yattı) ============ */
+function normSettle(s){
+  return String(s||'').toLowerCase()
+    .replace(/ğ/g,'g').replace(/ü/g,'u').replace(/ş/g,'s')
+    .replace(/ı/g,'i').replace(/ö/g,'o').replace(/ç/g,'c')
+    .replace(/â/g,'a').replace(/î/g,'i').replace(/û/g,'u')
+    .replace(/\s+/g,' ').trim();
+}
+function settleLine(text){
+  var s=String(text||'');
+  var m=s.match(/\((\d+[.,]\d+|\d+)\)/);
+  if(m)return parseFloat(m[1].replace(',','.'));
+  m=s.match(/(?:alt\/?ust|alti\/?ustu|ust|alt|over|under)\s*[:(]?\s*(\d+[.,]\d+|\d+)/i);
+  if(m)return parseFloat(m[1].replace(',','.'));
+  m=s.match(/(\d+[.,]\d+)/);
+  if(m)return parseFloat(m[1].replace(',','.'));
+  return null;
+}
+function settleMsCode(h,a){return h>a?'1':(h<a?'2':'0');}
+function settleOverUnder(total,line,pick){
+  if(line==null||isNaN(line))return null;
+  var p=normSettle(pick);
+  var isOver=/^ust|over/.test(p)||/(^|\s)ust(\s|$)/.test(p);
+  var isUnder=/^alt|under/.test(p)||/(^|\s)alt(\s|$)/.test(p);
+  if(!isOver&&!isUnder)return null;
+  if(total===line)return 'void';
+  var over=total>line;
+  if(isOver)return over?'won':'lost';
+  return over?'lost':'won';
+}
+function settleBtts(h,a,pick){
+  var p=normSettle(pick),yes=h>0&&a>0;
+  if(/^var|yes|evet/.test(p)||/\bvar\b/.test(p))return yes?'won':'lost';
+  if(/^yok|no|hayir/.test(p)||/\byok\b/.test(p))return yes?'lost':'won';
+  return null;
+}
+/** Skor final mi? ps: 2=İY, 3=2.Yarı, 4=Devre, ≥5=bitmiş (İddaa). */
+function scoreIsFinal(sc,ko){
+  if(!sc)return false;
+  var age=ko!=null?Math.max(0,Date.now()/1000-Number(ko)):0;
+  var ps=Number(sc.ps)||0,min=Number(sc.min)||0;
+  // İddaa boş paket (0-0 varsayımı) ile sonuçlama
+  if(ps<=0&&min<=0)return false;
+  if(ps>=5)return true;
+  // Uzatma / bitiş: 2. yarı 90+ ve KO'dan ≥110 dk
+  if(ps===3&&min>=90&&age>=110*60)return true;
+  // Canlı 1H/2H/HT iken erken kapatma (gecikmeli maç)
+  if((ps===2||ps===3||ps===4)&&min<90&&age<180*60)return false;
+  // Skor paketi var, maç süresi doldu
+  if(age>=130*60)return true;
+  return false;
+}
+function regulationScore(sc){
+  var h=Number(sc.h)||0,a=Number(sc.a)||0;
+  var he=Number(sc.he)||0,ae=Number(sc.ae)||0;
+  return{h:Math.max(0,h-he),a:Math.max(0,a-ae)};
+}
+/**
+ * Bilinen marketleri skorla işaretle. Tanınmayan / oyuncu-özel → null (elle kalsın).
+ * @returns {'won'|'lost'|'void'|null}
+ */
+function gradeSelection(sel,sc){
+  if(!sel||!sc||!scoreIsFinal(sc,sel.ko))return null;
+  var mkt=normSettle(sel.market),pick=normSettle(sel.pick);
+  if(!mkt||!pick)return null;
+  // Elle bırak: oyuncu / karma özel / kaleci / hakem / xG vb.
+  if(/oyuncu|kaleci|hakem|monitor|xg|direkten|faul yapar|sut ceker|isabetli|tur atlar/.test(mkt))return null;
+  if(/karsilasma ozel|ozel bahis/.test(mkt)&&!/korner|alt|ust|gol|mac sonucu|cift|tek/.test(mkt))return null;
+
+  var reg=regulationScore(sc);
+  var h=reg.h,a=reg.a,tot=h+a;
+  var hh=sc.hh!=null?Number(sc.hh):null,ah=sc.ah!=null?Number(sc.ah):null;
+  var corners=(Number(sc.hc)||0)+(Number(sc.ac)||0);
+  var cornersHt=(Number(sc.hco)||0)+(Number(sc.aco)||0);
+
+  // --- Karşılıklı gol ---
+  if(/kars(ilikli)?\.?\s*gol|kg var\/?yok|^kg$/.test(mkt)&&!/alt|ust|mac sonucu/.test(mkt)){
+    return settleBtts(h,a,pick);
+  }
+
+  // --- Maç sonucu ---
+  if(/^(mac sonucu|ms)$/.test(mkt)||mkt==='mac sonucu'){
+    var code=settleMsCode(h,a);
+    if(/^(1|ms 1|ev sahibi)$/.test(pick))return code==='1'?'won':'lost';
+    if(/^(0|x|beraberlik|ms 0)$/.test(pick))return code==='0'?'won':'lost';
+    if(/^(2|ms 2|deplasman)$/.test(pick))return code==='2'?'won':'lost';
+  }
+
+  // --- Çifte şans ---
+  if(/cifte sans|cifte sans/.test(mkt)){
+    var ms=settleMsCode(h,a);
+    var p=pick.replace(/\s+/g,'').replace('x','0');
+    if(p==='10'||p==='1-0'||p==='1x')return (ms==='1'||ms==='0')?'won':'lost';
+    if(p==='12'||p==='1-2')return (ms==='1'||ms==='2')?'won':'lost';
+    if(p==='02'||p==='0-2'||p==='x2')return (ms==='0'||ms==='2')?'won':'lost';
+  }
+
+  // --- Tek/Çift ---
+  if(/tek\/?cift|^tek cift$/.test(mkt)){
+    var odd=tot%2===1;
+    if(/^tek/.test(pick))return odd?'won':'lost';
+    if(/^cift/.test(pick))return odd?'lost':'won';
+  }
+
+  // --- 1. yarı sonucu ---
+  if(/1\.?\s*yari sonucu|iy sonucu|ilk yari sonucu/.test(mkt)){
+    if(hh==null||ah==null)return null;
+    var hc=settleMsCode(hh,ah);
+    if(/^(1|ms 1)$/.test(pick))return hc==='1'?'won':'lost';
+    if(/^(0|x)$/.test(pick))return hc==='0'?'won':'lost';
+    if(/^(2|ms 2)$/.test(pick))return hc==='2'?'won':'lost';
+  }
+
+  // --- Korner alt/üst ---
+  if(/korner/.test(mkt)&&/alt|ust/.test(mkt)){
+    var lineK=settleLine(mkt);if(lineK==null)lineK=settleLine(pick);
+    var useHt=/1\.?\s*yari|iy /.test(mkt);
+    var val=useHt?cornersHt:corners;
+    if(useHt&&(sc.hco==null&&sc.aco==null)&&cornersHt===0&&!scoreIsFinal(sc,sel.ko))return null;
+    return settleOverUnder(val,lineK,pick.replace(/.*\b(alt|ust)\b.*/,'$1'));
+  }
+
+  // --- Ev / dep takım alt-üst ---
+  if(/(ev sahibi|home).*(alt|ust)|(alt|ust).*(ev sahibi)/.test(mkt)){
+    var lineH=settleLine(mkt);if(lineH==null)lineH=settleLine(pick);
+    var useHtH=/1\.?\s*yari|iy /.test(mkt);
+    if(useHtH&&hh==null)return null;
+    return settleOverUnder(useHtH?hh:h,lineH,pick);
+  }
+  if(/(deplasman|away).*(alt|ust)|(alt|ust).*(deplasman)/.test(mkt)){
+    var lineA=settleLine(mkt);if(lineA==null)lineA=settleLine(pick);
+    var useHtA=/1\.?\s*yari|iy /.test(mkt);
+    if(useHtA&&ah==null)return null;
+    return settleOverUnder(useHtA?ah:a,lineA,pick);
+  }
+
+  // --- 1. yarı alt/üst ---
+  if(/1\.?\s*yari.*alt|iy alt|ilk yari.*alt/.test(mkt)){
+    if(hh==null||ah==null)return null;
+    var lineIy=settleLine(mkt);if(lineIy==null)lineIy=settleLine(pick);
+    return settleOverUnder(hh+ah,lineIy,pick);
+  }
+
+  // --- Maç sonucu + Alt/Üst ---
+  if(/mac sonucu.*alt|ms.*alt/.test(mkt)&&/ust|alt/.test(mkt)){
+    var lineC=settleLine(mkt);if(lineC==null)lineC=settleLine(pick);
+    var msPart=null,ouPart=null;
+    var pm=pick.match(/^(1|0|2|x)\s*ve\s*(alt|ust)/i)||pick.match(/^(alt|ust)\s*ve\s*(1|0|2|x)/i);
+    if(pm){
+      if(/^(1|0|2|x)$/i.test(pm[1])){msPart=pm[1].toLowerCase();ouPart=pm[2];}
+      else{ouPart=pm[1];msPart=pm[2].toLowerCase();}
+    }else{
+      if(/\b1\b/.test(pick)&&!/\b2\b/.test(pick))msPart='1';
+      else if(/\b2\b/.test(pick))msPart='2';
+      else if(/\b0\b|\bx\b/.test(pick))msPart='0';
+      if(/\bust\b/.test(pick))ouPart='ust';
+      else if(/\balt\b/.test(pick))ouPart='alt';
+    }
+    if(!msPart||!ouPart||lineC==null)return null;
+    if(msPart==='x')msPart='0';
+    var msOk=settleMsCode(h,a)===msPart;
+    var ou=settleOverUnder(tot,lineC,ouPart);
+    if(ou==='void')return 'void';
+    return(msOk&&ou==='won')?'won':'lost';
+  }
+
+  // --- Alt/Üst + KG ---
+  if(/alt.*ust.*gol|ust.*gol|kg/.test(mkt)&&/alt|ust/.test(mkt)&&/gol|kg|kars/.test(mkt)){
+    var lineG=settleLine(mkt);if(lineG==null)lineG=settleLine(pick);
+    var wantOver=/\bust\b/.test(pick),wantUnder=/\balt\b/.test(pick);
+    var wantYes=/\bvar\b/.test(pick),wantNo=/\byok\b/.test(pick);
+    if((!wantOver&&!wantUnder)||(!wantYes&&!wantNo)||lineG==null)return null;
+    var ou2=settleOverUnder(tot,lineG,wantOver?'ust':'alt');
+    var kg=settleBtts(h,a,wantYes?'var':'yok');
+    if(ou2==='void')return 'void';
+    return(ou2==='won'&&kg==='won')?'won':'lost';
+  }
+
+  // --- Düz alt/üst (toplam gol) ---
+  if(/(^| )alt\/?ust|(^| )alti\/?ustu/.test(mkt)||/^alt ust/.test(mkt)){
+    if(/mac sonucu|kars|korner|ev sahibi|deplasman|1\.?\s*yari/.test(mkt))return null;
+    var lineT=settleLine(mkt);if(lineT==null)lineT=settleLine(pick);
+    return settleOverUnder(tot,lineT,pick);
+  }
+
+  return null;
+}
+function mergeLiveCache(map){
+  window._liveCache=window._liveCache||{};
+  Object.keys(map||{}).forEach(function(id){
+    var v=map[id];if(!v)return;
+    window._liveCache[id]=Object.assign({},window._liveCache[id]||{},v,{_at:Date.now()});
+  });
+  return window._liveCache;
+}
+function openLegsForSettle(){
+  var out=[];
+  (S.coupons||[]).forEach(function(c){
+    if(c.override)return;
+    (c.selections||[]).forEach(function(s){
+      if(s.result!=='open'||!s.eventId)return;
+      if(s.ko!=null&&Number(s.ko)*1000>Date.now())return; // başlamadı
+      out.push({c:c,s:s});
+    });
+  });
+  return out;
+}
+var _autoSettleBusy=false;
+/**
+ * Açık bacakları İddaa skorundan işaretle.
+ * Cron / akşam job yedek; buton = hemen elle tetikle.
+ */
+function autoSettleOpenCoupons(opts){
+  opts=opts||{};
+  if(_autoSettleBusy){
+    if(opts.manual)toast('Sonuç kontrolü zaten çalışıyor…');
+    return Promise.resolve(0);
+  }
+  var legs=openLegsForSettle();
+  if(!legs.length){
+    if(opts.manual)toast('Bekleyen seçim yok');
+    return Promise.resolve(0);
+  }
+  if(opts.manual)toast('Sonuçlar kontrol ediliyor…');
+  var needFetch={};
+  legs.forEach(function(L){
+    var id=String(L.s.eventId);
+    var cached=(window._liveCache||{})[id];
+    var age=L.s.ko!=null?Date.now()-Number(L.s.ko)*1000:0;
+    if(age>=0&&age<8*3600*1000)needFetch[id]=1;
+    else if(!cached)needFetch[id]=1;
+  });
+  var ids=Object.keys(needFetch).map(Number).slice(0,20);
+  _autoSettleBusy=true;
+  var btn=document.getElementById('btnAutoSettle');
+  if(btn&&opts.manual){btn.disabled=true;btn.textContent='Kontrol…';}
+  var fetchP=ids.length?fetchLiveScoresClient(ids):Promise.resolve({});
+  return fetchP.then(function(m){
+    mergeLiveCache(m||{});
+    window._live=Object.assign({},window._live||{},m||{});
+    var cache=window._liveCache||{};
+    var changed=[],n=0;
+    var byCoupon={};
+    legs.forEach(function(L){
+      var sc=cache[String(L.s.eventId)];
+      if(!sc)return;
+      var g=gradeSelection(L.s,sc);
+      if(!g)return;
+      L.s.result=g;
+      n++;
+      byCoupon[L.c.id]=L.c;
+    });
+    Object.keys(byCoupon).forEach(function(id){
+      var c=byCoupon[id];
+      c.override=null;
+      changed.push(c);
+    });
+    if(!changed.length){
+      if(opts.forceUi)updateLiveUI();
+      return 0;
+    }
+    var chain=Promise.resolve();
+    changed.forEach(function(c){
+      chain=chain.then(function(){
+        return sbFetch('coupons?on_conflict=id',{
+          method:'POST',headers:{Prefer:'resolution=merge-duplicates,return=minimal'},
+          body:couponToRow(c)
+        });
+      });
+    });
+    return chain.then(function(){return sbBootstrap();}).then(function(delta){
+      if(delta){S=delta;renderAll();}
+      else renderCoupons();
+      return n;
+    });
+  }).then(function(n){
+    _autoSettleBusy=false;
+    if(btn&&opts.manual){btn.disabled=false;btn.textContent='Otomatik sonuç';}
+    if(n>0)toast(n+' seçim otomatik sonuçlandı');
+    else if(opts.manual)toast('İşaretlenecek bitmiş seçim yok (özel bahisler elle)');
+    return n;
+  }).catch(function(e){
+    _autoSettleBusy=false;
+    if(btn&&opts.manual){btn.disabled=false;btn.textContent='Otomatik sonuç';}
+    if(opts.manual)toast('Otomatik sonuç hatası: '+(e.message||e));
+    return 0;
+  });
+}
+function liveOddForSelection(detail,mktI,no){
+  if(!detail||!detail.m)return null;
+  var m=detail.m.filter(function(x){return Number(x.i)===Number(mktI);})[0];
+  if(!m||!m.o)return null;
+  var o=m.o.filter(function(x){return Number(x.no)===Number(no);})[0];
+  return o!=null?Number(o.odd):null;
+}
+var _syncProposalOddsBusy=false,_lastProposalOddSync=0;
+function syncProposalOddsFromLive(opts){
+  opts=opts||{};
+  if(_syncProposalOddsBusy)return Promise.resolve(0);
+  var props=(S.proposals||[]).filter(function(p){
+    return p.eventId&&p.mktI!=null&&p.no!=null&&p.cls!=='uzun'&&!proposalKickoffPassed(p);
+  });
+  if(!props.length)return Promise.resolve(0);
+  var ids={};
+  props.forEach(function(p){ids[String(p.eventId)]=1;});
+  _syncProposalOddsBusy=true;
+  var chain=Promise.resolve(),details={};
+  Object.keys(ids).forEach(function(id){
+    chain=chain.then(function(){
+      return fetchEventDetailClient(Number(id),true).then(function(d){details[id]=d;}).catch(function(){});
+    });
+  });
+  return chain.then(function(){
+    var updates=[];
+    props.forEach(function(p){
+      var live=liveOddForSelection(details[String(p.eventId)],p.mktI,p.no);
+      if(live==null||!(live>0))return;
+      if(Math.abs(live-Number(p.odd))<0.001)return;
+      p.odd=live;
+      updates.push({id:String(p.id),odd:live});
+    });
+    if(!updates.length){
+      _syncProposalOddsBusy=false;
+      _lastProposalOddSync=Date.now();
+      return 0;
+    }
+    return Promise.all(updates.map(function(u){
+      return sbFetch('proposals?id=eq.'+encodeURIComponent(u.id),{
+        method:'PATCH',
+        headers:{Prefer:'return=minimal'},
+        body:{odd:u.odd}
+      }).catch(function(){});
+    })).then(function(){
+      _syncProposalOddsBusy=false;
+      _lastProposalOddSync=Date.now();
+      renderProps();
+      if(opts.toast)toast(updates.length+' öneri oranı güncellendi');
+      return updates.length;
+    });
+  }).catch(function(){
+    _syncProposalOddsBusy=false;
+    return 0;
+  });
+}
+function maybeSyncProposalOdds(force){
+  if(_syncProposalOddsBusy)return Promise.resolve(0);
+  if(!force&&Date.now()-_lastProposalOddSync<120000)return Promise.resolve(0);
+  return syncProposalOddsFromLive({toast:false});
+}
+
+function fetchEvents(){
+  var btn=document.getElementById('btnFetch');
+  btn.disabled=true;btn.innerHTML='<span class="spin"></span> Yükleniyor…';
+  buildBulletinClient(true).then(function(j){
+    EV=j.events||[];COMPS=j.comps||{};SPEC=j.specials||[];DAILY=j.daily||[];
+    registerDailyComps(COMPS);
+    if(!DAILY.length){
+      var extra=[];
+      EV=EV.filter(function(e){
+        if(isDailyComp(e.ci)){
+          extra.push({i:e.i,n:dailyEventName(e),ci:e.ci,d:e.d,hasM:!!e.hasM});
+          return false;
+        }
+        return true;
+      });
+      DAILY=extra;
+    }
+    var nDaily=DAILY.length;
+    document.getElementById('fetchTime').textContent=new Date(j.t).toLocaleTimeString('tr-TR',{hour:'2-digit',minute:'2-digit'})+' · '+EV.length+' maç'+(nDaily?(' · '+nDaily+' günlük'):'');
+    var n=document.getElementById('apiNotice');
+    if(!EV.length){
+      n.style.display='block';
+      n.textContent='İddaa oranları gelmedi. Wi‑Fi/VPN veya içerik engelleyiciyi kontrol et, sonra tekrar “Oranları getir”e bas.';
+    }else{
+      n.style.display='none';
+    }
+    renderLeagueChips();renderMatches();
+    return syncProposalOddsFromLive({toast:false});
+  }).catch(function(e){
+    var n=document.getElementById('apiNotice');n.style.display='block';
+    n.textContent='Oranlar çekilemedi ('+(e.message||e)+'). Tekrar dene.';
+  }).finally(function(){btn.disabled=false;btn.textContent='🔄 Oranları Getir';});
+}
+function filteredEvents(){
+  var t=todayStr(),tm=dstr(new Date(Date.now()+864e5));
+  return EV.filter(function(e){
+    if(isDailyComp(e.ci))return false;
+    if(!isAllowedLeague(e.ci))return false;
+    if(e.d*1000<=Date.now())return false; // başlamış maç önerilemez
+    if(dayFilter==='today'&&evDate(e)!==t)return false;
+    if(dayFilter==='tomorrow'&&evDate(e)!==tm)return false;
+    if(leagueFilter!==null&&e.ci!==leagueFilter)return false;
+    if(searchQ){var q=searchQ.toLowerCase();if(((e.hn||'')+' '+(e.an||'')).toLowerCase().indexOf(q)<0)return false;}
+    return true;
+  });
+}
+function renderLeagueChips(){
+  var el=document.getElementById('leagueChips');
+  if(!el)return;
+  if(leagueFilter!=null&&!isAllowedLeague(leagueFilter))leagueFilter=null;
+  var seen={},list=[];
+  var source=specMode?SPEC.concat(DAILY):EV;
+  source.forEach(function(e){
+    if(!isAllowedLeague(e.ci)||seen[e.ci])return;
+    seen[e.ci]=1;list.push(e.ci);
+  });
+  list.sort(function(a,b){return allowedLeagueOrder(a)-allowedLeagueOrder(b)||String(allowedLeagueLabel(a)).localeCompare(String(allowedLeagueLabel(b)),'tr');});
+  el.innerHTML='<button type="button" class="chip lf '+(leagueFilter==null?'on':'')+'" data-ci="">Tümü</button>'+list.map(function(ci){
+    return '<button type="button" class="chip lf '+(leagueFilter===ci?'on':'')+'" data-ci="'+ci+'">'+esc(allowedLeagueLabel(ci))+'</button>';
+  }).join('');
+  el.querySelectorAll('.lf').forEach(function(b){b.onclick=function(){leagueFilter=b.dataset.ci===''?null:Number(b.dataset.ci);renderLeagueChips();renderMatches();};});
+}
+function isSelected(evId,mktI,no){return draft().some(function(s){return s.eventId===evId&&s.mktI===mktI&&s.no===no;});}
+var popSort=false,specMode=false,SPEC=[],DAILY=[];
+function renderSpecialCard(s,opts){
+  opts=opts||{};
+  var when=s.d?new Date(s.d*1000).toLocaleDateString('tr-TR',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'}):'Uzun vadeli';
+  var sub=opts.daily?'Günlük bahis · Son: '+when:'Son: '+when;
+  return '<div class="match-card"><div class="match-card-top">'+
+    '<div class="match-teams"><b>'+esc(s.n)+'</b><small>'+sub+'</small></div>'+
+    '<button type="button" class="btn tiny primary match-more" data-detail="'+s.i+'">Oranlar</button></div></div>';
+}
+function renderSpecials(){
+  var el=document.getElementById('matchList');
+  var specList=SPEC.filter(function(s){
+    if(!isAllowedLeague(s.ci))return false;
+    if(leagueFilter!==null&&s.ci!==leagueFilter)return false;
+    return true;
+  });
+  var dailyList=DAILY.filter(function(s){
+    if(!isAllowedLeague(s.ci))return false;
+    if(leagueFilter!==null&&s.ci!==leagueFilter)return false;
+    return true;
+  });
+  if(searchQ){
+    var q=searchQ.toLocaleLowerCase('tr');
+    specList=specList.filter(function(s){return (s.n||'').toLocaleLowerCase('tr').indexOf(q)>=0;});
+    dailyList=dailyList.filter(function(s){return (s.n||'').toLocaleLowerCase('tr').indexOf(q)>=0;});
+  }
+  var allowedSpec=SPEC.filter(function(s){return isAllowedLeague(s.ci);}).length;
+  var allowedDaily=DAILY.filter(function(s){return isAllowedLeague(s.ci);}).length;
+  if(!specList.length&&!dailyList.length){
+    el.innerHTML='<div class="muted" style="padding:12px">'+(
+      !SPEC.length&&!DAILY.length?'Özel / günlük listesi boş — "Oranları Getir"e bas.':
+      !allowedSpec&&!allowedDaily?'Seçili liglerde özel veya günlük bahis yok.':
+      searchQ?'Aramaya uyan özel etkinlik yok.':
+      'Bu filtrede özel etkinlik yok.'
+    )+'</div>';
+    return;
+  }
+  var html='';
+  if(specList.length){
+    var by={};specList.forEach(function(s){(by[s.ci]=by[s.ci]||[]).push(s);});
+    var cis=Object.keys(by).map(Number).sort(function(a,b){return allowedLeagueOrder(a)-allowedLeagueOrder(b);});
+    html+=cis.map(function(ci){
+      return '<div class="grp-title"><strong>'+esc(allowedLeagueLabel(ci))+'</strong></div>'+by[ci].slice(0,100).map(function(s){return renderSpecialCard(s);}).join('');
+    }).join('');
+  }
+  if(dailyList.length){
+    var dby={};dailyList.forEach(function(s){(dby[s.ci]=dby[s.ci]||[]).push(s);});
+    var dcis=Object.keys(dby).map(Number).sort(function(a,b){return allowedLeagueOrder(a)-allowedLeagueOrder(b);});
+    html+='<div class="grp-title uzun"><strong>Günlük bahis</strong><span>UCL · Avrupa · Konferans</span></div>';
+    html+=dcis.map(function(ci){
+      return '<div class="grp-title plase" style="margin-top:6px"><strong>'+esc(allowedLeagueLabel(ci))+'</strong></div>'+dby[ci].slice(0,50).map(function(s){return renderSpecialCard(s,{daily:true});}).join('');
+    }).join('');
+  }
+  el.innerHTML=html;
+  el.querySelectorAll('[data-detail]').forEach(function(b){b.onclick=function(){openDetail(Number(b.dataset.detail));};});
+}
+function renderMatches(){
+  if(specMode){renderSpecials();return;}
+  var list=filteredEvents();var el=document.getElementById('matchList');
+  if(popSort){list=list.filter(function(e){return e.pp!=null;}).sort(function(a,b){return b.pp-a.pp;});}
+  if(!EV.length){el.innerHTML='<div class="empty-state"><p style="color:#9aabcc">Maçları görmek için oranları getir.</p></div>';return;}
+  if(!list.length){el.innerHTML='<div class="muted" style="padding:12px">'+(popSort?'Bu filtrede oynanma verisi olan maç yok.':'Seçili liglerde maç yok (şu an bültende olmayabilir). Diğer ligler gizlendi.')+'</div>';return;}
+  el.innerHTML=list.slice(0,150).map(function(e){
+    var d=new Date(e.d*1000);
+    var day=d.toLocaleDateString('tr-TR',{day:'2-digit',month:'2-digit'});
+    var tm=d.toLocaleTimeString('tr-TR',{hour:'2-digit',minute:'2-digit'});
+    var lg=allowedLeagueLabel(e.ci);
+    var hot=e.pp!=null?'<span class="hot"> · %'+Number(e.pp)+'</span>':'';
+    var odds=e.ms?'<div class="match-odds">'+e.ms.o.map(function(o){
+      var on=isSelected(e.i,e.ms.i,o.no)?' sel':'';
+      return '<button type="button" class="oddbtn'+on+'" data-ev="'+e.i+'" data-mkt="'+e.ms.i+'" data-no="'+o.no+'"><small>'+esc(formatPickName(o.n,''))+'</small><b>'+fmtOdd(o.odd)+'</b></button>';
+    }).join('')+'</div>':(e.hasM?'':'<div class="match-closed">Oranlar henüz açılmamış</div>');
+    var detLabel='+';
+    return '<div class="match-card">'+
+      '<div class="match-card-top">'+
+        '<div class="match-time">'+tm+'<span>'+day+'</span></div>'+
+        '<div class="match-teams"><b>'+esc(e.hn)+' – '+esc(e.an)+'</b><small>'+esc(lg)+hot+'</small></div>'+
+        '<button type="button" class="btn tiny primary match-more" data-detail="'+e.i+'" title="Tüm marketler">'+detLabel+'</button>'+
+      '</div>'+odds+'</div>';
+  }).join('');
+  el.querySelectorAll('.oddbtn').forEach(function(b){b.onclick=function(){
+    var e=EV.filter(function(x){return x.i===Number(b.dataset.ev);})[0];if(!e||!e.ms)return;
+    var o=e.ms.o.filter(function(x){return x.no===Number(b.dataset.no);})[0];if(!o)return;
+    togglePick(e,{i:e.ms.i,st:4,sov:''},o);
+  };});
+  el.querySelectorAll('[data-detail]').forEach(function(b){b.onclick=function(){openDetail(Number(b.dataset.detail));};});
+}
+function togglePick(e,m,o){
+  var d=draft();
+  var idx=-1;
+  d.forEach(function(s,i){if(s.eventId===e.i&&s.mktI===m.i&&s.no===o.no)idx=i;});
+  if(idx>=0)d.splice(idx,1);
+  else{
+    var isSpec=!!e.n&&!e.hn; // özel etkinlik (uzun vadeli)
+    d.push({id:uid(),eventId:e.i,mktI:m.i,no:o.no,
+      match:isSpec?e.n:((e.hn||'')+' – '+(e.an||'')),
+      league:allowedLeagueLabel(e.ci),
+      ko:isSpec?null:e.d,cls:isSpec?'uzun':null,
+      market:mktLabel(m),pick:formatPickName(o.n,m.sov),odd:o.odd,by:ME.name,result:'open'});
+    toast('Eklendi: '+formatPickName(o.n,m.sov)+' @'+fmtOdd(o.odd));
+  }
+  saveDraft();renderMatches();renderBuilder();
+}
+function closeDetailModal(){
+  var modal=document.getElementById('modal');
+  if(modal)modal.classList.remove('open');
+}
+function formPillsHtml(form){
+  if(!form||!form.length)return '<span class="tf-muted">—</span>';
+  return form.map(function(r){return '<span class="tf-pill '+r+'">'+r+'</span>';}).join('');
+}
+function formLinesHtml(matches){
+  if(!matches||!matches.length)return '';
+  return '<ul class="tf-lines">'+matches.map(function(m){
+    var where=m.home?'(İ)':'(D)';
+    return '<li><span class="tf-res '+m.res+'">'+m.res+'</span>'+esc(m.date||'')+' · '+esc(m.opp||'?')+' '+esc(m.score||'')+' '+where+'</li>';
+  }).join('')+'</ul>';
+}
+function hasTeamFormData(data){
+  if(!data||!data.ok||data.supported===false)return false;
+  function ok(side){return side&&side.form&&side.form.length;}
+  return ok(data.home)||ok(data.away);
+}
+function teamFormBlockHtml(data){
+  if(!hasTeamFormData(data))return '';
+  function row(side){
+    if(!side||!(side.form&&side.form.length))return '';
+    return '<div style="margin-top:8px"><div class="tf-row"><span class="tf-name" title="'+esc(side.name)+'">'+esc(side.name)+'</span><div class="tf-pills">'+formPillsHtml(side.form)+'</div></div>'+formLinesHtml(side.matches)+'</div>';
+  }
+  return '<div class="team-form" id="teamFormBox"><h5>Son 5 maç · G / B / M</h5>'+row(data.home)+row(data.away)+'</div>';
+}
+function fetchTeamForm(home,away,league){
+  var q='home='+encodeURIComponent(home||'')+'&away='+encodeURIComponent(away||'')+'&league='+encodeURIComponent(league||'');
+  return fetch('/api/team-form?'+q).then(function(r){return r.json();}).catch(function(){return {ok:false};});
+}
+function openDetail(evId,proposeMode){
+  var modal=document.getElementById('modal'),box=document.getElementById('modalBox');
+  modal.classList.add('open');
+  box.innerHTML='<div class="modal-shell"><div class="modal-head"><div class="modal-head-text"><h3>Marketler</h3><p class="modal-sub">Yükleniyor…</p></div>'+
+    '<button type="button" class="modal-x" id="mX" aria-label="Kapat"><ion-icon name="close-outline"></ion-icon></button></div>'+
+    '<div class="modal-body" style="text-align:center;padding:28px"><span class="spin"></span></div></div>';
+  var mx0=document.getElementById('mX');if(mx0)mx0.onclick=closeDetailModal;
+  fetchEventDetailClient(evId).then(function(e){
+    function bindClose(){
+      var x=document.getElementById('mX'),c=document.getElementById('mClose');
+      if(x)x.onclick=closeDetailModal;
+      if(c)c.onclick=closeDetailModal;
+    }
+    var isSpecE=!!e&&!!e.n&&!e.hn;
+    var title=e?(isSpecE?e.n:(e.hn+' – '+e.an)):'Maç';
+    var when=e&&e.d?(new Date(e.d*1000).toLocaleDateString('tr-TR',{day:'2-digit',month:'long'})+
+      '  ·  '+new Date(e.d*1000).toLocaleTimeString('tr-TR',{hour:'2-digit',minute:'2-digit'})):'';
+    var sub=when+(isSpecE?' · ⏳ Uzun vadeli':'')+
+      (proposeMode?' · <b>⚡ Hızlı öneri: orana tıkla</b>':'');
+    var leagueLabel=e?allowedLeagueLabel(e.ci):'';
+    var hasMkts=e&&(e.m||[]).length;
+    var mktHtml=hasMkts?(
+      '<input id="mktSearch" placeholder="Market ara… (korner, alt/üst, kart)">'+
+      e.m.map(function(m){return '<div class="mktgrp"><h4>'+esc(mktLabel(m))+'</h4><div class="row">'+
+        m.o.map(function(o){return '<button type="button" class="oddbtn'+(isSelected(e.i,m.i,o.no)?' sel':'')+'" data-mkt="'+m.i+'" data-no="'+o.no+'"><small>'+esc(formatPickName(o.n,m.sov))+'</small><b>'+fmtOdd(o.odd)+'</b></button>';}).join('')+
+      '</div></div>';}).join('')
+    ):'<p class="muted">Marketler henüz açılmamış.</p>';
+    box.innerHTML='<div class="modal-shell">'+
+      '<div class="modal-head"><div class="modal-head-text">'+
+        '<h3>'+esc(title)+'</h3><p class="modal-sub">'+sub+'</p>'+
+        '<div class="modal-stats-bar" id="statsBarWrap">'+
+          '<button type="button" class="btn" id="btnStatsToggle">İstatistik</button>'+
+        '</div>'+
+      '</div>'+
+      '<button type="button" class="modal-x" id="mX" aria-label="Kapat"><ion-icon name="close-outline"></ion-icon></button></div>'+
+      '<div class="modal-body">'+
+        '<div id="teamFormSlot" class="collapsed"></div>'+
+        mktHtml+
+      '</div>'+
+      '<div class="modal-foot"><button type="button" class="btn primary" id="mClose">Tamam</button></div>'+
+    '</div>';
+    if(hasMkts){
+      box.querySelectorAll('.oddbtn').forEach(function(b){b.onclick=function(){
+        var m=e.m.filter(function(x){return x.i===Number(b.dataset.mkt);})[0];
+        var o=m.o.filter(function(x){return x.no===Number(b.dataset.no);})[0];
+        if(proposeMode){
+          if(!isSpecE&&e.d&&e.d*1000<=Date.now()){toast('Maç başlamış — önerilemez');return;}
+          var mName=isSpecE?e.n:(e.hn+' – '+e.an);
+          var pr={id:uid(),date:todayStr(),by:ME.name,createdAt:Date.now(),votes:[ME.name],
+            match:mName,league:leagueLabel,
+            ko:isSpecE?null:e.d,cls:isSpecE?'uzun':null,
+            market:mktLabel(m),pick:formatPickName(o.n,m.sov),odd:o.odd,eventId:e.i,mktI:m.i,no:o.no};
+          var exist=findSameProposal(pr);
+          if(exist&&isOnProposal(exist,ME.name)){toast('Bu bahis zaten sende / adın ekli');return;}
+          if(!assertCanProposeItem(pr))return;
+          if(b.dataset.busy==='1')return;
+          b.dataset.busy='1';
+          mutate('addProposal',pr).then(function(b2){
+            var meta=b2&&b2._addMeta;
+            toast(meta&&meta.merged?('Önerilere eklendi · mevcut bahse adın yazıldı'):'Önerilere eklendi');
+            closeDetailModal();
+          }).catch(function(){
+            toast('Paylaşım başarısız — tekrar dene');
+          }).then(function(){b.dataset.busy='0';});
+          return;
+        }
+        togglePick(e,m,o);b.classList.toggle('sel');
+      };});
+      var si=document.getElementById('mktSearch');
+      if(si)si.oninput=function(){
+        var q=si.value.trim().toLocaleLowerCase('tr');
+        box.querySelectorAll('.mktgrp').forEach(function(g){
+          g.style.display=(!q||g.textContent.toLocaleLowerCase('tr').indexOf(q)>=0)?'':'none';
+        });
+      };
+    }
+    bindClose();
+    var statsBar=document.getElementById('statsBarWrap');
+    var statsBtn=document.getElementById('btnStatsToggle');
+    var cachedForm=null;
+    function hideStatsUi(){
+      if(statsBar)statsBar.classList.remove('show');
+      var slot=document.getElementById('teamFormSlot');
+      if(slot){slot.classList.add('collapsed');slot.innerHTML='';}
+    }
+    function showStatsPanel(){
+      var slot=document.getElementById('teamFormSlot');
+      if(!slot||!cachedForm)return;
+      slot.innerHTML=teamFormBlockHtml(cachedForm);
+      slot.classList.remove('collapsed');
+      if(statsBtn)statsBtn.classList.add('primary');
+    }
+    function hideStatsPanel(){
+      var slot=document.getElementById('teamFormSlot');
+      if(slot)slot.classList.add('collapsed');
+      if(statsBtn)statsBtn.classList.remove('primary');
+    }
+    if(statsBtn)statsBtn.onclick=function(){
+      var slot=document.getElementById('teamFormSlot');
+      if(slot&&!slot.classList.contains('collapsed'))hideStatsPanel();
+      else showStatsPanel();
+    };
+    if(!isSpecE&&e&&e.hn&&e.an){
+      fetchTeamForm(e.hn,e.an,leagueLabel).then(function(data){
+        if(!hasTeamFormData(data)){hideStatsUi();return;}
+        cachedForm=data;
+        if(statsBar)statsBar.classList.add('show');
+      }).catch(hideStatsUi);
+    }else{
+      hideStatsUi();
+    }
+  }).catch(function(){
+    box.innerHTML='<div class="modal-shell"><div class="modal-head"><div class="modal-head-text"><h3>Marketler</h3><p class="modal-sub">Hata</p></div>'+
+      '<button type="button" class="modal-x" id="mX" aria-label="Kapat"><ion-icon name="close-outline"></ion-icon></button></div>'+
+      '<div class="modal-body"><p class="muted">Marketler çekilemedi.</p></div>'+
+      '<div class="modal-foot"><button type="button" class="btn primary" id="mClose">Tamam</button></div></div>';
+    var x=document.getElementById('mX'),c=document.getElementById('mClose');
+    if(x)x.onclick=closeDetailModal;if(c)c.onclick=closeDetailModal;
+  });
+}
+document.getElementById('modal').onclick=function(ev){if(ev.target.id==='modal')closeDetailModal();};
+
+function openProposalComment(p){
+  if(!p)return;
+  var modal=document.getElementById('modal'),box=document.getElementById('modalBox');
+  if(!modal||!box)return;
+  var canEdit=!!(ME.name&&p.by===ME.name);
+  var text=String(p.comment||'').trim();
+  var who=[p.by].concat(p.also||[]).filter(Boolean).join(', ');
+  var meta=esc(p.market)+': <b>'+esc(p.pick)+'</b> · @'+fmtOdd(p.odd)+(who?' · '+esc(who):'');
+  box.innerHTML='<div class="modal-shell comment-sheet">'+
+    '<div class="modal-head"><div class="modal-head-text">'+
+      '<h3>Yorum</h3><p class="modal-sub">'+(canEdit?'Opsiyonel — gruba görünür':'Öneren: '+esc(who||''))+'</p>'+
+    '</div>'+
+    '<button type="button" class="modal-x" id="mX" aria-label="Kapat"><ion-icon name="close-outline"></ion-icon></button></div>'+
+    '<div class="modal-body">'+
+      '<p class="cs-match">'+esc(p.match)+'</p>'+
+      '<p class="cs-meta">'+meta+'</p>'+
+      (canEdit
+        ?'<textarea id="propCommentInput" maxlength="280" placeholder="Kısa bir yorum yaz (opsiyonel)…">'+esc(text)+'</textarea>'
+        :(text?'<p class="cs-body">'+esc(text)+'</p>':'<p class="cs-body cs-empty">Bu öneride henüz yorum yok.</p>'))+
+    '</div>'+
+    '<div class="modal-foot">'+
+      (canEdit?'<button type="button" class="btn primary" id="btnSaveComment">Kaydet</button>':'')+
+      '<button type="button" class="btn" id="mClose">Kapat</button>'+
+    '</div>'+
+  '</div>';
+  modal.classList.add('open');
+  var close=function(){closeDetailModal();};
+  var x=document.getElementById('mX'),c=document.getElementById('mClose');
+  if(x)x.onclick=close;if(c)c.onclick=close;
+  var save=document.getElementById('btnSaveComment');
+  if(save)save.onclick=function(){
+    var inp=document.getElementById('propCommentInput');
+    var next=inp?String(inp.value||'').trim():'';
+    if(next===text){close();return;}
+    save.disabled=true;save.textContent='Kaydediliyor…';
+    mutate('setProposalComment',{id:p.id,comment:next}).then(function(){
+      toast(next?'Yorum kaydedildi':'Yorum silindi');
+      close();
+    }).catch(function(){
+      save.disabled=false;save.textContent='Kaydet';
+    });
+  };
+}
+
+/* ============ KAYDIR (Tinder) — bugünün önerileri ============ */
+var _swipeQueue=[];
+var _swipeIdx=0;
+var _swipePassed={};
+var _swipeBusy=false;
+var _swipeCardCleanup=null;
+var _swipeChapterTimer=null;
+var SWIPE_CLS={
+  banko:{k:'banko',t:'Banko',range:'1.00 – 1.59'},
+  plase:{k:'plase',t:'Plase',range:'1.60 – 2.25'},
+  surpriz:{k:'surpriz',t:'Sürpriz',range:'2.26+'},
+  uzun:{k:'uzun',t:'Uzun vadeli',range:'özel'}
+};
+function swipeClassKey(p){
+  if(!p)return null;
+  if(p.cls==='uzun')return 'uzun';
+  return oddClass(p.odd).k;
+}
+function swipeClassMeta(pOrKey){
+  var k=typeof pOrKey==='string'?pOrKey:swipeClassKey(pOrKey);
+  return SWIPE_CLS[k]||SWIPE_CLS.surpriz;
+}
+function swipeTodayList(){
+  var day=todayStr();
+  return (S.proposals||[]).filter(function(p){
+    if(!p||proposalKickoffPassed(p))return false;
+    if(matchDayKey(p)!==day)return false;
+    if(ME.name&&(p.votes||[]).indexOf(ME.name)>=0)return false;
+    if(_swipePassed[String(p.id)])return false;
+    return true;
+  }).sort(comparePropsByOdd);
+}
+function openSwipeDeck(){
+  if(!ME.name){toast('Önce giriş yap');showLogin();return;}
+  if(_swipeChapterTimer){clearTimeout(_swipeChapterTimer);_swipeChapterTimer=null;}
+  _swipePassed={};
+  _swipeQueue=swipeTodayList();
+  _swipeIdx=0;
+  _swipeBusy=false;
+  var ov=document.getElementById('swipeOverlay');
+  if(!ov)return;
+  ov.classList.add('open');
+  ov.setAttribute('aria-hidden','false');
+  if(!_swipeQueue.length){
+    renderSwipeDeck();
+    return;
+  }
+  showSwipeChapter(swipeClassKey(_swipeQueue[0]),function(){
+    renderSwipeDeck();
+  });
+}
+function closeSwipeDeck(){
+  if(_swipeChapterTimer){clearTimeout(_swipeChapterTimer);_swipeChapterTimer=null;}
+  if(_swipeCardCleanup){_swipeCardCleanup();_swipeCardCleanup=null;}
+  var ov=document.getElementById('swipeOverlay');
+  if(ov){ov.classList.remove('open');ov.setAttribute('aria-hidden','true');}
+  _swipeBusy=false;
+  renderProps();
+}
+function showSwipeChapter(classKey,done){
+  if(_swipeCardCleanup){_swipeCardCleanup();_swipeCardCleanup=null;}
+  var stage=document.getElementById('swipeStage');
+  var prog=document.getElementById('swipeProgress');
+  var actions=document.getElementById('swipeActions');
+  var meta=swipeClassMeta(classKey);
+  if(actions)actions.style.display='none';
+  if(prog)prog.textContent='Sıradaki grup';
+  if(!stage){if(done)done();return;}
+  _swipeBusy=true;
+  stage.innerHTML='<div class="swipe-chapter '+meta.k+'">'+
+    '<div class="sch-kicker">Sırada</div>'+
+    '<h3 class="sch-title">'+esc(meta.t)+'</h3>'+
+    '<p class="sch-range">'+esc(meta.range)+'</p>'+
+  '</div>';
+  if(_swipeChapterTimer)clearTimeout(_swipeChapterTimer);
+  _swipeChapterTimer=setTimeout(function(){
+    _swipeChapterTimer=null;
+    _swipeBusy=false;
+    if(done)done();
+  },950);
+}
+function renderSwipeDeck(){
+  if(_swipeCardCleanup){_swipeCardCleanup();_swipeCardCleanup=null;}
+  var stage=document.getElementById('swipeStage');
+  var prog=document.getElementById('swipeProgress');
+  var actions=document.getElementById('swipeActions');
+  if(!stage)return;
+  var total=_swipeQueue.length;
+  var left=Math.max(0,total-_swipeIdx);
+  if(prog)prog.textContent=left?((_swipeIdx+1)+' / '+total):'Bitti';
+  if(actions)actions.style.display=left?'flex':'none';
+  if(!left){
+    stage.innerHTML='<div class="swipe-empty"><p>Bugünün önerileri bitti.<br>Beğendiklerin Öneriler’de 👍 olarak kaldı.</p>'+
+      '<button type="button" class="btn primary" id="swipeDoneBtn">Tamam</button></div>';
+    var done=document.getElementById('swipeDoneBtn');
+    if(done)done.onclick=closeSwipeDeck;
+    return;
+  }
+  var p=_swipeQueue[_swipeIdx];
+  if(!p){closeSwipeDeck();return;}
+  var oc=swipeClassMeta(p);
+  var when=p.ko?new Date(p.ko*1000).toLocaleString('tr-TR',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'}):'';
+  var cmt=String(p.comment||'').trim();
+  stage.innerHTML='<div class="swipe-card" id="swipeCard">'+
+    '<div class="swipe-stamp like">BEĞEN</div><div class="swipe-stamp pass">PAS</div>'+
+    '<p class="sc-league">'+esc(p.league||oc.t)+' · '+esc(oc.t)+'</p>'+
+    '<h3 class="sc-match">'+esc(p.match)+'</h3>'+
+    '<p class="sc-pick">'+esc(p.market)+': <b>'+esc(p.pick)+'</b></p>'+
+    (cmt?'<p class="sc-pick" style="font-style:italic;color:#5a6788">“'+esc(cmt)+'”</p>':'')+
+    '<div class="sc-row"><div><div class="sc-odd">@'+fmtOdd(p.odd)+'</div>'+
+      '<div class="sc-meta">'+(when?when+' · ':'')+[p.by].concat(p.also||[]).map(function(n){return esc(n);}).join(', ')+'</div></div>'+
+      '<span class="pill '+oc.k+'">'+oc.t+'</span></div>'+
+  '</div>';
+  bindSwipeCard(document.getElementById('swipeCard'),p);
+}
+function bindSwipeCard(card,p){
+  if(!card)return;
+  var startX=0,startY=0,dx=0,dy=0,dragging=false,locked=false;
+  var likeStamp=card.querySelector('.swipe-stamp.like');
+  var passStamp=card.querySelector('.swipe-stamp.pass');
+  function setPos(x,y,rot,anim){
+    card.style.transition=anim?'transform .28s ease, opacity .28s ease':'none';
+    card.style.transform='translate(calc(-50% + '+x+'px), calc(-50% + '+y+'px)) rotate('+rot+'deg)';
+  }
+  function updateStamps(){
+    var t=Math.min(1,Math.abs(dx)/110);
+    if(likeStamp)likeStamp.style.opacity=dx>30?t:0;
+    if(passStamp)passStamp.style.opacity=dx<-30?t:0;
+  }
+  function onDown(ev){
+    if(_swipeBusy)return;
+    var pt=ev.touches?ev.touches[0]:ev;
+    dragging=true;locked=false;dx=0;dy=0;
+    startX=pt.clientX;startY=pt.clientY;
+  }
+  function onMove(ev){
+    if(!dragging||_swipeBusy)return;
+    var pt=ev.touches?ev.touches[0]:ev;
+    dx=pt.clientX-startX;dy=pt.clientY-startY;
+    if(!locked){
+      if(Math.abs(dx)+Math.abs(dy)<8)return;
+      locked=Math.abs(dx)>Math.abs(dy);
+      if(!locked){dragging=false;return;}
+    }
+    if(ev.cancelable)ev.preventDefault();
+    setPos(dx,dy*0.15,dx/18,false);
+    updateStamps();
+  }
+  function onUp(){
+    if(!dragging)return;
+    dragging=false;
+    if(_swipeBusy)return;
+    if(dx>110){commitSwipe('like',p,card);return;}
+    if(dx<-110){commitSwipe('pass',p,card);return;}
+    setPos(0,0,0,true);
+    if(likeStamp)likeStamp.style.opacity=0;
+    if(passStamp)passStamp.style.opacity=0;
+  }
+  card.addEventListener('mousedown',onDown);
+  card.addEventListener('touchstart',onDown,{passive:true});
+  window.addEventListener('mousemove',onMove,{passive:false});
+  window.addEventListener('touchmove',onMove,{passive:false});
+  window.addEventListener('mouseup',onUp);
+  window.addEventListener('touchend',onUp);
+  _swipeCardCleanup=function(){
+    window.removeEventListener('mousemove',onMove);
+    window.removeEventListener('touchmove',onMove);
+    window.removeEventListener('mouseup',onUp);
+    window.removeEventListener('touchend',onUp);
+  };
+}
+function advanceAfterSwipe(fromP){
+  _swipeIdx++;
+  var next=_swipeQueue[_swipeIdx];
+  if(!next){
+    _swipeBusy=false;
+    renderSwipeDeck();
+    return;
+  }
+  var fromK=swipeClassKey(fromP);
+  var nextK=swipeClassKey(next);
+  if(fromK&&nextK&&fromK!==nextK){
+    showSwipeChapter(nextK,function(){
+      renderSwipeDeck();
+    });
+  }else{
+    _swipeBusy=false;
+    renderSwipeDeck();
+  }
+}
+function commitSwipe(kind,p,card){
+  if(_swipeBusy||!p)return;
+  _swipeBusy=true;
+  if(_swipeCardCleanup){_swipeCardCleanup();_swipeCardCleanup=null;}
+  var fly=kind==='like'?520:-520;
+  if(card){
+    card.style.transition='transform .32s ease, opacity .32s ease';
+    card.style.transform='translate(calc(-50% + '+fly+'px), -50%) rotate('+(fly>0?18:-18)+'deg)';
+    card.style.opacity='0';
+    var st=card.querySelector('.swipe-stamp.'+(kind==='like'?'like':'pass'));
+    if(st)st.style.opacity='1';
+  }
+  if(kind==='like'){
+    if((p.votes||[]).indexOf(ME.name)<0){
+      voteMutate('toggleVote',{id:p.id,name:ME.name});
+    }
+  }else{
+    _swipePassed[String(p.id)]=1;
+  }
+  setTimeout(function(){
+    advanceAfterSwipe(p);
+  },280);
+}
+function swipeDeckAction(kind){
+  if(_swipeBusy)return;
+  var p=_swipeQueue[_swipeIdx];
+  var card=document.getElementById('swipeCard');
+  if(!p)return;
+  commitSwipe(kind,p,card);
+}
+
+(function(){
+  var openBtn=document.getElementById('btnSwipeDeck');
+  if(openBtn)openBtn.onclick=function(){openSwipeDeck();};
+  var closeBtn=document.getElementById('swipeClose');
+  if(closeBtn)closeBtn.onclick=closeSwipeDeck;
+  var passBtn=document.getElementById('swipePassBtn');
+  if(passBtn)passBtn.onclick=function(){swipeDeckAction('pass');};
+  var likeBtn=document.getElementById('swipeLikeBtn');
+  if(likeBtn)likeBtn.onclick=function(){swipeDeckAction('like');};
+})();
+
+/* ============ ÖNERİ TASLAĞI + KUPON SEPETİ (kişisel, telefonda saklanır) ============ */
+function draft(){
+  if(!window._draft){try{window._draft=JSON.parse(localStorage.getItem('kk-draft')||'[]');}catch(e){window._draft=[];}}
+  return window._draft;
+}
+function saveDraft(){localStorage.setItem('kk-draft',JSON.stringify(draft()));}
+function basket(){
+  if(!window._basket){try{window._basket=JSON.parse(localStorage.getItem('kk-basket')||'[]');}catch(e){window._basket=[];}}
+  return window._basket;
+}
+function saveBasket(){localStorage.setItem('kk-basket',JSON.stringify(basket()));}
+function selRowHtml(s){
+  var byHtml=selectionProposersText(s);
+  return '<div class="selrow" data-id="'+s.id+'">'+
+    '<div class="inf"><b>'+esc(s.match)+'</b><small>'+esc(s.market)+': <b>'+esc(s.pick)+'</b>'+(byHtml?' · '+esc(byHtml):'')+(s.ko?' · '+new Date(s.ko*1000).toLocaleString('tr-TR',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'}):'')+'</small></div>'+
+    '<span class="odd">'+fmtOdd(s.odd)+'</span>'+
+    '<button class="btn tiny danger rm">✕</button>'+
+    '<input class="sel-cmt" type="text" maxlength="280" placeholder="Yorum (opsiyonel)" value="'+esc(s.comment||'')+'"></div>';
+}
+function renderBuilder(){
+  var el=document.getElementById('builderSels');var sels=draft();
+  var dock=document.querySelector('.draft-dock');
+  var dc=document.getElementById('draftCount');
+  var main=document.getElementById('appMain');
+  var onBuild=document.getElementById('tab-build')&&document.getElementById('tab-build').style.display!=='none';
+  renderProposeQuota();
+  if(dc)dc.textContent=sels.length?('· '+sels.length):'';
+  if(dock){
+    dock.classList.toggle('empty',!sels.length);
+    dock.classList.toggle('tab-hidden',!onBuild);
+  }
+  if(main)main.classList.toggle('has-draft-pad',!!(sels.length&&onBuild));
+  if(!sels.length){el.innerHTML='';return;}
+  el.innerHTML=sels.map(selRowHtml).join('');
+  el.querySelectorAll('.selrow').forEach(function(row){
+    row.querySelector('.rm').onclick=function(){
+      window._draft=draft().filter(function(x){return x.id!==row.dataset.id;});
+      saveDraft();renderBuilder();renderMatches();
+    };
+    var cmt=row.querySelector('.sel-cmt');
+    if(cmt){
+      cmt.oninput=function(){
+        var s=draft().filter(function(x){return x.id===row.dataset.id;})[0];
+        if(s){s.comment=cmt.value;saveDraft();}
+      };
+    }
+  });
+}
+function basketSelHtml(s){
+  var byTxt=selectionProposersText(s);
+  var meta=esc(s.market)+': <b>'+esc(s.pick)+'</b>'+(byTxt?' · '+esc(byTxt):'')+
+    (s.ko?' · '+new Date(s.ko*1000).toLocaleString('tr-TR',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'}):'');
+  return '<div class="bsel" data-id="'+s.id+'">'+
+    '<div class="bsel-main"><b>'+esc(s.match)+'</b><small>'+meta+'</small></div>'+
+    '<div class="bsel-side"><span class="odd">@'+fmtOdd(s.odd)+'</span>'+
+    '<button type="button" class="bsel-rm rm" aria-label="Kaldır"><ion-icon name="close-outline"></ion-icon></button></div></div>';
+}
+function renderBasket(){
+  var el=document.getElementById('basketSels');var sels=basket();
+  var countEl=document.getElementById('basketCount');
+  if(countEl)countEl.textContent=String(sels.length);
+  if(!sels.length){
+    el.innerHTML='<div class="basket-empty"><ion-icon name="add-circle-outline"></ion-icon><p>Sepet boş — önerilerden “Kupona” ile ekle.</p></div>';
+  }else{
+    el.innerHTML=sels.map(basketSelHtml).join('');
+    el.querySelectorAll('.bsel').forEach(function(row){
+      row.querySelector('.rm').onclick=function(){
+        window._basket=basket().filter(function(x){return x.id!==row.dataset.id;});
+        saveBasket();renderBasket();
+      };
+    });
+  }
+  var total=sels.reduce(function(p,s){return p*(Number(s.odd)||1);},1);
+  var stake=Number(document.getElementById('bStake').value)||0;
+  document.getElementById('bTotalOdds').textContent=sels.length?fmtOdd(total):'1.00';
+  document.getElementById('bPotential').textContent=fmtTL(sels.length?stake*total:0);
+}
+document.getElementById('bStake').oninput=renderBasket;
+document.getElementById('btnClearBasket').onclick=function(){window._basket=[];saveBasket();renderBasket();};
+document.getElementById('btnRefreshBasket').onclick=function(){
+  if(!basket().length){toast('Sepet boş');return;}
+  var apiSels=basket().filter(function(s){return s.eventId&&s.mktI&&s.no;});
+  if(!apiSels.length){toast('Elle girilen seçimler tazelenemez');return;}
+  var ids={};apiSels.forEach(function(s){ids[s.eventId]=1;});
+  var chain=Promise.resolve(),details={};
+  Object.keys(ids).forEach(function(id){
+    chain=chain.then(function(){return fetchEventDetailClient(Number(id)).then(function(d){details[id]=d;}).catch(function(){});});
+  });
+  chain.then(function(){
+    var changed=0,gone=0;
+    basket().forEach(function(s){
+      var d=details[s.eventId];if(!d)return;
+      var m=(d.m||[]).filter(function(x){return x.i===s.mktI;})[0];
+      var o=m&&m.o.filter(function(x){return x.no===s.no;})[0];
+      if(!o){gone++;return;}
+      if(Number(o.odd)!==Number(s.odd)){s.odd=o.odd;changed++;}
+    });
+    saveBasket();renderBasket();
+    var msg=changed?changed+' oran güncellendi 🔄':'Oranlar zaten güncel ✓';
+    if(gone)msg+=' · '+gone+' seçim bültende bulunamadı (kapanmış olabilir)';
+    toast(msg);
+  });
+};
+document.getElementById('btnClearDraft').onclick=function(){window._draft=[];saveDraft();renderBuilder();renderMatches();};
+var _proposeBusy=false;
+document.getElementById('btnPropose').onclick=function(ev){
+  if(ev){ev.preventDefault();ev.stopPropagation();}
+  if(_proposeBusy)return;
+  var sels=draft();
+  if(!sels.length){toast('Önce seçim ekle');return;}
+  var started=sels.filter(function(s){return s.ko&&s.ko*1000<=Date.now();});
+  if(started.length){toast('Başlamış maç önerilemez: '+started[0].match);return;}
+  var need=countNeededProposals(sels);
+  if(!need){toast('Bu seçimler zaten sende');return;}
+  if(!assertCanProposeSels(sels))return;
+  _proposeBusy=true;
+  var btn=document.getElementById('btnPropose');
+  if(btn){btn.disabled=true;btn.textContent='Paylaşılıyor…';}
+  var created=0,merged=0,skipped=0,blocked=0;
+  var pendingByDay={};
+  var chain=Promise.resolve();
+  sels.forEach(function(s){
+    chain=chain.then(function(){
+      var exist=findSameProposal(s);
+      if(exist&&isOnProposal(exist,ME.name)){skipped++;return;}
+      var day=matchDayKey(s);
+      var used=myProposalsOnMatchDay(day)+(pendingByDay[day]||0);
+      if(used>=DAILY_PROPOSAL_LIMIT){blocked++;return;}
+      pendingByDay[day]=(pendingByDay[day]||0)+1;
+      var p={id:uid(),date:todayStr(),by:ME.name,createdAt:Date.now(),votes:[ME.name],
+        match:s.match,league:s.league,ko:s.ko,cls:s.cls||null,market:s.market,pick:s.pick,odd:s.odd,eventId:s.eventId,mktI:s.mktI,no:s.no,
+        comment:String(s.comment||'').trim()};
+      return mutate('addProposal',p).then(function(b){
+        if(b&&b._addMeta&&b._addMeta.merged)merged++;
+        else created++;
+      });
+    });
+  });
+  chain.then(function(){
+    window._draft=[];saveDraft();renderBuilder();renderMatches();
+    var msg='Önerilere eklendi';
+    if(created&&merged)msg='Önerilere eklendi · '+created+' yeni · '+merged+' mevcut bahse';
+    else if(merged&&!created)msg='Önerilere eklendi · mevcut bahse adın yazıldı';
+    else if(skipped&&!created&&!merged)msg='Bu seçimler zaten sende';
+    else if(created)msg=created===1?'Önerilere eklendi':'Önerilere eklendi · '+created+' bahis';
+    if(blocked)msg+=' · maç günü limiti ('+DAILY_PROPOSAL_LIMIT+') doldu';
+    toast(msg);
+    switchTab('props');
+  }).catch(function(){
+    toast('Paylaşım başarısız — tekrar dene');
+  }).then(function(){
+    _proposeBusy=false;
+    if(btn){btn.disabled=false;btn.textContent='Paylaş';}
+  });
+};
+document.getElementById('btnSaveCoupon').onclick=function(){
+  var sels=basket();
+  if(!sels.length){toast('Sepet boş — önerilerden ekle');return;}
+  var started=sels.filter(function(s){return s.ko&&s.ko*1000<=Date.now();});
+  if(started.length){toast('Sepette başlamış maç var, çıkar: '+started[0].match);return;}
+  var stake=Number(document.getElementById('bStake').value)||0;
+  if(stake<=0){toast('Yatırım tutarı gir');return;}
+  var c={id:uid(),date:document.getElementById('bDate').value||todayStr(),type:document.getElementById('bType').value,
+    stake:stake,override:null,createdAt:Date.now(),createdBy:ME.name,
+    selections:sels.map(function(s){
+      var x=JSON.parse(JSON.stringify(s));x.result='open';
+      var names=selectionProposers(s);
+      if(names.length){x.by=names[0];x.also=names.slice(1);}
+      return x;
+    })};
+  mutate('saveCoupon',c).then(function(){
+    window._basket=[];saveBasket();renderBasket();
+    toast('Kupon oluşturuldu · '+fmtTL(stake)+' kasadan düştü');switchTab('coupons');
+  });
+};
+function basketText(){
+  var sels=basket();
+  var total=sels.reduce(function(p,s){return p*(Number(s.odd)||1);},1);
+  var stake=Number(document.getElementById('bStake').value)||0;
+  var type=TYPE_WA[document.getElementById('bType').value]||'KUPON';
+  return type+' KUPON – '+new Date().toLocaleDateString('tr-TR',{day:'numeric',month:'long'})+'\n'+
+    sels.map(function(s,i){return (i+1)+') '+s.match+' | '+s.market+': '+s.pick+' @'+fmtOdd(s.odd)+(selectionProposersText(s)?' ('+selectionProposersText(s)+')':'');}).join('\n')+
+    '\n──────────\nToplam Oran: '+fmtOdd(total)+'\nYatırım: '+fmtTL(stake)+'\nOlası Kazanç: '+fmtTL(stake*total);
+}
+document.getElementById('btnCopyDraft').onclick=function(){
+  if(!basket().length){toast('Sepet boş');return;}
+  copyText(basketText()).then(function(){toast('Kopyalandı — WhatsApp\'a yapıştır');}).catch(function(){toast('Kopyalanamadı');});
+};
+
+/* ============ KUPONLAR ============ */
+var couponFilter='open'; // varsayılan: bekleyen kuponlar
+var TYPE_TR={banko:'Banko',plase:'Plase',surpriz:'Sürpriz',uzun:'Uzun vadeli',diger:'Diğer'};
+var TYPE_WA={banko:'BANKO',plase:'PLASE',surpriz:'SÜRPRİZ',uzun:'UZUN VADELİ',diger:'KUPON'};
+var ST_TR={open:'Bekliyor',won:'Tuttu',lost:'Yattı',void:'İade'};
+var COUPON_MAX_AGE_MS=30*864e5; // bitmiş kuponlarda 30 günden eski maçları gösterme
+function isWorldCupCoupon(c){
+  var sels=(c&&c.selections)||[];
+  for(var i=0;i<sels.length;i++){
+    var s=sels[i]||{};
+    var lg=String(s.league||'');
+    if(/dünya\s*kupas[ıi]|world\s*cup|\bdk\b/i.test(lg))return true;
+    if(Number(s.ci)===WC_CI)return true;
+  }
+  return false;
+}
+function couponLatestKickoffMs(c){
+  var latest=0;
+  ((c&&c.selections)||[]).forEach(function(s){
+    var ko=Number(s&&s.ko)||0;
+    if(ko>0)latest=Math.max(latest,ko*1000);
+  });
+  if(!latest&&c&&c.date){
+    var t=new Date(c.date+'T23:59:59').getTime();
+    if(!isNaN(t))latest=t;
+  }
+  return latest;
+}
+function isCouponWithinRetention(c){
+  // Bekleyen her zaman görünsün; bitmişlerde son 30 gün
+  if(couponStatus(c)==='open')return true;
+  var latest=couponLatestKickoffMs(c);
+  if(!latest)return true;
+  return latest>=(Date.now()-COUPON_MAX_AGE_MS);
+}
+function renderCoupons(){
+  var el=document.getElementById('couponList');
+  var list=S.coupons.slice().sort(function(a,b){return b.date.localeCompare(a.date)||(b.createdAt||0)-(a.createdAt||0);});
+  if(couponFilter!=='all')list=list.filter(function(c){return couponStatus(c)===couponFilter;});
+  // Tutan / Yatan / Hepsi: Dünya Kupası bitmiş kuponları gösterme
+  list=list.filter(function(c){
+    if(isWorldCupCoupon(c)&&couponStatus(c)!=='open')return false;
+    return true;
+  });
+  // 30 günden eski oynanmış (bitmiş) kuponları otomatik gizle
+  list=list.filter(isCouponWithinRetention);
+  if(!list.length){el.innerHTML='<div class="muted" style="padding:8px">Kupon yok.</div>';return;}
+  el.innerHTML=list.map(function(c){
+    var st=couponStatus(c),odds=couponOdds(c),pot=c.stake*odds,pnl=couponPnl(c);
+    return '<div class="coupon" data-id="'+c.id+'">'+
+      '<div class="chead"><b>'+new Date(c.date+'T12:00').toLocaleDateString('tr-TR',{day:'numeric',month:'short',weekday:'short'})+'</b>'+
+      '<span class="pill '+c.type+'">'+TYPE_TR[c.type]+'</span><span class="pill '+st+'">'+ST_TR[st]+'</span>'+
+      '<span class="grow"></span><span class="muted">'+fmtTL(c.stake)+' × '+fmtOdd(odds)+' = <b>'+fmtTL(pot)+'</b></span></div>'+
+      '<div class="cbody">'+c.selections.map(function(s){return '<div class="legrow" data-sid="'+s.id+'">'+
+        '<div class="lm"><b>'+esc(s.match)+'</b><span class="livesc" data-eid="'+(s.eventId||'')+'" data-ko="'+(s.ko!=null?s.ko:'')+'"></span><small>'+esc(s.market)+': <b>'+esc(s.pick)+'</b> @'+fmtOdd(s.odd)+(selectionProposersHtml(s)?' · '+selectionProposersHtml(s):'')+'</small></div>'+
+        '<button class="resbtn w '+(s.result==='won'?'on':'')+'" title="Tuttu">✓</button>'+
+        '<button class="resbtn l '+(s.result==='lost'?'on':'')+'" title="Yattı">✗</button>'+
+        '<button class="resbtn v '+(s.result==='void'?'on':'')+'" title="İade">–</button></div>';}).join('')+'</div>'+
+      '<div class="cfoot"><span>Net: <b class="'+(pnl>0?'pos':(st==='open'?'muted':'neg'))+'">'+(st==='open'?'Bekliyor':fmtTL(pnl))+'</b></span>'+
+      (c.createdBy?'<span class="muted">Yazan: '+nameSpan(c.createdBy)+'</span>':'')+
+      '<span class="grow"></span>'+
+      '<button class="btn tiny" data-act="copy">📋</button>'+
+      (st==='open'?'<button class="btn tiny" data-act="allwon">Hepsi tuttu</button><button class="btn tiny danger" data-act="alllost">Yattı</button>':'<button class="btn tiny" data-act="reopen">Geri aç</button>')+
+      '<button class="btn tiny danger" data-act="del">Sil</button></div></div>';
+  }).join('');
+  el.querySelectorAll('.coupon').forEach(function(box){
+    var c=S.coupons.filter(function(x){return x.id===box.dataset.id;})[0];
+    box.querySelectorAll('.legrow').forEach(function(row){
+      var s=c.selections.filter(function(x){return x.id===row.dataset.sid;})[0];
+      function setRes(v){s.result=s.result===v?'open':v;c.override=null;mutate('updateCoupon',c);}
+      row.querySelector('.w').onclick=function(){setRes('won');};
+      row.querySelector('.l').onclick=function(){setRes('lost');};
+      row.querySelector('.v').onclick=function(){setRes('void');};
+    });
+    box.querySelectorAll('[data-act]').forEach(function(b){b.onclick=function(){
+      var act=b.dataset.act;
+      if(act==='del'){if(confirm('Kupon silinsin mi?'))mutate('delCoupon',{id:c.id});}
+      else if(act==='allwon'){c.selections.forEach(function(s){s.result='won';});c.override=null;mutate('updateCoupon',c).then(function(){toast('Kupon TUTTU 🎉');});}
+      else if(act==='alllost'){c.override='lost';mutate('updateCoupon',c);}
+      else if(act==='reopen'){c.override=null;c.selections.forEach(function(s){s.result='open';});mutate('updateCoupon',c);}
+      else if(act==='copy'){
+        var st=couponStatus(c),odds=couponOdds(c);
+        var txt=(TYPE_WA[c.type]||'KUPON')+' KUPON – '+new Date(c.date+'T12:00').toLocaleDateString('tr-TR',{day:'numeric',month:'long'})+(st!=='open'?' ['+ST_TR[st]+']':'')+'\n'+
+          c.selections.map(function(s,i){return (i+1)+') '+s.match+' | '+s.market+': '+s.pick+' @'+fmtOdd(s.odd)+(selectionProposersText(s)?' ('+selectionProposersText(s)+')':'')+(s.result==='won'?' ✓':s.result==='lost'?' ✗':'');}).join('\n')+
+          '\n──────────\nToplam Oran: '+fmtOdd(odds)+'\nYatırım: '+fmtTL(c.stake)+'\n'+(st==='won'?'KAZANÇ: '+fmtTL(c.stake*odds):'Olası Kazanç: '+fmtTL(c.stake*odds));
+        copyText(txt).then(function(){toast('Kopyalandı');}).catch(function(){toast('Kopyalanamadı');});
+      }
+    };});
+  });
+  if(window._live)updateLiveUI(); // önbellekteki canlı skorları yeniden işle
+}
+document.querySelectorAll('.cf').forEach(function(b){b.onclick=function(){couponFilter=b.dataset.f;document.querySelectorAll('.cf').forEach(function(x){x.classList.toggle('on',x===b);});renderCoupons();};});
+
+/* ============ CANLI SKOR (açık kupondaki başlamış maçlar) ============ */
+function updateLiveUI(){
+  var m=Object.assign({},window._liveCache||{},window._live||{});
+  document.querySelectorAll('.livesc').forEach(function(el){
+    var sc=m[el.dataset.eid];
+    if(sc){
+      var fin=scoreIsFinal(sc, el.dataset.ko?Number(el.dataset.ko):null);
+      var t=' <b style="color:'+(fin?'var(--green)':'var(--red)')+'">'+(fin?'🏁 ':'🔴 ')+sc.h+'-'+sc.a;
+      if(!fin&&sc.min)t+=' · '+sc.min+"'";
+      else if(fin)t+=' · MS';
+      if((sc.hc||0)+(sc.ac||0)>0)t+=' · K:'+sc.hc+'-'+sc.ac;
+      if((sc.hy||0)+(sc.ay||0)>0)t+=' · 🟨'+sc.hy+'-'+sc.ay;
+      if((sc.hr||0)+(sc.ar||0)>0)t+=' · 🟥'+sc.hr+'-'+sc.ar;
+      el.innerHTML=t+'</b>';
+    }
+  });
+}
+/** Canlı skor / settle için uygun saat mi? 18:00–02:00 (yerel). */
+function inLiveScoreWindow(d){
+  d=d||new Date();
+  var h=d.getHours();
+  return h>=18||h<2;
+}
+/**
+ * İddaa skor çek + settle.
+ * @param {{background?:boolean}} opts background: sekme kapalıyken de çalış (saatlik job)
+ */
+function maybeFetchLive(opts){
+  opts=opts||{};
+  if(!opts.background&&document.getElementById('tab-coupons').style.display==='none')return;
+  // Pencere dışı: yeni İddaa isteği yok; cache varsa settle dene
+  if(!inLiveScoreWindow()){
+    if(!opts.background){updateLiveUI();autoSettleOpenCoupons({});}
+    return;
+  }
+  var ids={};
+  S.coupons.forEach(function(c){
+    if(c.override)return;
+    c.selections.forEach(function(s){
+      if(s.result!=='open'||!s.eventId||s.ko==null)return;
+      var age=Date.now()-Number(s.ko)*1000;
+      if(age>=0&&age<8*3600*1000)ids[s.eventId]=1;
+    });
+  });
+  var list=Object.keys(ids).map(Number);
+  if(!list.length){
+    if(!opts.background)autoSettleOpenCoupons({});
+    return;
+  }
+  // 18–02 arası en fazla saatte 1 İddaa isteği
+  if(window._liveAt&&Date.now()-window._liveAt<60*60*1000){
+    if(!opts.background){updateLiveUI();autoSettleOpenCoupons({});}
+    return;
+  }
+  window._liveAt=Date.now();
+  fetchLiveScoresClient(list).then(function(m){
+    mergeLiveCache(m||{});
+    window._live=m||{};
+    updateLiveUI();
+    return autoSettleOpenCoupons({});
+  }).catch(function(){});
+}
+document.getElementById('btnAutoSettle').addEventListener('click',function(ev){
+  ev.preventDefault();
+  ev.stopPropagation();
+  window._liveAt=0;
+  autoSettleOpenCoupons({manual:true,forceUi:true});
+});
+// Akşam penceresinde uygulama açıksa saatte bir dene
+setInterval(function(){
+  if(document.visibilityState==='visible')maybeFetchLive({background:true});
+},60*60*1000);
+
+/* ============ İSTATİSTİK ============ */
+var chart=null;
+/* Son kasa sıfırlama: ~38.707 (Ayarlar’dan girilen tutar) */
+var STATS_DEFAULT_START=38707;
+var STATS_DEFAULT_FROM='2026-07-20';
+function loadStatsStartBal(){
+  try{
+    var v=Number(localStorage.getItem('kk-stats-start'));
+    if(!isNaN(v)&&v>0)return v;
+  }catch(e){}
+  return STATS_DEFAULT_START;
+}
+function saveStatsStartBal(v){
+  try{localStorage.setItem('kk-stats-start',String(v));localStorage.setItem('kk-stats-from',todayStr());}catch(e){}
+}
+var STATS_START_BAL=loadStatsStartBal();
+function statsEpoch(){
+  try{
+    var f=localStorage.getItem('kk-stats-from');
+    if(f)return f;
+  }catch(e){}
+  return STATS_DEFAULT_FROM;
+}
+function statsCoupons(){
+  var from=statsEpoch();
+  return (S.coupons||[]).filter(function(c){return String(c.date||'')>=from;});
+}
+function statsAdjustments(){
+  var from=statsEpoch();
+  return (S.adjustments||[]).filter(function(a){return String(a.date||'')>=from;});
+}
+function proposalStatsDate(p){
+  if(p&&p.date)return String(p.date).slice(0,10);
+  if(p&&p.createdAt)return dstr(new Date(p.createdAt));
+  return '';
+}
+function statsProposals(){
+  var from=statsEpoch();
+  return (S.proposals||[]).filter(function(p){
+    var d=proposalStatsDate(p);
+    return !d||d>=from;
+  });
+}
+function statsBalance(){
+  var b=STATS_START_BAL;
+  statsAdjustments().forEach(function(a){b+=Number(a.amount)||0;});
+  statsCoupons().forEach(function(c){b+=couponPnl(c);});
+  return b;
+}
+function settledNet(){
+  var n=0;
+  statsAdjustments().forEach(function(a){n+=Number(a.amount)||0;});
+  statsCoupons().forEach(function(c){
+    var st=couponStatus(c);
+    if(st==='open')return;
+    n+=couponPnl(c);
+  });
+  return n;
+}
+function renderStats(){
+  var from=statsEpoch();
+  var cs=statsCoupons();
+  var settled=cs.filter(function(c){return ['won','lost','void'].indexOf(couponStatus(c))>=0;});
+  var won=settled.filter(function(c){return couponStatus(c)==='won';});
+  var totStake=cs.reduce(function(a,c){return a+(Number(c.stake)||0);},0);
+  var net=settledNet();
+  var settledStake=settled.reduce(function(a,c){return a+(Number(c.stake)||0);},0);
+  var roi=settledStake?net/settledStake*100:0;
+  var kasa=statsBalance();
+  document.getElementById('statGrid').innerHTML=[
+    ['Güncel Kasa',fmtTL(kasa),kasa>=STATS_START_BAL?'pos':'neg'],
+    ['Net Kâr/Zarar',(net>=0?'+':'')+fmtTL(net),net>=0?'pos':'neg'],
+    ['Kupon',cs.length+' adet · '+fmtTL(totStake),''],
+    ['Tutan / Yatan',won.length+' / '+settled.filter(function(c){return couponStatus(c)==='lost';}).length,''],
+    ['İsabet',settled.length?Math.round(won.length/settled.length*100)+'%':'–',''],
+    ['ROI',(roi>=0?'+':'')+roi.toFixed(1)+'%',roi>=0?'pos':'neg']
+  ].map(function(x){return '<div class="stat"><label>'+x[0]+'</label><span class="'+x[2]+'">'+x[1]+'</span></div>';}).join('');
+
+  var rows=['banko','plase','surpriz','uzun','diger'].map(function(t){
+    var tcs=cs.filter(function(c){return c.type===t;});if(!tcs.length)return '';
+    var sd=tcs.filter(function(c){return couponStatus(c)!=='open';});
+    var w=sd.filter(function(c){return couponStatus(c)==='won';}).length;
+    var n=sd.reduce(function(a,c){return a+couponPnl(c);},0);
+    return '<tr><td><span class="pill '+t+'">'+TYPE_TR[t]+'</span></td><td>'+tcs.length+'</td><td>'+w+' / '+sd.length+'</td><td>'+(sd.length?Math.round(w/sd.length*100)+'%':'–')+'</td><td class="'+(n>=0?'pos':'neg')+'">'+(n>=0?'+':'')+fmtTL(n)+'</td></tr>';
+  }).join('');
+  document.getElementById('typeTable').innerHTML='<tr><th>Tür</th><th>Kupon</th><th>Tutan/Biten</th><th>İsabet</th><th>Net</th></tr>'+(rows||'<tr><td colspan="5" class="muted">Bu dönem için kupon yok</td></tr>');
+
+  // Gönüllerin Baronu — 38.707 döneminden itibaren
+  var likeMap={};
+  var props=statsProposals();
+  props.forEach(function(p){
+    var votes=p.votes||[];
+    var names=[p.by].concat(p.also||[]).filter(Boolean);
+    var seen={};
+    names.forEach(function(n){
+      n=String(n).trim();if(!n||seen[n])return;seen[n]=1;
+      if(!likeMap[n])likeMap[n]={likes:0,props:0};
+      var others=votes.filter(function(v){return String(v).trim()!==n;}).length;
+      likeMap[n].likes+=others;
+      likeMap[n].props+=1;
+    });
+  });
+  function likeRatio(row){return row.props?row.likes/row.props:0;}
+  var likeNames=Object.keys(likeMap).sort(function(a,b){
+    var ra=likeRatio(likeMap[a]),rb=likeRatio(likeMap[b]);
+    return rb-ra||likeMap[b].likes-likeMap[a].likes||likeMap[b].props-likeMap[a].props||a.localeCompare(b,'tr');
+  });
+  var totalLikes=likeNames.reduce(function(a,n){return a+likeMap[n].likes;},0);
+  var totalProps=props.length;
+  var likeRows=likeNames.map(function(n,i){
+    var row=likeMap[n];
+    var crown=i===0&&row.likes>0?' 🏆':'';
+    return '<tr><td>'+(i+1)+'. '+nameSpan(n)+crown+'</td><td><b>'+row.likes+'</b></td><td>'+row.props+'</td></tr>';
+  }).join('');
+  document.getElementById('likesTable').innerHTML=
+    '<tr><th>Kişi</th><th>Like</th><th>Öneri</th></tr>'+
+    (likeRows||'<tr><td colspan="3" class="muted">Bu dönem için öneri yok</td></tr>')+
+    (likeNames.length?'<tr><td><b>Toplam</b></td><td><b>'+totalLikes+'</b></td><td><b>'+totalProps+'</b></td></tr>':'');
+
+  var perf={};
+  var betBag={}; // name -> betKey -> result
+  cs.forEach(function(c){c.selections.forEach(function(s){
+    var key=selectionBetKey(s);
+    if(!key)return;
+    var names=selectionProposers(s);
+    if(!names.length)return;
+    var r=s.result||'open';
+    names.forEach(function(n){
+      betBag[n]=betBag[n]||{};
+      var prev=betBag[n][key];
+      if(!prev||prev==='open')betBag[n][key]=r;
+      else if(r!=='open'&&r!==prev)betBag[n][key]=r;
+    });
+  });});
+  Object.keys(betBag).forEach(function(n){
+    var map=betBag[n],t=0,w=0,l=0;
+    Object.keys(map).forEach(function(k){
+      t++;
+      if(map[k]==='won')w++;
+      else if(map[k]==='lost')l++;
+    });
+    perf[n]={t:t,w:w,l:l};
+  });
+  var mrows=Object.keys(perf).sort(function(a,b){
+    var pa=perf[a],pb=perf[b];
+    return (pb.w/((pb.w+pb.l)||1))-(pa.w/((pa.w+pa.l)||1));
+  }).map(function(m){var p=perf[m];var done=p.w+p.l;
+    return '<tr><td>'+nameSpan(m)+'</td><td>'+p.t+'</td><td>'+p.w+'</td><td>'+p.l+'</td><td>'+(done?Math.round(p.w/done*100)+'%':'–')+'</td></tr>';}).join('');
+  document.getElementById('memberTable').innerHTML='<tr><th>Kişi</th><th>Bahis</th><th>Tutan</th><th>Yatan</th><th>İsabet</th></tr>'+(mrows||'<tr><td colspan="5" class="muted">Bu dönem kuponları sonuçlandıkça burada görünür.</td></tr>');
+
+  var adjs=statsAdjustments();
+  document.getElementById('adjTable').innerHTML=adjs.length?'<tr><th>Tarih</th><th>Tutar</th><th>Not</th><th></th></tr>'+
+    adjs.map(function(a){return '<tr><td>'+a.date+'</td><td class="'+(a.amount>=0?'pos':'neg')+'">'+(a.amount>=0?'+':'')+fmtTL(a.amount)+'</td><td>'+esc(a.note||'')+'</td><td><button class="btn tiny danger" data-adj="'+a.id+'">✕</button></td></tr>';}).join(''):'';
+  document.querySelectorAll('[data-adj]').forEach(function(b){b.onclick=function(){mutate('delAdj',{id:b.dataset.adj});};});
+
+  var evts=[];
+  adjs.forEach(function(a){evts.push({d:a.date,v:Number(a.amount)||0});});
+  cs.forEach(function(c){evts.push({d:c.date,v:couponPnl(c)});});
+  evts.sort(function(a,b){return a.d.localeCompare(b.d);});
+  var byDay={};evts.forEach(function(e){byDay[e.d]=(byDay[e.d]||0)+e.v;});
+  var days=Object.keys(byDay).sort();
+  var run=STATS_START_BAL;
+  var labels=[new Date(from+'T12:00').toLocaleDateString('tr-TR',{day:'numeric',month:'short'})];
+  var data=[Math.round(run)];
+  days.forEach(function(d){
+    run+=byDay[d];
+    if(d===from)return;
+    labels.push(new Date(d+'T12:00').toLocaleDateString('tr-TR',{day:'numeric',month:'short'}));
+    data.push(Math.round(run));
+  });
+  if(chart)chart.destroy();
+  chart=new Chart(document.getElementById('chart').getContext('2d'),{type:'line',
+    data:{labels:labels,datasets:[{label:'Kasa (TL)',data:data,borderColor:'#101f4a',backgroundColor:'rgba(255,122,26,.2)',fill:true,tension:.3,pointRadius:3,pointBackgroundColor:'#ff7a1a'}]},
+    options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}}}});
+}
+document.getElementById('btnAdj').onclick=function(){
+  var amt=Number(document.getElementById('adjAmount').value);
+  if(!amt){toast('Tutar gir (eksi de olabilir)');return;}
+  mutate('addAdj',{id:uid(),date:todayStr(),amount:amt,note:document.getElementById('adjNote').value.trim(),by:ME.name}).then(function(){
+    document.getElementById('adjAmount').value='';document.getElementById('adjNote').value='';
+  });
+};
+
+/* ============ AYARLAR ============ */
+function renderSettings(){
+  // Alanda mevcut kasayı göster (38.707 döneminden); kayınca bu tutar güncel kasayı ezer
+  var elStart=document.getElementById('setStart');
+  if(elStart)elStart.value=Math.round(statsBalance());
+  var el=document.getElementById('memberInputs');
+  el.innerHTML=(S.settings.members||[]).map(function(m,i){return '<input data-mi="'+i+'" value="'+esc(m)+'" placeholder="'+(i+1)+'. kişi">';}).join('');
+}
+document.getElementById('btnSaveSettings').onclick=function(){
+  var members=[];
+  document.querySelectorAll('#memberInputs input').forEach(function(inp){members[Number(inp.dataset.mi)]=inp.value;});
+  var target=Number(document.getElementById('setStart').value);
+  if(isNaN(target)){toast('Geçerli bir kasa tutarı gir');return;}
+  var newStart=startBalanceForTarget(target);
+  mutate('saveSettings',{start:newStart,members:members,pin:null}).then(function(){
+    STATS_START_BAL=target;
+    saveStatsStartBal(target);
+    toast('Kasa '+fmtTL(target)+' olarak ayarlandı');
+    renderHeader();
+    if(document.getElementById('tab-stats').style.display!=='none')renderStats();
+  });
+};
+
+/* ============ NAV / INIT ============ */
+function switchTab(t){
+  ['props','build','coupons','stats','settings'].forEach(function(x){
+    var el=document.getElementById('tab-'+x);
+    if(el)el.style.display=x===t?'':'none';
+  });
+  document.querySelectorAll('ion-tab-button').forEach(function(b){
+    if(b.tab===t)b.setAttribute('selected','true');
+    else b.removeAttribute('selected');
+  });
+  if(t==='stats')renderStats();
+  if(t==='props'){
+    renderProps();
+    maybeSyncProposalOdds(false);
+  }
+  if(t==='coupons')refreshData().then(maybeFetchLive);
+  renderBuilder();
+}
+document.querySelectorAll('ion-tab-button').forEach(function(b){
+  b.addEventListener('click',function(ev){ev.preventDefault();switchTab(b.tab);});
+});
+document.querySelectorAll('.dayf').forEach(function(b){b.onclick=function(){dayFilter=b.dataset.day;document.querySelectorAll('.dayf').forEach(function(x){x.classList.toggle('on',x===b);});renderMatches();renderProposeQuota();};});
+document.querySelectorAll('.pdf').forEach(function(b){b.onclick=function(){
+  propDayFilter=b.dataset.pdf||'all';
+  document.querySelectorAll('.pdf').forEach(function(x){x.classList.toggle('on',x===b);});
+  renderProps();
+};});
+(function(){
+  var bBtn=document.getElementById('propBFilter');
+  if(!bBtn)return;
+  bBtn.onclick=function(){
+    propBFilter=!propBFilter;
+    bBtn.classList.toggle('on',propBFilter);
+    bBtn.setAttribute('aria-pressed',propBFilter?'true':'false');
+    renderProps();
+  };
+})();
+document.getElementById('popChip').onclick=function(){popSort=!popSort;this.classList.toggle('on',popSort);if(popSort){specMode=false;document.getElementById('specChip').classList.remove('on');}renderLeagueChips();renderMatches();};
+document.getElementById('specChip').onclick=function(){specMode=!specMode;this.classList.toggle('on',specMode);if(specMode){popSort=false;document.getElementById('popChip').classList.remove('on');}renderLeagueChips();renderMatches();};
+document.getElementById('searchBox').oninput=function(e){searchQ=e.target.value.trim();renderMatches();};
+document.getElementById('btnFetch').onclick=fetchEvents;
+document.getElementById('btnRefresh').onclick=function(){
+  refreshData().then(function(){return maybeSyncProposalOdds(true);});
+};
+
+function refreshData(){
+  return rpc('bootstrap').then(function(b){
+    // Kayıt bekleyen oyları sunucu cevabı ezmesin
+    var pending={};
+    Object.keys(_votePending).forEach(function(id){
+      var loc=getProposal(id);if(loc)pending[id]=loc;
+    });
+    S=b;
+    Object.keys(pending).forEach(function(id){
+      for(var i=0;i<S.proposals.length;i++){
+        if(String(S.proposals[i].id)===String(id)){S.proposals[i]=pending[id];break;}
+      }
+    });
+    renderAll();
+  }).catch(function(e){toast('Veri çekilemedi');});
+}
+function renderAll(){renderHeader();renderProps();renderBuilder();renderBasket();renderCoupons();renderSettings();
+  if(document.getElementById('tab-stats').style.display!=='none')renderStats();}
+
+document.getElementById('bDate').value=todayStr();
+function bootApp(){
+  restoreSession();
+  checkAppUpdate();
+  if(ME.name)setLoginOpen(false);
+  refreshData().then(function(){
+    tryAutoLogin();
+    fetchEvents();
+    startRealtime();
+  }).catch(function(){
+    tryAutoLogin();
+  });
+}
+if(window.customElements&&customElements.whenDefined){
+  Promise.all([customElements.whenDefined('ion-app'),customElements.whenDefined('ion-modal')]).then(bootApp).catch(bootApp);
+}else bootApp();
+// Sayfa açıkken oranlar saatte bir kendiliğinden tazelenir
+setInterval(function(){ if(document.visibilityState==='visible')fetchEvents(); }, 60*60*1000);
+
+function applyVotesToProposal(proposalId,rows){
+  var pr=getProposal(proposalId);
+  if(!pr)return;
+  var ups=[],downs=[];
+  (rows||[]).forEach(function(v){
+    if(v.kind==='up')ups.push(v.member_name);
+    else downs.push(v.member_name);
+  });
+  if(_votePending[proposalId])return; // kendi optimistic oyu bitene kadar ezme
+  pr.votes=ups;pr.downs=downs;
+  patchPropCard(pr);
+}
+function fetchVotesForProposal(proposalId){
+  return sbFetch('proposal_votes?proposal_id=eq.'+encodeURIComponent(proposalId)+'&select=*')
+    .then(function(rows){applyVotesToProposal(proposalId,rows||[]);});
+}
+function softRefreshFromServer(){
+  sbBootstrap().then(function(b){
+    var pending={};
+    Object.keys(_votePending).forEach(function(id){
+      var loc=getProposal(id);if(loc)pending[id]={votes:(loc.votes||[]).slice(),downs:(loc.downs||[]).slice()};
+    });
+    S=b;
+    Object.keys(pending).forEach(function(id){
+      var pr=getProposal(id);
+      if(pr){pr.votes=pending[id].votes;pr.downs=pending[id].downs;}
+    });
+    renderHeader();renderProps();renderCoupons();
+    if(document.getElementById('tab-stats').style.display!=='none')renderStats();
+  }).catch(function(){});
+}
+var _updateCheckBusy=false;
+function checkAppUpdate(){
+  if(_updateCheckBusy)return Promise.resolve();
+  _updateCheckBusy=true;
+  return fetch('version.json?t='+Date.now(),{cache:'no-store'}).then(function(r){
+    if(!r.ok)throw new Error('version');
+    return r.json();
+  }).then(function(d){
+    var v=d&&d.v;if(!v)return;
+    var cur='';
+    try{cur=localStorage.getItem('kk-app-ver')||'';}catch(e){}
+    if(!cur){
+      try{localStorage.setItem('kk-app-ver',v);}catch(e){}
+      return;
+    }
+    if(cur!==v){
+      try{localStorage.setItem('kk-app-ver',v);}catch(e){}
+      var base=location.pathname||'/';
+      location.replace(base+'?v='+encodeURIComponent(v)+'&t='+Date.now());
+    }
+  }).catch(function(){}).finally(function(){_updateCheckBusy=false;});
+}
+window.kkCheckUpdate=checkAppUpdate;
+var _rtPollTimer=null,_rtLive=false;
+function startVotePoll(){
+  if(_rtPollTimer)return;
+  _rtPollTimer=setInterval(function(){
+    if(document.visibilityState==='visible')softRefreshFromServer();
+  },3000);
+}
+function stopVotePoll(){
+  if(_rtPollTimer){clearInterval(_rtPollTimer);_rtPollTimer=null;}
+}
+function onVoteChange(payload){
+  var row=(payload&&payload.new)||(payload&&payload.old)||null;
+  var pid=row&&row.proposal_id;
+  if(pid)fetchVotesForProposal(pid).catch(function(){softRefreshFromServer();});
+  else softRefreshFromServer();
+}
+function startRealtime(){
+  document.addEventListener('visibilitychange',function(){
+    if(document.visibilityState==='visible'){
+      checkAppUpdate();
+      softRefreshFromServer();
+    }
+  });
+  setInterval(function(){
+    if(document.visibilityState==='visible')checkAppUpdate();
+  },15*60*1000);
+  if(!window.supabase||!SB_URL||!SB_KEY){
+    startVotePoll();
+    return;
+  }
+  try{
+    var client=window.supabase.createClient(SB_URL,SB_KEY);
+    client.channel('kk-live')
+      .on('postgres_changes',{event:'*',schema:'public',table:'proposal_votes'},onVoteChange)
+      .on('postgres_changes',{event:'*',schema:'public',table:'proposals'},softRefreshFromServer)
+      .on('postgres_changes',{event:'*',schema:'public',table:'coupons'},softRefreshFromServer)
+      .on('postgres_changes',{event:'*',schema:'public',table:'adjustments'},softRefreshFromServer)
+      .subscribe(function(status){
+        if(status==='SUBSCRIBED'){_rtLive=true;stopVotePoll();}
+        else if(status==='CHANNEL_ERROR'||status==='TIMED_OUT'||status==='CLOSED'){
+          _rtLive=false;startVotePoll();
+        }
+      });
+    // abone olana kadar kısa poll
+    startVotePoll();
+  }catch(e){
+    startVotePoll();
+  }
+}
+
+</script>
+</body>
+</html>
