@@ -2362,17 +2362,17 @@ var EV=[],COMPS={},dayFilter='today',leagueFilter=null,searchQ='';
 var WC_CI=202607;
 /* Öneri Yap — sadece bu ligler (sıra önemli) */
 var LEAGUE_ALLOW=[
-  {label:'Türkiye Süper Ligi', test:function(n){return /türkiye.*süper\s*lig|trendyol\s*süper/i.test(n)&&!/1\.\s*lig|kupa|kadın|u1[89]|u2[01]/i.test(n);}},
-  {label:'Premier Lig', test:function(n){return /(ingiltere|İngiltere|england).*(premier|epl)/i.test(n)&&!/şili|rusya|irlanda|çek|czech|lebanon|çin|iskoç|scotland|chile|russia|slovak|sloven/i.test(n);}},
-  {label:'Fransa Ligi', test:function(n){return /fransa.*(ligue\s*1|1\.\s*lig)|ligue\s*1/i.test(n)&&!/ligue\s*2|kadın/i.test(n);}},
-  {label:'Bundesliga', test:function(n){return /(almanya|germany|deutschland).*(bundesliga|1\.\s*lig)|^bundesliga$/i.test(n)&&!/avusturya|österreich|osterreich|austria|2\.|3\.|kadın|frauen/i.test(n);}},
-  {label:'Serie A', test:function(n){return /(italya|İtalya).*serie\s*a|(^|\s)serie\s*a(\s|$)/i.test(n)&&!/brezilya|serie\s*b|kadın/i.test(n);}},
-  {label:'La Liga', test:function(n){return /(ispanya|İspanya).*la\s*liga|(^|\s)la\s*liga(\s|$)|laliga/i.test(n)&&!/2|smartbank|hypermotion|kadın/i.test(n);}},
-  {label:'Eredivisie', test:function(n){return /(hollanda|netherlands|nederland).*eredivisie|(^|\s)eredivisie(\s|$)/i.test(n)&&!/2|eerste|kadın|vrouwen/i.test(n);}},
-  {label:'Primeira Liga', test:function(n){return /(portekiz|portugal).*(primeira|liga\s*portugal)|(^|\s)primeira\s*liga(\s|$)/i.test(n)&&!/2|segunda|kadın/i.test(n);}},
-  {label:'UCL', test:function(n){return /uefa.*şampiyonlar|uefa.*champions/i.test(n)&&!/kadın|genç|youth|women|afc|asya|asian/i.test(n);}},
-  {label:'Avrupa Ligi', test:function(n){return /uefa.*avrupa|uefa.*europa/i.test(n)&&!/konferans|conference|kadın/i.test(n);}},
-  {label:'Konferans Ligi', test:function(n){return /uefa.*konferans|uefa.*conference/i.test(n)&&!/kadın|women/i.test(n);}}
+  {label:'Türkiye Süper Ligi', test:function(n){return /türkiye.*süper\s*lig|trendyol\s*süper/i.test(n)&&!/1\.\s*lig|kupa|kadın|u1[89]|u2[0-3]|genç|youth/i.test(n);}},
+  {label:'Premier Lig', test:function(n){return /(ingiltere|İngiltere|england).*(premier|epl)/i.test(n)&&!/şili|rusya|irlanda|çek|czech|lebanon|çin|iskoç|scotland|chile|russia|slovak|sloven|u1[89]|u2[0-3]|genç|youth/i.test(n);}},
+  {label:'Fransa Ligi', test:function(n){return /fransa.*(ligue\s*1|1\.\s*lig)|ligue\s*1/i.test(n)&&!/ligue\s*2|kadın|u1[89]|u2[0-3]|genç|youth/i.test(n);}},
+  {label:'Bundesliga', test:function(n){return /(almanya|germany|deutschland).*(bundesliga|1\.\s*lig)|^bundesliga$/i.test(n)&&!/avusturya|österreich|osterreich|austria|2\.|3\.|kadın|frauen|u1[89]|u2[0-3]|genç|youth/i.test(n);}},
+  {label:'Serie A', test:function(n){return /(italya|İtalya).*serie\s*a|(^|\s)serie\s*a(\s|$)/i.test(n)&&!/brezilya|serie\s*b|kadın|u1[89]|u2[0-3]|genç|youth|primavera/i.test(n);}},
+  {label:'La Liga', test:function(n){return /(ispanya|İspanya).*la\s*liga|(^|\s)la\s*liga(\s|$)|laliga/i.test(n)&&!/2|smartbank|hypermotion|kadın|u1[89]|u2[0-3]|genç|youth/i.test(n);}},
+  {label:'Eredivisie', test:function(n){return /(hollanda|netherlands|nederland).*eredivisie|(^|\s)eredivisie(\s|$)/i.test(n)&&!/2|eerste|kadın|vrouwen|u1[89]|u2[0-3]|genç|youth|jong/i.test(n);}},
+  {label:'Primeira Liga', test:function(n){return /(portekiz|portugal).*(primeira|liga\s*portugal)|(^|\s)primeira\s*liga(\s|$)/i.test(n)&&!/2|segunda|kadın|u1[89]|u2[0-3]|genç|youth|sub/i.test(n);}},
+  {label:'UCL', test:function(n){return /uefa.*şampiyonlar|uefa.*champions/i.test(n)&&!/kadın|genç|youth|women|afc|asya|asian|u1[89]|u2[0-3]/i.test(n);}},
+  {label:'Avrupa Ligi', test:function(n){return /uefa.*avrupa|uefa.*europa/i.test(n)&&!/konferans|conference|kadın|u1[89]|u2[0-3]|genç|youth/i.test(n);}},
+  {label:'Konferans Ligi', test:function(n){return /uefa.*konferans|uefa.*conference/i.test(n)&&!/kadın|women|u1[89]|u2[0-3]|genç|youth/i.test(n);}}
 ];
 var LEAGUE_ID_HINTS={
   126:'UCL',23986:'Konferans Ligi',588:'Avrupa Ligi',71522:'UCL',76759:'Konferans Ligi',
