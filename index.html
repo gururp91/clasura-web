@@ -2368,6 +2368,8 @@ var LEAGUE_ALLOW=[
   {label:'Bundesliga', test:function(n){return /(almanya|germany|deutschland).*(bundesliga|1\.\s*lig)|^bundesliga$/i.test(n)&&!/avusturya|österreich|osterreich|austria|2\.|3\.|kadın|frauen/i.test(n);}},
   {label:'Serie A', test:function(n){return /(italya|İtalya).*serie\s*a|(^|\s)serie\s*a(\s|$)/i.test(n)&&!/brezilya|serie\s*b|kadın/i.test(n);}},
   {label:'La Liga', test:function(n){return /(ispanya|İspanya).*la\s*liga|(^|\s)la\s*liga(\s|$)|laliga/i.test(n)&&!/2|smartbank|hypermotion|kadın/i.test(n);}},
+  {label:'Eredivisie', test:function(n){return /(hollanda|netherlands|nederland).*eredivisie|(^|\s)eredivisie(\s|$)/i.test(n)&&!/2|eerste|kadın|vrouwen/i.test(n);}},
+  {label:'Primeira Liga', test:function(n){return /(portekiz|portugal).*(primeira|liga\s*portugal)|(^|\s)primeira\s*liga(\s|$)/i.test(n)&&!/2|segunda|kadın/i.test(n);}},
   {label:'UCL', test:function(n){return /uefa.*şampiyonlar|uefa.*champions/i.test(n)&&!/kadın|genç|youth|women|afc|asya|asian/i.test(n);}},
   {label:'Avrupa Ligi', test:function(n){return /uefa.*avrupa|uefa.*europa/i.test(n)&&!/konferans|conference|kadın/i.test(n);}},
   {label:'Konferans Ligi', test:function(n){return /uefa.*konferans|uefa.*conference/i.test(n)&&!/kadın|women/i.test(n);}}
