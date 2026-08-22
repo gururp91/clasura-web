@@ -1,0 +1,4760 @@
+{
+  "3072523": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Fortuna Sittard",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "AZ Alkmaar",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3082408": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "1. FC Nürnberg (K)",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Wolfsburg (K)",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3074704": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Club Deportivo Eldense",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Cadiz",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3074521": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Valencia",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Celta Vigo",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3071748": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "AFC Ajax (K)",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "PEC Zwolle (K)",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3074160": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "AD Ceuta",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Las Palmas",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3074467": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Real Oviedo",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Leganes",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3072369": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Zulte Waregem",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "SK Beveren",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3072215": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Troyes",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Paris",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3072051": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Inter",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "AC Monza",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3071933": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Udinese",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Como 1907",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3071457": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Parma",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Cagliari",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3074606": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Rizespor",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Samsunspor",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3071928": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Feyenoord (K)",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "AZ Alkmaar (K)",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3071525": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Toulouse",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Lyon",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3082314": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Eintracht Frankfurt (K)",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "FC Köln (K)",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3071456": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Antwerp",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "KRC Genk",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3165072": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Süper Lig 2. Hafta",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Cumartesi Maçları (3 Maç)",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3071658": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Nice",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Lorient",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3071265": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Heerenveen",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Zwolle",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3072473": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Maritimo",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "A. de Viseu ",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3074637": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Espanyol",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Real Madrid",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3071388": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Estoril Praia",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Rio Ave",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3074713": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Fenerbahçe",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Konyaspor",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3074191": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Çorum FK",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Kasımpaşa",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3071617": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Le Mans",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Brest",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3071275": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Sparta Rotterdam",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Utrecht",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3074609": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Athletic Bilbao",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Sevilla",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3074384": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Albacete",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Real Sociedad B",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3072435": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "RC Lens",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "AJ Auxerre",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3162736": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Serie A",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "1. Hafta (10 Maç)",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3071255": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "PSV Eindhoven (K)",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "FC Utrecht (K)",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3071267": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Charleroi",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Mechelen",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3071307": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Genoa",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Napoli",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3071767": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Sporting Lizbon",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Alverca FC",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3165049": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "CD Eldense",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Cadiz",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159751": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Sporting Lizbon",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Alverca",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159734": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Heerenveen",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Zwolle",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159685": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Parma",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Cagliari",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159644": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Toulouse FC",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Olympique Lyonnais",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159643": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "OGC Nice",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "FC Lorient",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159490": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Antwerp",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "KRC Genk",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159645": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Troyes",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Paris FC",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159684": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Genoa",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Napoli",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159642": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Le Mans",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Brest",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159852": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Fenerbahçe",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Konyaspor",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159733": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "NEC Nijmegen",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Excelsior",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3165048": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Albacete Balompié",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Real Sociedad B",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3165047": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "AD Ceuta FC",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "UD Las Palmas",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159750": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Estoril-Praia",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Rio Ave",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159732": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Sparta Rotterdam",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Utrecht",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159683": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Udinese",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Como",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159682": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Inter",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "AC Monza",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159489": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Charleroi",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Mechelen",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159851": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Çorum FK",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Kasımpaşa",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159850": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Rizespor",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Samsunspor",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159641": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "RC Lens",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "AJ Auxerre",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3165046": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Real Oviedo",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Leganés",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159749": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Marítimo",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "Académico de Viseu",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159731": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Fortuna Sittard",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "AZ Alkmaar",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  },
+  "3159488": {
+    "ok": true,
+    "source": "SportAPI (SofaScore Live)",
+    "updatedAt": "2026-08-22T06:48:58.952258Z",
+    "home": {
+      "name": "Zulte Waregem",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "away": {
+      "name": "SK Beveren",
+      "form": [
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "Son Maç"
+        },
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Lig Maçı"
+        },
+        {
+          "res": "D",
+          "score": "1-1",
+          "opp": "Deplasman"
+        },
+        {
+          "res": "W",
+          "score": "2-1",
+          "opp": "Kupa"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Lig Maçı"
+        }
+      ],
+      "gfTot": 9,
+      "gaTot": 3,
+      "gfAvg": "1.8",
+      "gaAvg": "0.6",
+      "missing": []
+    },
+    "homePct": 52,
+    "drawPct": 26,
+    "awayPct": 22
+  }
+}
