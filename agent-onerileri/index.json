@@ -1,0 +1,53 @@
+{
+  "surum": "2.1",
+  "ad": "Agent Önerileri — günlük bahis raporu",
+  "aciklama": "Her tur bir rapor dosyası. İstemci kasa.json'ı okur, arşiv için gunler listesini kullanır.",
+  "guncelleme": "2026-09-06T20:42:00+03:00",
+  "son_tarih": "2026-09-06",
+  "karne_ozeti": [
+    {
+      "ad": "Bacak 1 — Değer",
+      "kapanan": 2,
+      "tuttu": 0,
+      "isabet": 0.0
+    },
+    {
+      "ad": "Bacak 2 — Futbol",
+      "kapanan": 1,
+      "tuttu": 0,
+      "isabet": 0.0
+    },
+    {
+      "ad": "Bacak 3 — Hareket",
+      "kapanan": 0,
+      "tuttu": 0,
+      "isabet": null
+    },
+    {
+      "ad": "DataGaffer %100",
+      "kapanan": 10,
+      "tuttu": 8,
+      "isabet": 80.0
+    }
+  ],
+  "gunler": [
+    {
+      "tarih": "2026-09-06",
+      "dosya": "kasa.json",
+      "kasadan_oynanan": 0,
+      "kagit_uzeri": 4,
+      "kasa_cumlesi": "Bugün kasadan oynanan bahis yok.",
+      "uretim_zamani": "2026-09-06T20:42:00+03:00",
+      "tur": "2. tur"
+    },
+    {
+      "tarih": "2026-09-06",
+      "dosya": "2026-09-06.json",
+      "kasadan_oynanan": 0,
+      "kagit_uzeri": 6,
+      "kasa_cumlesi": "Bugün kasadan oynanan bahis yok.",
+      "uretim_zamani": "2026-09-06T19:58:00+03:00",
+      "tur": "1. tur"
+    }
+  ]
+}

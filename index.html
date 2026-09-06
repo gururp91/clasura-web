@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="tr"><!-- AUTO-GENERATED from index.html by build-web-test.sh (v=20260906-185537) — DO NOT EDIT MANUALLY -->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Clasura Bahis Baronları</title>
+  window.CLASURA_BUILD_VER = "20260814-v2";
+  try {
+    if (localStorage.getItem('kk-build-ver') !== window.CLASURA_BUILD_VER) {
+      localStorage.setItem('kk-build-ver', window.CLASURA_BUILD_VER);
+      localStorage.removeItem('kk-ev');
+      localStorage.removeItem('kk-comps');
+    }
+  } catch(e){}
+  /* İsim hatırlama: cookie / session → localStorage (Safari / Simulator yedekleri) */
+  (function(){
+    try{
+      var n=localStorage.getItem('kk-name')||'';
+      if(!n){
+        try{n=sessionStorage.getItem('kk-name')||'';}catch(e){}
+      }
+      if(!n){
+        var m=document.cookie.match(/(?:^|; )kk-name=([^;]*)/);
+        if(m)n=decodeURIComponent(m[1]||'');
+      }
+      n=(n||'').trim();
+      if(n){
+        localStorage.setItem('kk-name',n);
+        try{sessionStorage.setItem('kk-name',n);}catch(e){}
+      }
+    }catch(e){}
+  })();
+  window.Ionic = { config: { mode: 'ios', rippleEffect: false } };
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@ionic/core@8/css/ionic.bundle.css" />
+<script type="module" src="https://cdn.jsdelivr.net/npm/@ionic/core@8/dist/ionic/ionic.esm.js"></script>
+<script nomodule src="https://cdn.jsdelivr.net/npm/@ionic/core@8/dist/ionic/ionic.js"></script>
+<script type="module" src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://cdn.jsdelivr.net/npm/ionicons@7.4.0/dist/ionicons/ionicons.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<script type="module">
+  import { toastController } from 'https://cdn.jsdelivr.net/npm/@ionic/core@8/dist/ionic/index.esm.js';
+  window.toastController = toastController;
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.js"></script>
+<script>
+window.SB_URL = "https://wuhdnfhnweuydnfjwdxb.supabase.co";
+window.SB_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind1aGRuZmhud2V1eWRuZmp3ZHhiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODM3NDgwMzYsImV4cCI6MjA5OTMyNDAzNn0.64uBMG-DGOUKwbBPyU6a3GArB0wIONig8REh2OzSEsw";
+window.USE_SUPABASE = true;
+var SB_URL = window.SB_URL;
+var SB_KEY = window.SB_KEY;
+var USE_SUPABASE = window.USE_SUPABASE;
+</script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.49.1/dist/umd/supabase.min.js"></script>
+<link rel="stylesheet" href="css/app.bundle.css?v=20260906-185537">
+</head>
+<body>
+<ion-app>
+<div id="busy"></div>
+
+<header class="app-header">
+  <div class="app-header-top">
+    <div class="hdr-brand">
+      <svg class="logo" width="36" height="36" viewBox="70 60 372 380" xmlns="http://www.w3.org/2000/svg"><path d="M150 336 L150 148 L186 108 L214 148 L256 96 L298 148 L326 108 L362 148 L362 336 Z" fill="#7d1f35" stroke="#3d0d1d" stroke-width="10" stroke-linejoin="round"/><circle cx="186" cy="100" r="13" fill="#ff7a1a" stroke="#3d0d1d" stroke-width="6"/><circle cx="256" cy="88" r="15" fill="#ffb92e" stroke="#3d0d1d" stroke-width="6"/><circle cx="326" cy="100" r="13" fill="#ff7a1a" stroke="#3d0d1d" stroke-width="6"/><rect x="106" y="238" width="52" height="108" rx="16" fill="#7d1f35" stroke="#3d0d1d" stroke-width="10"/><rect x="354" y="238" width="52" height="108" rx="16" fill="#7d1f35" stroke="#3d0d1d" stroke-width="10"/><rect x="118" y="336" width="276" height="40" rx="12" fill="#6d1830" stroke="#3d0d1d" stroke-width="10"/><rect x="138" y="376" width="34" height="52" rx="8" fill="#5c1428" stroke="#3d0d1d" stroke-width="8"/><rect x="340" y="376" width="34" height="52" rx="8" fill="#5c1428" stroke="#3d0d1d" stroke-width="8"/><path d="M256 132 C292 168 316 190 318 232 C348 214 340 186 334 170 C372 208 380 258 352 296 C330 322 300 334 256 336 C212 334 182 322 160 296 C132 258 140 208 178 170 C172 186 164 214 194 232 C196 190 220 168 256 132 Z" fill="#ff7a1a"/><path d="M256 190 C280 216 294 228 294 258 C312 248 310 232 306 220 C328 248 330 280 310 302 C296 318 278 326 256 326 C234 326 216 318 202 302 C182 280 184 248 206 220 C202 232 200 248 218 258 C218 228 232 216 256 190 Z" fill="#ffb92e"/><circle cx="256" cy="300" r="84" fill="#f5f7fc" stroke="#101c3d" stroke-width="9"/><clipPath id="hdrBallClip"><circle cx="256" cy="300" r="79"/></clipPath><g clip-path="url(#hdrBallClip)"><polygon points="256.0,254.0 266.6,285.4 299.7,285.8 273.1,305.6 283.0,337.2 256.0,318.0 229.0,337.2 238.9,305.6 212.3,285.8 245.4,285.4" fill="#101c3d"/><polygon points="320.7,211.0 312.8,235.8 333.7,251.3 307.7,251.5 299.5,276.1 291.3,251.5 265.3,251.3 286.2,235.8 278.3,211.0 299.5,226.1" fill="#101c3d"/><polygon points="360.6,334.0 334.6,334.2 326.4,358.9 318.1,334.2 292.1,334.0 313.1,318.5 305.2,293.7 326.4,308.9 347.5,293.7 339.7,318.5" fill="#101c3d"/><polygon points="256.0,410.0 247.8,385.3 221.8,385.1 242.7,369.7 234.8,344.9 256.0,360.0 277.2,344.9 269.3,369.7 290.2,385.1 264.2,385.3" fill="#101c3d"/><polygon points="151.4,334.0 172.3,318.5 164.5,293.7 185.6,308.9 206.8,293.7 198.9,318.5 219.9,334.0 193.9,334.2 185.6,358.9 177.4,334.2" fill="#101c3d"/><polygon points="191.3,211.0 212.5,226.1 233.7,211.0 225.8,235.8 246.7,251.3 220.7,251.5 212.5,276.1 204.3,251.5 178.3,251.3 199.2,235.8" fill="#101c3d"/></g></svg>
+      <div class="brand-text">
+        <div class="brand-name">Clausura Bahis Baronları</div>
+        <div class="brand-who" id="whoami">–</div>
+      </div>
+    </div>
+    <div class="app-header-actions">
+      <button type="button" class="hdr-swipe" id="btnSwipeDeck" title="Kaydırarak oyla">Kaydır</button>
+      <ion-button id="btnRefresh" fill="clear" color="warning" title="Yenile">
+        <ion-icon slot="icon-only" name="refresh-outline"></ion-icon>
+      </ion-button>
+    </div>
+  </div>
+  <div class="hdr-balances">
+    <div class="b kasa"><label>Kasa</label><span class="val" id="hdrBalance">–</span></div>
+    <div class="b open"><label>Açıkta</label><span class="val-line"><span class="val" id="hdrOpen">–</span><span class="val-sep" id="hdrOpenSep" hidden>→</span><span class="val pot" id="hdrOpenPot" hidden></span></span></div>
+  </div>
+</header>
+
+<div id="appMain">
+
+<section id="tab-props">
+  <div class="props-day-filter" id="propsDayFilter" role="group" aria-label="Gün filtresi">
+    <button type="button" class="chip pdf-b" id="propBFilter" title="Sadece 5+ oy" aria-pressed="false">5+</button>
+    <button type="button" class="chip pdf on" data-pdf="all">Tümü</button>
+    <button type="button" class="chip pdf" data-pdf="mon">Pzt</button>
+    <button type="button" class="chip pdf" data-pdf="tuewed">Salı Çarş</button>
+    <button type="button" class="chip pdf" data-pdf="thu">Perş</button>
+    <button type="button" class="chip pdf" data-pdf="fri">Cuma</button>
+    <button type="button" class="chip pdf" data-pdf="sat">Cmt</button>
+    <button type="button" class="chip pdf" data-pdf="sun">Pazar</button>
+  </div>
+
+  <div id="propList"></div>
+  <div class="card basket-card">
+    <div class="basket-head">
+      <div class="bh-title"><ion-icon name="cart-outline"></ion-icon> Kupon sepeti</div>
+      <span class="basket-count" id="basketCount">0</span>
+    </div>
+    <div class="basket-body">
+      <div id="basketSels" class="basket-sels">
+        <div class="basket-empty"><ion-icon name="add-circle-outline"></ion-icon><p>Sepet boş — önerilerden “Kupona” ile ekle.</p></div>
+      </div>
+      <div class="basket-fields">
+        <div class="bf-type"><label>Tür</label>
+          <select id="bType"><option value="banko">Banko</option><option value="plase">Plase</option><option value="surpriz">Sürpriz</option><option value="uzun">Uzun Vadeli</option></select>
+        </div>
+        <div class="bf-stake"><label>Yatırım (TL)</label><input id="bStake" type="number" min="0" step="10" value="100" inputmode="decimal"></div>
+        <div class="bf-date"><label>Tarih</label><input id="bDate" type="date"></div>
+      </div>
+      <div class="basket-summary">
+        <div class="bs-item"><span>Toplam oran</span><b id="bTotalOdds">1.00</b></div>
+        <div class="bs-item highlight"><span>Olası kazanç</span><b id="bPotential">0 TL</b></div>
+      </div>
+      <div class="basket-actions">
+        <button class="btn primary" id="btnSaveCoupon">Kupon oluştur</button>
+        <div class="secondary">
+          <button class="btn" id="btnRefreshBasket"><ion-icon name="refresh-outline"></ion-icon> Oran</button>
+          <button class="btn" id="btnCopyDraft"><ion-icon name="logo-whatsapp"></ion-icon> WA</button>
+          <button class="btn danger" id="btnClearBasket"><ion-icon name="trash-outline"></ion-icon> Boşalt</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="tab-build" style="display:none">
+  <div id="apiNotice" class="notice" style="display:none"></div>
+  <div class="build-shell">
+    <!-- ULTRA PREMIUM AI PREDICTIONS COMPONENT (ÖNERİ YAP) -->
+    <div id="aiPredictionsWidgetBuild" class="ai-section-wrapper" style="display:none!important;margin:8px 0 14px 0 !important;background:#0d1938 !important;border:1.5px solid #ff7a1a !important;border-radius:16px !important;padding:12px !important;box-shadow:0 10px 30px rgba(0,0,0,0.4) !important;position:relative !important;overflow:hidden !important;width:100% !important;box-sizing:border-box !important;">
+      <div class="ai-section-header" style="display:flex !important;justify-content:space-between !important;align-items:center !important;margin-bottom:10px !important;">
+        <div class="ai-header-left" style="display:flex !important;align-items:center !important;gap:8px !important;">
+          <div class="ai-spark-icon" style="width:28px !important;height:28px !important;border-radius:8px !important;background:#ff7a1a !important;display:flex !important;align-items:center !important;justify-content:center !important;font-size:15px !important;">🤖</div>
+          <div class="ai-header-titles">
+            <h3 style="margin:0 !important;font-size:13px !important;font-weight:800 !important;color:#ffffff !important;-webkit-text-fill-color:#ffffff !important;">Günün 4 Yapay Zeka Önerisi</h3>
+            <span class="ai-header-sub" style="font-size:10px !important;color:#ffb92e !important;-webkit-text-fill-color:#ffb92e !important;font-weight:600 !important;">Bugün · 08:00 &amp; 14:00 güncelleme</span>
+          </div>
+        </div>
+        <div style="display:flex;gap:6px;align-items:center;">
+          <button type="button" class="btn-post-all" id="btnPostAllAiBuild" style="background:#00e1ff !important;color:#070d1a !important;-webkit-text-fill-color:#070d1a !important;border:none !important;border-radius:6px !important;font-weight:800 !important;font-size:10.5px !important;padding:5px 9px !important;cursor:pointer !important;">✨ Hepsini Öner</button>
+          <button type="button" class="btn tiny" id="btnRefreshAiBuild" style="min-height:26px;padding:0 6px;" title="Yenile">🔄</button>
+        </div>
+      </div>
+      <div class="ai-slider-wrap">
+        <div class="ai-slider-meta">
+          <span class="ai-slider-count" id="aiSlideCount">–</span>
+          <div class="ai-pager-nav">
+            <button type="button" id="aiPrevBtn" aria-label="Önceki">‹</button>
+            <button type="button" id="aiNextBtn" aria-label="Sonraki">›</button>
+          </div>
+        </div>
+        <div id="aiPredictionsListBuild" class="ai-pager-host">
+          <div style="font-size:12px;color:#8fa0c8;padding:12px">Yapay Zeka önerileri yükleniyor…</div>
+        </div>
+      </div>
+    </div>
+    <div class="build-toolbar">
+      <div class="fetch-row">
+        <button class="btn primary" id="btnFetch">Oranları getir</button>
+        <div class="build-quota" id="buildQuota" title="Bugünkü kalan öneri hakkı">
+          <span class="bq-label">Kalan</span>
+          <span class="bq-val" id="buildQuotaVal">–</span>
+        </div>
+      </div>
+      <div class="build-filters">
+        <div class="build-filter-group day" role="group" aria-label="Gün">
+          <button type="button" class="chip dayf on" data-day="today">Bugün</button>
+          <button type="button" class="chip dayf" data-day="tomorrow">Yarın</button>
+          <button type="button" class="chip dayf" data-day="all">Tümü</button>
+        </div>
+        <div class="build-filter-group mode" role="group" aria-label="Mod">
+          <button type="button" class="chip" id="popChip">Popüler</button>
+          <button type="button" class="chip" id="specChip">Özel</button>
+        </div>
+      </div>
+      <div class="build-search">
+        <input id="searchBox" placeholder="Takım ara…">
+      </div>
+      <div class="league-scroll" id="leagueChips"></div>
+      <div class="build-meta" id="fetchTime"></div>
+    </div>
+    <div id="matchList"><div class="empty-state" style="padding:28px 12px"><p style="color:#9aabcc">Maçları görmek için oranları getir.</p></div></div>
+  </div>
+</section>
+
+<section id="tab-coupons" style="display:none">
+  <div class="card">
+    <h2>Kuponlar</h2>
+    <div class="row" style="margin-bottom:8px">
+      <button class="chip cf on" data-f="open">Bekleyen</button>
+      <button class="chip cf cf-won" data-f="won">Tutan</button>
+      <button class="chip cf cf-lost" data-f="lost">Yatan</button>
+      <button class="chip cf" data-f="all">Hepsi</button>
+    </div>
+    <div class="row" style="margin-bottom:10px">
+      <button class="btn tiny primary" type="button" id="btnAutoSettle" style="min-height:40px;flex:1">Otomatik sonuç</button>
+    </div>
+    <div id="couponList"></div>
+  </div>
+</section>
+
+<section id="tab-ai-props" style="display:none">
+  <div class="agent-report-wrap" id="agentReportContainer">
+    <div class="empty-state">
+      <ion-icon name="sparkles-outline"></ion-icon>
+      <p>AI Önerileri yükleniyor…</p>
+    </div>
+  </div>
+</section>
+
+<section id="tab-stats" style="display:none">
+  <div class="card"><h2>Kasa Gelişimi</h2><div id="chartWrap"><canvas id="chart"></canvas></div></div>
+  <div class="card"><h2>Genel Durum</h2><div class="statgrid" id="statGrid"></div></div>
+
+  <!-- CLASURA AI PERFORMANSI KARTI (Geçici Olarak Kapalı) -->
+  <div class="card ai-perf-card" id="aiPerfCard" style="display:none!important;">
+    <div class="ai-perf-header">
+      <div class="aiph-left">
+        <div class="ai-spark-icon" style="width:30px;height:30px;border-radius:8px;background:#ff7a1a;display:inline-flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0">🤖</div>
+        <div>
+          <h3 style="margin:0;font-family:var(--display);font-size:15px;font-weight:800;color:#ffffff;letter-spacing:-.02em">Clasura AI Performansı</h3>
+          <span style="font-size:10.5px;color:#a8b8db;font-weight:500">Yapay zeka bülten tahminlerinin başarı ve isabet grafiği</span>
+        </div>
+      </div>
+      <span class="ai-hit-badge" id="aiHitBadge">–</span>
+    </div>
+    <div class="statgrid ai-statgrid" id="aiStatGrid" style="margin:10px 0 14px 0"></div>
+    <div class="ai-perf-table-wrap">
+      <h4 style="margin:0 0 8px;font-size:11.5px;color:#ffb92e;font-weight:700;letter-spacing:.02em;text-transform:uppercase">Son 5 AI Tahmini &amp; Sonuçları</h4>
+      <table class="t ai-table" id="aiPerfTable"></table>
+    </div>
+  </div>
+
+  <div class="card"><h2>Tür Karşılaştırması</h2><table class="t" id="typeTable"></table></div>
+  <div class="card"><h2>Kim Ne Tutturdu?</h2><table class="t" id="memberTable"></table></div>
+  <div class="card">
+    <h2>Gönüllerin Baronu</h2>
+    <p class="muted" style="margin:0 0 10px;font-size:12px">38.707 kasadan itibaren kümülatif 👍 ve öneri (kendi like’ın hariç)</p>
+    <table class="t" id="likesTable"></table>
+  </div>
+  <div class="card">
+    <h2>Manuel Kasa Hareketi</h2>
+    <div class="row">
+      <input id="adjAmount" type="number" step="10" placeholder="Tutar (+/-)" style="width:105px">
+      <input id="adjNote" placeholder="Not" class="grow" style="min-width:150px">
+      <button class="btn" id="btnAdj">Ekle</button>
+    </div>
+    <table class="t" id="adjTable" style="margin-top:8px"></table>
+  </div>
+</section>
+
+<section id="tab-settings" style="display:none">
+  <div class="card">
+    <h2>Kasa</h2>
+    <div class="row"><label>Başlangıç kasası:</label><input id="setStart" type="number" step="100" style="width:110px"> <span class="muted">TL</span></div>
+    <p class="muted" style="margin:8px 0 0;font-size:12px">Kaydedince mevcut kasa bu tutara çekilir.</p>
+  </div>
+  <div class="card">
+    <h2>Ekip</h2>
+    <div id="memberInputs" class="row" style="flex-direction:column;align-items:stretch;gap:6px"></div>
+  </div>
+  <div class="card">
+    <ion-button expand="block" color="medium" id="btnSaveSettings">Kaydet</ion-button>
+    <ion-button expand="block" fill="outline" color="danger" id="btnLogout" style="margin-top:8px">Çıkış yap</ion-button>
+  </div>
+  <div class="card" id="cardDiagnostics">
+    <h2>Sistem Teşhis & Hata Günlüğü</h2>
+    <div id="diagErrorSummary" class="muted" style="font-size:12px;margin-bottom:8px">Kayıtlı hata yok.</div>
+    <div id="diagErrorList" style="display:none;max-height:140px;overflow-y:auto;background:rgba(0,0,0,0.25);padding:8px;border-radius:6px;font-size:11px;font-family:monospace;white-space:pre-wrap;margin-bottom:8px;word-break:break-all"></div>
+    <div class="row" style="gap:8px">
+      <ion-button size="small" fill="outline" color="medium" id="btnCopyDiagLogs" style="flex:1">Logları Kopyala</ion-button>
+      <ion-button size="small" fill="outline" color="medium" id="btnClearDiagLogs" style="flex:1">Temizle</ion-button>
+    </div>
+  </div>
+</section>
+
+</div>
+
+<div class="draft-dock empty tab-hidden collapsed" id="draftDock">
+  <button type="button" class="draft-toggle" id="draftToggle" aria-expanded="false" aria-controls="builderSels" aria-label="Seçimleri aç veya kapat">
+    <span class="draft-grabber" aria-hidden="true"><span class="draft-handle"></span></span>
+    <span class="draft-toggle-row">
+      <span>Seçimlerim <span id="draftCount" style="font-weight:500;opacity:.8"></span></span>
+      <span class="draft-odds" id="draftOddsHint"></span>
+    </span>
+  </button>
+  <div id="builderSels"></div>
+  <div class="draft-actions">
+    <button type="button" class="btn primary" id="btnPropose">Paylaş</button>
+    <button type="button" class="btn danger" id="btnClearDraft">Temizle</button>
+  </div>
+</div>
+
+<ion-tab-bar id="bottomTabs">
+  <ion-tab-button tab="props" selected>
+    <ion-icon name="chatbubbles-outline"></ion-icon>
+    <ion-label>Öneriler</ion-label>
+  </ion-tab-button>
+  <ion-tab-button tab="build">
+    <ion-icon name="add-circle-outline"></ion-icon>
+    <ion-label>Öneri Yap</ion-label>
+  </ion-tab-button>
+  <ion-tab-button tab="coupons">
+    <ion-icon name="ticket-outline"></ion-icon>
+    <ion-label>Kuponlar</ion-label>
+  </ion-tab-button>
+  <ion-tab-button tab="ai-props">
+    <ion-icon name="sparkles-outline"></ion-icon>
+    <ion-label>AI Önerileri</ion-label>
+  </ion-tab-button>
+  <ion-tab-button tab="stats">
+    <ion-icon name="wallet-outline"></ion-icon>
+    <ion-label>Kasa</ion-label>
+  </ion-tab-button>
+  <ion-tab-button tab="settings">
+    <ion-icon name="settings-outline"></ion-icon>
+    <ion-label>Ayarlar</ion-label>
+  </ion-tab-button>
+</ion-tab-bar>
+
+<ion-modal id="loginModal" backdrop-dismiss="false" is-open="false">
+  <div class="login-sheet ion-padding">
+    <div style="display:flex;justify-content:center;margin-bottom:4px"><svg class="logo" width="56" height="56" viewBox="70 60 372 380" xmlns="http://www.w3.org/2000/svg"><path d="M150 336 L150 148 L186 108 L214 148 L256 96 L298 148 L326 108 L362 148 L362 336 Z" fill="#7d1f35" stroke="#3d0d1d" stroke-width="10" stroke-linejoin="round"/><circle cx="186" cy="100" r="13" fill="#ff7a1a" stroke="#3d0d1d" stroke-width="6"/><circle cx="256" cy="88" r="15" fill="#ffb92e" stroke="#3d0d1d" stroke-width="6"/><circle cx="326" cy="100" r="13" fill="#ff7a1a" stroke="#3d0d1d" stroke-width="6"/><rect x="106" y="238" width="52" height="108" rx="16" fill="#7d1f35" stroke="#3d0d1d" stroke-width="10"/><rect x="354" y="238" width="52" height="108" rx="16" fill="#7d1f35" stroke="#3d0d1d" stroke-width="10"/><rect x="118" y="336" width="276" height="40" rx="12" fill="#6d1830" stroke="#3d0d1d" stroke-width="10"/><rect x="138" y="376" width="34" height="52" rx="8" fill="#5c1428" stroke="#3d0d1d" stroke-width="8"/><rect x="340" y="376" width="34" height="52" rx="8" fill="#5c1428" stroke="#3d0d1d" stroke-width="8"/><path d="M256 132 C292 168 316 190 318 232 C348 214 340 186 334 170 C372 208 380 258 352 296 C330 322 300 334 256 336 C212 334 182 322 160 296 C132 258 140 208 178 170 C172 186 164 214 194 232 C196 190 220 168 256 132 Z" fill="#ff7a1a"/><path d="M256 190 C280 216 294 228 294 258 C312 248 310 232 306 220 C328 248 330 280 310 302 C296 318 278 326 256 326 C234 326 216 318 202 302 C182 280 184 248 206 220 C202 232 200 248 218 258 C218 228 232 216 256 190 Z" fill="#ffb92e"/><circle cx="256" cy="300" r="84" fill="#f5f7fc" stroke="#101c3d" stroke-width="9"/><clipPath id="loginBallClip"><circle cx="256" cy="300" r="79"/></clipPath><g clip-path="url(#loginBallClip)"><polygon points="256.0,254.0 266.6,285.4 299.7,285.8 273.1,305.6 283.0,337.2 256.0,318.0 229.0,337.2 238.9,305.6 212.3,285.8 245.4,285.4" fill="#101c3d"/><polygon points="320.7,211.0 312.8,235.8 333.7,251.3 307.7,251.5 299.5,276.1 291.3,251.5 265.3,251.3 286.2,235.8 278.3,211.0 299.5,226.1" fill="#101c3d"/><polygon points="360.6,334.0 334.6,334.2 326.4,358.9 318.1,334.2 292.1,334.0 313.1,318.5 305.2,293.7 326.4,308.9 347.5,293.7 339.7,318.5" fill="#101c3d"/><polygon points="256.0,410.0 247.8,385.3 221.8,385.1 242.7,369.7 234.8,344.9 256.0,360.0 277.2,344.9 269.3,369.7 290.2,385.1 264.2,385.3" fill="#101c3d"/><polygon points="151.4,334.0 172.3,318.5 164.5,293.7 185.6,308.9 206.8,293.7 198.9,318.5 219.9,334.0 193.9,334.2 185.6,358.9 177.4,334.2" fill="#101c3d"/><polygon points="191.3,211.0 212.5,226.1 233.7,211.0 225.8,235.8 246.7,251.3 220.7,251.5 212.5,276.1 204.3,251.5 178.3,251.3 199.2,235.8" fill="#101c3d"/></g></svg></div>
+    <div id="loginLanding" class="login-landing">
+      <div class="ll-tag">Clausura</div>
+      <h2>Bahis Baronları</h2>
+      <p class="ll-copy">Öner, oyla, kupona yaz.<br>Bol şans.</p>
+      <button type="button" class="ll-next" id="btnLoginNext">Next</button>
+    </div>
+    <div id="loginPick" class="login-pick">
+      <h2>Clausura Bahis Baronları</h2>
+      <p>Kimsin? <span class="muted" style="font-size:12px">(bir kez seç, hatırlanır)</span></p>
+      <div id="loginNames"></div>
+    </div>
+  </div>
+</ion-modal>
+
+<div id="modal"><div class="box card" id="modalBox"></div></div>
+<div id="swipeOverlay" aria-hidden="true">
+  <div class="swipe-top">
+    <div>
+      <h2>Kaydır <span class="swipe-sub">Bugünün önerileri</span></h2>
+    </div>
+    <button type="button" class="swipe-x" id="swipeClose" aria-label="Kapat"><ion-icon name="close-outline"></ion-icon></button>
+  </div>
+  <div class="swipe-progress" id="swipeProgress"></div>
+  <div class="swipe-stage" id="swipeStage"></div>
+  <div class="swipe-actions" id="swipeActions">
+    <button type="button" class="sa-pass" id="swipePassBtn" aria-label="Pas"><ion-icon name="close"></ion-icon></button>
+    <button type="button" class="sa-like" id="swipeLikeBtn" aria-label="Beğen"><ion-icon name="thumbs-up"></ion-icon></button>
+  </div>
+  <p class="swipe-hint">Sola pas · Sağa 👍</p>
+</div>
+<div id="gateOverlay" class="gate-overlay" style="display:none;">
+  <div class="gate-card">
+    <div class="gate-logo-wrap">
+      <svg class="logo" width="56" height="56" viewBox="70 60 372 380" xmlns="http://www.w3.org/2000/svg"><path d="M150 336 L150 148 L186 108 L214 148 L256 96 L298 148 L326 108 L362 148 L362 336 Z" fill="#7d1f35" stroke="#3d0d1d" stroke-width="10" stroke-linejoin="round"/><circle cx="186" cy="100" r="13" fill="#ff7a1a" stroke="#3d0d1d" stroke-width="6"/><circle cx="256" cy="88" r="15" fill="#ffb92e" stroke="#3d0d1d" stroke-width="6"/><circle cx="326" cy="100" r="13" fill="#ff7a1a" stroke="#3d0d1d" stroke-width="6"/><rect x="106" y="238" width="52" height="108" rx="16" fill="#7d1f35" stroke="#3d0d1d" stroke-width="10"/><rect x="354" y="238" width="52" height="108" rx="16" fill="#7d1f35" stroke="#3d0d1d" stroke-width="10"/><rect x="118" y="336" width="276" height="40" rx="12" fill="#6d1830" stroke="#3d0d1d" stroke-width="10"/><rect x="138" y="376" width="34" height="52" rx="8" fill="#5c1428" stroke="#3d0d1d" stroke-width="8"/><rect x="340" y="376" width="34" height="52" rx="8" fill="#5c1428" stroke="#3d0d1d" stroke-width="8"/><path d="M256 132 C292 168 316 190 318 232 C348 214 340 186 334 170 C372 208 380 258 352 296 C330 322 300 334 256 336 C212 334 182 322 160 296 C132 258 140 208 178 170 C172 186 164 214 194 232 C196 190 220 168 256 132 Z" fill="#ff7a1a"/><path d="M256 190 C280 216 294 228 294 258 C312 248 310 232 306 220 C328 248 330 280 310 302 C296 318 278 326 256 326 C234 326 216 318 202 302 C182 280 184 248 206 220 C202 232 200 248 218 258 C218 228 232 216 256 190 Z" fill="#ffb92e"/><circle cx="256" cy="300" r="84" fill="#f5f7fc" stroke="#101c3d" stroke-width="9"/><clipPath id="gateBallClip"><circle cx="256" cy="300" r="79"/></clipPath><g clip-path="url(#gateBallClip)"><polygon points="256.0,254.0 266.6,285.4 299.7,285.8 273.1,305.6 283.0,337.2 256.0,318.0 229.0,337.2 238.9,305.6 212.3,285.8 245.4,285.4" fill="#101c3d"/><polygon points="320.7,211.0 312.8,235.8 333.7,251.3 307.7,251.5 299.5,276.1 291.3,251.5 265.3,251.3 286.2,235.8 278.3,211.0 299.5,226.1" fill="#101c3d"/><polygon points="360.6,334.0 334.6,334.2 326.4,358.9 318.1,334.2 292.1,334.0 313.1,318.5 305.2,293.7 326.4,308.9 347.5,293.7 339.7,318.5" fill="#101c3d"/><polygon points="256.0,410.0 247.8,385.3 221.8,385.1 242.7,369.7 234.8,344.9 256.0,360.0 277.2,344.9 269.3,369.7 290.2,385.1 264.2,385.3" fill="#101c3d"/><polygon points="151.4,334.0 172.3,318.5 164.5,293.7 185.6,308.9 206.8,293.7 198.9,318.5 219.9,334.0 193.9,334.2 185.6,358.9 177.4,334.2" fill="#101c3d"/><polygon points="191.3,211.0 212.5,226.1 233.7,211.0 225.8,235.8 246.7,251.3 220.7,251.5 212.5,276.1 204.3,251.5 178.3,251.3 199.2,235.8" fill="#101c3d"/></g></svg>
+    </div>
+    <div class="gate-tag">CLASURA</div>
+    <h2 class="gate-title">Özel Ekip Erişimi</h2>
+    <p class="gate-desc">Bu platform özel bir çalışma alanıdır. Devam etmek için lütfen erişim kodunu girin.</p>
+    
+    <form id="gateForm" onsubmit="return false;" class="gate-form">
+      <div class="gate-input-wrap">
+        <ion-icon name="lock-closed-outline" class="gate-input-icon"></ion-icon>
+        <input type="password" id="gatePasswordInput" class="gate-input" placeholder="Erişim Şifresi" autocomplete="current-password" autofocus>
+        <button type="button" id="btnGateToggleEye" class="gate-eye-btn" aria-label="Şifreyi Göster" title="Şifreyi Göster">
+          <ion-icon name="eye-outline" id="gateEyeIcon"></ion-icon>
+        </button>
+      </div>
+      <div class="gate-remember-row">
+        <label class="gate-remember-lbl">
+          <input type="checkbox" id="gateRememberCheck" checked>
+          <span>Bu cihazı hatırla (Bir daha sorma)</span>
+        </label>
+      </div>
+      <div id="gateErrorMsg" class="gate-error" style="display:none;"></div>
+      <button type="submit" id="btnGateSubmit" class="btn primary gate-submit-btn">
+        <span>Giriş Yap</span>
+        <ion-icon name="arrow-forward-outline"></ion-icon>
+      </button>
+    </form>
+    
+    <div class="gate-footer">
+      <span>💡 İpucu: Uygulamayı telefonunuzda <b>Ana Ekrana Ekle</b> (PWA) yaptığınızda şifre sorulmaz.</span>
+    </div>
+  </div>
+</div>
+
+</ion-app>
+
+<!-- Production Bundle with Cache-Busting (v=20260906-185537) -->
+<script src="js/app.bundle.js?v=20260906-185537"></script>
+</body>
+</html>

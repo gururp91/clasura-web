@@ -1,0 +1,702 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>Agent Önerileri</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+:root{
+  --ground:#F4F6F8; --surface:#FFFFFF; --surface-2:#EDF0F4;
+  --ink:#141920; --ink-2:#4C5766; --ink-3:#77828F;
+  --line:#DDE2E9; --line-strong:#C6CDD7;
+  --kasa:#9C6B12; --kasa-bg:#FBF2DF; --kasa-line:#E3C67E;
+  --dus:#0F6B57; --dus-bg:#E4F1ED;
+  --yuk:#9B3C46; --yuk-bg:#F7E7E8;
+  --iyi:#0F6B57; --uyari:#9C6B12; --kritik:#9B3C46;
+  --bar:#8894A4;
+  --shadow:0 1px 2px rgba(20,25,32,.06), 0 6px 16px -10px rgba(20,25,32,.18);
+  --mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+  --disp:"Archivo","Helvetica Neue",Arial,sans-serif;
+  --body:"Source Sans 3",system-ui,-apple-system,Segoe UI,sans-serif;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --ground:#101318; --surface:#171B21; --surface-2:#1E232B;
+    --ink:#E9ECF1; --ink-2:#A7B0BC; --ink-3:#79838F;
+    --line:#252B34; --line-strong:#333B46;
+    --kasa:#E3AC4A; --kasa-bg:#2A2314; --kasa-line:#6B5423;
+    --dus:#4FBFA0; --dus-bg:#14261F;
+    --yuk:#DE8A93; --yuk-bg:#2A181A;
+    --iyi:#4FBFA0; --uyari:#E3AC4A; --kritik:#DE8A93;
+    --bar:#4A5563;
+    --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 20px -12px rgba(0,0,0,.6);
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#101318; --surface:#171B21; --surface-2:#1E232B;
+  --ink:#E9ECF1; --ink-2:#A7B0BC; --ink-3:#79838F;
+  --line:#252B34; --line-strong:#333B46;
+  --kasa:#E3AC4A; --kasa-bg:#2A2314; --kasa-line:#6B5423;
+  --dus:#4FBFA0; --dus-bg:#14261F;
+  --yuk:#DE8A93; --yuk-bg:#2A181A;
+  --iyi:#4FBFA0; --uyari:#E3AC4A; --kritik:#DE8A93;
+  --bar:#4A5563;
+  --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 20px -12px rgba(0,0,0,.6);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);
+  font-family:var(--body);font-size:15.5px;line-height:1.55;
+  -webkit-font-smoothing:antialiased}
+.wrap{max-width:600px;margin:0 auto;padding:0 14px 72px}
+
+/* ---- ust bar ---- */
+.top{position:sticky;top:0;z-index:20;background:var(--ground);
+  border-bottom:1px solid var(--line);margin:0 -14px;padding:12px 14px 10px;
+  display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+.top h1{font-family:var(--disp);font-size:20px;font-weight:700;letter-spacing:-.015em;margin:0}
+.top .tarih{font-family:var(--mono);font-size:12px;color:var(--ink-3);white-space:nowrap}
+
+/* ---- kasa cumlesi ---- */
+.kasa-line{margin-top:14px;background:var(--kasa-bg);border:1px solid var(--kasa-line);
+  border-radius:3px;padding:11px 13px;
+  font-family:var(--disp);font-weight:600;font-size:16px;color:var(--kasa);
+  display:flex;align-items:center;gap:9px}
+.kasa-line .n{font-family:var(--mono);font-size:21px;font-weight:600;font-variant-numeric:tabular-nums}
+
+.damga{margin-top:9px;font-size:12.5px;color:var(--ink-3);font-family:var(--mono);
+  display:flex;flex-wrap:wrap;gap:3px 14px}
+
+/* ---- bolum basliklari ---- */
+h2{font-family:var(--disp);font-size:13px;font-weight:700;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--ink-2);
+  margin:34px 0 3px;display:flex;align-items:center;gap:8px;text-wrap:balance}
+h2 .sub{font-family:var(--body);font-size:12.5px;font-weight:400;letter-spacing:0;
+  text-transform:none;color:var(--ink-3)}
+.rule{height:1px;background:var(--line-strong);margin-bottom:14px}
+
+/* ---- oneri karti ---- */
+.kart{background:var(--surface);border:1px solid var(--line);border-radius:3px;
+  padding:13px 14px;display:flex;flex-direction:column;gap:9px}
+.kartlar{display:flex;flex-direction:column;gap:10px}
+.kart.kasa{border-color:var(--kasa-line);border-left:3px solid var(--kasa);box-shadow:var(--shadow)}
+.kart-ust{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+.mac{font-family:var(--disp);font-weight:600;font-size:16.5px;letter-spacing:-.01em;line-height:1.25}
+.meta{font-family:var(--mono);font-size:11.5px;color:var(--ink-3);margin-top:2px;
+  display:flex;gap:8px;flex-wrap:wrap}
+.oran-kutu{text-align:right;flex-shrink:0}
+.oran{font-family:var(--mono);font-size:22px;font-weight:600;font-variant-numeric:tabular-nums;
+  line-height:1;letter-spacing:-.02em}
+.secim{font-family:var(--disp);font-weight:600;font-size:13px;color:var(--ink-2);margin-top:3px}
+.rozetler{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.rozet{font-family:var(--mono);font-size:10.5px;font-weight:500;letter-spacing:.06em;
+  text-transform:uppercase;padding:2.5px 7px;border-radius:2px;
+  border:1px solid var(--line-strong);color:var(--ink-2);background:var(--surface-2)}
+.rozet.karar-oyna{background:var(--kasa-bg);border-color:var(--kasa-line);color:var(--kasa)}
+.rozet.karar-dikkat{background:transparent;border-color:var(--line-strong);color:var(--ink-2)}
+.rozet.kagit{color:var(--ink-3)}
+.rozet.puan{background:var(--dus-bg);border-color:var(--dus);color:var(--dus)}
+.puanlar{display:flex;gap:16px;font-family:var(--mono);font-size:12px;color:var(--ink-3);
+  font-variant-numeric:tabular-nums}
+.puanlar b{color:var(--ink);font-weight:600}
+.gerekce{font-size:14.5px;color:var(--ink-2);margin:0}
+.zayif{font-size:14px;color:var(--ink-2);margin:0;padding-left:11px;
+  border-left:2px solid var(--kritik)}
+.zayif b{font-family:var(--disp);font-size:11px;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--kritik);display:block;margin-bottom:2px;font-weight:700}
+
+.bos{font-size:13.5px;color:var(--ink-3);font-style:italic;padding:9px 2px}
+.uyari-sat{font-size:13.5px;color:var(--ink-2);padding:7px 11px;background:var(--surface-2);
+  border-radius:3px;border-left:2px solid var(--uyari)}
+.uyarilar{display:flex;flex-direction:column;gap:7px;margin-top:10px}
+
+/* ---- hareket ---- */
+.hareket-ozet{display:flex;gap:0;border:1px solid var(--line);border-radius:3px;
+  background:var(--surface);overflow:hidden;margin-bottom:14px}
+.hareket-ozet div{flex:1;padding:10px 8px;text-align:center;border-right:1px solid var(--line)}
+.hareket-ozet div:last-child{border-right:0}
+.hareket-ozet .v{font-family:var(--mono);font-size:19px;font-weight:600;font-variant-numeric:tabular-nums}
+.hareket-ozet .k{font-size:11px;color:var(--ink-3);letter-spacing:.04em;text-transform:uppercase;
+  font-family:var(--disp);font-weight:600}
+.tablo-sar{overflow-x:auto;border:1px solid var(--line);border-radius:3px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:13px;min-width:520px}
+th{font-family:var(--disp);font-size:10.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;
+  color:var(--ink-3);text-align:left;padding:8px 9px;border-bottom:1px solid var(--line-strong);
+  white-space:nowrap;background:var(--surface-2)}
+td{padding:7px 9px;border-bottom:1px solid var(--line);white-space:nowrap;
+  font-variant-numeric:tabular-nums}
+tr:last-child td{border-bottom:0}
+td.num{font-family:var(--mono);font-size:12.5px}
+td.mc{white-space:normal;min-width:150px;font-weight:600}
+.pct{font-family:var(--mono);font-weight:600}
+.pct.d{color:var(--dus)}
+.pct.y{color:var(--yuk)}
+.tbl-baslik{font-family:var(--disp);font-size:12px;font-weight:700;letter-spacing:.08em;
+  text-transform:uppercase;margin:16px 0 7px;display:flex;align-items:center;gap:7px}
+.tbl-baslik .dot{width:7px;height:7px;border-radius:50%;display:inline-block}
+.tbl-baslik.d .dot{background:var(--dus)} .tbl-baslik.d{color:var(--dus)}
+.tbl-baslik.y .dot{background:var(--yuk)} .tbl-baslik.y{color:var(--yuk)}
+
+.net{background:var(--surface);border:1px solid var(--line);border-radius:3px;
+  padding:14px;margin-top:16px;display:flex;flex-direction:column;gap:11px}
+.net-sat b{font-family:var(--disp);font-size:11px;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--ink-3);display:block;margin-bottom:2px;font-weight:700}
+.net-sat p{margin:0;font-size:14.5px;color:var(--ink-2)}
+.net-sat.vurgu b{color:var(--kasa)}
+.net-sat.vurgu p{color:var(--ink);font-weight:600}
+.olcum{font-size:13px;color:var(--ink-3);font-style:italic;margin-top:11px;
+  padding-left:11px;border-left:2px solid var(--line-strong)}
+
+/* ---- karne ---- */
+.karne{display:flex;flex-direction:column;gap:1px;background:var(--line);
+  border:1px solid var(--line);border-radius:3px;overflow:hidden}
+.karne-sat{background:var(--surface);padding:10px 13px;display:grid;
+  grid-template-columns:1fr auto;gap:3px 12px;align-items:center}
+.karne-ad{font-family:var(--disp);font-weight:600;font-size:14.5px}
+.karne-sag{font-family:var(--mono);font-size:13px;font-variant-numeric:tabular-nums;
+  text-align:right;white-space:nowrap}
+.karne-sag .isabet{font-size:16px;font-weight:600}
+.karne-bar{grid-column:1/-1;height:3px;background:var(--surface-2);border-radius:2px;overflow:hidden}
+.karne-bar i{display:block;height:100%;background:var(--bar)}
+.karne-bar i.iyi{background:var(--iyi)}
+.karne-alt{font-family:var(--mono);font-size:11px;color:var(--ink-3);grid-column:1/-1}
+
+/* ---- celiski / oynama / trend ---- */
+.celiski{background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--kritik);
+  border-radius:3px;padding:11px 13px;font-size:14px}
+.celiski .m{font-family:var(--disp);font-weight:700;font-size:14.5px;margin-bottom:4px}
+.celiski .yon{font-family:var(--mono);font-size:12.5px;color:var(--ink-2)}
+.celiski .n{color:var(--ink-3);font-size:13px;margin-top:5px}
+.liste{display:flex;flex-direction:column;gap:9px}
+.oynama-sat{background:var(--surface);border:1px solid var(--line);border-radius:3px;
+  padding:11px 13px;opacity:.86}
+.oynama-sat .m{font-family:var(--disp);font-weight:600;font-size:15px}
+.oynama-sat .s{font-family:var(--mono);font-size:12px;color:var(--ink-3);margin:1px 0 5px}
+.oynama-sat .r{font-size:14px;color:var(--ink-2);margin:0}
+.trend-not{font-size:13px;color:var(--ink-3);font-style:italic;margin-top:9px;
+  padding-left:11px;border-left:2px solid var(--line-strong)}
+.bizim{color:var(--kasa);font-weight:600}
+
+/* ---- kaynak notu ---- */
+.kaynak{margin-top:40px;border-top:1px solid var(--line-strong);padding-top:14px;
+  font-family:var(--mono);font-size:11.5px;color:var(--ink-3);line-height:1.65}
+.kaynak code{background:var(--surface-2);padding:1px 5px;border-radius:2px;
+  color:var(--ink-2);font-size:11px}
+.kaynak b{color:var(--ink-2);font-family:var(--disp);letter-spacing:.06em;
+  text-transform:uppercase;font-size:10.5px;display:block;margin-bottom:5px}
+@media (prefers-reduced-motion: no-preference){
+  .kart,.karne-sat{transition:border-color .15s ease}
+}
+
+/* ---- kesişim boş / tanım / açık soru ---- */
+.kasa-line.bos-kasa{background:var(--surface-2);border-color:var(--line-strong);color:var(--ink-2)}
+.kasa-line.bos-kasa .n{color:var(--ink-3)}
+.kesisim-bos{background:var(--surface);border:1px dashed var(--line-strong);border-radius:3px;
+  padding:14px;font-family:var(--disp);font-weight:600;font-size:15px;color:var(--ink-2)}
+.tanim{background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--bar);
+  border-radius:3px;padding:12px 14px;font-size:14px;color:var(--ink-2)}
+.alt-baslik{font-family:var(--disp);font-size:14px;font-weight:700;color:var(--ink);
+  margin:20px 0 4px;letter-spacing:-.01em}
+.soru{background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--uyari);
+  border-radius:3px;padding:11px 13px}
+.soru .m{font-family:var(--disp);font-weight:700;font-size:14.5px;margin-bottom:3px}
+.soru .r{margin:0;font-size:14px;color:var(--ink-2)}
+</style>
+
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <h1>Agent Önerileri</h1>
+    <div class="tarih" id="ust-tarih"></div>
+  </div>
+  <div id="icerik"></div>
+
+</div>
+
+<script type="application/json" id="rapor-data">{
+  "surum": "2.1",
+  "tarih": "2026-09-06",
+  "uretim_zamani": "2026-09-06T21:15:00+03:00",
+  "baslik": "Günün Önerileri",
+  "ozet": {
+    "kasadan_oynanan": 0,
+    "kagit_uzeri": 6
+  },
+  "kesisim": {
+    "baslik": "3 Bacak Kesişimi",
+    "secimler": []
+  },
+  "bacaklar": [
+    {
+      "no": 1,
+      "ad": "DEĞER",
+      "oneriler": [
+        {
+          "bet_id": 13,
+          "lig": "Ligue 1",
+          "mac": "Marsilya–Paris FC",
+          "kickoff_trt": "21:45",
+          "market": "Maç Sonucu",
+          "secim": "1",
+          "oran": 1.72,
+          "sinif": "BANKO",
+          "serit": "deger",
+          "kasa": "kagit",
+          "futbol_puan": null,
+          "deger_puan": 5.5,
+          "karar": "dikkatle oyna",
+          "gerekce": "iddaa Marsilya'ya Bet365'ten 2,2 puan daha cömert fiyat veriyor.",
+          "zayif_yani": "Bu markette Sim ayağı yok, üçgen kurulamadı — karar bir kademe düşürüldü.",
+          "sonuc": null,
+          "skor": null,
+          "kisa": "MS1"
+        },
+        {
+          "bet_id": 14,
+          "lig": "Portekiz Premier Lig",
+          "mac": "Gil Vicente–Viseu",
+          "kickoff_trt": "22:30",
+          "market": "Karşılıklı Gol",
+          "secim": "Var",
+          "oran": 1.96,
+          "sinif": "PLASE",
+          "serit": "deger",
+          "kasa": "kagit",
+          "futbol_puan": null,
+          "deger_puan": 7.5,
+          "karar": "oyna",
+          "gerekce": "Günün tek gerçek üçgeni: Bet365 2,9, DataGaffer Sim 8,2 puan daha yüksek olasılık veriyor.",
+          "zayif_yani": "Bacak 3 aynı maçta tersini söylüyor — para KG Yok tarafına akıyor.",
+          "sonuc": null,
+          "skor": null,
+          "kisa": "KG VAR"
+        },
+        {
+          "bet_id": 15,
+          "lig": "TR Süper Lig",
+          "mac": "Kocaelispor–Samsunspor",
+          "kickoff_trt": "20:00",
+          "market": "Maç Sonucu",
+          "secim": "2",
+          "oran": 3.21,
+          "sinif": "SÜRPRİZ",
+          "serit": "deger",
+          "kasa": "kagit",
+          "futbol_puan": null,
+          "deger_puan": 6.0,
+          "karar": "dikkatle oyna",
+          "gerekce": "iddaa Samsunspor'a Bet365'ten 4,8 puan daha cömert fiyat veriyor.",
+          "zayif_yani": "Sim ayağı yok ve Bacak 3 tam tersini, ev sahibini gösteriyor.",
+          "sonuc": null,
+          "skor": null,
+          "kisa": "MS2"
+        }
+      ],
+      "bos_siniflar": [],
+      "oyuncu_notu": "iddaa modelin altında fiyat vermiyor — öneri yok."
+    },
+    {
+      "no": 2,
+      "ad": "FUTBOL / DATA",
+      "oneriler": [],
+      "bos_siniflar": [
+        "BANKO",
+        "PLASE",
+        "SÜRPRİZ"
+      ],
+      "oyuncu_notu": "Takımın beklenen golü hiçbir maçta eşiği geçmedi — öneri yok."
+    },
+    {
+      "no": 3,
+      "ad": "HAREKET",
+      "oneriler": [
+        {
+          "bet_id": 16,
+          "lig": "TR Süper Lig",
+          "mac": "Trabzonspor–Gençlerbirliği",
+          "kickoff_trt": "20:00",
+          "market": "Maç Sonucu",
+          "secim": "1",
+          "oran": 1.36,
+          "sinif": "BANKO",
+          "serit": "hareket",
+          "kasa": "kagit",
+          "futbol_puan": null,
+          "deger_puan": null,
+          "karar": "oyna",
+          "gerekce": "Trabzonspor galibiyeti 1,53'ten 1,36'ya düştü (7,1 puan) ve maçın üç sonucu da aynı yönde açıldı.",
+          "zayif_yani": "Diğer iki bacak bu maçı getirmedi; 1,36 fiyatta hata payı dar.",
+          "sonuc": null,
+          "skor": null,
+          "puan": 7.1,
+          "band": "güçlü (≥3p)",
+          "kisa": "MS1"
+        },
+        {
+          "bet_id": 17,
+          "lig": "TR Süper Lig",
+          "mac": "Kocaelispor–Samsunspor",
+          "kickoff_trt": "20:00",
+          "market": "Maç Sonucu",
+          "secim": "1",
+          "oran": 2.07,
+          "sinif": "PLASE",
+          "serit": "hareket",
+          "kasa": "kagit",
+          "futbol_puan": null,
+          "deger_puan": null,
+          "karar": "dikkatle oyna",
+          "gerekce": "Kocaelispor galibiyeti 2,38'den 2,07'ye düştü (5,5 puan), Çifte Şans da aynı yönü doğruluyor.",
+          "zayif_yani": "Bacak 1 aynı maçta deplasmanı işaret ediyor, DataGaffer da günün en düşük temposunu veriyor.",
+          "sonuc": null,
+          "skor": null,
+          "puan": 5.5,
+          "band": "güçlü (≥3p)",
+          "kisa": "MS1"
+        },
+        {
+          "bet_id": 18,
+          "lig": "Portekiz Premier Lig",
+          "mac": "Gil Vicente–Viseu",
+          "kickoff_trt": "22:30",
+          "market": "Maç Sonucu",
+          "secim": "0",
+          "oran": 2.78,
+          "sinif": "SÜRPRİZ",
+          "serit": "hareket",
+          "kasa": "kagit",
+          "futbol_puan": null,
+          "deger_puan": null,
+          "karar": "dikkatle oyna",
+          "gerekce": "Beraberlik 3,22'den 2,78'e düştü (4,4 puan) ve beş market birden ev sahibi aleyhine döndü.",
+          "zayif_yani": "Bacak 1 aynı maçta KG Var diyor; beraberlik zaten düşük isabetli bir markettir.",
+          "sonuc": null,
+          "skor": null,
+          "puan": 4.4,
+          "band": "güçlü (≥3p)",
+          "kisa": "MS0"
+        }
+      ],
+      "bos_siniflar": [],
+      "oyuncu_notu": null
+    }
+  ],
+  "hareket_yorum": {
+    "olenler": "Bugün eşiği geçip sıfırlanan hareket yok; akşam maçlarının fiyatları açıldıktan sonra tek yönde ilerledi ve geri dönmedi. Gündüz oynanan maçlarda (Arsenal–Chelsea, Frankfurt–Augsburg) sabah gördüğümüz dalgaların tamamı kapanışa kadar silinmişti.",
+    "yari_yolda_donenler": "Yarı yolda dönen hareket yok. Akşam kadrosunun üç adayı da (Trabzonspor, Kocaelispor, Gil Vicente) 19:58 itibarıyla kendi gün zirvesinde duruyor.",
+    "gunun_en_iyisi": "Trabzonspor–Gençlerbirliği, ev sahibi galibiyeti. 7,1 puanla günün en büyük hareketi ve maçın üç sonucu da aynı yönde açıldı — bugünkü en temiz tablo.",
+    "ikincisi": "Kocaelispor–Samsunspor, ev sahibi galibiyeti (5,5 puan). Çifte Şans tarafı da doğruluyor, ama DataGaffer bu maça günün en düşük temposunu veriyor."
+  },
+  "datagaffer_100": {
+    "kayitlar": [
+      {
+        "takim": "Wolves",
+        "secim": "Team o1.5",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": false
+      },
+      {
+        "takim": "AZ Alkmaar",
+        "secim": "Team o1.5",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": true
+      },
+      {
+        "takim": "Cambuur",
+        "secim": "Over 2.5",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": true
+      },
+      {
+        "takim": "Parma",
+        "secim": "Under 2.5",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": true
+      },
+      {
+        "takim": "Hearts",
+        "secim": "BTTS Yes",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": false
+      },
+      {
+        "takim": "FC Sion",
+        "secim": "BTTS Yes",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": false
+      },
+      {
+        "takim": "FC Sion",
+        "secim": "Over 2.5",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": false
+      },
+      {
+        "takim": "Molde",
+        "secim": "Over 2.5",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": false
+      },
+      {
+        "takim": "Valerenga",
+        "secim": "Over 2.5",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": false
+      },
+      {
+        "takim": "Rennes",
+        "secim": "BTTS Yes",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": true
+      },
+      {
+        "takim": "Rennes",
+        "secim": "Over 2.5",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": true
+      },
+      {
+        "takim": "Cruzeiro",
+        "secim": "BTTS Yes",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": false
+      }
+    ]
+  },
+  "karne": {
+    "satirlar": [
+      {
+        "ad": "Bacak 1 — Değer",
+        "kapanan": 2,
+        "tuttu": 0,
+        "isabet": 0.0,
+        "acik": 3
+      },
+      {
+        "ad": "Bacak 2 — Futbol",
+        "kapanan": 1,
+        "tuttu": 0,
+        "isabet": 0.0,
+        "acik": 2
+      },
+      {
+        "ad": "Bacak 3 — Hareket",
+        "kapanan": 0,
+        "tuttu": 0,
+        "isabet": null,
+        "acik": 2
+      },
+      {
+        "ad": "DataGaffer %100",
+        "kapanan": 10,
+        "tuttu": 8,
+        "isabet": 80.0,
+        "acik": 41
+      }
+    ]
+  }
+}</script>
+<script>
+const GATE_SECRET = "Macau2026.";
+function checkGateAccess() {
+  try {
+    if (window.navigator && window.navigator.standalone === true) return true;
+    if (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches) return true;
+    const isSecretMatch = function(v) {
+      if (!v) return false;
+      const clean = String(v).trim().toLowerCase().replace(/[\u200B-\u200D\uFEFF]/g, '').replace(/[“”"']/g, '');
+      return clean === "macau2026." || clean === "macau2026";
+    };
+    const sp = new URLSearchParams(window.location.search);
+    const key = sp.get('key') || sp.get('k') || sp.get('pass') || sp.get('code');
+    if (key && isSecretMatch(key)) {
+      localStorage.setItem('kk_gate_auth', GATE_SECRET);
+      return true;
+    }
+    if (isSecretMatch(localStorage.getItem('kk_gate_auth'))) return true;
+  } catch(e) {}
+  return false;
+}
+if (!checkGateAccess()) {
+  window.location.href = '../?gate=1';
+}
+
+/* Üretimde burası bir URL olur; null iken sayfa gömülü veriyi kullanır. */
+const KAYNAK = "kasa.json";   // aynı klasördeki veri
+
+const E=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;
+  if(x!==undefined&&x!==null)e.textContent=x;return e;};
+const nf=n=>n.toFixed(2);
+const pf=n=>(n>0?"+":"")+n.toFixed(1).replace(".",",")+"%";
+
+function kararSinif(k){return k==="oyna"||k==="kesin oyna"?"karar-oyna":"karar-dikkat";}
+
+function kart(b,kasaMi){
+  const k=E("div","kart"+(kasaMi?" kasa":""));
+  const ust=E("div","kart-ust");
+  const sol=E("div");
+  sol.appendChild(E("div","mac",b.mac));
+  const m=E("div","meta");
+  [b.lig,b.kickoff_trt,b.market].forEach(t=>m.appendChild(E("span",null,t)));
+  sol.appendChild(m);
+  const sag=E("div","oran-kutu");
+  sag.appendChild(E("div","oran",nf(b.oran)));
+  sag.appendChild(E("div","secim",b.kisa||b.secim));
+  ust.append(sol,sag); k.appendChild(ust);
+
+  const r=E("div","rozetler");
+  r.appendChild(E("span","rozet",b.sinif));
+  if(b.puan!==undefined) r.appendChild(E("span","rozet puan",
+    "düşen +"+b.puan.toFixed(1).replace(".",",")+"p · "+b.band));
+  r.appendChild(E("span","rozet "+kararSinif(b.karar),b.karar));
+  if(b.kasa==="evet") r.appendChild(E("span","rozet","kasadan"));
+  k.appendChild(r);
+
+  if(b.futbol_puan!==null||b.deger_puan!==null){
+    const p=E("div","puanlar");
+    if(b.futbol_puan!==null){const s=E("span");s.append("futbol ");
+      s.appendChild(E("b",null,b.futbol_puan.toFixed(1)+"/10"));p.appendChild(s);}
+    if(b.deger_puan!==null){const s=E("span");s.append("değer ");
+      s.appendChild(E("b",null,b.deger_puan.toFixed(1)+"/10"));p.appendChild(s);}
+    k.appendChild(p);
+  }
+  k.appendChild(E("p","gerekce",b.gerekce));
+  if(b.zayif_yani){const z=E("p","zayif");z.appendChild(E("b",null,"Zayıf yanı"));
+    z.append(b.zayif_yani);k.appendChild(z);}
+  return k;
+}
+
+function baslik(kok,metin,alt){
+  const h=E("h2",null,metin);
+  if(alt)h.appendChild(E("span","sub",alt));
+  kok.appendChild(h); kok.appendChild(E("div","rule"));
+}
+
+function bosNot(t){return E("div","bos",t);}
+
+function ciz(d){
+  const trTarih = new Date(d.tarih+"T00:00:00").toLocaleDateString("tr-TR",
+    {day:"numeric",month:"long",year:"numeric"});
+  const saati = (d.uretim_zamani ? d.uretim_zamani.slice(11, 16) : "");
+  document.getElementById("ust-tarih").textContent =
+    trTarih + (saati ? " · Son Güncelleme: " + saati : "");
+  const c=document.getElementById("icerik");
+
+  /* --- 3 bacak kesisimi --- */
+  baslik(c,d.kesisim.baslik);
+  if(d.kesisim.secimler.length){
+    const g=E("div","kartlar");
+    d.kesisim.secimler.forEach(b=>g.appendChild(kart(b,true)));
+    c.appendChild(g);
+  }else{
+    c.appendChild(E("div","kesisim-bos","Bacaklardan kesişen yok."));
+  }
+
+
+  /* --- bacaklar --- */
+  d.bacaklar.forEach(bc=>{
+    const ALT={1:"Value Betting",2:"Sadece Futbol",3:"Macau Hareketi"};
+    baslik(c,"Bacak "+bc.no+" · "+bc.ad,ALT[bc.no]);
+    const g=E("div","kartlar");
+    bc.oneriler.forEach(b=>g.appendChild(kart(b,false)));
+    c.appendChild(g);
+    if(bc.bos_siniflar.length)
+      c.appendChild(bosNot(bc.bos_siniflar.join(" ve ")+
+        " sınıfında savunulabilir aday yok — boş bırakıldı."));
+    if(bc.oyuncu_notu) c.appendChild(bosNot("Oyuncu bahsi: "+bc.oyuncu_notu));
+
+    if(bc.no===3){
+      const h=d.hareket_yorum;
+      const n=E("div","net");
+      [["Ölenler",h.olenler,false],
+       ["Yarı yolda dönenler",h.yari_yolda_donenler,false],
+       ["Günün en iyi hareketi",h.gunun_en_iyisi,true],
+       ["İkincisi",h.ikincisi,true],
+       ["Üçüncüsü",h.ucuncusu,true]].filter(x=>x[1])
+      .forEach(([b,p,v])=>{const s=E("div","net-sat"+(v?" vurgu":""));
+        s.appendChild(E("b",null,b));s.appendChild(E("p",null,p));n.appendChild(s);});
+      c.appendChild(n);
+    }
+  });
+
+  /* --- DG %100 --- */
+  baslik(c,"DataGaffer %100");
+  const sar=E("div","tablo-sar"),t=E("table");t.style.minWidth="360px";
+  const th=E("thead"),tr=E("tr");
+  ["Takım","Seçim","%","Örneklem","Ligimizde"].forEach(x=>tr.appendChild(E("th",null,x)));
+  th.appendChild(tr);t.appendChild(th);
+  const tb=E("tbody");
+  d.datagaffer_100.kayitlar.forEach(k=>{
+    const r=E("tr");
+    r.appendChild(E("td","mc"+(k.bizim_ligimizde?" bizim":""),k.takim));
+    r.appendChild(E("td",null,k.secim));
+    r.appendChild(E("td","num",k.yuzde+"%"));
+    r.appendChild(E("td","num",k.orneklem));
+    r.appendChild(E("td",k.bizim_ligimizde?"bizim":null,k.bizim_ligimizde?"evet":"—"));
+    tb.appendChild(r);
+  });
+  t.appendChild(tb);sar.appendChild(t);c.appendChild(sar);
+
+  /* --- karne --- */
+  baslik(c,"Karne");
+  const kn=E("div","karne");
+  d.karne.satirlar.forEach(s=>{
+    const r=E("div","karne-sat");
+    r.appendChild(E("div","karne-ad",s.ad));
+    const sg=E("div","karne-sag");
+    sg.appendChild(E("span","isabet",s.isabet===null?"—":"%"+s.isabet.toFixed(0)));
+    r.appendChild(sg);
+    const bar=E("div","karne-bar"),i=E("i");
+    i.style.width=(s.isabet===null?0:s.isabet)+"%";
+    if(s.isabet!==null&&s.isabet>=50)i.className="iyi";
+    bar.appendChild(i);r.appendChild(bar);
+    r.appendChild(E("div","karne-alt",
+      s.kapanan+" kapanan · "+s.tuttu+" tuttu · "+s.acik+" açık"));
+    kn.appendChild(r);
+  });
+  c.appendChild(kn);
+
+  /* --- acik sorular --- */
+  if(d.acik_sorular && d.acik_sorular.length){
+    baslik(c,"Açık sorular","Engin'in kararı bekleniyor");
+    const l=E("div","liste");
+    d.acik_sorular.forEach(x=>{
+      const e=E("div","soru");
+      e.appendChild(E("div","m",x.konu));
+      e.appendChild(E("p","r",x.detay));
+      l.appendChild(e);
+    });
+    c.appendChild(l);
+  }
+}
+
+(async()=>{
+  let d;
+  try{
+    d = KAYNAK ? await (await fetch(KAYNAK)).json()
+               : JSON.parse(document.getElementById("rapor-data").textContent);
+    ciz(d);
+  }catch(e){
+    document.getElementById("icerik").appendChild(
+      E("div","uyari-sat","Rapor yüklenemedi: "+e.message));
+  }
+})();
+</script>
+
+</body>
+</html>

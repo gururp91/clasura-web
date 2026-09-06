@@ -1,0 +1,295 @@
+{
+  "surum": "2.1",
+  "tarih": "2026-09-06",
+  "uretim_zamani": "2026-09-06T21:15:00+03:00",
+  "baslik": "Günün Önerileri",
+  "ozet": {
+    "kasadan_oynanan": 0,
+    "kagit_uzeri": 6
+  },
+  "kesisim": {
+    "baslik": "3 Bacak Kesişimi",
+    "secimler": []
+  },
+  "bacaklar": [
+    {
+      "no": 1,
+      "ad": "DEĞER",
+      "oneriler": [
+        {
+          "bet_id": 13,
+          "lig": "Ligue 1",
+          "mac": "Marsilya–Paris FC",
+          "kickoff_trt": "21:45",
+          "market": "Maç Sonucu",
+          "secim": "1",
+          "oran": 1.72,
+          "sinif": "BANKO",
+          "serit": "deger",
+          "kasa": "kagit",
+          "futbol_puan": null,
+          "deger_puan": 5.5,
+          "karar": "dikkatle oyna",
+          "gerekce": "iddaa Marsilya'ya Bet365'ten 2,2 puan daha cömert fiyat veriyor.",
+          "zayif_yani": "Bu markette Sim ayağı yok, üçgen kurulamadı — karar bir kademe düşürüldü.",
+          "sonuc": null,
+          "skor": null,
+          "kisa": "MS1"
+        },
+        {
+          "bet_id": 14,
+          "lig": "Portekiz Premier Lig",
+          "mac": "Gil Vicente–Viseu",
+          "kickoff_trt": "22:30",
+          "market": "Karşılıklı Gol",
+          "secim": "Var",
+          "oran": 1.96,
+          "sinif": "PLASE",
+          "serit": "deger",
+          "kasa": "kagit",
+          "futbol_puan": null,
+          "deger_puan": 7.5,
+          "karar": "oyna",
+          "gerekce": "Günün tek gerçek üçgeni: Bet365 2,9, DataGaffer Sim 8,2 puan daha yüksek olasılık veriyor.",
+          "zayif_yani": "Bacak 3 aynı maçta tersini söylüyor — para KG Yok tarafına akıyor.",
+          "sonuc": null,
+          "skor": null,
+          "kisa": "KG VAR"
+        },
+        {
+          "bet_id": 15,
+          "lig": "TR Süper Lig",
+          "mac": "Kocaelispor–Samsunspor",
+          "kickoff_trt": "20:00",
+          "market": "Maç Sonucu",
+          "secim": "2",
+          "oran": 3.21,
+          "sinif": "SÜRPRİZ",
+          "serit": "deger",
+          "kasa": "kagit",
+          "futbol_puan": null,
+          "deger_puan": 6.0,
+          "karar": "dikkatle oyna",
+          "gerekce": "iddaa Samsunspor'a Bet365'ten 4,8 puan daha cömert fiyat veriyor.",
+          "zayif_yani": "Sim ayağı yok ve Bacak 3 tam tersini, ev sahibini gösteriyor.",
+          "sonuc": null,
+          "skor": null,
+          "kisa": "MS2"
+        }
+      ],
+      "bos_siniflar": [],
+      "oyuncu_notu": "iddaa modelin altında fiyat vermiyor — öneri yok."
+    },
+    {
+      "no": 2,
+      "ad": "FUTBOL / DATA",
+      "oneriler": [],
+      "bos_siniflar": [
+        "BANKO",
+        "PLASE",
+        "SÜRPRİZ"
+      ],
+      "oyuncu_notu": "Takımın beklenen golü hiçbir maçta eşiği geçmedi — öneri yok."
+    },
+    {
+      "no": 3,
+      "ad": "HAREKET",
+      "oneriler": [
+        {
+          "bet_id": 16,
+          "lig": "TR Süper Lig",
+          "mac": "Trabzonspor–Gençlerbirliği",
+          "kickoff_trt": "20:00",
+          "market": "Maç Sonucu",
+          "secim": "1",
+          "oran": 1.36,
+          "sinif": "BANKO",
+          "serit": "hareket",
+          "kasa": "kagit",
+          "futbol_puan": null,
+          "deger_puan": null,
+          "karar": "oyna",
+          "gerekce": "Trabzonspor galibiyeti 1,53'ten 1,36'ya düştü (7,1 puan) ve maçın üç sonucu da aynı yönde açıldı.",
+          "zayif_yani": "Diğer iki bacak bu maçı getirmedi; 1,36 fiyatta hata payı dar.",
+          "sonuc": null,
+          "skor": null,
+          "puan": 7.1,
+          "band": "güçlü (≥3p)",
+          "kisa": "MS1"
+        },
+        {
+          "bet_id": 17,
+          "lig": "TR Süper Lig",
+          "mac": "Kocaelispor–Samsunspor",
+          "kickoff_trt": "20:00",
+          "market": "Maç Sonucu",
+          "secim": "1",
+          "oran": 2.07,
+          "sinif": "PLASE",
+          "serit": "hareket",
+          "kasa": "kagit",
+          "futbol_puan": null,
+          "deger_puan": null,
+          "karar": "dikkatle oyna",
+          "gerekce": "Kocaelispor galibiyeti 2,38'den 2,07'ye düştü (5,5 puan), Çifte Şans da aynı yönü doğruluyor.",
+          "zayif_yani": "Bacak 1 aynı maçta deplasmanı işaret ediyor, DataGaffer da günün en düşük temposunu veriyor.",
+          "sonuc": null,
+          "skor": null,
+          "puan": 5.5,
+          "band": "güçlü (≥3p)",
+          "kisa": "MS1"
+        },
+        {
+          "bet_id": 18,
+          "lig": "Portekiz Premier Lig",
+          "mac": "Gil Vicente–Viseu",
+          "kickoff_trt": "22:30",
+          "market": "Maç Sonucu",
+          "secim": "0",
+          "oran": 2.78,
+          "sinif": "SÜRPRİZ",
+          "serit": "hareket",
+          "kasa": "kagit",
+          "futbol_puan": null,
+          "deger_puan": null,
+          "karar": "dikkatle oyna",
+          "gerekce": "Beraberlik 3,22'den 2,78'e düştü (4,4 puan) ve beş market birden ev sahibi aleyhine döndü.",
+          "zayif_yani": "Bacak 1 aynı maçta KG Var diyor; beraberlik zaten düşük isabetli bir markettir.",
+          "sonuc": null,
+          "skor": null,
+          "puan": 4.4,
+          "band": "güçlü (≥3p)",
+          "kisa": "MS0"
+        }
+      ],
+      "bos_siniflar": [],
+      "oyuncu_notu": null
+    }
+  ],
+  "hareket_yorum": {
+    "olenler": "Bugün eşiği geçip sıfırlanan hareket yok; akşam maçlarının fiyatları açıldıktan sonra tek yönde ilerledi ve geri dönmedi. Gündüz oynanan maçlarda (Arsenal–Chelsea, Frankfurt–Augsburg) sabah gördüğümüz dalgaların tamamı kapanışa kadar silinmişti.",
+    "yari_yolda_donenler": "Yarı yolda dönen hareket yok. Akşam kadrosunun üç adayı da (Trabzonspor, Kocaelispor, Gil Vicente) 19:58 itibarıyla kendi gün zirvesinde duruyor.",
+    "gunun_en_iyisi": "Trabzonspor–Gençlerbirliği, ev sahibi galibiyeti. 7,1 puanla günün en büyük hareketi ve maçın üç sonucu da aynı yönde açıldı — bugünkü en temiz tablo.",
+    "ikincisi": "Kocaelispor–Samsunspor, ev sahibi galibiyeti (5,5 puan). Çifte Şans tarafı da doğruluyor, ama DataGaffer bu maça günün en düşük temposunu veriyor."
+  },
+  "datagaffer_100": {
+    "kayitlar": [
+      {
+        "takim": "Wolves",
+        "secim": "Team o1.5",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": false
+      },
+      {
+        "takim": "AZ Alkmaar",
+        "secim": "Team o1.5",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": true
+      },
+      {
+        "takim": "Cambuur",
+        "secim": "Over 2.5",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": true
+      },
+      {
+        "takim": "Parma",
+        "secim": "Under 2.5",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": true
+      },
+      {
+        "takim": "Hearts",
+        "secim": "BTTS Yes",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": false
+      },
+      {
+        "takim": "FC Sion",
+        "secim": "BTTS Yes",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": false
+      },
+      {
+        "takim": "FC Sion",
+        "secim": "Over 2.5",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": false
+      },
+      {
+        "takim": "Molde",
+        "secim": "Over 2.5",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": false
+      },
+      {
+        "takim": "Valerenga",
+        "secim": "Over 2.5",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": false
+      },
+      {
+        "takim": "Rennes",
+        "secim": "BTTS Yes",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": true
+      },
+      {
+        "takim": "Rennes",
+        "secim": "Over 2.5",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": true
+      },
+      {
+        "takim": "Cruzeiro",
+        "secim": "BTTS Yes",
+        "yuzde": 100,
+        "orneklem": "6/6",
+        "bizim_ligimizde": false
+      }
+    ]
+  },
+  "karne": {
+    "satirlar": [
+      {
+        "ad": "Bacak 1 — Değer",
+        "kapanan": 2,
+        "tuttu": 0,
+        "isabet": 0.0,
+        "acik": 3
+      },
+      {
+        "ad": "Bacak 2 — Futbol",
+        "kapanan": 1,
+        "tuttu": 0,
+        "isabet": 0.0,
+        "acik": 2
+      },
+      {
+        "ad": "Bacak 3 — Hareket",
+        "kapanan": 0,
+        "tuttu": 0,
+        "isabet": null,
+        "acik": 2
+      },
+      {
+        "ad": "DataGaffer %100",
+        "kapanan": 10,
+        "tuttu": 8,
+        "isabet": 80.0,
+        "acik": 41
+      }
+    ]
+  }
+}
