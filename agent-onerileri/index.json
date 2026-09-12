@@ -1,0 +1,101 @@
+{
+ "guncelleme": "2026-09-12T23:44:00+03:00",
+ "raporlar": [
+  {
+   "tarih": "2026-09-12",
+   "dosya": "2026-09-12.json",
+   "ozet": "Günün kapanış turu, saat 23:40 ölçümü. Bültende on iki ligimizden oynanmamış maç kalmadı; bu yüzden Meşin Yuvarlak ve Agent Macau bu turda boş, yeni kayıt açılmadı ve önceki turların önerileri olduğu gibi duruyor. Aşağıdaki oran tablosu günün son ölçümü olan 21:15'i gösterir; kapanışta günün en büyü",
+   "karne": [
+    {
+     "ad": "Meşin Yuvarlak",
+     "kapanan": 28,
+     "tuttu": 15,
+     "isabet": 53.6,
+     "acik": 3
+    },
+    {
+     "ad": "Agent Macau",
+     "kapanan": 51,
+     "tuttu": 27,
+     "isabet": 52.9,
+     "acik": 6
+    },
+    {
+     "ad": "DataGaffer %100",
+     "kapanan": 45,
+     "tuttu": 26,
+     "isabet": 57.8,
+     "acik": 5
+    }
+   ]
+  },
+  {
+   "tarih": "2026-09-11",
+   "dosya": "2026-09-11.json",
+   "ozet": "Günün son turu (21:15 ölçümü). Bugünün dokuz maçından dördü başladı, geriye beş maç kaldı; kesişim yok. Turun en önemli gerçeği şu: beş maçın beşinde de para, Değer bacağının işaret ettiği tarafın TERSİNE akıyor — Venezia'da çok gol, Union Berlin'de az gol, Sevilla'da ev sahibi yönünde. Karşılaştırdığımız Bet365 ve DataGaffer fiyatları 16:15'ten kalma, iddaa ise o saatten beri kaymaya devam etti; bu yüzden Değer bacağındaki farkların bir kısmı gerçek bir ayrışma değil, tek tarafın donmuş olması olabilir ve dört önerinin dördü de 'dikkatle oyna' ile veriliyor. 19:15 turunda önerdiğim Rennes 4'ten az gol seçimini GERİ ALIYORUM: iddaa o bahiste geri geldi, fark artık Bet365 tarafında iki puanı bulmuyor; yerine aynı maçta iki takımın da gol atamaması geçiyor. Aynı turda 'günün ikinci en güçlü hareketi Beşiktaş' demiştim, o maç başladı ve kapsam dışı; ikinciliği Sevilla–Valencia'daki Sevilla tarafı aldı. Mechelen–Anderlecht ise 20:22'de tepe yaptı ve o saatten beri geri çekiliyor.",
+   "karne": [
+    {
+     "ad": "Bacak 1 — Değer",
+     "kapanan": 25,
+     "tuttu": 10,
+     "isabet": 40.0,
+     "acik": 8
+    },
+    {
+     "ad": "Bacak 2 — Futbol",
+     "kapanan": 18,
+     "tuttu": 12,
+     "isabet": 66.7,
+     "acik": 6
+    },
+    {
+     "ad": "Bacak 3 — Hareket",
+     "kapanan": 34,
+     "tuttu": 18,
+     "isabet": 52.9,
+     "acik": 7
+    },
+    {
+     "ad": "DataGaffer %100",
+     "kapanan": 30,
+     "tuttu": 20,
+     "isabet": 66.7,
+     "acik": 7
+    },
+    {
+     "ad": "DG Top Picks",
+     "kapanan": 19,
+     "tuttu": 11,
+     "isabet": 57.9,
+     "acik": 0
+    }
+   ],
+   "saat": "21:15"
+  },
+  {
+   "tarih": "2026-09-10",
+   "dosya": "2026-09-10.json",
+   "ozet": "Günün son turu (21:15 ölçümü). Bültende başlamamış beş maç var: 22:00'de dört Şampiyonlar Ligi maçı (Como–Leipzig, Manchester United–Sabah, Bayern–Bodø/Glimt, Slavia Prag–Lens) ve 22:15'te Estrela–Braga. 19:45'te başlayan PSV–Shakhtar ile Fenerbahçe–Roma ölçümden çıktı; o iki maçtaki 16:20 kayıtları geçerliliğini koruyor. Kesişim yok · Bacak 1'de 4 · Bacak 2'de 3 · Bacak 3'te 5 öneri. Para beş maçın beşinde de gol ve favori yönüne akmaya devam ediyor; bu yüzden Bacak 1 ile Bacak 3 üç maçta birbirinin tersini söylüyor. 19:20 turunda Slavia Prag–Lens'te Alt 3,5 de değer adayı görünüyordu; o fark bugün iddaa'nın kaymasıyla oluştu, Bet365 fiyatı 17:38'den kalma olduğu için bu turda öneriye alınmadı."
+  },
+  {
+   "tarih": "2026-09-09",
+   "dosya": "2026-09-09.json",
+   "ozet": "Günün son turu (21:15 ölçümü). 19:45'te başlayan üç maç (Barcelona–Feyenoord, Stuttgart–Viking, Twente–Telstar) bu turun ölçümünde yok; öneriler 22:00 ve 22:45'teki 5 maça. Kesişim yok · Bacak 1'de 2 (Moreirense–Benfica Alt 3,5 ve Napoli–Arsenal'de Napoli/beraberlik — ikisinde de Bet365 fiyatı dün akşamdan kalma, para ters yöne akıyor) · Bacak 2'de 2 (Liverpool–Atletico Üst 2,5, Sporting–Galatasaray Üst 3,5) · Bacak 3'te 3 (Napoli–Arsenal'de Arsenal, PSG Üst 4,5, Sporting–Galatasaray Üst 4,5). Günün en güçlü hareketi artık Sporting'in golü tarafı; öğlenden beri birinci olan PSG ikinciye indi. 20:21'den beri 158 seçimin 116'sında oran değişti."
+  },
+  {
+   "tarih": "2026-09-08",
+   "dosya": "2026-09-08.json",
+   "ozet": "Bültende 7 maç; 19:45'te başlayan üç maç (AEK–LASK, Brugge–Villa, Nijmegen–Excelsior) kapsam dışı, öneriler yalnız 22:00'deki dört maça. Kesişim yok · Bacak 1'de 1, Bacak 2'de 1, Bacak 3'te 2 öneri. Real Madrid–Inter'de Bacak 2 ve 3 birlikte Üst 2,5 diyor, ama iddaa'nın fiyatı cömert değil — Bacak 1 katılmıyor, kesişim bu yüzden boş."
+  },
+  {
+   "tarih": "2026-09-07",
+   "dosya": "2026-09-07.json",
+   "ozet": "9 maç · kesişim yok · Bacak 1'de 5, Bacak 2'de 3, Bacak 3'te 5 öneri."
+  },
+  {
+   "tarih": "2026-09-06",
+   "dosya": "2026-09-06.json",
+   "ozet": "{\"kasadan_oynanan\": 0, \"kagit_uzeri\": 6}"
+  }
+ ]
+}

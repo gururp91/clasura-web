@@ -1,0 +1,2985 @@
+{
+ "surum": "2.0",
+ "tarih": "2026-09-12",
+ "uretim_zamani": "2026-09-12T23:44:00+03:00",
+ "baslik": "Agent Önerileri",
+ "ozet": "Günün kapanış turu, saat 23:40 ölçümü. Bültende on iki ligimizden oynanmamış maç kalmadı; bu yüzden Meşin Yuvarlak ve Agent Macau bu turda boş, yeni kayıt açılmadı ve önceki turların önerileri olduğu gibi duruyor. Aşağıdaki oran tablosu günün son ölçümü olan 21:15'i gösterir; kapanışta günün en büyük hareketi Le Havre–Angers'ta Angers'in gol tarafı (Angers'in 2 ve üstü golü 2,93'ten 2,17'ye), ikincisi Atalanta–Cagliari'de Cagliari'nin gol atması (1,59'dan 1,44'e). DataGaffer'ın %100 listesi canlı okundu: 178 takım tarandı, 30 kayıt çıktı, bugünkü liste öğleden sonra yazılanla aynı. Sonuçlar yarın sabah kapanır.",
+ "bacaklar": [
+  {
+   "kod": "futbol",
+   "ad": "Meşin Yuvarlak",
+   "oneriler": [],
+   "bos_siniflar": [
+    "BANKO",
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "Bültende bizim liglerde oynanmamış maç kalmadı; takım ya da oyuncu önerisi için ölçülecek maç yok."
+  },
+  {
+   "kod": "hareket",
+   "ad": "Agent Macau",
+   "oneriler": [],
+   "bos_siniflar": [
+    "BANKO",
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": ""
+  }
+ ],
+ "hareket_yorum": {
+  "olenler": "Günün kapanışında iki hareket tamamen öldü. Le Havre–Angers'ta ev sahibinin gol tarafı: Le Havre'ın 3 ve üstü golü 14:22'de %22,1 yükselmişti, 21:15'te açılışın altına indi (%−2,2); 2 ve üstü golü de %13,4'ten %−1,8'e döndü — para gün içinde taraf değiştirip Angers'e geçti. Union Saint-Gilloise–Lommel'de Lommel'in kazanması 18:22'de %13,6 yükselmişti, 21:15'te yön değiştirip %9,4 düştü; 18:22'deki okuma çürüdü, geri alındı.",
+  "yari_yolda_donenler": "Paris–Lyon'un gol tarafı 18:22'de en güçlü halindeydi, kapanışa kadar yarı yarıya geri geldi: 4 ve üstü gol %−15,9'dan %−6,1'e, 3 ve üstü gol %−12,1'den %−4,5'e, Paris'in 2 ve üstü golü %−10,8'den %−6,4'e. Real Madrid–Vallecano'da Vallecano'nun 2 ve üstü golü %−23,9'dan %−18,6'ya, kazanması %−22,5'ten %−18,4'e geriledi; hareket büyük ama zirvesi 18:22'de kaldı. A. de Viseu–Guimarães'te 4 ve üstü golün %10,5'lik yükselişi %6'ya döndü.",
+  "gunun_en_iyisi": "Le Havre–Angers'ta Angers'in gol tarafı — günün açık ara en büyük hareketi ve kapanışa kadar hızlandı. Angers'in 2 ve üstü golü 2,93'ten 2,17'ye indi, ihtimali 10,6 puan arttı; Angers'in gol atması, kazanması, ilk yarıyı önde kapatması ve maçta 3 ve üstü gol dahil 12 bahis aynı yöne gitti. 21:15 turunun okuması kapanışta da geçerli.",
+  "ikincisi": "Atalanta–Cagliari'de Cagliari'nin gol tarafı. Cagliari'nin gol atması 1,59'dan 1,44'e indi, ihtimali 5,8 puan arttı, son saatte hızlandı ve maçın 10 bahsi (karşılıklı gol, Cagliari'nin 2 ve üstü golü, Cagliari'nin kazanması) aynı yönde. Üçüncü sırada Real Madrid–Vallecano'da Vallecano'nun gol atması (1,85'ten 1,67'ye, 5,1 puan) var ama zirvesi 18:22'de kalıp geriledi."
+ },
+ "datagaffer_100": {
+  "okunan_takim": 178,
+  "kayitlar": [
+   {
+    "takim": "Birmingham",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Stuttgart",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Frankfurt",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Valerenga",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Hull City",
+    "secim": "Under 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Southampton",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Rosenborg",
+    "secim": "Team Over 1.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "FC Sion",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "FC Sion",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "FC Köln",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "FC Köln",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "GO Ahead",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "GO Ahead",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Young Boys",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Young Boys",
+    "secim": "Over 3.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Young Boys",
+    "secim": "Team Over 1.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Konyaspor",
+    "secim": "Loss",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Ajax",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Ajax",
+    "secim": "Over 3.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Al Nassr",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "OH Leuven",
+    "secim": "Loss",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Cambuur",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Nijmegen",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Miami",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Toronto",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Cruzeiro",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Dallas",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Portland",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "St. Louis",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Minnesota",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   }
+  ]
+ },
+ "karne": {
+  "satirlar": [
+   {
+    "ad": "Meşin Yuvarlak",
+    "kapanan": 28,
+    "tuttu": 15,
+    "isabet": 53.6,
+    "acik": 3,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 21,
+      "tuttu": 13
+     },
+     "PLASE": {
+      "kapanan": 7,
+      "tuttu": 2
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "Agent Macau",
+    "kapanan": 51,
+    "tuttu": 27,
+    "isabet": 52.9,
+    "acik": 6,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 20,
+      "tuttu": 11
+     },
+     "PLASE": {
+      "kapanan": 22,
+      "tuttu": 15
+     },
+     "SÜRPRİZ": {
+      "kapanan": 9,
+      "tuttu": 1
+     }
+    }
+   },
+   {
+    "ad": "DataGaffer %100",
+    "kapanan": 45,
+    "tuttu": 26,
+    "isabet": 57.8,
+    "acik": 5,
+    "siniflar": null
+   }
+  ]
+ },
+ "hareket_tablo": {
+  "esik": 7.0,
+  "saatler": [
+   "14:22",
+   "14:50",
+   "16:15",
+   "18:22",
+   "19:15",
+   "20:15",
+   "21:15"
+  ],
+  "son": "21:15",
+  "limit": 15,
+  "dusen_toplam": 61,
+  "yukselen_toplam": 37,
+  "dusenler": [
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 2.5",
+    "acilis": "8.09",
+    "simdi": "5.09",
+    "degisim": -37.1,
+    "puan": null,
+    "zirve": -37.1,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "Üst 4.5",
+    "acilis": "7.42",
+    "simdi": "5.4",
+    "degisim": -27.2,
+    "puan": null,
+    "zirve": -27.2,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 1.5",
+    "acilis": "2.93",
+    "simdi": "2.17",
+    "degisim": -25.9,
+    "puan": 10.64,
+    "zirve": -25.9,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Atalanta - Cagliari",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 2.5",
+    "acilis": "13.8",
+    "simdi": "10.35",
+    "degisim": -25.0,
+    "puan": null,
+    "zirve": -25.0,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "Üst 3.5",
+    "acilis": "3.53",
+    "simdi": "2.78",
+    "degisim": -21.2,
+    "puan": 6.8,
+    "zirve": -21.2,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "Deplasman",
+    "acilis": "3.1",
+    "simdi": "2.48",
+    "degisim": -20.0,
+    "puan": 7.12,
+    "zirve": -20.0,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "İY Deplasman",
+    "acilis": "3.81",
+    "simdi": "3.06",
+    "degisim": -19.7,
+    "puan": 5.7,
+    "zirve": -19.7,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Atalanta - Cagliari",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 1.5",
+    "acilis": "4.3",
+    "simdi": "3.46",
+    "degisim": -19.5,
+    "puan": 4.91,
+    "zirve": -19.5,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Real Madrid - Vallecano",
+    "kickoff": "22:00",
+    "secim": "Dep Üst 1.5",
+    "acilis": "5.85",
+    "simdi": "4.76",
+    "degisim": -18.6,
+    "puan": null,
+    "zirve": -23.9,
+    "zirve_saat": "18:22",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Real Madrid - Vallecano",
+    "kickoff": "22:00",
+    "secim": "Deplasman",
+    "acilis": "18.2",
+    "simdi": "14.85",
+    "degisim": -18.4,
+    "puan": null,
+    "zirve": -22.5,
+    "zirve_saat": "18:22",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "İY KG Var",
+    "acilis": "4.73",
+    "simdi": "3.95",
+    "degisim": -16.5,
+    "puan": 3.81,
+    "zirve": -16.5,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Real Madrid - Vallecano",
+    "kickoff": "22:00",
+    "secim": "İY Deplasman",
+    "acilis": "12.5",
+    "simdi": "10.45",
+    "degisim": -16.4,
+    "puan": 1.4,
+    "zirve": -20.0,
+    "zirve_saat": "18:22",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "AJ Auxerre - Nice",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 2.5",
+    "acilis": "5.91",
+    "simdi": "4.95",
+    "degisim": -16.2,
+    "puan": null,
+    "zirve": -16.2,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Atalanta - Cagliari",
+    "kickoff": "21:45",
+    "secim": "Deplasman",
+    "acilis": "5.56",
+    "simdi": "4.66",
+    "degisim": -16.2,
+    "puan": 3.09,
+    "zirve": -16.2,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "Üst 2.5",
+    "acilis": "1.96",
+    "simdi": "1.67",
+    "degisim": -14.8,
+    "puan": 7.73,
+    "zirve": -14.8,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "HIZLANDI"
+   }
+  ],
+  "yukselenler": [
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "Dep Alt 0.5",
+    "acilis": "2.59",
+    "simdi": "3.47",
+    "degisim": 34.0,
+    "puan": -8.72,
+    "zirve": 34.0,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "Alt 1.5",
+    "acilis": "2.99",
+    "simdi": "3.72",
+    "degisim": 24.4,
+    "puan": -5.88,
+    "zirve": 24.4,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "Dep Alt 1.5",
+    "acilis": "1.26",
+    "simdi": "1.49",
+    "degisim": 18.3,
+    "puan": -10.64,
+    "zirve": 18.3,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "Ev sahibi",
+    "acilis": "2.07",
+    "simdi": "2.41",
+    "degisim": 16.4,
+    "puan": -6.03,
+    "zirve": 18.8,
+    "zirve_saat": "14:22",
+    "zirve_ayri": true,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "Alt 2.5",
+    "acilis": "1.61",
+    "simdi": "1.87",
+    "degisim": 16.1,
+    "puan": -7.73,
+    "zirve": 16.1,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "KG Yok",
+    "acilis": "1.79",
+    "simdi": "2.07",
+    "degisim": 15.6,
+    "puan": -6.78,
+    "zirve": 15.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Atalanta - Cagliari",
+    "kickoff": "21:45",
+    "secim": "Dep Alt 0.5",
+    "acilis": "1.98",
+    "simdi": "2.28",
+    "degisim": 15.2,
+    "puan": -5.83,
+    "zirve": 15.2,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "İY Alt 0.5",
+    "acilis": "2.57",
+    "simdi": "2.93",
+    "degisim": 14.0,
+    "puan": -4.37,
+    "zirve": 14.0,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AJ Auxerre - Nice",
+    "kickoff": "21:45",
+    "secim": "Ev sahibi",
+    "acilis": "2.36",
+    "simdi": "2.69",
+    "degisim": 14.0,
+    "puan": -4.58,
+    "zirve": 14.0,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Sunderland - Arsenal",
+    "kickoff": "22:00",
+    "secim": "Dep Üst 2.5",
+    "acilis": "3.02",
+    "simdi": "3.43",
+    "degisim": 13.6,
+    "puan": -3.52,
+    "zirve": 13.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AJ Auxerre - Nice",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "5.31",
+    "simdi": "6.01",
+    "degisim": 13.2,
+    "puan": null,
+    "zirve": 13.2,
+    "zirve_saat": "18:22",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AJ Auxerre - Nice",
+    "kickoff": "21:45",
+    "secim": "Dep Alt 0.5",
+    "acilis": "3.12",
+    "simdi": "3.52",
+    "degisim": 12.8,
+    "puan": -3.17,
+    "zirve": 12.8,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "SC Cambuur - NEC Nijmegen",
+    "kickoff": "22:00",
+    "secim": "Üst 4.5",
+    "acilis": "2.82",
+    "simdi": "3.17",
+    "degisim": 12.4,
+    "puan": -3.26,
+    "zirve": 12.4,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AJ Auxerre - Nice",
+    "kickoff": "21:45",
+    "secim": "İY Ev",
+    "acilis": "2.98",
+    "simdi": "3.32",
+    "degisim": 11.4,
+    "puan": -3.0,
+    "zirve": 11.4,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Lorient - Toulouse",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 0.5",
+    "acilis": "3.3",
+    "simdi": "3.67",
+    "degisim": 11.2,
+    "puan": -2.65,
+    "zirve": 11.8,
+    "zirve_saat": "19:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   }
+  ],
+  "aday_esigi_puan": 2.0,
+  "adaylar": [
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 1.5",
+    "acilis": "2.93",
+    "simdi": "2.17",
+    "puan": 10.64,
+    "band": "≥3p güçlü",
+    "sinif": "PLASE",
+    "degisim": -25.9,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 8.72
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 7.73
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 7.12
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 6.8
+     },
+     {
+      "secim": "KG Var",
+      "puan": 6.78
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 5.88
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 5.7
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 5.07
+     }
+    ]
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 0.5",
+    "acilis": "1.34",
+    "simdi": "1.18",
+    "puan": 8.72,
+    "band": "≥3p güçlü",
+    "sinif": "BANKO",
+    "degisim": -11.9,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 10.64
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 7.73
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 7.12
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 6.8
+     },
+     {
+      "secim": "KG Var",
+      "puan": 6.78
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 5.88
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 5.7
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 5.07
+     }
+    ]
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "Üst 2.5",
+    "acilis": "1.96",
+    "simdi": "1.67",
+    "puan": 7.73,
+    "band": "≥3p güçlü",
+    "sinif": "BANKO",
+    "degisim": -14.8,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 10.64
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 8.72
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 7.12
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 6.8
+     },
+     {
+      "secim": "KG Var",
+      "puan": 6.78
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 5.88
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 5.7
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 5.07
+     }
+    ]
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "Deplasman",
+    "acilis": "3.1",
+    "simdi": "2.48",
+    "puan": 7.12,
+    "band": "≥3p güçlü",
+    "sinif": "PLASE",
+    "degisim": -20.0,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 10.64
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 8.72
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 7.73
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 6.8
+     },
+     {
+      "secim": "KG Var",
+      "puan": 6.78
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 5.88
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 5.7
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 5.07
+     }
+    ]
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "Üst 3.5",
+    "acilis": "3.53",
+    "simdi": "2.78",
+    "puan": 6.8,
+    "band": "≥3p güçlü",
+    "sinif": "SÜRPRİZ",
+    "degisim": -21.2,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 10.64
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 8.72
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 7.73
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 7.12
+     },
+     {
+      "secim": "KG Var",
+      "puan": 6.78
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 5.88
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 5.7
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 5.07
+     }
+    ]
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "KG Var",
+    "acilis": "1.75",
+    "simdi": "1.54",
+    "puan": 6.78,
+    "band": "≥3p güçlü",
+    "sinif": "BANKO",
+    "degisim": -12.0,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 10.64
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 8.72
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 7.73
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 7.12
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 6.8
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 5.88
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 5.7
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 5.07
+     }
+    ]
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "Üst 1.5",
+    "acilis": "1.26",
+    "simdi": "1.16",
+    "puan": 5.88,
+    "band": "≥3p güçlü",
+    "sinif": "BANKO",
+    "degisim": -7.9,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 10.64
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 8.72
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 7.73
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 7.12
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 6.8
+     },
+     {
+      "secim": "KG Var",
+      "puan": 6.78
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 5.7
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 5.07
+     }
+    ]
+   },
+   {
+    "mac": "Atalanta - Cagliari",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 0.5",
+    "acilis": "1.59",
+    "simdi": "1.44",
+    "puan": 5.83,
+    "band": "≥3p güçlü",
+    "sinif": "BANKO",
+    "degisim": -9.4,
+    "ayni_macta_dusen": [
+     {
+      "secim": "KG Var",
+      "puan": 5.08
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.91
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 3.09
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 2.55
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 2.44
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 2.4
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 2.25
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 2.17
+     }
+    ]
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "İY Deplasman",
+    "acilis": "3.81",
+    "simdi": "3.06",
+    "puan": 5.7,
+    "band": "≥3p güçlü",
+    "sinif": "SÜRPRİZ",
+    "degisim": -19.7,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 10.64
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 8.72
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 7.73
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 7.12
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 6.8
+     },
+     {
+      "secim": "KG Var",
+      "puan": 6.78
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 5.88
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 5.07
+     }
+    ]
+   },
+   {
+    "mac": "Atalanta - Cagliari",
+    "kickoff": "21:45",
+    "secim": "KG Var",
+    "acilis": "1.87",
+    "simdi": "1.69",
+    "puan": 5.08,
+    "band": "≥3p güçlü",
+    "sinif": "BANKO",
+    "degisim": -9.6,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 5.83
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.91
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 3.09
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 2.55
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 2.44
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 2.4
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 2.25
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 2.17
+     }
+    ]
+   },
+   {
+    "mac": "Real Madrid - Vallecano",
+    "kickoff": "22:00",
+    "secim": "Dep Üst 0.5",
+    "acilis": "1.85",
+    "simdi": "1.67",
+    "puan": 5.08,
+    "band": "≥3p güçlü",
+    "sinif": "BANKO",
+    "degisim": -9.7,
+    "ayni_macta_dusen": [
+     {
+      "secim": "KG Var",
+      "puan": 4.51
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 2.41
+     },
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 1.46
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 1.4
+     }
+    ]
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "İY Üst 1.5",
+    "acilis": "2.88",
+    "simdi": "2.47",
+    "puan": 5.07,
+    "band": "≥3p güçlü",
+    "sinif": "PLASE",
+    "degisim": -14.2,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 10.64
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 8.72
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 7.73
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 7.12
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 6.8
+     },
+     {
+      "secim": "KG Var",
+      "puan": 6.78
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 5.88
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 5.7
+     }
+    ]
+   },
+   {
+    "mac": "Atalanta - Cagliari",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 1.5",
+    "acilis": "4.3",
+    "simdi": "3.46",
+    "puan": 4.91,
+    "band": "≥3p güçlü",
+    "sinif": "SÜRPRİZ",
+    "degisim": -19.5,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 5.83
+     },
+     {
+      "secim": "KG Var",
+      "puan": 5.08
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 3.09
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 2.55
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 2.44
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 2.4
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 2.25
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 2.17
+     }
+    ]
+   },
+   {
+    "mac": "AJ Auxerre - Nice",
+    "kickoff": "21:45",
+    "secim": "Deplasman",
+    "acilis": "2.59",
+    "simdi": "2.27",
+    "puan": 4.83,
+    "band": "≥3p güçlü",
+    "sinif": "PLASE",
+    "degisim": -12.4,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.33
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.36
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 3.17
+     },
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 3.15
+     },
+     {
+      "secim": "ÇŞ X2",
+      "puan": 2.36
+     },
+     {
+      "secim": "Ev Alt 0.5",
+      "puan": 2.26
+     }
+    ]
+   },
+   {
+    "mac": "Real Madrid - Vallecano",
+    "kickoff": "22:00",
+    "secim": "KG Var",
+    "acilis": "1.91",
+    "simdi": "1.74",
+    "puan": 4.51,
+    "band": "≥3p güçlü",
+    "sinif": "BANKO",
+    "degisim": -8.9,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 5.08
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 2.41
+     },
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 1.46
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 1.4
+     }
+    ]
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "İY Üst 0.5",
+    "acilis": "1.35",
+    "simdi": "1.26",
+    "puan": 4.37,
+    "band": "≥3p güçlü",
+    "sinif": "BANKO",
+    "degisim": -6.7,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 10.64
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 8.72
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 7.73
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 7.12
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 6.8
+     },
+     {
+      "secim": "KG Var",
+      "puan": 6.78
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 5.88
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 5.7
+     }
+    ]
+   },
+   {
+    "mac": "SC Cambuur - NEC Nijmegen",
+    "kickoff": "22:00",
+    "secim": "Dep Alt 2.5",
+    "acilis": "1.56",
+    "simdi": "1.45",
+    "puan": 4.34,
+    "band": "≥3p güçlü",
+    "sinif": "BANKO",
+    "degisim": -7.1,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 3.77
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 3.65
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 3.26
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 3.14
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 2.66
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 1.86
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 1.58
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 1.56
+     }
+    ]
+   },
+   {
+    "mac": "AJ Auxerre - Nice",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 1.5",
+    "acilis": "2.38",
+    "simdi": "2.14",
+    "puan": 4.33,
+    "band": "≥3p güçlü",
+    "sinif": "PLASE",
+    "degisim": -10.1,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Deplasman",
+      "puan": 4.83
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.36
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 3.17
+     },
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 3.15
+     },
+     {
+      "secim": "ÇŞ X2",
+      "puan": 2.36
+     },
+     {
+      "secim": "Ev Alt 0.5",
+      "puan": 2.26
+     }
+    ]
+   },
+   {
+    "mac": "Sunderland - Arsenal",
+    "kickoff": "22:00",
+    "secim": "Dep Alt 1.5",
+    "acilis": "1.97",
+    "simdi": "1.81",
+    "puan": 4.05,
+    "band": "≥3p güçlü",
+    "sinif": "PLASE",
+    "degisim": -8.1,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Alt 2.5",
+      "puan": 3.52
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 2.81
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 2.5
+     },
+     {
+      "secim": "Ev Üst 0.5",
+      "puan": 2.26
+     },
+     {
+      "secim": "Dep Alt 0.5",
+      "puan": 2.24
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 1.92
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 1.76
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 1.71
+     }
+    ]
+   },
+   {
+    "mac": "Lorient - Toulouse",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 1.5",
+    "acilis": "2.27",
+    "simdi": "2.07",
+    "puan": 3.84,
+    "band": "≥3p güçlü",
+    "sinif": "PLASE",
+    "degisim": -8.8,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev sahibi",
+      "puan": 3.39
+     },
+     {
+      "secim": "Ev Üst 0.5",
+      "puan": 2.65
+     },
+     {
+      "secim": "İY Ev",
+      "puan": 2.61
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 2.52
+     },
+     {
+      "secim": "ÇŞ 1X",
+      "puan": 1.57
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 1.56
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 1.5
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 1.32
+     }
+    ]
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "İY KG Var",
+    "acilis": "4.73",
+    "simdi": "3.95",
+    "puan": 3.81,
+    "band": "≥3p güçlü",
+    "sinif": "SÜRPRİZ",
+    "degisim": -16.5,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 10.64
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 8.72
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 7.73
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 7.12
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 6.8
+     },
+     {
+      "secim": "KG Var",
+      "puan": 6.78
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 5.88
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 5.7
+     }
+    ]
+   },
+   {
+    "mac": "SC Cambuur - NEC Nijmegen",
+    "kickoff": "22:00",
+    "secim": "Dep Alt 1.5",
+    "acilis": "2.8",
+    "simdi": "2.51",
+    "puan": 3.77,
+    "band": "≥3p güçlü",
+    "sinif": "SÜRPRİZ",
+    "degisim": -10.4,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Alt 2.5",
+      "puan": 4.34
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 3.65
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 3.26
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 3.14
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 2.66
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 1.86
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 1.58
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 1.56
+     }
+    ]
+   },
+   {
+    "mac": "SC Cambuur - NEC Nijmegen",
+    "kickoff": "22:00",
+    "secim": "Alt 3.5",
+    "acilis": "1.77",
+    "simdi": "1.65",
+    "puan": 3.65,
+    "band": "≥3p güçlü",
+    "sinif": "BANKO",
+    "degisim": -6.8,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Alt 2.5",
+      "puan": 4.34
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 3.77
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 3.26
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 3.14
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 2.66
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 1.86
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 1.58
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 1.56
+     }
+    ]
+   },
+   {
+    "mac": "Sunderland - Arsenal",
+    "kickoff": "22:00",
+    "secim": "Dep Alt 2.5",
+    "acilis": "1.25",
+    "simdi": "1.19",
+    "puan": 3.52,
+    "band": "≥3p güçlü",
+    "sinif": "BANKO",
+    "degisim": -4.8,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 4.05
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 2.81
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 2.5
+     },
+     {
+      "secim": "Ev Üst 0.5",
+      "puan": 2.26
+     },
+     {
+      "secim": "Dep Alt 0.5",
+      "puan": 2.24
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 1.92
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 1.76
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 1.71
+     }
+    ]
+   },
+   {
+    "mac": "Lorient - Toulouse",
+    "kickoff": "21:45",
+    "secim": "Ev sahibi",
+    "acilis": "2.42",
+    "simdi": "2.21",
+    "puan": 3.39,
+    "band": "≥3p güçlü",
+    "sinif": "PLASE",
+    "degisim": -8.7,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 3.84
+     },
+     {
+      "secim": "Ev Üst 0.5",
+      "puan": 2.65
+     },
+     {
+      "secim": "İY Ev",
+      "puan": 2.61
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 2.52
+     },
+     {
+      "secim": "ÇŞ 1X",
+      "puan": 1.57
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 1.56
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 1.5
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 1.32
+     }
+    ]
+   },
+   {
+    "mac": "AJ Auxerre - Nice",
+    "kickoff": "21:45",
+    "secim": "İY Deplasman",
+    "acilis": "3.23",
+    "simdi": "2.88",
+    "puan": 3.36,
+    "band": "≥3p güçlü",
+    "sinif": "SÜRPRİZ",
+    "degisim": -10.8,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Deplasman",
+      "puan": 4.83
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.33
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 3.17
+     },
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 3.15
+     },
+     {
+      "secim": "ÇŞ X2",
+      "puan": 2.36
+     },
+     {
+      "secim": "Ev Alt 0.5",
+      "puan": 2.26
+     }
+    ]
+   },
+   {
+    "mac": "SC Cambuur - NEC Nijmegen",
+    "kickoff": "22:00",
+    "secim": "Alt 4.5",
+    "acilis": "1.28",
+    "simdi": "1.23",
+    "puan": 3.26,
+    "band": "≥3p güçlü",
+    "sinif": "BANKO",
+    "degisim": -3.9,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Alt 2.5",
+      "puan": 4.34
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 3.77
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 3.65
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 3.14
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 2.66
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 1.86
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 1.58
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 1.56
+     }
+    ]
+   },
+   {
+    "mac": "AJ Auxerre - Nice",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 0.5",
+    "acilis": "1.23",
+    "simdi": "1.18",
+    "puan": 3.17,
+    "band": "≥3p güçlü",
+    "sinif": "BANKO",
+    "degisim": -4.1,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Deplasman",
+      "puan": 4.83
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.33
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.36
+     },
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 3.15
+     },
+     {
+      "secim": "ÇŞ X2",
+      "puan": 2.36
+     },
+     {
+      "secim": "Ev Alt 0.5",
+      "puan": 2.26
+     }
+    ]
+   },
+   {
+    "mac": "AJ Auxerre - Nice",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 1.5",
+    "acilis": "1.47",
+    "simdi": "1.39",
+    "puan": 3.15,
+    "band": "≥3p güçlü",
+    "sinif": "BANKO",
+    "degisim": -5.4,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Deplasman",
+      "puan": 4.83
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.33
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.36
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 3.17
+     },
+     {
+      "secim": "ÇŞ X2",
+      "puan": 2.36
+     },
+     {
+      "secim": "Ev Alt 0.5",
+      "puan": 2.26
+     }
+    ]
+   },
+   {
+    "mac": "SC Cambuur - NEC Nijmegen",
+    "kickoff": "22:00",
+    "secim": "Alt 2.5",
+    "acilis": "2.96",
+    "simdi": "2.68",
+    "puan": 3.14,
+    "band": "≥3p güçlü",
+    "sinif": "SÜRPRİZ",
+    "degisim": -9.5,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Alt 2.5",
+      "puan": 4.34
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 3.77
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 3.65
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 3.26
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 2.66
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 1.86
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 1.58
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 1.56
+     }
+    ]
+   },
+   {
+    "mac": "Atalanta - Cagliari",
+    "kickoff": "21:45",
+    "secim": "Deplasman",
+    "acilis": "5.56",
+    "simdi": "4.66",
+    "puan": 3.09,
+    "band": "≥3p güçlü",
+    "sinif": "SÜRPRİZ",
+    "degisim": -16.2,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 5.83
+     },
+     {
+      "secim": "KG Var",
+      "puan": 5.08
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.91
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 2.55
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 2.44
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 2.4
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 2.25
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 2.17
+     }
+    ]
+   },
+   {
+    "mac": "Le Havre - Angers",
+    "kickoff": "21:45",
+    "secim": "ÇŞ X2",
+    "acilis": "1.53",
+    "simdi": "1.39",
+    "puan": 2.88,
+    "band": "≥2p",
+    "sinif": "BANKO",
+    "degisim": -9.2,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 10.64
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 8.72
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 7.73
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 7.12
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 6.8
+     },
+     {
+      "secim": "KG Var",
+      "puan": 6.78
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 5.88
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 5.7
+     }
+    ]
+   },
+   {
+    "mac": "Paris - Lyon",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 1.5",
+    "acilis": "2.03",
+    "simdi": "1.9",
+    "puan": 2.87,
+    "band": "≥2p",
+    "sinif": "PLASE",
+    "degisim": -6.4,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev sahibi",
+      "puan": 2.32
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 2.31
+     },
+     {
+      "secim": "Ev Üst 0.5",
+      "puan": 1.9
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 1.72
+     },
+     {
+      "secim": "İY Ev",
+      "puan": 1.71
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 1.45
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 1.29
+     },
+     {
+      "secim": "KG Var",
+      "puan": 1.22
+     }
+    ]
+   },
+   {
+    "mac": "Sunderland - Arsenal",
+    "kickoff": "22:00",
+    "secim": "Beraberlik",
+    "acilis": "4.05",
+    "simdi": "3.57",
+    "puan": 2.81,
+    "band": "≥2p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -11.9,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 4.05
+     },
+     {
+      "secim": "Dep Alt 2.5",
+      "puan": 3.52
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 2.5
+     },
+     {
+      "secim": "Ev Üst 0.5",
+      "puan": 2.26
+     },
+     {
+      "secim": "Dep Alt 0.5",
+      "puan": 2.24
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 1.92
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 1.76
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 1.71
+     }
+    ]
+   },
+   {
+    "mac": "SC Cambuur - NEC Nijmegen",
+    "kickoff": "22:00",
+    "secim": "İY Alt 1.5",
+    "acilis": "1.73",
+    "simdi": "1.65",
+    "puan": 2.66,
+    "band": "≥2p",
+    "sinif": "BANKO",
+    "degisim": -4.6,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Alt 2.5",
+      "puan": 4.34
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 3.77
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 3.65
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 3.26
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 3.14
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 1.86
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 1.58
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 1.56
+     }
+    ]
+   },
+   {
+    "mac": "Lorient - Toulouse",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 0.5",
+    "acilis": "1.2",
+    "simdi": "1.16",
+    "puan": 2.65,
+    "band": "≥2p",
+    "sinif": "BANKO",
+    "degisim": -3.3,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 3.84
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 3.39
+     },
+     {
+      "secim": "İY Ev",
+      "puan": 2.61
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 2.52
+     },
+     {
+      "secim": "ÇŞ 1X",
+      "puan": 1.57
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 1.56
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 1.5
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 1.32
+     }
+    ]
+   },
+   {
+    "mac": "Lorient - Toulouse",
+    "kickoff": "21:45",
+    "secim": "İY Ev",
+    "acilis": "3.04",
+    "simdi": "2.79",
+    "puan": 2.61,
+    "band": "≥2p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -8.2,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 3.84
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 3.39
+     },
+     {
+      "secim": "Ev Üst 0.5",
+      "puan": 2.65
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 2.52
+     },
+     {
+      "secim": "ÇŞ 1X",
+      "puan": 1.57
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 1.56
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 1.5
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 1.32
+     }
+    ]
+   },
+   {
+    "mac": "Atalanta - Cagliari",
+    "kickoff": "21:45",
+    "secim": "İY Deplasman",
+    "acilis": "5.87",
+    "simdi": "5.01",
+    "puan": 2.55,
+    "band": "≥2p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -14.7,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 5.83
+     },
+     {
+      "secim": "KG Var",
+      "puan": 5.08
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.91
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 3.09
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 2.44
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 2.4
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 2.25
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 2.17
+     }
+    ]
+   },
+   {
+    "mac": "Lorient - Toulouse",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "5.44",
+    "simdi": "4.7",
+    "puan": 2.52,
+    "band": "≥2p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -13.6,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 3.84
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 3.39
+     },
+     {
+      "secim": "Ev Üst 0.5",
+      "puan": 2.65
+     },
+     {
+      "secim": "İY Ev",
+      "puan": 2.61
+     },
+     {
+      "secim": "ÇŞ 1X",
+      "puan": 1.57
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 1.56
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 1.5
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 1.32
+     }
+    ]
+   },
+   {
+    "mac": "Sunderland - Arsenal",
+    "kickoff": "22:00",
+    "secim": "Alt 2.5",
+    "acilis": "1.67",
+    "simdi": "1.59",
+    "puan": 2.5,
+    "band": "≥2p",
+    "sinif": "BANKO",
+    "degisim": -4.8,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 4.05
+     },
+     {
+      "secim": "Dep Alt 2.5",
+      "puan": 3.52
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 2.81
+     },
+     {
+      "secim": "Ev Üst 0.5",
+      "puan": 2.26
+     },
+     {
+      "secim": "Dep Alt 0.5",
+      "puan": 2.24
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 1.92
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 1.76
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 1.71
+     }
+    ]
+   },
+   {
+    "mac": "Atalanta - Cagliari",
+    "kickoff": "21:45",
+    "secim": "Üst 3.5",
+    "acilis": "3.08",
+    "simdi": "2.83",
+    "puan": 2.44,
+    "band": "≥2p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -8.1,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 5.83
+     },
+     {
+      "secim": "KG Var",
+      "puan": 5.08
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.91
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 3.09
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 2.55
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 2.4
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 2.25
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 2.17
+     }
+    ]
+   },
+   {
+    "mac": "Real Madrid - Vallecano",
+    "kickoff": "22:00",
+    "secim": "İY KG Var",
+    "acilis": "4.33",
+    "simdi": "3.89",
+    "puan": 2.41,
+    "band": "≥2p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -10.2,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 5.08
+     },
+     {
+      "secim": "KG Var",
+      "puan": 4.51
+     },
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 1.46
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 1.4
+     }
+    ]
+   },
+   {
+    "mac": "Atalanta - Cagliari",
+    "kickoff": "21:45",
+    "secim": "Üst 2.5",
+    "acilis": "1.77",
+    "simdi": "1.69",
+    "puan": 2.4,
+    "band": "≥2p",
+    "sinif": "BANKO",
+    "degisim": -4.5,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 5.83
+     },
+     {
+      "secim": "KG Var",
+      "puan": 5.08
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.91
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 3.09
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 2.55
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 2.44
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 2.25
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 2.17
+     }
+    ]
+   },
+   {
+    "mac": "AJ Auxerre - Nice",
+    "kickoff": "21:45",
+    "secim": "ÇŞ X2",
+    "acilis": "1.41",
+    "simdi": "1.31",
+    "puan": 2.36,
+    "band": "≥2p",
+    "sinif": "BANKO",
+    "degisim": -7.1,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Deplasman",
+      "puan": 4.83
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.33
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.36
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 3.17
+     },
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 3.15
+     },
+     {
+      "secim": "Ev Alt 0.5",
+      "puan": 2.26
+     }
+    ]
+   },
+   {
+    "mac": "Paris - Lyon",
+    "kickoff": "21:45",
+    "secim": "Ev sahibi",
+    "acilis": "2.46",
+    "simdi": "2.31",
+    "puan": 2.32,
+    "band": "≥2p",
+    "sinif": "PLASE",
+    "degisim": -6.1,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 2.87
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 2.31
+     },
+     {
+      "secim": "Ev Üst 0.5",
+      "puan": 1.9
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 1.72
+     },
+     {
+      "secim": "İY Ev",
+      "puan": 1.71
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 1.45
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 1.29
+     },
+     {
+      "secim": "KG Var",
+      "puan": 1.22
+     }
+    ]
+   },
+   {
+    "mac": "Paris - Lyon",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "4.56",
+    "simdi": "4.1",
+    "puan": 2.31,
+    "band": "≥2p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -10.1,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 2.87
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 2.32
+     },
+     {
+      "secim": "Ev Üst 0.5",
+      "puan": 1.9
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 1.72
+     },
+     {
+      "secim": "İY Ev",
+      "puan": 1.71
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 1.45
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 1.29
+     },
+     {
+      "secim": "KG Var",
+      "puan": 1.22
+     }
+    ]
+   },
+   {
+    "mac": "AJ Auxerre - Nice",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 0.5",
+    "acilis": "3.35",
+    "simdi": "3.09",
+    "puan": 2.26,
+    "band": "≥2p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -7.8,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Deplasman",
+      "puan": 4.83
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.33
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.36
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 3.17
+     },
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 3.15
+     },
+     {
+      "secim": "ÇŞ X2",
+      "puan": 2.36
+     }
+    ]
+   },
+   {
+    "mac": "Sunderland - Arsenal",
+    "kickoff": "22:00",
+    "secim": "Ev Üst 0.5",
+    "acilis": "1.78",
+    "simdi": "1.7",
+    "puan": 2.26,
+    "band": "≥2p",
+    "sinif": "BANKO",
+    "degisim": -4.5,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 4.05
+     },
+     {
+      "secim": "Dep Alt 2.5",
+      "puan": 3.52
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 2.81
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 2.5
+     },
+     {
+      "secim": "Dep Alt 0.5",
+      "puan": 2.24
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 1.92
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 1.76
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 1.71
+     }
+    ]
+   },
+   {
+    "mac": "Atalanta - Cagliari",
+    "kickoff": "21:45",
+    "secim": "Üst 1.5",
+    "acilis": "1.2",
+    "simdi": "1.16",
+    "puan": 2.25,
+    "band": "≥2p",
+    "sinif": "BANKO",
+    "degisim": -3.3,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 5.83
+     },
+     {
+      "secim": "KG Var",
+      "puan": 5.08
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.91
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 3.09
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 2.55
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 2.44
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 2.4
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 2.17
+     }
+    ]
+   },
+   {
+    "mac": "Sunderland - Arsenal",
+    "kickoff": "22:00",
+    "secim": "Dep Alt 0.5",
+    "acilis": "5.27",
+    "simdi": "4.65",
+    "puan": 2.24,
+    "band": "≥2p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -11.8,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 4.05
+     },
+     {
+      "secim": "Dep Alt 2.5",
+      "puan": 3.52
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 2.81
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 2.5
+     },
+     {
+      "secim": "Ev Üst 0.5",
+      "puan": 2.26
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 1.92
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 1.76
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 1.71
+     }
+    ]
+   },
+   {
+    "mac": "Atalanta - Cagliari",
+    "kickoff": "21:45",
+    "secim": "İY KG Var",
+    "acilis": "4.88",
+    "simdi": "4.36",
+    "puan": 2.17,
+    "band": "≥2p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -10.7,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 5.83
+     },
+     {
+      "secim": "KG Var",
+      "puan": 5.08
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.91
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 3.09
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 2.55
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 2.44
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 2.4
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 2.25
+     }
+    ]
+   },
+   {
+    "mac": "Atalanta - Cagliari",
+    "kickoff": "21:45",
+    "secim": "ÇŞ X2",
+    "acilis": "2.2",
+    "simdi": "1.98",
+    "puan": 2.15,
+    "band": "≥2p",
+    "sinif": "PLASE",
+    "degisim": -10.0,
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 5.83
+     },
+     {
+      "secim": "KG Var",
+      "puan": 5.08
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.91
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 3.09
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 2.55
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 2.44
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 2.4
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 2.25
+     }
+    ]
+   }
+  ]
+ }
+}
