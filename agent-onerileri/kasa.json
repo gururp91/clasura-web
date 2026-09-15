@@ -1,0 +1,313 @@
+{
+ "surum": "2.0",
+ "tarih": "2026-09-15",
+ "uretim_zamani": "2026-09-15T21:15:00+03:00",
+ "baslik": "Agent Önerileri",
+ "ozet": "Günün son turu, 21:15 ölçümü. Bülten indiğinde on iki ligimizden başlamamış tek maç kalmıştı: Elche–Real Madrid (22:30); Vallecano–Espanyol, Ajax–Willem II ve Alaves–Valencia başladığı için kapsamdan çıktı, o maçların 13:15 ve 19:15'te açılan kayıtları duruyor. DataGaffer'ın bugünkü verisi (09:35 çekimi) gün içinde değişmedi; Meşin Yuvarlak'ta kalan maç için görüş aynı: Elche–Real Madrid'de 3 ve üstü gol (13:15'te kaydedilmişti, oran 1,23'te), yeni takım kaydı açılmadı. Oyuncu tarafında bu tur yeni bir öneri var: Kylian Mbappé gol atar (oran 1,11) — sabah bu maçta yalnız kaleyi bulan şut çizgileri vardı, şimdi gol marketi açıldı ve DataGaffer'ın Mbappé için gol ihtimali %66 ile günün en yükseği; 1 yeni kayıt açıldı. Agent Macau bu turda öneri vermiyor: Elche–Real Madrid'de olasılığı 5 puan artan tek bir seçim bile yok, en yakını Elche'nin gol atamaması ve o da eşiğin altında; 19:15'te yazılan Alaves'in kazanması maç başladığı için ölçüm dışı, kaydı duruyor. İki bacak hiçbir maçta ters yöne bakmıyor. DataGaffer'ın %100 listesi canlı okundu: 28 takım tarandı, 6 kayıt, 2'si bizim liglerden (Ajax son 6 maçında hem 3 hem 4 ve üstü gol); kayıtlar 13:15'te yazıldığı için tabloya yeniden yazılmadı. Son tur olduğu için rapor Drive'a yazıldı.",
+ "bacaklar": [
+  {
+   "kod": "futbol",
+   "ad": "Meşin Yuvarlak",
+   "oneriler": [
+    {
+     "mac": "Elche–Real Madrid",
+     "lig": "İspanya La Liga",
+     "kickoff_trt": "22:30",
+     "market": "Alt/Üst 2.5",
+     "secim": "Üst",
+     "oran": 1.23,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "2.5 ÜST",
+     "gerekce": "DataGaffer 3 ve üstü gole %72 ihtimal veriyor, bu maçı günün en hızlı tempolu maçı sayıyor, 6,5 net pozisyon ve 11 isabetli şut bekliyor — ikisi de günün en yükseği; bu tempodaki 398 maçın %66'sında 3 ve üstü gol olmuş.",
+     "zayif_yani": "Real Madrid deplasmanda 2 maçta maç başı yalnız 1 gol attı (beklentisi 2,6 olsa da) ve Elche evde 2 maçta maç başı 1 gol; ikisi de beklentinin altında kalırsa maç 2-1'e bile ulaşmaz.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,1 bekliyor, günün ikinci en yükseği; Elche evde 2 maçta maç başı 1,3 üretip 2,3 yiyor, Real Madrid deplasmanda 2 maçta 2,0 üretip 1,0 yiyor.",
+     "tempo": "DataGaffer bu maça 72,0 tempo puanı veriyor, günün en yükseği; bu tempodaki 398 maçın %66'sında 3 ve üstü gol olmuş.",
+     "ev_sahasi": "Elche kendi sahasında 14 puanlık güçte, Real Madrid deplasmanda 59; aradaki 46 puanlık fark grubunda favori 420 maçın %64'ünü kazanmış, seçim gol sayısı olduğu için bu yalnızca bilgi."
+    },
+    {
+     "mac": "Elche–Real Madrid",
+     "lig": "İspanya La Liga",
+     "kickoff_trt": "22:30",
+     "market": "Oyuncu Gol Atar",
+     "secim": "Kylian Mbappe",
+     "oran": 1.11,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "GOL: Kylian Mbappe",
+     "gerekce": "DataGaffer Mbappé'nin gol atmasına %66 ihtimal veriyor — günün en yüksek oyuncu gol ihtimali — ve ondan maç başı 1,1 gol, 5,4 şut ve 4,0 isabetli şut bekliyor; Real Madrid'in 1,9 gol beklentisi günün ikinci en yükseği ve maç günün en hızlı tempolusu.",
+     "zayif_yani": "Elimizde oyuncunun dakika verisi yok ve Real Madrid 3 gün önce oynadı; Mbappé dinlendirilir ya da maç erken kopup çıkarılırsa tek gol bile gelmeyebilir.",
+     "tur": "oyuncu",
+     "ters_bacak": null
+    }
+   ],
+   "bos_siniflar": [
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "Bir oyuncu önerisi var (Mbappé); kapsamda tek maç kaldığı ve maç başına bir oyuncu kuralı olduğu için ikinci oyuncu yok. Fer Niño (%80), Bellingham (%77), Buonanotte (%75) ve Vinícius'un (%73) en az bir kez kaleyi bulması da eşiği geçiyor, ama Mbappé'nin gol ihtimali %66 ile eşiğin iki katından fazla ve günün en yükseği; sabah bu maçta gol marketi yoktu, bu tur açıldı. Camello ve Berghuis'in 13:15'te açılan kayıtları maçlar başladığı için bu turun kapsamı dışında."
+  },
+  {
+   "kod": "hareket",
+   "ad": "Agent Macau",
+   "oneriler": [],
+   "bos_siniflar": [
+    "BANKO",
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": ""
+  }
+ ],
+ "hareket_yorum": {
+  "olenler": "Kapsamda kalan tek maç Elche–Real Madrid ve bugün eşiği geçip geri çekilen on seçimin hepsi bu maçta: Real Madrid'in 2 ve üstü golünün oranı 19:15'te %13,5 yükselmişken şimdi %6,6'da, Elche'nin gol atması 14:15'teki %9,5'lik tepeden %6,1'e, 1,5 alt 19:15'teki %9,5'ten %0,7'ye ve 2,5 alt %8,3'ten %0,6'ya geri geldi — son ikisi neredeyse açılış fiyatına döndü; karşılıklı gol yok ise 14:15'te %8,9 düşmüşken şimdi %5,9'da, yavaşça geri çekiliyor. Alaves–Valencia, Ajax–Willem II ve Vallecano–Espanyol başladığı için ölçüm dışı; Alaves–Valencia'daki düşüşler 19:15'te en yüksek noktasındayken kapsamdan çıktı.",
+  "yari_yolda_donenler": "Elche–Real Madrid'de 4,5 üst 19:15'te %7,5 düşmüşken %0,7'ye, Real Madrid'in 3 ve üstü golü %7,3'ten %4,2'ye geri geldi; 2,5 üst 19:15'te 1,19'a inmişti, şimdi 1,23'te, yani açılış fiyatında. Kalan tek düşen Elche'nin gol atamaması (2,21'den 2,04'e, %7,7), o da 14:15'teki %11,3'lük tepesinin altında ve olasılık artışı 5 puanın altında.",
+  "gunun_en_iyisi": "Bu turun penceresinde günün en iyi hareketi yok: Elche–Real Madrid'de olasılığı 5 puan artan tek bir seçim bile kalmadı, en yakını Elche'nin gol atamaması ve o da eşiğin altında — bulamadım, eşik indirilmez. Gün genelinde en iyi hareket 19:15'te yazılan Alaves'in kazanmasıydı (1,73'ten 1,51'e, olasılık 7,5 puan arttı); o maç 21:00'da başladı ve kaydı duruyor.",
+  "ikincisi": "İkincisi de yok; 19:15'te ikinci gösterilen Alaves'in 2 ve üstü golü (1,97'den 1,69'a, olasılık 7,4 puan arttı) maç başladığı için ölçüm dışı kaldı, kayda zaten girmemişti. Elche–Real Madrid'de para gün boyu Real Madrid'e ve gollere aktı ama hiçbir seçim eşiği geçmedi; Elche'nin kazanması 8,86'dan 10,55'e, beraberlik 6,30'dan 6,93'e yükseldi, yükselen taraf aday değil."
+ },
+ "datagaffer_100": {
+  "okunan_takim": 28,
+  "kayitlar": [
+   {
+    "takim": "FC Sion",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Ajax",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Ajax",
+    "secim": "Over 3.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Arsenal",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Toluca",
+    "secim": "Team Over 1.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Toluca",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   }
+  ]
+ },
+ "karne": {
+  "satirlar": [
+   {
+    "ad": "Meşin Yuvarlak",
+    "kapanan": 47,
+    "tuttu": 28,
+    "isabet": 59.6,
+    "acik": 3,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 37,
+      "tuttu": 24
+     },
+     "PLASE": {
+      "kapanan": 10,
+      "tuttu": 4
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "Meşin Yuvarlak — Oyuncu",
+    "kapanan": 10,
+    "tuttu": 5,
+    "isabet": 50.0,
+    "acik": 3,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 10,
+      "tuttu": 5
+     },
+     "PLASE": {
+      "kapanan": 0,
+      "tuttu": 0
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "Agent Macau",
+    "kapanan": 33,
+    "tuttu": 19,
+    "isabet": 57.6,
+    "acik": 1,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 16,
+      "tuttu": 11
+     },
+     "PLASE": {
+      "kapanan": 15,
+      "tuttu": 8
+     },
+     "SÜRPRİZ": {
+      "kapanan": 2,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "DataGaffer %100",
+    "kapanan": 64,
+    "tuttu": 42,
+    "isabet": 65.6,
+    "acik": 2,
+    "siniflar": null
+   }
+  ]
+ },
+ "hareket_tablo": {
+  "esik": 7.0,
+  "saatler": [
+   "13:15",
+   "14:15",
+   "16:15",
+   "18:15",
+   "19:15",
+   "20:15",
+   "21:15"
+  ],
+  "son": "21:15",
+  "limit": 15,
+  "kickoff_son": null,
+  "dusen_toplam": 1,
+  "yukselen_toplam": 6,
+  "dusenler": [
+   {
+    "mac": "Elche - Real Madrid",
+    "kickoff": "22:30",
+    "secim": "Ev Alt 0.5",
+    "acilis": "2.21",
+    "simdi": "2.04",
+    "degisim": -7.7,
+    "puan": 3.39,
+    "zirve": -11.3,
+    "zirve_saat": "14:15",
+    "zirve_ayri": true,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   }
+  ],
+  "yukselenler": [
+   {
+    "mac": "Elche - Real Madrid",
+    "kickoff": "22:30",
+    "secim": "Ev sahibi",
+    "acilis": "8.86",
+    "simdi": "10.55",
+    "degisim": 19.1,
+    "puan": -1.58,
+    "zirve": 34.3,
+    "zirve_saat": "13:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Elche - Real Madrid",
+    "kickoff": "22:30",
+    "secim": "Ev Üst 2.5",
+    "acilis": "10.85",
+    "simdi": "12.7",
+    "degisim": 17.1,
+    "puan": null,
+    "zirve": 29.5,
+    "zirve_saat": "14:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Elche - Real Madrid",
+    "kickoff": "22:30",
+    "secim": "Ev Üst 1.5",
+    "acilis": "3.6",
+    "simdi": "4.09",
+    "degisim": 13.6,
+    "puan": -2.88,
+    "zirve": 22.2,
+    "zirve_saat": "14:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Elche - Real Madrid",
+    "kickoff": "22:30",
+    "secim": "İY Ev",
+    "acilis": "7.36",
+    "simdi": "8.35",
+    "degisim": 13.5,
+    "puan": -1.39,
+    "zirve": 22.7,
+    "zirve_saat": "16:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Elche - Real Madrid",
+    "kickoff": "22:30",
+    "secim": "ÇŞ 1X",
+    "acilis": "3.47",
+    "simdi": "3.89",
+    "degisim": 12.1,
+    "puan": null,
+    "zirve": 20.2,
+    "zirve_saat": "16:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Elche - Real Madrid",
+    "kickoff": "22:30",
+    "secim": "Beraberlik",
+    "acilis": "6.3",
+    "simdi": "6.93",
+    "degisim": 10.0,
+    "puan": -1.25,
+    "zirve": 15.9,
+    "zirve_saat": "13:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   }
+  ],
+  "aday_esigi_puan": 5.0,
+  "adaylar": []
+ }
+}
