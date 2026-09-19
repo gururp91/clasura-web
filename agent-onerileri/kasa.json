@@ -1,0 +1,1607 @@
+{
+ "surum": "2.0",
+ "tarih": "2026-09-19",
+ "uretim_zamani": "2026-09-19T21:24:00+03:00",
+ "baslik": "Agent Önerileri",
+ "ozet": "21:15 turu (son tur). Bültende 10 başlamamış maç, hepsinde DataGaffer var. Meşin Yuvarlak 1 yeni takım + 1 yeni oyuncu önerisi; Agent Macau 2 yeni öneri, 1 eski öneri eşik altına inip düştü. DataGaffer %100: 182 takım, 34 kayıt, 14'ü bizim ligden.",
+ "bacaklar": [
+  {
+   "kod": "futbol",
+   "ad": "Meşin Yuvarlak",
+   "oneriler": [
+    {
+     "mac": "Lyon–Rennes",
+     "lig": "Fransa Ligue 1",
+     "kickoff_trt": "21:45",
+     "market": "Alt/Üst 2.5",
+     "secim": "Üst",
+     "oran": 1.44,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "2.5 ÜST",
+     "gerekce": "DataGaffer bu maçta 3 ve üstü gole %72 ihtimal veriyor, 5,7 net pozisyon ve 9,6 isabetli şut bekliyor, maçı günün en hızlı dokuzuncu tempolu maçı sayıyor ve maça güveni (66) günün en yükseği.",
+     "zayif_yani": "İki takım da 3 gün önce Avrupa'da oynadı (Lyon Anderlecht'te, Rennes Graz'da) ve 3 gün ve altı dinlenme ölçülmüş bir performans düşüşü sinyali; DataGaffer'ın şut kalitesi beklentisi de günün ortasında kalıyor.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,1 bekliyor, günün 40 maçı arasında 12. sırada, yani ortada; Lyon evde 2 maçta maç başı 1,5 üretip 0,9 yiyor, Rennes deplasmanda 1 maçta 1,9 üretip 1,1 yedi.",
+     "tempo": "DataGaffer bu maça 64 tempo puanı veriyor, günün en yüksek dokuzuncusu; bu tempodaki 593 maçın %60'ında 3 ve üstü gol olmuş.",
+     "ev_sahasi": "Lyon kendi sahasında 69 puanlık güçte, Rennes deplasmanda 66; aradaki 3 puanlık fark grubunda favori 907 maçın %40'ını kazanmış."
+    },
+    {
+     "mac": "Sevilla–Barcelona",
+     "lig": "İspanya La Liga",
+     "kickoff_trt": "22:00",
+     "market": "Maç Sonucu",
+     "secim": "2",
+     "oran": 1.18,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "MS2",
+     "gerekce": "DataGaffer Barcelona'nın kazanmasına %68 ihtimal veriyor; Barcelona'dan 1,8 gol bekliyor, takım gücü puanı (2,43) günün en yükseği ve Sevilla'nın saha gücüyle arasındaki 51 puanlık fark grubunda favori maçların üçte ikisini kazanmış.",
+     "zayif_yani": "İki takım da 3 gün önce oynadı (Barcelona Racing'e 7 attı, Sevilla Deportivo'yu deplasmanda yendi) ve %68, tek maçta üçte bir 'kazanamaz' payı bırakıyor.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,3 bekliyor, günün 40 maçı arasında 6. sırada; Sevilla evde 3 maçta maç başı 1,2 üretip 1,0 yiyor, Barcelona deplasmanda 3 maçta 4,0 üretip 1,2 yiyor.",
+     "tempo": "DataGaffer bu maça 57 tempo puanı veriyor, günün 13. en hızlısı; bu tempodaki 692 maçın %61'inde 3 ve üstü gol olmuş.",
+     "ev_sahasi": "Sevilla kendi sahasında 33 puanlık güçte, Barcelona deplasmanda 83; aradaki 51 puanlık fark grubunda favori 304 maçın %67'sini kazanmış."
+    },
+    {
+     "mac": "Sevilla–Barcelona",
+     "lig": "İspanya La Liga",
+     "kickoff_trt": "22:00",
+     "market": "Oyuncu Kaleyi Bulan Şut Çeker (Uzt. Dahil)",
+     "secim": "Raphinha 2+",
+     "oran": 1.5,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "İŞUT: Raphinha 2+",
+     "gerekce": "DataGaffer Raphinha'nın en az iki kez kaleyi bulmasına %66 ihtimal veriyor (2,3 isabetli şut, 3,7 şut, gol için %58), Barcelona'dan 1,8 gol bekliyor ve bu sezon 7 maçta maç başı 78 dakika oynadı.",
+     "zayif_yani": "Barcelona 3 gün önce oynadı, rotasyon ya da erken çıkış riski var ve 2 isabetli şut çıtası tek isabetli şuttan (%89) çok daha az güvenli; iddaa bu maçta 1 isabetli şut çizgisi açmadı.",
+     "tur": "oyuncu",
+     "ters_bacak": null
+    },
+    {
+     "mac": "Willem II–Fortuna Sittard",
+     "lig": "Hollanda Eredivisie",
+     "kickoff_trt": "22:00",
+     "market": "Alt/Üst 2.5",
+     "secim": "Üst",
+     "oran": 1.45,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "2.5 ÜST",
+     "gerekce": "DataGaffer bu maçta 3 ve üstü gole %62 ihtimal veriyor, 10,6 isabetli şut ve 5,4 net pozisyon bekliyor, maçı günün en hızlı üçüncü tempolu maçı sayıyor ve Willem II evde 3 maçta maç başı 3 gol yedi.",
+     "zayif_yani": "DataGaffer'ın %62'si bugünkü öteki üst seçimlerinin (%68-72) altında ve Willem II'nin kendi hücumu evde 3 maçta maç başı 1 gol üretti, gol yükü Sittard'ın hücumunda; bu lig sisteme 6 Eylül'de eklendi; kendi geçmişimiz ve takım profilimiz yok, futbol tarafı yalnızca DataGaffer'dan geliyor.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,3 bekliyor, günün 39 maçı arasında 7. sırada, en yüksek çeyrekte; Willem II evde 3 maçta maç başı 1,1 üretip 2,7 yiyor, Fortuna Sittard deplasmanda 3 maçta 1,4 üretip 1,3 yiyor.",
+     "tempo": "DataGaffer bu maça 72 tempo puanı veriyor, günün en yüksek üçüncüsü; bu tempodaki 398 maçın %66'sında 3 ve üstü gol olmuş.",
+     "ev_sahasi": "Willem II kendi sahasında 7 puanlık güçte, Fortuna Sittard deplasmanda 66; aradaki 59 puanlık fark grubunda favori 274 maçın %72'sini kazanmış."
+    },
+    {
+     "mac": "Willem II–Fortuna Sittard",
+     "lig": "Hollanda Eredivisie",
+     "kickoff_trt": "22:00",
+     "market": "Oyuncu Kaleyi Bulan Şut Çeker (Uzt. Dahil)",
+     "secim": "Mohammed Ihattaren 1+",
+     "oran": 1.35,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "İŞUT: Mohammed Ihattaren 1+",
+     "gerekce": "DataGaffer Ihattaren'in en az bir kez kaleyi bulmasına %83 ihtimal veriyor (maç başı 1,8 isabetli şut, 2,2 şut), maçı günün en hızlı üçüncü tempolu maçı sayıyor ve Willem II evde 3 maçta maç başı 7 isabetli şut yedi; bu sezon 6 maçta maç başı 68 dakika oynadı.",
+     "zayif_yani": "Sittard'dan beklenen gol 1,43 ile günün takım medyanının (1,44) tam sınırında ve 68 dakikalık ortalama erken oyundan çıkma riskini taşıyor.",
+     "tur": "oyuncu",
+     "ters_bacak": null
+    }
+   ],
+   "bos_siniflar": [
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "İki oyuncu seçimi var: Raphinha (sabahtan) ve Ihattaren (bu turda eklendi; Berghuis'in maçı başladığı için ikinci yer boşalmıştı). Eşiği geçip dışarıda kalanlar: Openda (Lyon) 3 ve üstü şutta %68 ama isabetli şutta iddaa yalnız 2+ çizgisi açtı (%56, eşik altı) ve Lyon 3 gün önce oynadı; Luis Suárez (Sporting) 2 ve üstü isabetli şut %60 ama maç başı tam 60 dakika oynuyor, rotasyon riski yüksek; Lepaul (Rennes) için iddaa'nın açtığı çizgiler (2+ isabetli şut %51, 4+ şut %47) eşiğin altında; Sikan (Anderlecht) için iddaa oyuncu marketi açmadı; Akor Adams (Venezia) takım bağlamı şartını geçemedi; iddaa bugün 'Oyuncu Gol Atar' marketini hiçbir maçta açmadı."
+  },
+  {
+   "kod": "hareket",
+   "ad": "Agent Macau",
+   "oneriler": [
+    {
+     "mac": "Toulouse–Le Havre",
+     "lig": "Fransa Ligue 1",
+     "kickoff_trt": "21:45",
+     "market": "Alt/Üst 2.5",
+     "secim": "Üst",
+     "oran": 1.52,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "2.5 ÜST",
+     "gerekce": "3 ve üstü gol oranı 1,77'den 1,52'ye indi ve olasılık 8,2 puan arttı; aynı maçta 4 ve üstü gol 3,05'ten 2,38'e, Toulouse 2 ve üstü gol 1,73'ten 1,53'e, karşılıklı gol 1,73'ten 1,55'e inerken Toulouse 2 ve altı gol 1,18'den 1,29'a yükseldi — maçın yedi bahsinde para gole akıyor.",
+     "zayif_yani": "Hareket 16:15'ten beri 1,52'de durdu, yani son üç saatte yeni para gelmedi; DataGaffer ise bu maçta 3 ve üstü gole yalnız %46 veriyor, futbol tarafı bu yönde değil.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "puan": 8.0,
+     "band": "≥5p",
+     "olcum": "21:16",
+     "ilk": {
+      "oran": 1.52,
+      "puan": 8.2,
+      "olcum": "19:23"
+     },
+     "kontrol": {
+      "saat": "21:16",
+      "oran": 1.52,
+      "puan": 8.01,
+      "fark": -0.19,
+      "durum": "tutuyor"
+     },
+     "hiz": "sabit"
+    },
+    {
+     "mac": "Angers–Troyes",
+     "lig": "Fransa Ligue 1",
+     "kickoff_trt": "21:45",
+     "market": "Alt/Üst 2.5",
+     "secim": "Üst",
+     "oran": 1.67,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "2.5 ÜST",
+     "gerekce": "3 ve üstü gol oranı 1,87'den 1,68'e indi ve olasılık 5,5 puan arttı; aynı maçta Angers 2 ve üstü gol 2,10'dan 1,86'ya, 4 ve üstü gol 3,29'dan 2,78'e inerken Angers 1 ve altı gol 1,52'den 1,68'e ve karşılıklı gol yok 1,86'dan 2,03'e yükseldi — para gole akıyor.",
+     "zayif_yani": "Hareketin en büyüğü öğleden sonra 14:15 civarında görüldü ve o saatten beri hafif geri çekildi; DataGaffer bu maçta 3 ve üstü gole %48 veriyor, futbol tarafından destek yok.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "puan": 5.7,
+     "band": "≥5p",
+     "olcum": "21:16",
+     "ilk": {
+      "oran": 1.68,
+      "puan": 5.5,
+      "olcum": "19:23"
+     },
+     "kontrol": {
+      "saat": "21:16",
+      "oran": 1.67,
+      "puan": 5.65,
+      "fark": 0.15,
+      "durum": "tutuyor"
+     },
+     "hiz": "sabit"
+    },
+    {
+     "mac": "Sevilla–Barcelona",
+     "lig": "İspanya La Liga",
+     "kickoff_trt": "22:00",
+     "market": "Ev Sahibi Alt/Üst 0.5",
+     "secim": "Üst",
+     "oran": 1.41,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "EV 0.5 ÜST",
+     "gerekce": "Sevilla gol atar oranı 1,55'ten 1,40'a indi ve olasılık 5,9 puan arttı; aynı maçta Sevilla 2 ve üstü gol 4,01'den 3,12'ye, Sevilla kazanır 11,85'ten 8,58'e, Barcelona 1 ve altı gol 4,60'tan 3,90'a inerken Sevilla gol atamaz 2,07'den 2,37'ye yükseldi — para Sevilla'nın gol bulmasına akıyor.",
+     "zayif_yani": "Hareketin çoğu 13:15'ten önce gelmişti (1,42), öğleden sonra 1,47'ye geri çekilip akşam yeniden 1,40'a indi, yani gün içinde bir kez sönmüş bir hareket; 19:15'te aynı maçta önerilen Barcelona 2 ve altı gol ise 5 puanın altına inip düştü.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "puan": 5.5,
+     "band": "≥5p",
+     "olcum": "21:16",
+     "ilk": {
+      "oran": 1.4,
+      "puan": 5.9,
+      "olcum": "21:22"
+     },
+     "kontrol": {
+      "saat": "21:16",
+      "oran": 1.41,
+      "puan": 5.52,
+      "fark": -0.38,
+      "durum": "tutuyor"
+     },
+     "hiz": "sabit"
+    },
+    {
+     "mac": "Sporting Lizbon–FC Arouca",
+     "lig": "Portekiz Premier Lig",
+     "kickoff_trt": "22:30",
+     "market": "Ev Sahibi Alt/Üst 2.5",
+     "secim": "Üst",
+     "oran": 1.61,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "EV 2.5 ÜST",
+     "gerekce": "Sporting 3 ve üstü gol oranı 1,77'den 1,61'e indi ve olasılık 5,0 puan arttı, düşüş gün boyu adım adım sürdü (13:15'te 1,69, 18:15'te 1,65, 21:15'te 1,61); aynı maçta 3 ve üstü toplam gol 1,36'dan 1,30'a, Sporting 2 ve üstü gol 1,19'dan 1,15'e inerken Sporting 2 ve altı gol 1,77'den 1,97'ye ve maçta 2 ve altı gol 2,55'ten 2,74'e yükseldi — para Sporting'in gol sayısına akıyor.",
+     "zayif_yani": "Puan tam eşikte (5,0), en küçük geri çekilme onu eşik altına düşürür; DataGaffer Sporting'in 3 ve üstü gol atmasına %42 veriyor, futbol tarafında destek yarım.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "puan": 5.0,
+     "band": "≥5p",
+     "olcum": "21:16",
+     "ilk": {
+      "oran": 1.61,
+      "puan": 5.0,
+      "olcum": "21:22"
+     },
+     "kontrol": {
+      "saat": "21:16",
+      "oran": 1.61,
+      "puan": 5.03,
+      "fark": 0.03,
+      "durum": "tutuyor"
+     },
+     "hiz": "sabit"
+    }
+   ],
+   "bos_siniflar": [],
+   "oyuncu_notu": "",
+   "kontrol_saati": "21:16"
+  }
+ ],
+ "hareket_yorum": {
+  "olenler": "Sevilla–Barcelona'da 19:15'te önerilen Barcelona 2 ve altı gol 1,89'dan 2,00'a geri döndü, olasılık kazancı 5 puanın altına indi ve öneri rapordan düştü; aynı maçta öğleden sonranın 'az gol' parası da söndü: maçta 2 ve altı gol 18:15'te açılışın %10 altındaydı, şimdi %3, 1 ve altı gol %11'den %3'e geri geldi. Venezia–Lazio'da Venezia 3 ve üstü gol 16:49'da %13 düşmüştü, şimdi %6; Venezia 2 ve üstü gol %9'dan %1'e geri döndü, tam açılışa dönüş. Başakşehir–Gençlerbirliği, Stuttgart–Dortmund ve Sparta–Heerenveen başladı, o hareketler bitti.",
+  "yari_yolda_donenler": "Toulouse–Le Havre'da 4 ve üstü gol 14:41 zirvesinde açılışın %22 altındaydı, şimdi %21; Le Havre 2 ve üstü gol 18:15'te %23 düşmüştü, şimdi %18 — maçın ana hareketi bozulmadı. Angers–Troyes'da 3 ve üstü gol 14:15'te 1,67'ye inmişti, 18:15'te 1,68'e çıkıp 21:15'te yeniden 1,67'ye döndü, üç saattir yerinde sayıyor. Sevilla–Barcelona'da Sevilla kazanır 19:15'te 8,04'e inmişti, 8,58'e geri çekildi ama açılışın (11,85) hâlâ %28 altında. Sporting–Arouca'da Arouca gol atar 20:15'te %10 yükselmişti, %6'ya geri geldi.",
+  "gunun_en_iyisi": "Günün en iyi hareketi Toulouse–Le Havre'da 3 ve üstü gol: 1,77'den 1,52'ye, olasılık 8,0 puan arttı ve 14:41'den beri 1,52'de duruyor (21:22 ikinci okuma 1,52); aynı maçta 4 ve üstü gol 3,05'ten 2,41'e (+7,5), Toulouse 2 ve üstü gol 1,73'ten 1,52'ye (+7,1), Toulouse 3 ve üstü gol 3,46'dan 2,74'e (+6,8), karşılıklı gol 1,73'ten 1,57'ye (+5,4) — yedi bahis aynı yönde, maç 21:45'te, oyna. 19:15'teki birincilik değişmedi.",
+  "ikincisi": "Günün en iyi ikinci hareketi Sevilla–Barcelona'da Sevilla gol atar: 1,55'ten 1,40'a, olasılık 5,9 puan arttı ve 20:15'ten sonra yeniden hızlandı; aynı maçta Sevilla 2 ve üstü gol 4,01'den 3,12'ye (+6,3), Sevilla kazanır 11,85'ten 8,58'e — para ev sahibinin golüne akıyor. 19:15'te ikinci sırada anılan Başakşehir–Gençlerbirliği maçı başladı, ikincilik Sevilla'ya geçti. Üçüncüsü Angers–Troyes'da 3 ve üstü gol 1,87'den 1,67'ye (+5,8), dördüncüsü Sporting–Arouca'da Sporting 3 ve üstü gol 1,77'den 1,61'e (+5,0). Son tur olduğu için pencere yok, başlamamış 10 maçın hepsi tarandı."
+ },
+ "datagaffer_100": {
+  "okunan_takim": 182,
+  "kayitlar": [
+   {
+    "takim": "Vallecano",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Frankfurt",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Frankfurt",
+    "secim": "Over 3.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Freiburg",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "FC Köln",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Borussia M.",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Rosenborg",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Rosenborg",
+    "secim": "Team Over 1.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Arsenal",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Birmingham",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Southampton",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Cambuur",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Molde",
+    "secim": "Team Over 1.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Molde",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Young Boys",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Young Boys",
+    "secim": "Over 3.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Young Boys",
+    "secim": "Team Over 1.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "FC Sion",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Zurich",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Zurich",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Stuttgart",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Ajax",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Ajax",
+    "secim": "Over 3.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Excelsior",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Barcelona",
+    "secim": "Team Over 1.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Barcelona",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Coritiba",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Minnesota",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Minnesota",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Dallas",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "St. Louis",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "St. Louis",
+    "secim": "Team Over 1.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Chicago",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Portland",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   }
+  ]
+ },
+ "karne": {
+  "satirlar": [
+   {
+    "ad": "Meşin Yuvarlak",
+    "kapanan": 8,
+    "tuttu": 6,
+    "isabet": 75.0,
+    "acik": 12,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 8,
+      "tuttu": 6
+     },
+     "PLASE": {
+      "kapanan": 0,
+      "tuttu": 0
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "Meşin Yuvarlak — Oyuncu",
+    "kapanan": 4,
+    "tuttu": 2,
+    "isabet": 50.0,
+    "acik": 4,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 4,
+      "tuttu": 2
+     },
+     "PLASE": {
+      "kapanan": 0,
+      "tuttu": 0
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "Agent Macau",
+    "kapanan": 10,
+    "tuttu": 8,
+    "isabet": 80.0,
+    "acik": 9,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 4,
+      "tuttu": 3
+     },
+     "PLASE": {
+      "kapanan": 5,
+      "tuttu": 4
+     },
+     "SÜRPRİZ": {
+      "kapanan": 1,
+      "tuttu": 1
+     }
+    }
+   },
+   {
+    "ad": "DataGaffer %100",
+    "kapanan": 4,
+    "tuttu": 3,
+    "isabet": 75.0,
+    "acik": 14,
+    "siniflar": null
+   }
+  ]
+ },
+ "hareket_tablo": {
+  "esik": 7.0,
+  "saatler": [
+   "13:15",
+   "14:15",
+   "14:41",
+   "16:08",
+   "16:15",
+   "16:49",
+   "18:15",
+   "19:15",
+   "20:15",
+   "21:15"
+  ],
+  "son": "21:15",
+  "limit": 15,
+  "kickoff_son": null,
+  "dusen_toplam": 44,
+  "yukselen_toplam": 48,
+  "dusenler": [
+   {
+    "mac": "Sevilla - Barcelona",
+    "kickoff": "22:00",
+    "secim": "Ev sahibi",
+    "acilis": "11.85",
+    "simdi": "8.58",
+    "degisim": -27.6,
+    "puan": 2.82,
+    "zirve": -32.2,
+    "zirve_saat": "19:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Toulouse - Le Havre",
+    "kickoff": "21:45",
+    "secim": "Üst 4.5",
+    "acilis": "6.07",
+    "simdi": "4.4",
+    "degisim": -27.5,
+    "puan": null,
+    "zirve": -28.3,
+    "zirve_saat": "14:41",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Sevilla - Barcelona",
+    "kickoff": "22:00",
+    "secim": "Ev Üst 2.5",
+    "acilis": "12.45",
+    "simdi": "9.37",
+    "degisim": -24.7,
+    "puan": null,
+    "zirve": -24.7,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Toulouse - Le Havre",
+    "kickoff": "21:45",
+    "secim": "Üst 3.5",
+    "acilis": "3.05",
+    "simdi": "2.41",
+    "degisim": -21.0,
+    "puan": 7.51,
+    "zirve": -22.0,
+    "zirve_saat": "14:41",
+    "zirve_ayri": true,
+    "sinif": "PLASE",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Toulouse - Le Havre",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "3.46",
+    "simdi": "2.74",
+    "degisim": -20.8,
+    "puan": 6.75,
+    "zirve": -20.8,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Angers - Troyes",
+    "kickoff": "21:45",
+    "secim": "Üst 4.5",
+    "acilis": "6.76",
+    "simdi": "5.37",
+    "degisim": -20.6,
+    "puan": null,
+    "zirve": -20.9,
+    "zirve_saat": "14:41",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Sevilla - Barcelona",
+    "kickoff": "22:00",
+    "secim": "İY Ev",
+    "acilis": "8.87",
+    "simdi": "7.08",
+    "degisim": -20.2,
+    "puan": 2.5,
+    "zirve": -23.0,
+    "zirve_saat": "19:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Sevilla - Barcelona",
+    "kickoff": "22:00",
+    "secim": "ÇŞ 1X",
+    "acilis": "4.26",
+    "simdi": "3.46",
+    "degisim": -18.8,
+    "puan": null,
+    "zirve": -23.0,
+    "zirve_saat": "19:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Sevilla - Barcelona",
+    "kickoff": "22:00",
+    "secim": "Ev Üst 1.5",
+    "acilis": "4.01",
+    "simdi": "3.27",
+    "degisim": -18.5,
+    "puan": 5.02,
+    "zirve": -18.5,
+    "zirve_saat": "20:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Angers - Troyes",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "4.81",
+    "simdi": "3.95",
+    "degisim": -17.9,
+    "puan": 4.06,
+    "zirve": -19.3,
+    "zirve_saat": "14:41",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Toulouse - Le Havre",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 2.5",
+    "acilis": "10.35",
+    "simdi": "8.53",
+    "degisim": -17.6,
+    "puan": null,
+    "zirve": -22.6,
+    "zirve_saat": "18:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Angers - Troyes",
+    "kickoff": "21:45",
+    "secim": "Üst 3.5",
+    "acilis": "3.29",
+    "simdi": "2.76",
+    "degisim": -16.1,
+    "puan": 5.13,
+    "zirve": -16.1,
+    "zirve_saat": "14:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Sevilla - Barcelona",
+    "kickoff": "22:00",
+    "secim": "Beraberlik",
+    "acilis": "7.63",
+    "simdi": "6.41",
+    "degisim": -16.0,
+    "puan": 2.18,
+    "zirve": -20.3,
+    "zirve_saat": "19:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Sevilla - Barcelona",
+    "kickoff": "22:00",
+    "secim": "Dep Alt 1.5",
+    "acilis": "4.6",
+    "simdi": "3.9",
+    "degisim": -15.2,
+    "puan": 3.46,
+    "zirve": -18.5,
+    "zirve_saat": "13:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Toulouse - Le Havre",
+    "kickoff": "21:45",
+    "secim": "İY KG Var",
+    "acilis": "4.52",
+    "simdi": "3.86",
+    "degisim": -14.6,
+    "puan": 3.38,
+    "zirve": -16.2,
+    "zirve_saat": "14:41",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   }
+  ],
+  "yukselenler": [
+   {
+    "mac": "Sporting Lizbon - FC Arouca",
+    "kickoff": "22:30",
+    "secim": "Deplasman",
+    "acilis": "11.2",
+    "simdi": "14.85",
+    "degisim": 32.6,
+    "puan": -1.96,
+    "zirve": 32.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Toulouse - Le Havre",
+    "kickoff": "21:45",
+    "secim": "Alt 1.5",
+    "acilis": "3.4",
+    "simdi": "4.34",
+    "degisim": 27.6,
+    "puan": -5.56,
+    "zirve": 30.0,
+    "zirve_saat": "20:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Toulouse - Le Havre",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 0.5",
+    "acilis": "4.65",
+    "simdi": "5.87",
+    "degisim": 26.2,
+    "puan": null,
+    "zirve": 26.2,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Sporting Lizbon - FC Arouca",
+    "kickoff": "22:30",
+    "secim": "İY Deplasman",
+    "acilis": "9.1",
+    "simdi": "11.1",
+    "degisim": 22.0,
+    "puan": -1.75,
+    "zirve": 22.5,
+    "zirve_saat": "20:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Sporting Lizbon - FC Arouca",
+    "kickoff": "22:30",
+    "secim": "ÇŞ X2",
+    "acilis": "3.82",
+    "simdi": "4.64",
+    "degisim": 21.5,
+    "puan": null,
+    "zirve": 21.5,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Sporting Lizbon - FC Arouca",
+    "kickoff": "22:30",
+    "secim": "Beraberlik",
+    "acilis": "6.48",
+    "simdi": "7.73",
+    "degisim": 19.3,
+    "puan": -2.24,
+    "zirve": 19.3,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Toulouse - Le Havre",
+    "kickoff": "21:45",
+    "secim": "Alt 2.5",
+    "acilis": "1.77",
+    "simdi": "2.1",
+    "degisim": 18.6,
+    "puan": -8.01,
+    "zirve": 20.3,
+    "zirve_saat": "20:15",
+    "zirve_ayri": true,
+    "sinif": "PLASE",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Sporting Lizbon - FC Arouca",
+    "kickoff": "22:30",
+    "secim": "Dep Üst 1.5",
+    "acilis": "5.24",
+    "simdi": "6.18",
+    "degisim": 17.9,
+    "puan": null,
+    "zirve": 21.4,
+    "zirve_saat": "20:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Angers - Troyes",
+    "kickoff": "21:45",
+    "secim": "Alt 1.5",
+    "acilis": "3.18",
+    "simdi": "3.75",
+    "degisim": 17.9,
+    "puan": -4.1,
+    "zirve": 17.9,
+    "zirve_saat": "14:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Toulouse - Le Havre",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 1.5",
+    "acilis": "1.81",
+    "simdi": "2.12",
+    "degisim": 17.1,
+    "puan": -7.11,
+    "zirve": 17.1,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Angers - Troyes",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 0.5",
+    "acilis": "3.58",
+    "simdi": "4.19",
+    "degisim": 17.0,
+    "puan": -3.54,
+    "zirve": 18.7,
+    "zirve_saat": "14:41",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Toulouse - Le Havre",
+    "kickoff": "21:45",
+    "secim": "İY Alt 0.5",
+    "acilis": "2.84",
+    "simdi": "3.32",
+    "degisim": 16.9,
+    "puan": -4.52,
+    "zirve": 18.0,
+    "zirve_saat": "20:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Le Mans - Lorient",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "5.02",
+    "simdi": "5.78",
+    "degisim": 15.1,
+    "puan": null,
+    "zirve": 15.1,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Sporting Lizbon - FC Arouca",
+    "kickoff": "22:30",
+    "secim": "Ev Alt 1.5",
+    "acilis": "3.39",
+    "simdi": "3.89",
+    "degisim": 14.7,
+    "puan": -3.17,
+    "zirve": 14.7,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Sevilla - Barcelona",
+    "kickoff": "22:00",
+    "secim": "Ev Alt 0.5",
+    "acilis": "2.07",
+    "simdi": "2.37",
+    "degisim": 14.5,
+    "puan": -5.52,
+    "zirve": 14.5,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   }
+  ],
+  "aday_esigi_puan": 5.0,
+  "adaylar": [
+   {
+    "mac": "Toulouse - Le Havre",
+    "kickoff": "21:45",
+    "secim": "Üst 2.5",
+    "acilis": "1.77",
+    "simdi": "1.52",
+    "puan": 8.01,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -14.1,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 3.5",
+      "puan": 7.51
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 7.11
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 6.75
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 5.65
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 5.56
+     },
+     {
+      "secim": "KG Var",
+      "puan": 5.4
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 4.52
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 3.84
+     }
+    ]
+   },
+   {
+    "mac": "Toulouse - Le Havre",
+    "kickoff": "21:45",
+    "secim": "Üst 3.5",
+    "acilis": "3.05",
+    "simdi": "2.41",
+    "puan": 7.51,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -21.0,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 2.5",
+      "puan": 8.01
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 7.11
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 6.75
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 5.65
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 5.56
+     },
+     {
+      "secim": "KG Var",
+      "puan": 5.4
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 4.52
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 3.84
+     }
+    ]
+   },
+   {
+    "mac": "Toulouse - Le Havre",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 1.5",
+    "acilis": "1.73",
+    "simdi": "1.52",
+    "puan": 7.11,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -12.1,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 2.5",
+      "puan": 8.01
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 7.51
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 6.75
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 5.65
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 5.56
+     },
+     {
+      "secim": "KG Var",
+      "puan": 5.4
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 4.52
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 3.84
+     }
+    ]
+   },
+   {
+    "mac": "Toulouse - Le Havre",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "3.46",
+    "simdi": "2.74",
+    "puan": 6.75,
+    "band": "≥5p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -20.8,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 2.5",
+      "puan": 8.01
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 7.51
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 7.11
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 5.65
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 5.56
+     },
+     {
+      "secim": "KG Var",
+      "puan": 5.4
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 4.52
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 3.84
+     }
+    ]
+   },
+   {
+    "mac": "Toulouse - Le Havre",
+    "kickoff": "21:45",
+    "secim": "İY Üst 1.5",
+    "acilis": "2.58",
+    "simdi": "2.22",
+    "puan": 5.65,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -14.0,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 2.5",
+      "puan": 8.01
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 7.51
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 7.11
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 6.75
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 5.56
+     },
+     {
+      "secim": "KG Var",
+      "puan": 5.4
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 4.52
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 3.84
+     }
+    ]
+   },
+   {
+    "mac": "Angers - Troyes",
+    "kickoff": "21:45",
+    "secim": "Üst 2.5",
+    "acilis": "1.87",
+    "simdi": "1.67",
+    "puan": 5.65,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -10.7,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 5.47
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 5.13
+     },
+     {
+      "secim": "KG Var",
+      "puan": 4.24
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 4.1
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 4.06
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 3.84
+     },
+     {
+      "secim": "Ev Üst 0.5",
+      "puan": 3.54
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 3.31
+     }
+    ]
+   },
+   {
+    "mac": "Toulouse - Le Havre",
+    "kickoff": "21:45",
+    "secim": "Üst 1.5",
+    "acilis": "1.19",
+    "simdi": "1.11",
+    "puan": 5.56,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -6.7,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 2.5",
+      "puan": 8.01
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 7.51
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 7.11
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 6.75
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 5.65
+     },
+     {
+      "secim": "KG Var",
+      "puan": 5.4
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 4.52
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 3.84
+     }
+    ]
+   },
+   {
+    "mac": "Sevilla - Barcelona",
+    "kickoff": "22:00",
+    "secim": "Ev Üst 0.5",
+    "acilis": "1.55",
+    "simdi": "1.41",
+    "puan": 5.52,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -9.0,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 5.02
+     },
+     {
+      "secim": "KG Var",
+      "puan": 4.67
+     },
+     {
+      "secim": "Dep Alt 2.5",
+      "puan": 4.19
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 3.46
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 2.82
+     },
+     {
+      "secim": "İY Ev",
+      "puan": 2.5
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 2.32
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 2.18
+     }
+    ]
+   },
+   {
+    "mac": "Angers - Troyes",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 1.5",
+    "acilis": "2.1",
+    "simdi": "1.86",
+    "puan": 5.47,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -11.4,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 2.5",
+      "puan": 5.65
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 5.13
+     },
+     {
+      "secim": "KG Var",
+      "puan": 4.24
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 4.1
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 4.06
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 3.84
+     },
+     {
+      "secim": "Ev Üst 0.5",
+      "puan": 3.54
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 3.31
+     }
+    ]
+   },
+   {
+    "mac": "Toulouse - Le Havre",
+    "kickoff": "21:45",
+    "secim": "KG Var",
+    "acilis": "1.73",
+    "simdi": "1.57",
+    "puan": 5.4,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -9.2,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 2.5",
+      "puan": 8.01
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 7.51
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 7.11
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 6.75
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 5.65
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 5.56
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 4.52
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 3.84
+     }
+    ]
+   },
+   {
+    "mac": "Angers - Troyes",
+    "kickoff": "21:45",
+    "secim": "Üst 3.5",
+    "acilis": "3.29",
+    "simdi": "2.76",
+    "puan": 5.13,
+    "band": "≥5p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -16.1,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 2.5",
+      "puan": 5.65
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 5.47
+     },
+     {
+      "secim": "KG Var",
+      "puan": 4.24
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 4.1
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 4.06
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 3.84
+     },
+     {
+      "secim": "Ev Üst 0.5",
+      "puan": 3.54
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 3.31
+     }
+    ]
+   },
+   {
+    "mac": "Sporting Lizbon - FC Arouca",
+    "kickoff": "22:30",
+    "secim": "Ev Üst 2.5",
+    "acilis": "1.77",
+    "simdi": "1.61",
+    "puan": 5.03,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -9.0,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev sahibi",
+      "puan": 4.2
+     },
+     {
+      "secim": "İY Ev",
+      "puan": 3.89
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 3.17
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 3.04
+     },
+     {
+      "secim": "Dep Alt 0.5",
+      "puan": 2.97
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 2.91
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 2.6
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 2.59
+     }
+    ]
+   },
+   {
+    "mac": "Sevilla - Barcelona",
+    "kickoff": "22:00",
+    "secim": "Ev Üst 1.5",
+    "acilis": "4.01",
+    "simdi": "3.27",
+    "puan": 5.02,
+    "band": "≥5p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -18.5,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Üst 0.5",
+      "puan": 5.52
+     },
+     {
+      "secim": "KG Var",
+      "puan": 4.67
+     },
+     {
+      "secim": "Dep Alt 2.5",
+      "puan": 4.19
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 3.46
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 2.82
+     },
+     {
+      "secim": "İY Ev",
+      "puan": 2.5
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 2.32
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 2.18
+     }
+    ]
+   }
+  ]
+ },
+ "ortak": []
+}
