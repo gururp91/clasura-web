@@ -1,0 +1,677 @@
+{
+ "surum": "2.0",
+ "tarih": "2026-09-20",
+ "uretim_zamani": "2026-09-20T21:23:00+03:00",
+ "baslik": "Agent Önerileri",
+ "ozet": "21:15 turu (son tur). Bültende 4 başlamamış maç (13 lig). Meşin Yuvarlak 1 yeni takım önerisi, yeni oyuncu yok (2 açık); Agent Macau 0 öneri (eşik altı, en iyi hareket +3,8p). DataGaffer %100: 146 takım, 34 kayıt.",
+ "bacaklar": [
+  {
+   "kod": "futbol",
+   "ad": "Meşin Yuvarlak",
+   "oneriler": [
+    {
+     "mac": "Marsilya–Paris Saint Germain",
+     "lig": "Fransa Ligue 1",
+     "kickoff_trt": "21:45",
+     "market": "Alt/Üst 2.5",
+     "secim": "Üst",
+     "oran": 1.26,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "2.5 ÜST",
+     "gerekce": "DataGaffer bu maçta 3 ve üstü gole %67 ihtimal veriyor, 5,5 net pozisyon ve 10,8 isabetli şut bekliyor, maçı günün en hızlı sekizinci tempolu maçı sayıyor ve iki takımın hücum-savunma verimini günün ikinci en yükseği (72) sayıyor.",
+     "zayif_yani": "Marsilya 3 gün önce Avrupa'da oynadı ve 3 gün ve altı dinlenme ölçülmüş bir performans düşüşü sinyali; %67 bugünkü öteki üst seçimlerinin (%71-78) altında ve PSG deplasmanda 3 maçta maç başı 1,7 gol atıp 1,3 yedi.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,3 bekliyor, günün 39 maçı arasında 7. sırada, en yüksek çeyrekte; Marsilya evde 2 maçta maç başı 2,5 üretip 1,6 yiyor, PSG deplasmanda 3 maçta 1,7 üretip 1,7 yiyor.",
+     "tempo": "DataGaffer bu maça 68 tempo puanı veriyor, günün en yüksek sekizincisi; bu tempodaki 510 maçın %62'sinde 3 ve üstü gol olmuş.",
+     "ev_sahasi": "Marsilya kendi sahasında 78 puanlık güçte, PSG deplasmanda 82; aradaki 3 puanlık fark grubunda favori 907 maçın %40'ını kazanmış."
+    },
+    {
+     "mac": "Marsilya–Paris Saint Germain",
+     "lig": "Fransa Ligue 1",
+     "kickoff_trt": "21:45",
+     "market": "Oyuncu Kaleyi Bulan Şut Çeker (Uzt. Dahil)",
+     "secim": "Amine Gouiri 1+",
+     "oran": 1.5,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "İŞUT: Amine Gouiri 1+",
+     "gerekce": "DataGaffer Gouiri'nin en az bir isabetli şut çekmesine %74 ihtimal veriyor, bu sezon 5 maçta maç başı 76 dakika oynayıp 12 şutunun 6'sını kaleye gönderdi ve maç günün en hızlı sekizinci tempolu maçı.",
+     "zayif_yani": "Marsilya'nın gol beklentisi günün ortalamasında, yani gerekçe oyuncunun kendisine ve tempoya dayanıyor; PSG deplasmanda maç başı 0,9 gol değerinde isabetli şut yediriyor.",
+     "tur": "oyuncu",
+     "ters_bacak": null
+    },
+    {
+     "mac": "Porto–Benfica",
+     "lig": "Portekiz Premier Lig",
+     "kickoff_trt": "22:30",
+     "market": "Oyuncu Kaleyi Bulan Şut Çeker (Uzt. Dahil)",
+     "secim": "William Gomes 1+",
+     "oran": 1.45,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "İŞUT: William Gomes 1+",
+     "gerekce": "DataGaffer William'ın en az bir isabetli şut çekmesine %73 ihtimal veriyor, 7 maçta 16 şutunun 7'sini kaleye gönderdi ve Porto'nun gol beklentisi günün takım ortalamasının üstünde.",
+     "zayif_yani": "Porto'nun gol beklentisi ortalamayı kıl payı aşıyor, maç bir derbi ve William maç başı 66 dakika oynuyor, yani oyundan alınma riski var; bu lig sisteme 6 Eylül'de eklendi, kendi geçmişimiz ve takım profilimiz yok, futbol tarafı yalnızca DataGaffer'dan geliyor.",
+     "tur": "oyuncu",
+     "ters_bacak": null
+    },
+    {
+     "mac": "Valencia–Real Sociedad",
+     "lig": "İspanya La Liga",
+     "kickoff_trt": "22:00",
+     "market": "Alt/Üst 2.5",
+     "secim": "Alt",
+     "oran": 1.75,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "2.5 ALT",
+     "gerekce": "DataGaffer bu maçta 3'ten az gole %63 ihtimal veriyor (kalan maçların en yükseği), maçı günün en yavaş tempolu dokuzuncu maçı sayıyor ve yalnız 4,3 net pozisyon ile 15,5 ceza sahası içi şut bekliyor — ikisi de günün en düşüklerinden.",
+     "zayif_yani": "Real Sociedad deplasmanda 3 maçta rakibine maç başı 9,3 isabetli şut ve 2,3 gol yedi, DataGaffer'ın bu maça güveni de günün en düşüklerinden.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 2,9 bekliyor, günün tam ortasında (39 maçın 19.si), yani ne yüksek ne düşük; Valencia evde 3 maçta maç başı 0,6 üretip 2,0 yiyor, Real Sociedad deplasmanda 3 maçta 0,7 üretip 2,9 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 30, günün en yavaş dokuzuncu maçı; bu bantta 325 maçın %57'sinde 3'ten az gol olmuş.",
+     "ev_sahasi": "Valencia'nın saha puanı 8, Real Sociedad'ın deplasman puanı 30; 23 puanlık bu fark grubunda favori 704 maçın %47'sini kazanmış — gol sayısı seçiminde bu yalnız bilgi, gerekçe değil."
+    }
+   ],
+   "bos_siniflar": [
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "",
+   "oyuncu_gerekce": "21:15 turunda yeni oyuncu eklenmedi; Gouiri (Marsilya) ve William (Porto) açık duruyor. Eşiği geçip dışarıda kalanlar: Cissè (Milan, kaleyi bulma %65) — maç başı 58 dakika, dakika şartını geçemedi; Gonçalo Ramos (Milan, 2+ şut %84) — iddaa şut çizgisi 4+'tan, isabetli şut 2+'dan başlıyor, o çizgilerde DG ihtimali eşik altı; Monteiro (Lecce, %82) ile Guedes ve Oyarzabal (Real Sociedad, %64/%62) — takımlarının gol beklentisi günün takım ortalamasının altında; Danjuma (Valencia, %62) — eşiği ucu ucuna geçiyor ama Valencia evde 3 maçta takım olarak maç başı yalnız 2,3 isabetli şut çekti ve hücum verimi günün en düşüğü, öneriye almadım."
+  },
+  {
+   "kod": "hareket",
+   "ad": "Agent Macau",
+   "oneriler": [],
+   "bos_siniflar": [
+    "BANKO",
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "",
+   "kontrol_saati": "21:20"
+  }
+ ],
+ "hareket_yorum": {
+  "gunun_en_iyisi": "Pencerede (kalan dört maç) 5 puanı geçen hareket yok, öneri çıkmadı; en iyi hareket AC Milan–Lecce'de Milan 3 ve üstü gol: 2,07'den 1,90'a (21:20), olasılık 3,8 puan arttı, eşiğin altında; aynı maçta 4 ve üstü gol 2,48'den 2,29'a (+3,0), 5 ve üstü gol 4,55'ten 4,10'a, Milan 2 ve altı gol ise 1,54'ten 1,65'e çıktı — para Milan'ın golüne akıyor ama küçük adımlarla, maç 21:45'te.",
+  "ikincisi": "Pencerenin en iyi ikinci hareketi Marsilya–Paris Saint Germain'de 5 ve üstü gol: 2,93'ten 2,67'ye (21:20), olasılık 3,0 puan arttı, o da eşiğin altında; Porto–Benfica ve Valencia–Real Sociedad'da kayda değer hareket yok. 19:15 turunun Deportivo–Betis ve Paderborn–Hoffenheim hareketleri oynandı, o yorumlar kapandı."
+ },
+ "datagaffer_100": {
+  "okunan_takim": 146,
+  "kayitlar": [
+   {
+    "takim": "Feyenoord",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Feyenoord",
+    "secim": "Over 3.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Utrecht",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Utrecht",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Fiorentina",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Arminia",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Djurgardens",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Brondby",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Copenhagen",
+    "secim": "Team Over 1.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Copenhagen",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "FC Vaduz",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "FC Vaduz",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "PSV",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Como",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Man City",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "RB Leipzig",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Westerlo",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Westerlo",
+    "secim": "Over 3.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Atletico",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "FC Basel",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "FC Basel",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Estrela",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Estrela",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Estrela",
+    "secim": "Team Over 1.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Nijmegen",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "GO Ahead",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Viking",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Elversberg",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Bodo/Glimt",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Kortrijk",
+    "secim": "Loss",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Cruzeiro",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Benfica",
+    "secim": "Team Over 1.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Benfica",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Toluca",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   }
+  ]
+ },
+ "karne": {
+  "satirlar": [
+   {
+    "ad": "Meşin Yuvarlak",
+    "kapanan": 20,
+    "tuttu": 14,
+    "isabet": 70.0,
+    "acik": 11,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 20,
+      "tuttu": 14
+     },
+     "PLASE": {
+      "kapanan": 0,
+      "tuttu": 0
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "Meşin Yuvarlak — Oyuncu",
+    "kapanan": 7,
+    "tuttu": 4,
+    "isabet": 57.1,
+    "acik": 6,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 7,
+      "tuttu": 4
+     },
+     "PLASE": {
+      "kapanan": 0,
+      "tuttu": 0
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "Agent Macau",
+    "kapanan": 18,
+    "tuttu": 11,
+    "isabet": 61.1,
+    "acik": 8,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 11,
+      "tuttu": 6
+     },
+     "PLASE": {
+      "kapanan": 5,
+      "tuttu": 4
+     },
+     "SÜRPRİZ": {
+      "kapanan": 2,
+      "tuttu": 1
+     }
+    }
+   },
+   {
+    "ad": "DataGaffer %100",
+    "kapanan": 18,
+    "tuttu": 13,
+    "isabet": 72.2,
+    "acik": 24,
+    "siniflar": null
+   }
+  ]
+ },
+ "hareket_tablo": {
+  "esik": 7.0,
+  "saatler": [
+   "13:15",
+   "15:19",
+   "15:43",
+   "16:15",
+   "18:59",
+   "19:15",
+   "21:15"
+  ],
+  "son": "21:20",
+  "son_etiket": "21:15",
+  "limit": 15,
+  "kickoff_son": null,
+  "tablo_filtresi": "Tablolar oranı en az %7 değişen seçimleri gösterir; öneri eşiği puandır.",
+  "aciklama": "Öneri eşiği 5 puan: 5–7 puan dikkatle oyna · 7 puan üstü oyna. Puan, bahsin kazanma ihtimalinin açılıştan bu yana kaç puan arttığıdır; iddaa'nın kâr payı çıkarılarak hesaplanır (ör. ihtimal %50'den %57'ye çıktıysa +7 puan).",
+  "dusen_toplam": 5,
+  "yukselen_toplam": 11,
+  "dusenler": [
+   {
+    "mac": "AC Milan - Lecce",
+    "kickoff": "21:45",
+    "secim": "Üst 4.5",
+    "acilis": "4.55",
+    "simdi": "4.1",
+    "degisim": -9.9,
+    "puan": 2.28,
+    "zirve": -11.4,
+    "zirve_saat": "18:59",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Marsilya - Paris Saint Germain",
+    "kickoff": "21:45",
+    "secim": "Üst 4.5",
+    "acilis": "2.93",
+    "simdi": "2.67",
+    "degisim": -8.9,
+    "puan": 3.01,
+    "zirve": -8.9,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Marsilya - Paris Saint Germain",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "7.58",
+    "simdi": "6.92",
+    "degisim": -8.7,
+    "puan": null,
+    "zirve": -8.7,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AC Milan - Lecce",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "2.07",
+    "simdi": "1.9",
+    "degisim": -8.2,
+    "puan": 3.82,
+    "zirve": -8.2,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AC Milan - Lecce",
+    "kickoff": "21:45",
+    "secim": "Üst 3.5",
+    "acilis": "2.48",
+    "simdi": "2.29",
+    "degisim": -7.7,
+    "puan": 3.02,
+    "zirve": -8.1,
+    "zirve_saat": "18:59",
+    "zirve_ayri": true,
+    "sinif": "PLASE",
+    "durum": "SABİT"
+   }
+  ],
+  "yukselenler": [
+   {
+    "mac": "AC Milan - Lecce",
+    "kickoff": "21:45",
+    "secim": "Deplasman",
+    "acilis": "10.4",
+    "simdi": "12.05",
+    "degisim": 15.9,
+    "puan": -1.13,
+    "zirve": 15.9,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Porto - Benfica",
+    "kickoff": "22:30",
+    "secim": "Ev Üst 2.5",
+    "acilis": "5.27",
+    "simdi": "5.88",
+    "degisim": 11.6,
+    "puan": null,
+    "zirve": 15.2,
+    "zirve_saat": "19:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "AC Milan - Lecce",
+    "kickoff": "21:45",
+    "secim": "Alt 1.5",
+    "acilis": "4.2",
+    "simdi": "4.61",
+    "degisim": 9.8,
+    "puan": -1.93,
+    "zirve": 10.7,
+    "zirve_saat": "18:59",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "AC Milan - Lecce",
+    "kickoff": "21:45",
+    "secim": "ÇŞ X2",
+    "acilis": "3.46",
+    "simdi": "3.8",
+    "degisim": 9.8,
+    "puan": null,
+    "zirve": 9.8,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AC Milan - Lecce",
+    "kickoff": "21:45",
+    "secim": "Beraberlik",
+    "acilis": "5.66",
+    "simdi": "6.17",
+    "degisim": 9.0,
+    "puan": -1.23,
+    "zirve": 9.0,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AC Milan - Lecce",
+    "kickoff": "21:45",
+    "secim": "İY Deplasman",
+    "acilis": "9.15",
+    "simdi": "9.96",
+    "degisim": 8.9,
+    "puan": -0.79,
+    "zirve": 8.9,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AC Milan - Lecce",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 1.5",
+    "acilis": "2.77",
+    "simdi": "2.99",
+    "degisim": 7.9,
+    "puan": -2.29,
+    "zirve": 8.3,
+    "zirve_saat": "18:59",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "AC Milan - Lecce",
+    "kickoff": "21:45",
+    "secim": "Alt 2.5",
+    "acilis": "2.07",
+    "simdi": "2.23",
+    "degisim": 7.7,
+    "puan": -2.93,
+    "zirve": 8.2,
+    "zirve_saat": "18:59",
+    "zirve_ayri": true,
+    "sinif": "PLASE",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Marsilya - Paris Saint Germain",
+    "kickoff": "21:45",
+    "secim": "Dep Alt 1.5",
+    "acilis": "2.97",
+    "simdi": "3.19",
+    "degisim": 7.4,
+    "puan": -2.12,
+    "zirve": 7.7,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Porto - Benfica",
+    "kickoff": "22:30",
+    "secim": "Ev Üst 1.5",
+    "acilis": "2.22",
+    "simdi": "2.38",
+    "degisim": 7.2,
+    "puan": -2.63,
+    "zirve": 9.0,
+    "zirve_saat": "18:59",
+    "zirve_ayri": true,
+    "sinif": "PLASE",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "AC Milan - Lecce",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 2.5",
+    "acilis": "1.54",
+    "simdi": "1.65",
+    "degisim": 7.1,
+    "puan": -3.82,
+    "zirve": 7.1,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "HIZLANDI"
+   }
+  ],
+  "aday_esigi_puan": 5.0,
+  "adaylar": []
+ },
+ "pencere": {
+  "tur": "21:15",
+  "kickoff_son": null,
+  "metin": "Pencere: kalan tüm maçlar"
+ },
+ "ortak": []
+}

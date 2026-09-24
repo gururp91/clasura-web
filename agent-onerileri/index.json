@@ -1,0 +1,374 @@
+{
+ "guncelleme": "2026-09-20T21:23:00+03:00",
+ "raporlar": [
+  {
+   "tarih": "2026-09-20",
+   "dosya": "2026-09-20.json",
+   "ozet": "21:15 turu (son tur). Bültende 4 başlamamış maç (13 lig). Meşin Yuvarlak 1 yeni takım önerisi, yeni oyuncu yok (2 açık); Agent Macau 0 öneri (eşik altı, en iyi hareket +3,8p). DataGaffer %100: 146 takım, 34 kayıt.",
+   "karne": [
+    {
+     "ad": "Meşin Yuvarlak",
+     "kapanan": 20,
+     "tuttu": 14,
+     "isabet": 70.0,
+     "acik": 11
+    },
+    {
+     "ad": "Meşin Yuvarlak — Oyuncu",
+     "kapanan": 7,
+     "tuttu": 4,
+     "isabet": 57.1,
+     "acik": 6
+    },
+    {
+     "ad": "Agent Macau",
+     "kapanan": 18,
+     "tuttu": 11,
+     "isabet": 61.1,
+     "acik": 8
+    },
+    {
+     "ad": "DataGaffer %100",
+     "kapanan": 18,
+     "tuttu": 13,
+     "isabet": 72.2,
+     "acik": 24
+    }
+   ]
+  },
+  {
+   "tarih": "2026-09-19",
+   "dosya": "2026-09-19.json",
+   "ozet": "21:15 turu (son tur). Bültende 10 başlamamış maç, hepsinde DataGaffer var. Meşin Yuvarlak 1 yeni takım + 1 yeni oyuncu önerisi; Agent Macau 2 yeni öneri, 1 eski öneri eşik altına inip düştü. DataGaffer %100: 182 takım, 34 kayıt, 14'ü bizim ligden.",
+   "karne": [
+    {
+     "ad": "Meşin Yuvarlak",
+     "kapanan": 8,
+     "tuttu": 6,
+     "isabet": 75.0,
+     "acik": 12
+    },
+    {
+     "ad": "Meşin Yuvarlak — Oyuncu",
+     "kapanan": 4,
+     "tuttu": 2,
+     "isabet": 50.0,
+     "acik": 4
+    },
+    {
+     "ad": "Agent Macau",
+     "kapanan": 10,
+     "tuttu": 8,
+     "isabet": 80.0,
+     "acik": 9
+    },
+    {
+     "ad": "DataGaffer %100",
+     "kapanan": 4,
+     "tuttu": 3,
+     "isabet": 75.0,
+     "acik": 14
+    }
+   ]
+  },
+  {
+   "tarih": "2026-09-18",
+   "dosya": "2026-09-18.json",
+   "ozet": "21:15 turu, günün son turu. Bültende 6 maç, hiçbiri başlamamış. Meşin Yuvarlak 3 takım + 2 oyuncu önerisi (13:15'ten taşındı, yeni yok); Agent Macau 2 öneri (1 yeni: Monaco kazanır; son tur, pencere yok). DataGaffer %100: 50 takım, 11 kayıt.",
+   "karne": [
+    {
+     "ad": "Meşin Yuvarlak",
+     "kapanan": 4,
+     "tuttu": 3,
+     "isabet": 75.0,
+     "acik": 4
+    },
+    {
+     "ad": "Meşin Yuvarlak — Oyuncu",
+     "kapanan": 2,
+     "tuttu": 2,
+     "isabet": 100.0,
+     "acik": 2
+    },
+    {
+     "ad": "Agent Macau",
+     "kapanan": 7,
+     "tuttu": 5,
+     "isabet": 71.4,
+     "acik": 3
+    },
+    {
+     "ad": "DataGaffer %100",
+     "kapanan": 1,
+     "tuttu": 1,
+     "isabet": 100.0,
+     "acik": 3
+    }
+   ]
+  },
+  {
+   "tarih": "2026-09-17",
+   "dosya": "2026-09-17.json",
+   "ozet": "Günün son turu, 21:15 ölçümü. Bülten indiğinde (21:16) liglerimizden 8 maç kaldı, hiçbiri başlamamış: Avrupa Ligi'nden 22:00'de yedi maç (Beşiktaş–Marsilya, Crystal Palace–Lech Poznan, Juventus–NEC, Celtic–Ferencvaros, Real Sociedad–Bournemouth, Plzen–Union SG, Lillestrom–Torreense) ve La Liga'dan M",
+   "karne": [
+    {
+     "ad": "Meşin Yuvarlak",
+     "kapanan": 53,
+     "tuttu": 31,
+     "isabet": 58.5,
+     "acik": 4
+    },
+    {
+     "ad": "Meşin Yuvarlak — Oyuncu",
+     "kapanan": 15,
+     "tuttu": 7,
+     "isabet": 46.7,
+     "acik": 2
+    },
+    {
+     "ad": "Agent Macau",
+     "kapanan": 43,
+     "tuttu": 22,
+     "isabet": 51.2,
+     "acik": 10
+    },
+    {
+     "ad": "DataGaffer %100",
+     "kapanan": 72,
+     "tuttu": 48,
+     "isabet": 66.7,
+     "acik": 1
+    }
+   ]
+  },
+  {
+   "tarih": "2026-09-16",
+   "dosya": "2026-09-16.json",
+   "ozet": "Günün son turu, 21:15 ölçümü. Bülten indiğinde liglerimizden başlamamış 9 maç var: Avrupa Ligi'nden 22:00'de yedi maç (Sunderland–AZ, Sturm Graz–Rennes, Olympiakos–Jagiellonia, Beer Sheva–Dinamo Zagreb, Leverkusen–Celje, Anderlecht–Lyon, Milan–Benfica) ve La Liga'dan 22:30'da iki maç (Barcelona–Sant",
+   "karne": [
+    {
+     "ad": "Meşin Yuvarlak",
+     "kapanan": 50,
+     "tuttu": 30,
+     "isabet": 60.0,
+     "acik": 4
+    },
+    {
+     "ad": "Meşin Yuvarlak — Oyuncu",
+     "kapanan": 13,
+     "tuttu": 7,
+     "isabet": 53.8,
+     "acik": 2
+    },
+    {
+     "ad": "Agent Macau",
+     "kapanan": 34,
+     "tuttu": 19,
+     "isabet": 55.9,
+     "acik": 9
+    },
+    {
+     "ad": "DataGaffer %100",
+     "kapanan": 66,
+     "tuttu": 44,
+     "isabet": 66.7,
+     "acik": 6
+    }
+   ]
+  },
+  {
+   "tarih": "2026-09-15",
+   "dosya": "2026-09-15.json",
+   "ozet": "Günün son turu, 21:15 ölçümü. Bülten indiğinde on iki ligimizden başlamamış tek maç kalmıştı: Elche–Real Madrid (22:30); Vallecano–Espanyol, Ajax–Willem II ve Alaves–Valencia başladığı için kapsamdan çıktı, o maçların 13:15 ve 19:15'te açılan kayıtları duruyor. DataGaffer'ın bugünkü verisi (09:35 çe",
+   "karne": [
+    {
+     "ad": "Meşin Yuvarlak",
+     "kapanan": 47,
+     "tuttu": 28,
+     "isabet": 59.6,
+     "acik": 3
+    },
+    {
+     "ad": "Meşin Yuvarlak — Oyuncu",
+     "kapanan": 10,
+     "tuttu": 5,
+     "isabet": 50.0,
+     "acik": 3
+    },
+    {
+     "ad": "Agent Macau",
+     "kapanan": 33,
+     "tuttu": 19,
+     "isabet": 57.6,
+     "acik": 1
+    },
+    {
+     "ad": "DataGaffer %100",
+     "kapanan": 64,
+     "tuttu": 42,
+     "isabet": 65.6,
+     "acik": 2
+    }
+   ]
+  },
+  {
+   "tarih": "2026-09-14",
+   "dosya": "2026-09-14.json",
+   "ozet": "Günün son turu, 21:15 ölçümü. Bülten indiğinde on iki ligimizden başlamamış 5 maç kalmıştı: Inter–Udinese (21:45), Leeds–Newcastle ve Villarreal–Betis (22:00), Moreirense–Marítimo (22:15), Braga–Estoril (22:45); Como–Parma, Torino–Roma ve Gaziantep–Fenerbahçe başladığı için kapsamdan çıktı, o maçlar",
+   "karne": [
+    {
+     "ad": "Meşin Yuvarlak",
+     "kapanan": 42,
+     "tuttu": 24,
+     "isabet": 57.1,
+     "acik": 5
+    },
+    {
+     "ad": "Meşin Yuvarlak — Oyuncu",
+     "kapanan": 6,
+     "tuttu": 3,
+     "isabet": 50.0,
+     "acik": 4
+    },
+    {
+     "ad": "Agent Macau",
+     "kapanan": 29,
+     "tuttu": 17,
+     "isabet": 58.6,
+     "acik": 4
+    },
+    {
+     "ad": "DataGaffer %100",
+     "kapanan": 59,
+     "tuttu": 38,
+     "isabet": 64.4,
+     "acik": 5
+    }
+   ]
+  },
+  {
+   "tarih": "2026-09-13",
+   "dosya": "2026-09-13.json",
+   "ozet": "Günün son turu, 21:15 ölçümü. Bültende on iki ligimizden başlamamış 4 maç kaldı; Brest–PSG ve Sassuolo–Juventus 21:45'te, yani bu ölçümden 30 dakikadan az sonra başladığı için öneri kapsamından çıktı, ele alınan iki maç Real Sociedad–Atlético (22:00) ve Famalicão–Sporting (22:30). Meşin Yuvarlak 1 t",
+   "karne": [
+    {
+     "ad": "Meşin Yuvarlak",
+     "kapanan": 31,
+     "tuttu": 17,
+     "isabet": 54.8,
+     "acik": 18
+    },
+    {
+     "ad": "Agent Macau",
+     "kapanan": 57,
+     "tuttu": 29,
+     "isabet": 50.9,
+     "acik": 18
+    },
+    {
+     "ad": "DataGaffer %100",
+     "kapanan": 50,
+     "tuttu": 30,
+     "isabet": 60.0,
+     "acik": 9
+    }
+   ]
+  },
+  {
+   "tarih": "2026-09-12",
+   "dosya": "2026-09-12.json",
+   "ozet": "Günün kapanış turu, saat 23:40 ölçümü. Bültende on iki ligimizden oynanmamış maç kalmadı; bu yüzden Meşin Yuvarlak ve Agent Macau bu turda boş, yeni kayıt açılmadı ve önceki turların önerileri olduğu gibi duruyor. Aşağıdaki oran tablosu günün son ölçümü olan 21:15'i gösterir; kapanışta günün en büyü",
+   "karne": [
+    {
+     "ad": "Meşin Yuvarlak",
+     "kapanan": 28,
+     "tuttu": 15,
+     "isabet": 53.6,
+     "acik": 3
+    },
+    {
+     "ad": "Agent Macau",
+     "kapanan": 51,
+     "tuttu": 27,
+     "isabet": 52.9,
+     "acik": 6
+    },
+    {
+     "ad": "DataGaffer %100",
+     "kapanan": 45,
+     "tuttu": 26,
+     "isabet": 57.8,
+     "acik": 5
+    }
+   ]
+  },
+  {
+   "tarih": "2026-09-11",
+   "dosya": "2026-09-11.json",
+   "ozet": "Günün son turu (21:15 ölçümü). Bugünün dokuz maçından dördü başladı, geriye beş maç kaldı; kesişim yok. Turun en önemli gerçeği şu: beş maçın beşinde de para, Değer bacağının işaret ettiği tarafın TERSİNE akıyor — Venezia'da çok gol, Union Berlin'de az gol, Sevilla'da ev sahibi yönünde. Karşılaştırdığımız Bet365 ve DataGaffer fiyatları 16:15'ten kalma, iddaa ise o saatten beri kaymaya devam etti; bu yüzden Değer bacağındaki farkların bir kısmı gerçek bir ayrışma değil, tek tarafın donmuş olması olabilir ve dört önerinin dördü de 'dikkatle oyna' ile veriliyor. 19:15 turunda önerdiğim Rennes 4'ten az gol seçimini GERİ ALIYORUM: iddaa o bahiste geri geldi, fark artık Bet365 tarafında iki puanı bulmuyor; yerine aynı maçta iki takımın da gol atamaması geçiyor. Aynı turda 'günün ikinci en güçlü hareketi Beşiktaş' demiştim, o maç başladı ve kapsam dışı; ikinciliği Sevilla–Valencia'daki Sevilla tarafı aldı. Mechelen–Anderlecht ise 20:22'de tepe yaptı ve o saatten beri geri çekiliyor.",
+   "karne": [
+    {
+     "ad": "Bacak 1 — Değer",
+     "kapanan": 25,
+     "tuttu": 10,
+     "isabet": 40.0,
+     "acik": 8
+    },
+    {
+     "ad": "Bacak 2 — Futbol",
+     "kapanan": 18,
+     "tuttu": 12,
+     "isabet": 66.7,
+     "acik": 6
+    },
+    {
+     "ad": "Bacak 3 — Hareket",
+     "kapanan": 34,
+     "tuttu": 18,
+     "isabet": 52.9,
+     "acik": 7
+    },
+    {
+     "ad": "DataGaffer %100",
+     "kapanan": 30,
+     "tuttu": 20,
+     "isabet": 66.7,
+     "acik": 7
+    },
+    {
+     "ad": "DG Top Picks",
+     "kapanan": 19,
+     "tuttu": 11,
+     "isabet": 57.9,
+     "acik": 0
+    }
+   ],
+   "saat": "21:15"
+  },
+  {
+   "tarih": "2026-09-10",
+   "dosya": "2026-09-10.json",
+   "ozet": "Günün son turu (21:15 ölçümü). Bültende başlamamış beş maç var: 22:00'de dört Şampiyonlar Ligi maçı (Como–Leipzig, Manchester United–Sabah, Bayern–Bodø/Glimt, Slavia Prag–Lens) ve 22:15'te Estrela–Braga. 19:45'te başlayan PSV–Shakhtar ile Fenerbahçe–Roma ölçümden çıktı; o iki maçtaki 16:20 kayıtları geçerliliğini koruyor. Kesişim yok · Bacak 1'de 4 · Bacak 2'de 3 · Bacak 3'te 5 öneri. Para beş maçın beşinde de gol ve favori yönüne akmaya devam ediyor; bu yüzden Bacak 1 ile Bacak 3 üç maçta birbirinin tersini söylüyor. 19:20 turunda Slavia Prag–Lens'te Alt 3,5 de değer adayı görünüyordu; o fark bugün iddaa'nın kaymasıyla oluştu, Bet365 fiyatı 17:38'den kalma olduğu için bu turda öneriye alınmadı."
+  },
+  {
+   "tarih": "2026-09-09",
+   "dosya": "2026-09-09.json",
+   "ozet": "Günün son turu (21:15 ölçümü). 19:45'te başlayan üç maç (Barcelona–Feyenoord, Stuttgart–Viking, Twente–Telstar) bu turun ölçümünde yok; öneriler 22:00 ve 22:45'teki 5 maça. Kesişim yok · Bacak 1'de 2 (Moreirense–Benfica Alt 3,5 ve Napoli–Arsenal'de Napoli/beraberlik — ikisinde de Bet365 fiyatı dün akşamdan kalma, para ters yöne akıyor) · Bacak 2'de 2 (Liverpool–Atletico Üst 2,5, Sporting–Galatasaray Üst 3,5) · Bacak 3'te 3 (Napoli–Arsenal'de Arsenal, PSG Üst 4,5, Sporting–Galatasaray Üst 4,5). Günün en güçlü hareketi artık Sporting'in golü tarafı; öğlenden beri birinci olan PSG ikinciye indi. 20:21'den beri 158 seçimin 116'sında oran değişti."
+  },
+  {
+   "tarih": "2026-09-08",
+   "dosya": "2026-09-08.json",
+   "ozet": "Bültende 7 maç; 19:45'te başlayan üç maç (AEK–LASK, Brugge–Villa, Nijmegen–Excelsior) kapsam dışı, öneriler yalnız 22:00'deki dört maça. Kesişim yok · Bacak 1'de 1, Bacak 2'de 1, Bacak 3'te 2 öneri. Real Madrid–Inter'de Bacak 2 ve 3 birlikte Üst 2,5 diyor, ama iddaa'nın fiyatı cömert değil — Bacak 1 katılmıyor, kesişim bu yüzden boş."
+  },
+  {
+   "tarih": "2026-09-07",
+   "dosya": "2026-09-07.json",
+   "ozet": "9 maç · kesişim yok · Bacak 1'de 5, Bacak 2'de 3, Bacak 3'te 5 öneri."
+  },
+  {
+   "tarih": "2026-09-06",
+   "dosya": "2026-09-06.json",
+   "ozet": "{\"kasadan_oynanan\": 0, \"kagit_uzeri\": 6}"
+  }
+ ]
+}
