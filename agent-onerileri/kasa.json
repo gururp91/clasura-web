@@ -1,0 +1,1639 @@
+{
+ "surum": "2.0",
+ "tarih": "2026-10-10",
+ "uretim_zamani": "2026-10-10T21:15:00+03:00",
+ "baslik": "Agent Önerileri",
+ "ozet": "21:15 turu (son tur). Bültende 11 başlamamış maç. Meşin Yuvarlak'ta yeni öneri yok, 13:15'ten 2 takım + 1 oyuncu önerisi sürüyor; Agent Macau 3 yeni öneri, 2 öneri sürüyor. DataGaffer %100: 188 takım okundu, 31 kayıt, 17'si bizim ligden.",
+ "bacaklar": [
+  {
+   "kod": "futbol",
+   "ad": "Meşin Yuvarlak",
+   "oneriler": [
+    {
+     "mac": "KRC Genk–Kortrijk",
+     "lig": "Belçika Pro Lig",
+     "kickoff_trt": "21:45",
+     "market": "Maç Sonucu",
+     "secim": "1",
+     "oran": 1.29,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "MS1",
+     "gerekce": "DataGaffer Genk'e %69 kazanma şansı veriyor ve Kortrijk'in deplasman gücünü günün en düşüklerinden biri sayıyor; saha gücü farkı bugünkü net favoriler arasında en büyüklerden.",
+     "zayif_yani": "Bu lig sisteme 6 Eylül'de eklendi; kendi geçmişimiz ve takım profilimiz yok, futbol tarafı yalnızca DataGaffer'dan geliyor.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,00 bekliyor, günün 39 maçı arasında 17. sırada (ortada); Genk evde 3 maçta maç başı 2,4 üretip 0,6 yiyor, Kortrijk deplasmanda 3 maçta 0,3 üretip 2,5 yiyor.",
+     "tempo": "DataGaffer bu maça 45,2 tempo puanı veriyor, günün 39 maçı arasında 23. en hızlısı; bu tempodaki 635 maçta 3 ve üstü gol oranı %54,5.",
+     "ev_sahasi": "Genk kendi sahasında 68 puanlık güçte, Kortrijk deplasmanda 6,7; aradaki 61,2 puanlık fark grubundaki 229 maçta saha gücü üstün olan taraf %75,5 oranında kazanmış."
+    },
+    {
+     "mac": "Real Madrid–Villarreal",
+     "lig": "İspanya La Liga",
+     "kickoff_trt": "22:00",
+     "market": "Maç Sonucu",
+     "secim": "1",
+     "oran": 1.26,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "MS1",
+     "gerekce": "DataGaffer Real Madrid'e %64 kazanma şansı veriyor ve Real Madrid'den 2,8 gol bekliyor; evindeki saha gücü günün en yükseği.",
+     "zayif_yani": "%64 net favori eşiğine yakın ve Villarreal'den de 1,5 gol bekleniyor, yani rakip gol atabilecek güçte.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,05 bekliyor, günün 39 maçı arasında 14. sırada (ortada); Real Madrid evde 3 maçta maç başı 3,2 üretip 0,7 yiyor, Villarreal deplasmanda 4 maçta 1,5 üretip 1 yiyor.",
+     "tempo": "DataGaffer bu maça 78,6 tempo puanı veriyor, günün 39 maçı arasında 6. en hızlısı; bu tempodaki 303 maçta 3 ve üstü gol oranı %74,3.",
+     "ev_sahasi": "Real Madrid kendi sahasında 94,1 puanlık güçte, Villarreal deplasmanda 52,1; aradaki 42 puanlık fark grubundaki 468 maçta saha gücü üstün olan taraf %60,7 oranında kazanmış."
+    },
+    {
+     "mac": "Ajax–NEC Nijmegen",
+     "lig": "Hollanda Eredivisie",
+     "kickoff_trt": "22:00",
+     "market": "Oyuncu Kaleyi Bulan Şut Çeker (Uzt. Dahil)",
+     "secim": "Julian Brandt 1+",
+     "oran": 1.24,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "İŞUT: Julian Brandt 1+",
+     "gerekce": "DataGaffer Julian Brandt'ın en az bir kez kaleyi bulmasına %84 ihtimal veriyor ve Ajax'tan 2,4 gol bekliyor; bu sezon 11 maçta 21 şutunun 12'sini kaleye gönderdi.",
+     "zayif_yani": "Bu sezon maç başına ortalama 62 dakika oynuyor, yani yedek başlama ya da erken çıkma riski var; bu lig sisteme 6 Eylül'de eklendi; kendi geçmişimiz ve takım profilimiz yok, futbol tarafı yalnızca DataGaffer'dan geliyor.",
+     "tur": "oyuncu",
+     "ters_bacak": null
+    }
+   ],
+   "bos_siniflar": [
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "",
+   "oyuncu_gerekce": "Bu turda yeni oyuncu önerisi yok: günün iki oyuncu hakkı 13:15 turunda Afonso Moreira ve Julian Brandt ile kullanıldı, Brandt önerisi (Ajax–NEC Nijmegen, 22:00) sürüyor."
+  },
+  {
+   "kod": "hareket",
+   "ad": "Agent Macau",
+   "oneriler": [
+    {
+     "mac": "Paris Saint Germain–Le Mans",
+     "lig": "Fransa Ligue 1",
+     "kickoff_trt": "21:45",
+     "market": "Ev Sahibi Alt/Üst 2.5",
+     "secim": "Alt",
+     "oran": 2.12,
+     "sinif": "PLASE",
+     "karar": "oyna",
+     "kisa": "EV 2.5 ALT",
+     "gerekce": "PSG'nin 2 ve altı gol atması oranı 2,88'den 2,31'e indi, olasılık 7,6 puan arttı; aynı maçta Le Mans'ın gol atması 1,96'dan 1,73'e, 3 ve altı gol 2,22'den 1,95'e indi, para PSG'nin farklı kazanmayacağı tarafa akıyor.",
+     "zayif_yani": "DataGaffer PSG'den 2,8 gol bekliyor ve 3 gole çıkmasını az farkla daha olası görüyor, yani futbol verisi bu hareketi desteklemiyor.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "puan": 11.0,
+     "band": "≥5p",
+     "olcum": "21:16",
+     "ilk": {
+      "oran": 2.31,
+      "puan": 7.6,
+      "olcum": "19:22"
+     },
+     "kontrol": {
+      "saat": "21:16",
+      "oran": 2.12,
+      "puan": 11.0,
+      "fark": 3.4,
+      "durum": "hızlandı"
+     },
+     "hiz": "hızlandı"
+    },
+    {
+     "mac": "Napoli–Frosinone",
+     "lig": "İtalya Serie A",
+     "kickoff_trt": "21:45",
+     "market": "Deplasman Alt/Üst 1.5",
+     "secim": "Üst",
+     "oran": 2.6,
+     "sinif": "SÜRPRİZ",
+     "karar": "oyna",
+     "kisa": "DEP 1.5 ÜST",
+     "gerekce": "Frosinone'nin 2 ve üstü gol atması oranı 3,28'den 2,60'a indi, olasılık 7,1 puan arttı; aynı maçta karşılıklı gol var 1,56'dan 1,41'e, Frosinone galibiyeti 5,99'dan 4,90'a indi, para Frosinone'nin gol bulacağı tarafa akıyor.",
+     "zayif_yani": "DataGaffer Frosinone'den 1,4 gol bekliyor ve 2 gole çıkmasına %42 şans veriyor, yani bu bahsin tutma ihtimali hâlâ yarının altında.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "puan": 7.1,
+     "band": "≥5p",
+     "olcum": "21:21"
+    },
+    {
+     "mac": "Casa Pia AC–Santa Clara",
+     "lig": "Portekiz Premier Lig",
+     "kickoff_trt": "22:30",
+     "market": "Ev Sahibi Alt/Üst 0.5",
+     "secim": "Üst",
+     "oran": 1.41,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "EV 0.5 ÜST",
+     "gerekce": "Casa Pia'nın en az bir gol atması oranı 1,56'dan 1,41'e indi, olasılık 6,1 puan arttı; aynı maçta Casa Pia galibiyeti 4,10'dan 3,41'e, Casa Pia'nın 2 ve üstü golü 4,12'den 3,28'e indi, para ev sahibinin gol bulacağı tarafa akıyor.",
+     "zayif_yani": "Oran 16:15'ten beri 1,41'de duruyor, yani hareket taze değil, ve DataGaffer Casa Pia'dan yalnızca 1 gol bekliyor.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "puan": 6.1,
+     "band": "≥5p",
+     "olcum": "21:21"
+    },
+    {
+     "mac": "Zulte Waregem–KAA Gent",
+     "lig": "Belçika Pro Lig",
+     "kickoff_trt": "21:45",
+     "market": "Alt/Üst 2.5",
+     "secim": "Alt",
+     "oran": 1.55,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "2.5 ALT",
+     "gerekce": "2 ve altı gol oranı 1,72'den 1,55'e indi, olasılık 5,8 puan arttı; aynı maçta karşılıklı gol yok 1,93'ten 1,75'e, Gent'in 1 ve altı gol atması 1,47'den 1,36'ya indi, para az gollü maça akıyor.",
+     "zayif_yani": "Hareket sınırın az üstünde ve DataGaffer bu maçta 3 ve üstü gole %59 şans veriyor, yani futbol verisi ters yönde.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "puan": 5.7,
+     "band": "≥5p",
+     "olcum": "21:16",
+     "ilk": {
+      "oran": 1.55,
+      "puan": 5.8,
+      "olcum": "19:22"
+     },
+     "kontrol": {
+      "saat": "21:16",
+      "oran": 1.55,
+      "puan": 5.65,
+      "fark": -0.15,
+      "durum": "tutuyor"
+     },
+     "hiz": "sabit"
+    },
+    {
+     "mac": "Brest–Angers",
+     "lig": "Fransa Ligue 1",
+     "kickoff_trt": "21:45",
+     "market": "Ev Sahibi Alt/Üst 1.5",
+     "secim": "Üst",
+     "oran": 1.6,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "EV 1.5 ÜST",
+     "gerekce": "Brest'in 2 ve üstü gol atması oranı 1,77'den 1,60'a indi, olasılık 5,2 puan arttı; aynı maçta Brest galibiyeti 1,87'den 1,71'e, 3 ve üstü gol 1,61'den 1,52'ye indi, para Brest'in gollü kazanacağı tarafa akıyor.",
+     "zayif_yani": "Hareket sınırın hemen üstünde, bu maçta sınırı geçen tek bahis bu ve DataGaffer Brest'in 2 gole çıkmasına %45 şans veriyor.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "puan": 5.2,
+     "band": "≥5p",
+     "olcum": "21:21"
+    }
+   ],
+   "bos_siniflar": [],
+   "oyuncu_notu": "",
+   "kontrol_saati": "21:16"
+  }
+ ],
+ "hareket_yorum": {
+  "gunun_en_iyisi": "Pencerenin en iyi hareketi yine Paris Saint Germain–Le Mans'ta PSG'nin 2 ve altı gol atması: oran açılıştaki 2,88'den 19:22'de 2,31'e, 21:16'da 2,12'ye indi, olasılık 11,0 puan arttı ve gün boyu hiç geri dönmedi. Aynı maçta Le Mans'ın gol atması 1,96'dan 1,65'e, 4 ve altı gol 1,51'den 1,34'e indi; karşılıklı gol yok ise 1,57'den 1,81'e çıktı.",
+  "ikincisi": "İkinci hareket Napoli–Frosinone'de Frosinone'nin 2 ve üstü gol atması: oran 3,28'den 2,60'a indi, olasılık 7,1 puan arttı; 13:15'te 3,07, 19:15'te 2,83'tü, yani gün boyu adım adım düştü. Üçüncü Casa Pia–Santa Clara'da Casa Pia'nın gol atması (1,56'dan 1,41'e; 16:15'ten beri yerinde), dördüncü Brest–Angers'te Brest'in 2 ve üstü golü (1,77'den 1,60'a, sınırın hemen üstünde). Zulte Waregem–KAA Gent'te 2 ve altı gol 1,55'te duruyor. Ajax–NEC Nijmegen'de öğleden sonra görülen az gollü maç hareketi büyük ölçüde geri döndü; 19:15'te ikinci sıraya yazdığım Barcelona–Getafe maçı başladı."
+ },
+ "datagaffer_100": {
+  "okunan_takim": 188,
+  "kayitlar": [
+   {
+    "takim": "Birmingham",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Vallecano",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Leverkusen",
+    "secim": "Team Over 1.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Union Berlin",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Union Berlin",
+    "secim": "Over 3.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Bodo/Glimt",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Rangers",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Burnley",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Atletico",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "GO Ahead",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Sparta",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Rosenborg",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Rosenborg",
+    "secim": "Over 3.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Rosenborg",
+    "secim": "Team Over 1.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Zurich",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Barcelona",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Barcelona",
+    "secim": "Over 3.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Barcelona",
+    "secim": "Team Over 1.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Barcelona",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Frankfurt",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Frankfurt",
+    "secim": "Over 3.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Feyenoord",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Feyenoord",
+    "secim": "Over 3.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Ajax",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Ajax",
+    "secim": "Over 3.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "New England",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Philadelphia",
+    "secim": "Team Over 1.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Philadelphia",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Minnesota",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Minnesota",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Vancouver",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   }
+  ]
+ },
+ "karne": {
+  "satirlar": [
+   {
+    "ad": "Meşin Yuvarlak",
+    "kapanan": 33,
+    "tuttu": 20,
+    "isabet": 60.6,
+    "acik": 13,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 33,
+      "tuttu": 20
+     },
+     "PLASE": {
+      "kapanan": 0,
+      "tuttu": 0
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "Meşin Yuvarlak — Oyuncu",
+    "kapanan": 15,
+    "tuttu": 8,
+    "isabet": 53.3,
+    "acik": 2,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 14,
+      "tuttu": 8
+     },
+     "PLASE": {
+      "kapanan": 1,
+      "tuttu": 0
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "Agent Macau",
+    "kapanan": 30,
+    "tuttu": 16,
+    "isabet": 53.3,
+    "acik": 8,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 17,
+      "tuttu": 8
+     },
+     "PLASE": {
+      "kapanan": 11,
+      "tuttu": 7
+     },
+     "SÜRPRİZ": {
+      "kapanan": 2,
+      "tuttu": 1
+     }
+    }
+   },
+   {
+    "ad": "DataGaffer %100",
+    "kapanan": 44,
+    "tuttu": 21,
+    "isabet": 47.7,
+    "acik": 17,
+    "siniflar": null
+   }
+  ]
+ },
+ "hareket_tablo": {
+  "esik": 7.0,
+  "saatler": [
+   "13:15",
+   "16:15",
+   "16:41",
+   "19:15",
+   "21:15"
+  ],
+  "son": "21:16",
+  "son_etiket": "21:15",
+  "limit": 15,
+  "kickoff_son": null,
+  "tablo_filtresi": "Tablolar oranı en az %7 değişen seçimleri gösterir; öneri eşiği puandır.",
+  "aciklama": "Öneri eşiği 5 puan: 5–7 puan dikkatle oyna · 7 puan üstü oyna. Puan, bahsin kazanma ihtimalinin açılıştan bu yana kaç puan arttığıdır; iddaa'nın kâr payı çıkarılarak hesaplanır (ör. ihtimal %50'den %57'ye çıktıysa +7 puan).",
+  "dusen_toplam": 59,
+  "yukselen_toplam": 51,
+  "dusenler": [
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "İY Deplasman",
+    "acilis": "15.55",
+    "simdi": "9.56",
+    "degisim": -38.5,
+    "puan": 3.57,
+    "zirve": -38.5,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "ÇŞ X2",
+    "acilis": "6.93",
+    "simdi": "4.4",
+    "degisim": -36.5,
+    "puan": null,
+    "zirve": -36.5,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "Beraberlik",
+    "acilis": "11.85",
+    "simdi": "7.65",
+    "degisim": -35.4,
+    "puan": null,
+    "zirve": -35.4,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 1.5",
+    "acilis": "6.61",
+    "simdi": "4.61",
+    "degisim": -30.3,
+    "puan": null,
+    "zirve": -30.3,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "Deplasman",
+    "acilis": "18.2",
+    "simdi": "12.75",
+    "degisim": -29.9,
+    "puan": null,
+    "zirve": -29.9,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Casa Pia AC - Santa Clara",
+    "kickoff": "22:30",
+    "secim": "Ev Üst 2.5",
+    "acilis": "13.1",
+    "simdi": "9.56",
+    "degisim": -27.0,
+    "puan": null,
+    "zirve": -27.0,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 2.5",
+    "acilis": "2.88",
+    "simdi": "2.12",
+    "degisim": -26.4,
+    "puan": 11.0,
+    "zirve": -26.4,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Napoli - Frosinone",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 2.5",
+    "acilis": "9.46",
+    "simdi": "7.04",
+    "degisim": -25.6,
+    "puan": null,
+    "zirve": -25.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Napoli - Frosinone",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 1.5",
+    "acilis": "3.28",
+    "simdi": "2.61",
+    "degisim": -20.4,
+    "puan": 6.98,
+    "zirve": -20.4,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Casa Pia AC - Santa Clara",
+    "kickoff": "22:30",
+    "secim": "Ev Üst 1.5",
+    "acilis": "4.12",
+    "simdi": "3.28",
+    "degisim": -20.4,
+    "puan": 5.42,
+    "zirve": -20.4,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "Alt 2.5",
+    "acilis": "4.05",
+    "simdi": "3.23",
+    "degisim": -20.2,
+    "puan": 5.6,
+    "zirve": -20.2,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "İY Beraberlik",
+    "acilis": "4.02",
+    "simdi": "3.26",
+    "degisim": -18.9,
+    "puan": 5.17,
+    "zirve": -18.9,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Napoli - Frosinone",
+    "kickoff": "21:45",
+    "secim": "Deplasman",
+    "acilis": "5.99",
+    "simdi": "4.9",
+    "degisim": -18.2,
+    "puan": 3.27,
+    "zirve": -18.2,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Casa Pia AC - Santa Clara",
+    "kickoff": "22:30",
+    "secim": "Ev sahibi",
+    "acilis": "4.1",
+    "simdi": "3.41",
+    "degisim": -16.8,
+    "puan": 4.39,
+    "zirve": -16.8,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Brest - Angers",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "3.6",
+    "simdi": "3.02",
+    "degisim": -16.1,
+    "puan": 4.75,
+    "zirve": -16.1,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   }
+  ],
+  "yukselenler": [
+   {
+    "mac": "Zulte Waregem - KAA Gent",
+    "kickoff": "21:45",
+    "secim": "Üst 4.5",
+    "acilis": "6.39",
+    "simdi": "8.12",
+    "degisim": 27.1,
+    "puan": null,
+    "zirve": 27.9,
+    "zirve_saat": "19:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Zulte Waregem - KAA Gent",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 2.5",
+    "acilis": "5.21",
+    "simdi": "6.4",
+    "degisim": 22.8,
+    "puan": null,
+    "zirve": 25.1,
+    "zirve_saat": "19:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Zulte Waregem - KAA Gent",
+    "kickoff": "21:45",
+    "secim": "Üst 3.5",
+    "acilis": "3.15",
+    "simdi": "3.79",
+    "degisim": 20.3,
+    "puan": -4.65,
+    "zirve": 21.3,
+    "zirve_saat": "19:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "Üst 4.5",
+    "acilis": "2.13",
+    "simdi": "2.56",
+    "degisim": 20.2,
+    "puan": -6.96,
+    "zirve": 20.2,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "1.27",
+    "simdi": "1.51",
+    "degisim": 18.9,
+    "puan": -11.0,
+    "zirve": 18.9,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Napoli - Frosinone",
+    "kickoff": "21:45",
+    "secim": "Dep Alt 0.5",
+    "acilis": "2.36",
+    "simdi": "2.8",
+    "degisim": 18.6,
+    "puan": -5.86,
+    "zirve": 18.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Brest - Angers",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 0.5",
+    "acilis": "4.51",
+    "simdi": "5.32",
+    "degisim": 18.0,
+    "puan": -2.99,
+    "zirve": 18.0,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Casa Pia AC - Santa Clara",
+    "kickoff": "22:30",
+    "secim": "Ev Alt 0.5",
+    "acilis": "2.04",
+    "simdi": "2.38",
+    "degisim": 16.7,
+    "puan": -6.13,
+    "zirve": 16.7,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Napoli - Frosinone",
+    "kickoff": "21:45",
+    "secim": "KG Yok",
+    "acilis": "2.04",
+    "simdi": "2.36",
+    "degisim": 15.7,
+    "puan": -5.93,
+    "zirve": 15.7,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "Dep Alt 0.5",
+    "acilis": "1.61",
+    "simdi": "1.86",
+    "degisim": 15.5,
+    "puan": -7.44,
+    "zirve": 15.5,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "KG Yok",
+    "acilis": "1.57",
+    "simdi": "1.81",
+    "degisim": 15.3,
+    "puan": -7.28,
+    "zirve": 15.3,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Zulte Waregem - KAA Gent",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "6.18",
+    "simdi": "7.1",
+    "degisim": 14.9,
+    "puan": null,
+    "zirve": 14.9,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "KRC Genk - Kortrijk",
+    "kickoff": "21:45",
+    "secim": "Deplasman",
+    "acilis": "5.96",
+    "simdi": "6.81",
+    "degisim": 14.3,
+    "puan": -1.92,
+    "zirve": 14.3,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Zulte Waregem - KAA Gent",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 1.5",
+    "acilis": "2.2",
+    "simdi": "2.51",
+    "degisim": 14.1,
+    "puan": -4.75,
+    "zirve": 15.9,
+    "zirve_saat": "19:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "İY Ev",
+    "acilis": "1.22",
+    "simdi": "1.39",
+    "degisim": 13.9,
+    "puan": -8.74,
+    "zirve": 13.9,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "HIZLANDI"
+   }
+  ],
+  "aday_esigi_puan": 5.0,
+  "adaylar": [
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 2.5",
+    "acilis": "2.88",
+    "simdi": "2.12",
+    "puan": 11.0,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -26.4,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 7.44
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 7.34
+     },
+     {
+      "secim": "KG Var",
+      "puan": 7.28
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 6.96
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 5.6
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 5.37
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 5.17
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.57
+     }
+    ]
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 0.5",
+    "acilis": "1.96",
+    "simdi": "1.68",
+    "puan": 7.44,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -14.3,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 11.0
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 7.34
+     },
+     {
+      "secim": "KG Var",
+      "puan": 7.28
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 6.96
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 5.6
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 5.37
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 5.17
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.57
+     }
+    ]
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "Alt 3.5",
+    "acilis": "2.22",
+    "simdi": "1.87",
+    "puan": 7.34,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -15.8,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 11.0
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 7.44
+     },
+     {
+      "secim": "KG Var",
+      "puan": 7.28
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 6.96
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 5.6
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 5.37
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 5.17
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.57
+     }
+    ]
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "KG Var",
+    "acilis": "2.01",
+    "simdi": "1.73",
+    "puan": 7.28,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -13.9,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 11.0
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 7.44
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 7.34
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 6.96
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 5.6
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 5.37
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 5.17
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.57
+     }
+    ]
+   },
+   {
+    "mac": "Napoli - Frosinone",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 1.5",
+    "acilis": "3.28",
+    "simdi": "2.61",
+    "puan": 6.98,
+    "band": "≥5p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -20.4,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "KG Var",
+      "puan": 5.93
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 5.86
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 3.69
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 3.27
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 3.05
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 2.93
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 2.87
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 2.5
+     }
+    ]
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "Alt 4.5",
+    "acilis": "1.51",
+    "simdi": "1.35",
+    "puan": 6.96,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -10.6,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 11.0
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 7.44
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 7.34
+     },
+     {
+      "secim": "KG Var",
+      "puan": 7.28
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 5.6
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 5.37
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 5.17
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.57
+     }
+    ]
+   },
+   {
+    "mac": "Casa Pia AC - Santa Clara",
+    "kickoff": "22:30",
+    "secim": "Ev Üst 0.5",
+    "acilis": "1.56",
+    "simdi": "1.41",
+    "puan": 6.13,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -9.6,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 5.42
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 4.39
+     },
+     {
+      "secim": "KG Var",
+      "puan": 4.31
+     },
+     {
+      "secim": "İY Ev",
+      "puan": 3.34
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 2.99
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 2.79
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 2.6
+     },
+     {
+      "secim": "ÇŞ 1X",
+      "puan": 2.34
+     }
+    ]
+   },
+   {
+    "mac": "Napoli - Frosinone",
+    "kickoff": "21:45",
+    "secim": "KG Var",
+    "acilis": "1.56",
+    "simdi": "1.41",
+    "puan": 5.93,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -9.6,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 6.98
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 5.86
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 3.69
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 3.27
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 3.05
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 2.93
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 2.87
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 2.5
+     }
+    ]
+   },
+   {
+    "mac": "Napoli - Frosinone",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 0.5",
+    "acilis": "1.41",
+    "simdi": "1.29",
+    "puan": 5.86,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -8.5,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 6.98
+     },
+     {
+      "secim": "KG Var",
+      "puan": 5.93
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 3.69
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 3.27
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 3.05
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 2.93
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 2.87
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 2.5
+     }
+    ]
+   },
+   {
+    "mac": "Zulte Waregem - KAA Gent",
+    "kickoff": "21:45",
+    "secim": "Alt 2.5",
+    "acilis": "1.72",
+    "simdi": "1.55",
+    "puan": 5.65,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -9.9,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 4.75
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 4.65
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 4.36
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 4.31
+     },
+     {
+      "secim": "Dep Alt 0.5",
+      "puan": 3.8
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 3.59
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 3.09
+     },
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 3.03
+     }
+    ]
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "Alt 2.5",
+    "acilis": "4.05",
+    "simdi": "3.23",
+    "puan": 5.6,
+    "band": "≥5p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -20.2,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 11.0
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 7.44
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 7.34
+     },
+     {
+      "secim": "KG Var",
+      "puan": 7.28
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 6.96
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 5.37
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 5.17
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.57
+     }
+    ]
+   },
+   {
+    "mac": "Casa Pia AC - Santa Clara",
+    "kickoff": "22:30",
+    "secim": "Ev Üst 1.5",
+    "acilis": "4.12",
+    "simdi": "3.28",
+    "puan": 5.42,
+    "band": "≥5p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -20.4,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Üst 0.5",
+      "puan": 6.13
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 4.39
+     },
+     {
+      "secim": "KG Var",
+      "puan": 4.31
+     },
+     {
+      "secim": "İY Ev",
+      "puan": 3.34
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 2.99
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 2.79
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 2.6
+     },
+     {
+      "secim": "ÇŞ 1X",
+      "puan": 2.34
+     }
+    ]
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "İY Alt 1.5",
+    "acilis": "2.06",
+    "simdi": "1.83",
+    "puan": 5.37,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -11.2,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 11.0
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 7.44
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 7.34
+     },
+     {
+      "secim": "KG Var",
+      "puan": 7.28
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 6.96
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 5.6
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 5.17
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.57
+     }
+    ]
+   },
+   {
+    "mac": "Paris Saint Germain - Le Mans",
+    "kickoff": "21:45",
+    "secim": "İY Beraberlik",
+    "acilis": "4.02",
+    "simdi": "3.26",
+    "puan": 5.17,
+    "band": "≥5p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -18.9,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 11.0
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 7.44
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 7.34
+     },
+     {
+      "secim": "KG Var",
+      "puan": 7.28
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 6.96
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 5.6
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 5.37
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.57
+     }
+    ]
+   },
+   {
+    "mac": "Brest - Angers",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 1.5",
+    "acilis": "1.77",
+    "simdi": "1.61",
+    "puan": 5.03,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -9.0,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 4.75
+     },
+     {
+      "secim": "Ev sahibi",
+      "puan": 4.37
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 3.37
+     },
+     {
+      "secim": "İY Ev",
+      "puan": 3.36
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 3.22
+     },
+     {
+      "secim": "Ev Üst 0.5",
+      "puan": 2.99
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 2.83
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 2.63
+     }
+    ]
+   }
+  ]
+ },
+ "pencere": {
+  "tur": "21:15",
+  "kickoff_son": null,
+  "metin": "Pencere: kalan tüm maçlar"
+ },
+ "ortak": []
+}
