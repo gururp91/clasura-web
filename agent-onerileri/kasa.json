@@ -1,0 +1,1065 @@
+{
+ "surum": "2.0",
+ "tarih": "2026-10-17",
+ "uretim_zamani": "2026-10-17T21:20:00+03:00",
+ "baslik": "Agent Önerileri",
+ "ozet": "21:15 turu (son tur). Bültende 5 başlamamış maç, 5'i ölçüldü; Meşin Yuvarlak 1 takım önerisi (13:15'ten taşındı), oyuncu yok (gün sınırı dolu); Agent Macau yeni öneri yok (6 aday tek maçta, o maçın önerisi zaten açık). DataGaffer %100: 176 takım, 25 kayıt, 8'i bizim ligden.",
+ "bacaklar": [
+  {
+   "kod": "futbol",
+   "ad": "Meşin Yuvarlak",
+   "oneriler": [
+    {
+     "mac": "AS Roma–Genoa",
+     "lig": "İtalya Serie A",
+     "kickoff_trt": "21:45",
+     "market": "Alt/Üst 2.5",
+     "secim": "Alt",
+     "oran": 1.78,
+     "sinif": "PLASE",
+     "karar": "dikkatle oyna",
+     "kisa": "2.5 ALT",
+     "gerekce": "DataGaffer bu maçta en fazla 2 gole %61 ihtimal veriyor, günün en yükseği; toplam 2,2 gol bekliyor, günün en düşüğü, ve Genoa'ya yalnız 0,7 gol veriyor.",
+     "zayif_yani": "DataGaffer'ın bu maça kendi güven puanı 36 ile günün en düşüğü ve Roma evde 3 maçta maç başı 2,7 gol attı; alt, Roma'nın 2 golde durmasına bağlı.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 2,7 bekliyor, günün 28 maçı arasında alt çeyrekte (23.); Roma evde 3 maçta maç başı 3,0 üretip 1,1 yiyor, Genoa deplasmanda 2 maçta 0,3 üretip 0,8 yiyor.",
+     "tempo": "DataGaffer bu maça 35,5 tempo puanı veriyor, günün 28 maçı arasında 25.; bu tempodaki 530 maçın %52'si 2,5 altında bitmiş, genel ortalama %44.",
+     "ev_sahasi": "Roma kendi sahasında 77 puanlık güçte, Genoa deplasmanda 38; aradaki 39 puanlık fark grubunda favori 548 maçın %54'ünü kazanmış, gol toplamı seçiminde bu yalnız bilgi."
+    }
+   ],
+   "bos_siniflar": [
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "",
+   "oyuncu_gerekce": "Bu turda yeni oyuncu önerisi yok: günün iki oyuncu önerisi (Haaland, Kane) 13:15'te verildi ve bacak başına 2 oyuncu sınırı 19:15'teki gibi gün üzerinden sayıldı; kalan maçlarda eşiği geçen adaylar vardı — Thauvin (kaleyi bulan şut %81, 1+ 1,20) ve Soulé (%75, 1+ 1,29) — ama sınır dolu olduğu için açılmadı. Sınırın tur başına mı gün başına mı sayılacağı KURALLAR'da açık değil — açık iş."
+  },
+  {
+   "kod": "hareket",
+   "ad": "Agent Macau",
+   "oneriler": [
+    {
+     "mac": "AS Roma–Genoa",
+     "lig": "İtalya Serie A",
+     "kickoff_trt": "21:45",
+     "market": "Ev Sahibi Alt/Üst 1.5",
+     "secim": "Alt",
+     "oran": 1.82,
+     "sinif": "PLASE",
+     "karar": "oyna",
+     "kisa": "EV 1.5 ALT",
+     "tur": "takim",
+     "puan": 10.0,
+     "band": "≥5p",
+     "olcum": "21:17",
+     "ters_bacak": null,
+     "gerekce": "Roma'nın en fazla 1 gol atması 2,32'den 1,82'ye indi, olasılığı açılıştan bu yana 10,0 puan arttı ve maçın az gol tarafı tek yönde: Roma en fazla 2 gol 1,37'den 1,19'a, 2,5 alt 2,01'den 1,69'a, 3,5 alt 1,35'ten 1,20'ye indi; 2,5 üst 1,57'den 1,83'e, Roma galibiyeti 1,33'ten 1,52'ye yükseldi.",
+     "zayif_yani": "Hareketin yarısı son iki saatte geldi (19:15'te 1,97, 21:17'de 1,82) ve Roma evde 3 maçta maç başı 2,7 gol attı; seçim Roma'nın tek golde kalmasına bağlı.",
+     "ilk": {
+      "oran": 1.97,
+      "puan": 6.4,
+      "olcum": "19:22"
+     },
+     "kontrol": {
+      "saat": "21:17",
+      "oran": 1.82,
+      "puan": 10.01,
+      "fark": 3.61,
+      "durum": "hızlandı"
+     },
+     "hiz": "hızlandı"
+    }
+   ],
+   "bos_siniflar": [
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "",
+   "kontrol_saati": "21:17"
+  }
+ ],
+ "hareket_yorum": {
+  "gunun_en_iyisi": "AS Roma–Genoa (21:45) Roma en fazla 1 gol: oran 2,32'den 1,82'ye indi, olasılık açılıştan bu yana 10,0 puan arttı ve 21:19'daki ikinci okumada aynı yerde durdu. 19:15'te 1,97'deydi (6,4 puan), son iki saatte hızlandı; öneri 19:15'ten taşınıyor, bu tur yeni kayıt açılmadı. Maçın az gol tarafının tamamı aynı yönde: Roma en fazla 2 gol 1,37'den 1,19'a, 2,5 alt 2,01'den 1,69'a, 3,5 alt 1,35'ten 1,20'ye, 1,5 alt 4,04'ten 3,19'a, ilk yarı 1,5 alt 1,44'ten 1,31'e indi; karşı taraf açıldı: Roma galibiyeti 1,33'ten 1,52'ye, 2,5 üst 1,57'den 1,83'e, 3,5 üst 2,57'den 3,21'e, Roma 2 ve üstü gol 1,43'ten 1,69'a yükseldi; beraberlik 4,45'ten 3,54'e, Genoa galibiyeti 6,38'den 5,01'e geldi. Para 'Roma gol bulmakta zorlanır, maç az gollü biter' diyor; Meşin Yuvarlak da aynı maçta 2,5 alt seçmişti — aynı yön, farklı market.",
+  "ikincisi": "Kalan maçlarda ikinci bir eşik üstü hareket yok. Lille–Brest'te Lille en fazla 1 gol 1,90'dan 1,70'e (4,9 puan, eşiğin hemen altı), Brest galibiyeti 3,81'den 3,19'a (4,3 puan), Lille galibiyeti 1,69'dan 1,90'a açıldı; Sparta–Willem II'de Sparta galibiyeti 1,51'den 1,40'a (4,3 puan) ve Willem II en fazla 1 gol 1,35'ten 1,25'e (4,3 puan) geldi; Troyes–Lens'te 2,5 alt 2,23'ten 2,06'ya (2,9 puan), Valencia–Athletic'te Valencia galibiyeti 3,05'ten 2,81'e (2,2 puan) — hepsi 5 puanın altında, eşik indirilmez. 19:15'in ikinci hareketi Telstar–Feyenoord 3,5 alt (1,64) maç 21:00'de başladığı için rapordan düştü; 21:17 fotoğrafı maç başladıktan sonra çekildiği için o seçimin son ölçümü yok, kayıt karnede kalır."
+ },
+ "datagaffer_100": {
+  "okunan_takim": 176,
+  "kayitlar": [
+   {
+    "takim": "Chelsea",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Almeria",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Venezia",
+    "secim": "Loss",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Augsburg",
+    "secim": "Team Over 1.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Falkirk",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Eibar",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Goteborg",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Inter",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Aston Villa",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Barcelona",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Barcelona",
+    "secim": "Team Over 1.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Barcelona",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Philadelphia",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Philadelphia",
+    "secim": "Team Over 1.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Philadelphia",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Sparta",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": true
+   },
+   {
+    "takim": "Rangers",
+    "secim": "Win",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Minnesota",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Minnesota",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Paranaense",
+    "secim": "BTTS Yes",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Paranaense",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "Orlando City",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "New England",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "San Diego",
+    "secim": "Over 2.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   },
+   {
+    "takim": "San Diego",
+    "secim": "Over 3.5",
+    "yuzde": 100,
+    "orneklem": "6/6",
+    "bizim_ligimizde": false
+   }
+  ]
+ },
+ "karne": {
+  "satirlar": [
+   {
+    "ad": "Meşin Yuvarlak",
+    "kapanan": 71,
+    "tuttu": 48,
+    "isabet": 67.6,
+    "acik": 8,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 71,
+      "tuttu": 48
+     },
+     "PLASE": {
+      "kapanan": 0,
+      "tuttu": 0
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "Meşin Yuvarlak — Oyuncu",
+    "kapanan": 28,
+    "tuttu": 15,
+    "isabet": 53.6,
+    "acik": 2,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 27,
+      "tuttu": 15
+     },
+     "PLASE": {
+      "kapanan": 1,
+      "tuttu": 0
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "Agent Macau",
+    "kapanan": 81,
+    "tuttu": 44,
+    "isabet": 54.3,
+    "acik": 4,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 45,
+      "tuttu": 29
+     },
+     "PLASE": {
+      "kapanan": 32,
+      "tuttu": 14
+     },
+     "SÜRPRİZ": {
+      "kapanan": 4,
+      "tuttu": 1
+     }
+    }
+   },
+   {
+    "ad": "DataGaffer %100",
+    "kapanan": 85,
+    "tuttu": 45,
+    "isabet": 52.9,
+    "acik": 9,
+    "siniflar": null
+   }
+  ]
+ },
+ "hareket_tablo": {
+  "esik": 7.0,
+  "saatler": [
+   "13:15",
+   "16:15",
+   "19:15",
+   "21:15"
+  ],
+  "son": "21:17",
+  "son_etiket": "21:15",
+  "limit": 15,
+  "kickoff_son": null,
+  "tablo_filtresi": "Tablolar oranı en az %7 değişen seçimleri gösterir; öneri eşiği puandır.",
+  "aciklama": "Öneri eşiği 5 puan: 5–7 puan dikkatle oyna · 7 puan üstü oyna. Puan, bahsin kazanma ihtimalinin açılıştan bu yana kaç puan arttığıdır; iddaa'nın kâr payı çıkarılarak hesaplanır (ör. ihtimal %50'den %57'ye çıktıysa +7 puan).",
+  "dusen_toplam": 31,
+  "yukselen_toplam": 24,
+  "dusenler": [
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 0.5",
+    "acilis": "6.55",
+    "simdi": "4.73",
+    "degisim": -27.8,
+    "puan": null,
+    "zirve": -27.8,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 1.5",
+    "acilis": "2.32",
+    "simdi": "1.82",
+    "degisim": -21.6,
+    "puan": 10.01,
+    "zirve": -21.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "Deplasman",
+    "acilis": "6.38",
+    "simdi": "5.01",
+    "degisim": -21.5,
+    "puan": 3.68,
+    "zirve": -21.5,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "Alt 1.5",
+    "acilis": "4.04",
+    "simdi": "3.19",
+    "degisim": -21.0,
+    "puan": 5.64,
+    "zirve": -21.0,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "Beraberlik",
+    "acilis": "4.45",
+    "simdi": "3.54",
+    "degisim": -20.4,
+    "puan": 4.95,
+    "zirve": -20.4,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "ÇŞ X2",
+    "acilis": "2.53",
+    "simdi": "2.03",
+    "degisim": -19.8,
+    "puan": null,
+    "zirve": -19.8,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Lille - Brest",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 2.5",
+    "acilis": "7.59",
+    "simdi": "6.28",
+    "degisim": -17.3,
+    "puan": null,
+    "zirve": -17.3,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Lille - Brest",
+    "kickoff": "21:45",
+    "secim": "Deplasman",
+    "acilis": "3.81",
+    "simdi": "3.19",
+    "degisim": -16.3,
+    "puan": 4.3,
+    "zirve": -16.3,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "Alt 2.5",
+    "acilis": "2.01",
+    "simdi": "1.69",
+    "degisim": -15.9,
+    "puan": 8.13,
+    "zirve": -15.9,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "İY Alt 0.5",
+    "acilis": "3.26",
+    "simdi": "2.75",
+    "degisim": -15.6,
+    "puan": 4.69,
+    "zirve": -15.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "İY Deplasman",
+    "acilis": "6.32",
+    "simdi": "5.43",
+    "degisim": -14.1,
+    "puan": 2.15,
+    "zirve": -14.1,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 2.5",
+    "acilis": "1.37",
+    "simdi": "1.19",
+    "degisim": -13.1,
+    "puan": 9.29,
+    "zirve": -13.1,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Lille - Brest",
+    "kickoff": "21:45",
+    "secim": "İY Deplasman",
+    "acilis": "4.27",
+    "simdi": "3.75",
+    "degisim": -12.2,
+    "puan": 2.68,
+    "zirve": -12.2,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Lille - Brest",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 0.5",
+    "acilis": "5.01",
+    "simdi": "4.4",
+    "degisim": -12.2,
+    "puan": 2.26,
+    "zirve": -12.2,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "İY Beraberlik",
+    "acilis": "2.41",
+    "simdi": "2.13",
+    "degisim": -11.6,
+    "puan": 4.47,
+    "zirve": -11.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   }
+  ],
+  "yukselenler": [
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "Üst 4.5",
+    "acilis": "4.78",
+    "simdi": "6.52",
+    "degisim": 36.4,
+    "puan": null,
+    "zirve": 36.4,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "2.47",
+    "simdi": "3.32",
+    "degisim": 34.4,
+    "puan": -9.29,
+    "zirve": 34.4,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "Üst 3.5",
+    "acilis": "2.57",
+    "simdi": "3.21",
+    "degisim": 24.9,
+    "puan": -7.23,
+    "zirve": 24.9,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 1.5",
+    "acilis": "1.43",
+    "simdi": "1.69",
+    "degisim": 18.2,
+    "puan": -10.01,
+    "zirve": 18.2,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Sparta Rotterdam - Willem II",
+    "kickoff": "22:00",
+    "secim": "Deplasman",
+    "acilis": "4.39",
+    "simdi": "5.15",
+    "degisim": 17.3,
+    "puan": -3.04,
+    "zirve": 17.3,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "Üst 2.5",
+    "acilis": "1.57",
+    "simdi": "1.83",
+    "degisim": 16.6,
+    "puan": -8.13,
+    "zirve": 16.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "İY Üst 1.5",
+    "acilis": "2.29",
+    "simdi": "2.64",
+    "degisim": 15.3,
+    "puan": -5.44,
+    "zirve": 15.3,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "İY Ev",
+    "acilis": "1.79",
+    "simdi": "2.05",
+    "degisim": 14.5,
+    "puan": -6.62,
+    "zirve": 14.5,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "Ev sahibi",
+    "acilis": "1.33",
+    "simdi": "1.52",
+    "degisim": 14.3,
+    "puan": -8.63,
+    "zirve": 14.3,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Lille - Brest",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "3.2",
+    "simdi": "3.64",
+    "degisim": 13.7,
+    "puan": -3.44,
+    "zirve": 13.7,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Troyes - RC Lens",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "6.32",
+    "simdi": "7.14",
+    "degisim": 13.0,
+    "puan": null,
+    "zirve": 13.0,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Sparta Rotterdam - Willem II",
+    "kickoff": "22:00",
+    "secim": "Dep Üst 1.5",
+    "acilis": "2.58",
+    "simdi": "2.91",
+    "degisim": 12.8,
+    "puan": -4.3,
+    "zirve": 12.8,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Sparta Rotterdam - Willem II",
+    "kickoff": "22:00",
+    "secim": "İY Deplasman",
+    "acilis": "4.54",
+    "simdi": "5.12",
+    "degisim": 12.8,
+    "puan": -2.37,
+    "zirve": 12.8,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Lille - Brest",
+    "kickoff": "21:45",
+    "secim": "Ev sahibi",
+    "acilis": "1.69",
+    "simdi": "1.9",
+    "degisim": 12.4,
+    "puan": -6.11,
+    "zirve": 12.4,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Lille - Brest",
+    "kickoff": "21:45",
+    "secim": "İY Ev",
+    "acilis": "2.22",
+    "simdi": "2.46",
+    "degisim": 10.8,
+    "puan": -4.18,
+    "zirve": 10.8,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   }
+  ],
+  "aday_esigi_puan": 5.0,
+  "adaylar": [
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 1.5",
+    "acilis": "2.32",
+    "simdi": "1.82",
+    "puan": 10.01,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -21.6,
+    "cekim": "21:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 9.29
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 8.13
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 7.23
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 5.64
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 5.44
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 4.95
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 4.69
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 4.47
+     }
+    ]
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 2.5",
+    "acilis": "1.37",
+    "simdi": "1.19",
+    "puan": 9.29,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -13.1,
+    "cekim": "21:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 10.01
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 8.13
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 7.23
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 5.64
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 5.44
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 4.95
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 4.69
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 4.47
+     }
+    ]
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "Alt 2.5",
+    "acilis": "2.01",
+    "simdi": "1.69",
+    "puan": 8.13,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -15.9,
+    "cekim": "21:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 10.01
+     },
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 9.29
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 7.23
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 5.64
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 5.44
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 4.95
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 4.69
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 4.47
+     }
+    ]
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "Alt 3.5",
+    "acilis": "1.35",
+    "simdi": "1.2",
+    "puan": 7.23,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -11.1,
+    "cekim": "21:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 10.01
+     },
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 9.29
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 8.13
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 5.64
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 5.44
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 4.95
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 4.69
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 4.47
+     }
+    ]
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "Alt 1.5",
+    "acilis": "4.04",
+    "simdi": "3.19",
+    "puan": 5.64,
+    "band": "≥5p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -21.0,
+    "cekim": "21:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 10.01
+     },
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 9.29
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 8.13
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 7.23
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 5.44
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 4.95
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 4.69
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 4.47
+     }
+    ]
+   },
+   {
+    "mac": "AS Roma - Genoa",
+    "kickoff": "21:45",
+    "secim": "İY Alt 1.5",
+    "acilis": "1.44",
+    "simdi": "1.31",
+    "puan": 5.44,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -9.0,
+    "cekim": "21:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 10.01
+     },
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 9.29
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 8.13
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 7.23
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 5.64
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 4.95
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 4.69
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 4.47
+     }
+    ]
+   }
+  ]
+ },
+ "pencere": {
+  "tur": "21:15",
+  "kickoff_son": null,
+  "metin": "Pencere: kalan tüm maçlar"
+ },
+ "ortak": []
+}

@@ -1,0 +1,1382 @@
+{
+  "3216030": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:09.129Z",
+    "home": {
+      "name": "Lille",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Brest",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Fransa Ligue 1"
+  },
+  "3216202": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:10.389Z",
+    "home": {
+      "name": "Sivasspor",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Sarıyer",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Türkiye 1. Lig"
+  },
+  "3216307": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:06.701Z",
+    "home": {
+      "name": "Elversberg",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Augsburg",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Almanya Bundesliga"
+  },
+  "3216437": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:08.920Z",
+    "home": {
+      "name": "Erzurumspor FK",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Eyüpspor",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Türkiye Süper Lig"
+  },
+  "3216565": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:10.160Z",
+    "home": {
+      "name": "Manchester City",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Ipswich Town",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İngiltere Premier Lig"
+  },
+  "3216588": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:07.930Z",
+    "home": {
+      "name": "Fulham",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Hull City",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İngiltere Premier Lig"
+  },
+  "3217015": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:07.427Z",
+    "home": {
+      "name": "Fredericia",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Hobro",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Danimarka 1.Lig"
+  },
+  "3217034": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:10.252Z",
+    "home": {
+      "name": "Bologna",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Inter",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İtalya Serie A"
+  },
+  "3217058": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:09.783Z",
+    "home": {
+      "name": "Villarreal",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Elche",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İspanya La Liga"
+  },
+  "3217159": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:06.377Z",
+    "home": {
+      "name": "Bayern Münih",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Leipzig",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Almanya Bundesliga"
+  },
+  "3217233": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:06.221Z",
+    "home": {
+      "name": "AS Roma",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Genoa",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İtalya Serie A"
+  },
+  "3217274": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:08.226Z",
+    "home": {
+      "name": "ADO Den Haag",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "PSV",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Hollanda Eredivisie"
+  },
+  "3217435": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:09.687Z",
+    "home": {
+      "name": "Werder Bremen",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Paderborn",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Almanya Bundesliga"
+  },
+  "3217457": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:07.099Z",
+    "home": {
+      "name": "Aalborg BK",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Vejle",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Danimarka 1.Lig"
+  },
+  "3217907": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:08.753Z",
+    "home": {
+      "name": "Everton",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Chelsea",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İngiltere Premier Lig"
+  },
+  "3217968": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:09.895Z",
+    "home": {
+      "name": "FC Paradiso",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "BSC Young Boys",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İsviçre Yükselme 1.Ligi"
+  },
+  "3218166": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:07.730Z",
+    "home": {
+      "name": "FC Zurich II",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "YF Juventus",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İsviçre Yükselme 1.Ligi"
+  },
+  "3218417": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:09.482Z",
+    "home": {
+      "name": "Espanyol",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Atletico Madrid",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İspanya La Liga"
+  },
+  "3218442": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:10.051Z",
+    "home": {
+      "name": "Bodrum FK",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Bandırmaspor",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Türkiye 1. Lig"
+  },
+  "3218534": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:06.501Z",
+    "home": {
+      "name": "Strasbourg",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Paris Saint Germain",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Fransa Ligue 1"
+  },
+  "3218556": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:09.384Z",
+    "home": {
+      "name": "Real Betis",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Barcelona",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İspanya La Liga"
+  },
+  "3218564": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:06.600Z",
+    "home": {
+      "name": "Hamburg",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Stuttgart",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Almanya Bundesliga"
+  },
+  "3218565": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:07.835Z",
+    "home": {
+      "name": "Union Berlin",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "B. Dortmund",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Almanya Bundesliga"
+  },
+  "3218688": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:07.001Z",
+    "home": {
+      "name": "Telstar",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Feyenoord",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Hollanda Eredivisie"
+  },
+  "3218716": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:08.012Z",
+    "home": {
+      "name": "Breitenrain",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "FC Amical Saint-Prex",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İsviçre Yükselme 1.Ligi"
+  },
+  "3218939": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:08.120Z",
+    "home": {
+      "name": "FC Basel II",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "FC Bavois",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İsviçre Yükselme 1.Ligi"
+  },
+  "3219012": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:07.520Z",
+    "home": {
+      "name": "Fenerbahçe",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Alanyaspor",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Türkiye Süper Lig"
+  },
+  "3219061": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:09.015Z",
+    "home": {
+      "name": "Venezia",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Napoli",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İtalya Serie A"
+  },
+  "3219123": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:07.200Z",
+    "home": {
+      "name": "Troyes",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "RC Lens",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Fransa Ligue 1"
+  },
+  "3219152": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:09.287Z",
+    "home": {
+      "name": "Gençlerbirliği",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Galatasaray",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Türkiye Süper Lig"
+  },
+  "3219266": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:10.584Z",
+    "home": {
+      "name": "Amed Sportif Faaliyetler",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Konyaspor",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Türkiye Süper Lig"
+  },
+  "3219325": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:07.324Z",
+    "home": {
+      "name": "Sparta Rotterdam",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Willem II",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Hollanda Eredivisie"
+  },
+  "3219373": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:10.486Z",
+    "home": {
+      "name": "FC Grand-Saconnex",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "FC Lugano II",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İsviçre Yükselme 1.Ligi"
+  },
+  "3219384": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:09.589Z",
+    "home": {
+      "name": "Schalke 04",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Mainz",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Almanya Bundesliga"
+  },
+  "3219826": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:07.627Z",
+    "home": {
+      "name": "Brentford",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Liverpool",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İngiltere Premier Lig"
+  },
+  "3219991": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:06.796Z",
+    "home": {
+      "name": "Newcastle United",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Aston Villa",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İngiltere Premier Lig"
+  },
+  "3220190": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:06.896Z",
+    "home": {
+      "name": "Valencia",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Athletic Bilbao",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İspanya La Liga"
+  },
+  "3234680": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:10.682Z",
+    "home": {
+      "name": "Libertad Loja",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Guayaquil Ct",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Ekvador Serie A"
+  },
+  "3234683": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:08.659Z",
+    "home": {
+      "name": "CSD Macara",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Independiente Del Valle",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Ekvador Serie A"
+  },
+  "3320040": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:08.426Z",
+    "home": {
+      "name": "Süper Lig",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "8. Hafta Özel Bahisler",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Türkiye Süper Lig Haftalık Bahisler"
+  },
+  "3320043": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:08.563Z",
+    "home": {
+      "name": "Premier Lig",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "7. Hafta (10 Maç)",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İngiltere Premier Lig Haftalık Bahisler"
+  },
+  "3320574": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:12.880Z",
+    "home": {
+      "name": "Aalborg BK",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Vejle BK",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Danimarka 1.Lig"
+  },
+  "3320575": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:12.772Z",
+    "home": {
+      "name": "FC Fredericia",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Hobro IK",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Danimarka 1.Lig"
+  },
+  "3320617": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:11.951Z",
+    "home": {
+      "name": "Everton",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Chelsea",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İngiltere Premier Lig"
+  },
+  "3320618": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:12.147Z",
+    "home": {
+      "name": "Brentford",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Liverpool",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İngiltere Premier Lig"
+  },
+  "3320619": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:11.845Z",
+    "home": {
+      "name": "Fulham",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Hull City",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İngiltere Premier Lig"
+  },
+  "3320620": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:11.748Z",
+    "home": {
+      "name": "Manchester City",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Ipswich Town",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İngiltere Premier Lig"
+  },
+  "3320621": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:11.645Z",
+    "home": {
+      "name": "Newcastle United",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Aston Villa",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İngiltere Premier Lig"
+  },
+  "3320660": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:12.051Z",
+    "home": {
+      "name": "Venezia",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Napoli",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İtalya Serie A"
+  },
+  "3320661": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:11.491Z",
+    "home": {
+      "name": "Bologna",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Inter",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İtalya Serie A"
+  },
+  "3320662": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:12.672Z",
+    "home": {
+      "name": "AS Roma",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Genoa",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İtalya Serie A"
+  },
+  "3320713": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:12.566Z",
+    "home": {
+      "name": "ADO Den Haag",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "PSV",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Hollanda Eredivisie"
+  },
+  "3320714": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:12.470Z",
+    "home": {
+      "name": "Sparta Rotterdam",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Willem II",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Hollanda Eredivisie"
+  },
+  "3320716": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:12.354Z",
+    "home": {
+      "name": "Telstar",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Feyenoord",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Hollanda Eredivisie"
+  },
+  "3320802": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:11.387Z",
+    "home": {
+      "name": "Sivasspor",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Sarıyer",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Türkiye 1. Lig"
+  },
+  "3320803": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:11.246Z",
+    "home": {
+      "name": "Bodrum FK",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Bandırmaspor",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Türkiye 1. Lig"
+  },
+  "3320812": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:11.109Z",
+    "home": {
+      "name": "Erzurumspor FK",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Eyüpspor",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Türkiye Süper Lig"
+  },
+  "3320813": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:10.964Z",
+    "home": {
+      "name": "Amed Sportif ",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Konyaspor",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Türkiye Süper Lig"
+  },
+  "3320814": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:10.839Z",
+    "home": {
+      "name": "Gençlerbirliği",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Galatasaray",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Türkiye Süper Lig"
+  },
+  "3320815": {
+    "ok": true,
+    "updatedAt": "2026-10-17T09:04:12.258Z",
+    "home": {
+      "name": "Fenerbahçe",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Alanyaspor",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Türkiye Süper Lig"
+  }
+}
