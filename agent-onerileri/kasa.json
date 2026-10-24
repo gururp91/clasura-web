@@ -1,0 +1,653 @@
+{
+ "surum": "2.0",
+ "tarih": "2026-10-24",
+ "uretim_zamani": "2026-10-24T21:23:00+03:00",
+ "baslik": "Agent Önerileri",
+ "ozet": "21:15 turu (son tur). Bültende 7 maç, 7'si ölçüldü; Meşin Yuvarlak yeni öneri yok (net favori 0 aday, 0 elendi), oyuncu hakkı dolu; Agent Macau yeni öneri yok — Westerlo MS1 önceki turdan taşındı, hızlandı.",
+ "bacaklar": [
+  {
+   "kod": "futbol",
+   "ad": "Meşin Yuvarlak",
+   "oneriler": [
+    {
+     "mac": "Westerlo–SK Beveren",
+     "lig": "Belçika Pro Lig",
+     "kickoff_trt": "21:45",
+     "market": "Alt/Üst 2.5",
+     "secim": "Üst",
+     "oran": 1.36,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "2.5 ÜST",
+     "gerekce": "DataGaffer bu maçta 3 ve üstü gole %67 ihtimal veriyor; tempo, net pozisyon sayısı, 9'dan fazla isabetli şut ihtimali (%69) ve kaleyi bulan şutların gol değeri dördü de günün ilk çeyreğinde.",
+     "zayif_yani": "Bu lig sisteme 6 Eylül'de eklendi; kendi geçmişimiz ve takım profilimiz yok, futbol tarafı yalnızca DataGaffer'dan geliyor ve Beveren deplasmanda 4 maçta maç başı yalnız 0,3 gol değerinde isabetli şut üretmiş.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,3 bekliyor, günün 32 maçı arasında 6.; Westerlo evde 4 maçta maç başı 1,9 üretip 2,1 yiyor, Beveren deplasmanda 4 maçta 0,3 üretip 2,9 yiyor.",
+     "tempo": "DataGaffer bu maça 64,2 tempo puanı veriyor, günün 32 maçı arasında 8.; bu tempodaki 593 maçta 2,5 üst oranı %60, genel ortalama %56.",
+     "ev_sahasi": "Westerlo kendi sahasında 45 puanlık güçte, Beveren deplasmanda 6; aradaki 39 puanlık fark grubunda favorinin kazanma oranı %54 (548 maç), gol toplamı seçiminde bu yalnız bilgi."
+    },
+    {
+     "mac": "ADO Den Haag–Heerenveen",
+     "lig": "Hollanda Eredivisie",
+     "kickoff_trt": "22:00",
+     "market": "Alt/Üst 2.5",
+     "secim": "Üst",
+     "oran": 1.34,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "2.5 ÜST",
+     "gerekce": "DataGaffer bu maçta 3 ve üstü gole %68 ihtimal veriyor; 9'dan fazla isabetli şut ihtimali %76 ile günün dördüncüsü, ceza sahası içi şut beklentisi günün üçüncüsü ve kaleyi bulan şutların gol değeri ilk çeyrekte.",
+     "zayif_yani": "Bu lig sisteme 6 Eylül'de eklendi; kendi geçmişimiz ve takım profilimiz yok, futbol tarafı yalnızca DataGaffer'dan geliyor ve Heerenveen deplasmanda 4 maçta maç başı yalnız 0,9 gol değerinde isabetli şut yemiş.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,2 bekliyor, günün 32 maçı arasında 8.; Den Haag evde 4 maçta maç başı 1,3 üretip 1,8 yiyor, Heerenveen deplasmanda 4 maçta 2,2 üretip 0,9 yiyor.",
+     "tempo": "DataGaffer bu maça 61,1 tempo puanı veriyor, günün 32 maçı arasında 9.; bu tempodaki 593 maçta 2,5 üst oranı %60, genel ortalama %56.",
+     "ev_sahasi": "Den Haag kendi sahasında 19 puanlık güçte, Heerenveen deplasmanda 76; aradaki 57 puanlık fark grubunda favorinin kazanma oranı %72 (274 maç), gol toplamı seçiminde bu yalnız bilgi."
+    },
+    {
+     "mac": "Lazio–Parma",
+     "lig": "İtalya Serie A",
+     "kickoff_trt": "21:45",
+     "market": "Alt/Üst 2.5",
+     "secim": "Alt",
+     "oran": 1.75,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "2.5 ALT",
+     "gerekce": "DataGaffer bu maçta 2 ve altı gole %58 ihtimal veriyor; tempo günün en düşük çeyreğinde, iki takımın toplam gol beklentisi 2,4 ile günün en düşük çeyreğinde ve hücum verimliliği puanı (37) günün en düşük çeyreğinde.",
+     "zayif_yani": "Lazio evde 3 maçta maç başı 3 gol gördü (2 attı, 1 yedi) ve Parma deplasmanda 3 maçta maç başı 2,3 gol yedi; takım profilleri bu maçın gol sayısını DataGaffer'ın beklediğinden yukarıda gösteriyor.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 2,7 bekliyor, günün 32 maçı arasında 22. (orta, nötr); Lazio evde 3 maçta maç başı 1,9 üretip 1,2 yiyor, Parma deplasmanda 3 maçta 0,7 üretip 2,4 yiyor.",
+     "tempo": "DataGaffer bu maça 27,9 tempo puanı veriyor, günün 32 maçı arasında 29.; bu tempodaki 325 maçta 2,5 üst oranı yalnız %43, genel ortalama %56.",
+     "ev_sahasi": "Lazio kendi sahasında 59 puanlık güçte, Parma deplasmanda 22; aradaki 37 puanlık fark grubunda favorinin kazanma oranı %54 (548 maç), gol toplamı seçiminde bu yalnız bilgi."
+    }
+   ],
+   "bos_siniflar": [
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "",
+   "oyuncu_gerekce": "Günün iki oyuncu hakkı 13:15 turunda Guirassy ve Zabiri ile kullanıldı; kalan yedi maçta yeni hak olmadığı için oyuncu önerisi açılmadı."
+  },
+  {
+   "kod": "hareket",
+   "ad": "Agent Macau",
+   "oneriler": [
+    {
+     "mac": "Westerlo–SK Beveren",
+     "lig": "Belçika Pro Lig",
+     "kickoff_trt": "21:45",
+     "market": "Maç Sonucu",
+     "secim": "1",
+     "oran": 1.7,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "MS1",
+     "gerekce": "Westerlo galibiyeti oranı 1,95'ten 1,72'ye indi, olasılık 6,0 puan arttı ve maçın öteki bahisleri aynı yöne gidiyor (Beveren galibiyeti 2,89'dan 3,45'e, Beveren ya da beraberlik 1,57'den 1,75'e çıktı; Beveren 1 ve altı gol 1,57'den 1,43'e indi).",
+     "zayif_yani": "Lig DataGaffer'da yeni ve takım geçmişimiz yok; DataGaffer Westerlo'ya yalnız %51 kazanma ihtimali veriyor, para ile futbol verisi aynı güçte değil.",
+     "tur": "takim",
+     "puan": 6.8,
+     "band": "≥5p",
+     "olcum": "21:16",
+     "ters_bacak": null,
+     "ilk": {
+      "oran": 1.72,
+      "puan": 6.0,
+      "olcum": "19:22"
+     },
+     "kontrol": {
+      "saat": "21:16",
+      "oran": 1.7,
+      "puan": 6.76,
+      "fark": 0.76,
+      "durum": "hızlandı"
+     },
+     "hiz": "hızlandı"
+    }
+   ],
+   "bos_siniflar": [
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "",
+   "kontrol_saati": "21:16"
+  }
+ ],
+ "hareket_yorum": {
+  "gunun_en_iyisi": "Pencerenin (kalan tüm maçlar) en iyi hareketi yine Westerlo–SK Beveren'de (21:45) Westerlo galibiyeti: oran 1,95'ten 1,70'e indi, olasılık 6,8 puan arttı; 19:22'deki 6,0 puandan 21:16 ölçümünde hızlandı. Maçın bütün bahisleri aynı hikâyeyi anlatıyor — Beveren galibiyeti 2,89'dan 3,56'ya, Beveren ya da beraberlik 1,57'den 1,79'a, Beveren 2 ve üstü gol 1,99'dan 2,28'e çıktı; Beveren 1 ve altı gol 1,57'den 1,42'ye indi (5,7 puan, aynı maç olduğu için ayrı öneri açılmadı).",
+  "ikincisi": "Pencerede ikinci bir eşik üstü hareket yok: Atletico Madrid–Deportivo'da (22:00) Üst 3.5 2,24'ten 2,08'e ve Deportivo 3 ve üstü gol 16,95'ten 14,80'e indi ama marjdan arındırılmış olasılıkta ikisi de 5 puanın altında kaldı; Lazio–Parma'da Parma galibiyeti 13:15'teki %18 zirvesinden %10'a geri çekildi (7,42'den 6,71'e); Gil Vicente–Porto (22:30) bu tur pencereye girdi, eşik üstü hareket çıkmadı. 19:15 turunun yorumu değişmedi."
+ },
+ "karne": {
+  "satirlar": [
+   {
+    "ad": "Meşin Yuvarlak",
+    "kapanan": 112,
+    "tuttu": 73,
+    "isabet": 65.2,
+    "acik": 13,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 107,
+      "tuttu": 70
+     },
+     "PLASE": {
+      "kapanan": 5,
+      "tuttu": 3
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "Meşin Yuvarlak — Oyuncu",
+    "kapanan": 42,
+    "tuttu": 25,
+    "isabet": 59.5,
+    "acik": 2,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 40,
+      "tuttu": 24
+     },
+     "PLASE": {
+      "kapanan": 2,
+      "tuttu": 1
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "Agent Macau",
+    "kapanan": 126,
+    "tuttu": 69,
+    "isabet": 54.8,
+    "acik": 3,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 75,
+      "tuttu": 48
+     },
+     "PLASE": {
+      "kapanan": 45,
+      "tuttu": 19
+     },
+     "SÜRPRİZ": {
+      "kapanan": 6,
+      "tuttu": 2
+     }
+    }
+   }
+  ]
+ },
+ "hareket_tablo": {
+  "esik": 7.0,
+  "saatler": [
+   "13:15",
+   "15:38",
+   "16:15",
+   "19:15",
+   "21:15"
+  ],
+  "son": "21:16",
+  "son_etiket": "21:15",
+  "limit": 15,
+  "kickoff_son": null,
+  "tablo_filtresi": "Tablolar oranı en az %7 değişen seçimleri gösterir; öneri eşiği puandır.",
+  "aciklama": "Öneri eşiği 5 puan: 5–7 puan dikkatle oyna · 7 puan üstü oyna. Puan, bahsin kazanma ihtimalinin açılıştan bu yana kaç puan arttığıdır; iddaa'nın kâr payı çıkarılarak hesaplanır (ör. ihtimal %50'den %57'ye çıktıysa +7 puan).",
+  "dusen_toplam": 12,
+  "yukselen_toplam": 12,
+  "dusenler": [
+   {
+    "mac": "Westerlo - SK Beveren",
+    "kickoff": "21:45",
+    "secim": "Dep Alt 0.5",
+    "acilis": "3.77",
+    "simdi": "3.2",
+    "degisim": -15.1,
+    "puan": 4.22,
+    "zirve": -15.1,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Westerlo - SK Beveren",
+    "kickoff": "21:45",
+    "secim": "Ev sahibi",
+    "acilis": "1.95",
+    "simdi": "1.7",
+    "degisim": -12.8,
+    "puan": 6.76,
+    "zirve": -12.8,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Atletico Madrid - Deportivo La Coruna",
+    "kickoff": "22:00",
+    "secim": "Dep Üst 2.5",
+    "acilis": "16.95",
+    "simdi": "14.8",
+    "degisim": -12.7,
+    "puan": null,
+    "zirve": -12.7,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Westerlo - SK Beveren",
+    "kickoff": "21:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "3.04",
+    "simdi": "2.71",
+    "degisim": -10.9,
+    "puan": 3.61,
+    "zirve": -10.9,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Westerlo - SK Beveren",
+    "kickoff": "21:45",
+    "secim": "İY Ev",
+    "acilis": "2.42",
+    "simdi": "2.16",
+    "degisim": -10.7,
+    "puan": 4.33,
+    "zirve": -10.7,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Atletico Madrid - Deportivo La Coruna",
+    "kickoff": "22:00",
+    "secim": "Dep Üst 1.5",
+    "acilis": "5.15",
+    "simdi": "4.64",
+    "degisim": -9.9,
+    "puan": 1.81,
+    "zirve": -9.9,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Lazio - Parma",
+    "kickoff": "21:45",
+    "secim": "Deplasman",
+    "acilis": "7.42",
+    "simdi": "6.71",
+    "degisim": -9.6,
+    "puan": 1.27,
+    "zirve": -18.2,
+    "zirve_saat": "13:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Westerlo - SK Beveren",
+    "kickoff": "21:45",
+    "secim": "Dep Alt 1.5",
+    "acilis": "1.57",
+    "simdi": "1.42",
+    "degisim": -9.6,
+    "puan": 5.72,
+    "zirve": -9.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Atletico Madrid - Deportivo La Coruna",
+    "kickoff": "22:00",
+    "secim": "Üst 4.5",
+    "acilis": "3.96",
+    "simdi": "3.62",
+    "degisim": -8.6,
+    "puan": 2.07,
+    "zirve": -8.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Atletico Madrid - Deportivo La Coruna",
+    "kickoff": "22:00",
+    "secim": "İY KG Var",
+    "acilis": "4.58",
+    "simdi": "4.23",
+    "degisim": -7.6,
+    "puan": 1.56,
+    "zirve": -7.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Westerlo - SK Beveren",
+    "kickoff": "21:45",
+    "secim": "ÇŞ 1X",
+    "acilis": "1.25",
+    "simdi": "1.16",
+    "degisim": -7.2,
+    "puan": 2.85,
+    "zirve": -7.2,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Atletico Madrid - Deportivo La Coruna",
+    "kickoff": "22:00",
+    "secim": "Üst 3.5",
+    "acilis": "2.24",
+    "simdi": "2.08",
+    "degisim": -7.1,
+    "puan": 3.26,
+    "zirve": -7.1,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   }
+  ],
+  "yukselenler": [
+   {
+    "mac": "Westerlo - SK Beveren",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 2.5",
+    "acilis": "4.44",
+    "simdi": "5.57",
+    "degisim": 25.5,
+    "puan": null,
+    "zirve": 25.5,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Westerlo - SK Beveren",
+    "kickoff": "21:45",
+    "secim": "Deplasman",
+    "acilis": "2.89",
+    "simdi": "3.56",
+    "degisim": 23.2,
+    "puan": -5.63,
+    "zirve": 23.2,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Westerlo - SK Beveren",
+    "kickoff": "21:45",
+    "secim": "İY Deplasman",
+    "acilis": "3.3",
+    "simdi": "3.88",
+    "degisim": 17.6,
+    "puan": -3.99,
+    "zirve": 17.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Westerlo - SK Beveren",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 1.5",
+    "acilis": "1.99",
+    "simdi": "2.28",
+    "degisim": 14.6,
+    "puan": -5.72,
+    "zirve": 14.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Westerlo - SK Beveren",
+    "kickoff": "21:45",
+    "secim": "ÇŞ X2",
+    "acilis": "1.57",
+    "simdi": "1.79",
+    "degisim": 14.0,
+    "puan": -3.32,
+    "zirve": 14.0,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Westerlo - SK Beveren",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 0.5",
+    "acilis": "5.23",
+    "simdi": "5.88",
+    "degisim": 12.4,
+    "puan": null,
+    "zirve": 12.4,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Atletico Madrid - Deportivo La Coruna",
+    "kickoff": "22:00",
+    "secim": "Alt 1.5",
+    "acilis": "4.66",
+    "simdi": "5.19",
+    "degisim": 11.4,
+    "puan": -1.86,
+    "zirve": 11.4,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "RAAL La Louviere - Zulte Waregem",
+    "kickoff": "21:45",
+    "secim": "Üst 4.5",
+    "acilis": "5.96",
+    "simdi": "6.56",
+    "degisim": 10.1,
+    "puan": null,
+    "zirve": 10.1,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "RAAL La Louviere - Zulte Waregem",
+    "kickoff": "21:45",
+    "secim": "Dep Üst 2.5",
+    "acilis": "4.73",
+    "simdi": "5.18",
+    "degisim": 9.5,
+    "puan": -1.46,
+    "zirve": 9.5,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Westerlo - SK Beveren",
+    "kickoff": "21:45",
+    "secim": "Ev Alt 1.5",
+    "acilis": "1.94",
+    "simdi": "2.12",
+    "degisim": 9.3,
+    "puan": -3.76,
+    "zirve": 9.3,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Atletico Madrid - Deportivo La Coruna",
+    "kickoff": "22:00",
+    "secim": "Alt 2.5",
+    "acilis": "2.24",
+    "simdi": "2.43",
+    "degisim": 8.5,
+    "puan": -3.08,
+    "zirve": 8.5,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "RAAL La Louviere - Zulte Waregem",
+    "kickoff": "21:45",
+    "secim": "Üst 3.5",
+    "acilis": "2.98",
+    "simdi": "3.22",
+    "degisim": 8.1,
+    "puan": -2.4,
+    "zirve": 8.1,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   }
+  ],
+  "aday_esigi_puan": 5.0,
+  "adaylar": [
+   {
+    "mac": "Westerlo - SK Beveren",
+    "kickoff": "21:45",
+    "secim": "Ev sahibi",
+    "acilis": "1.95",
+    "simdi": "1.7",
+    "puan": 6.76,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -12.8,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 5.72
+     },
+     {
+      "secim": "İY Ev",
+      "puan": 4.33
+     },
+     {
+      "secim": "Dep Alt 0.5",
+      "puan": 4.22
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 3.76
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 3.61
+     },
+     {
+      "secim": "ÇŞ 1X",
+      "puan": 2.85
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 2.16
+     },
+     {
+      "secim": "İY KG Yok",
+      "puan": 1.2
+     }
+    ]
+   },
+   {
+    "mac": "Westerlo - SK Beveren",
+    "kickoff": "21:45",
+    "secim": "Dep Alt 1.5",
+    "acilis": "1.57",
+    "simdi": "1.42",
+    "puan": 5.72,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -9.6,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev sahibi",
+      "puan": 6.76
+     },
+     {
+      "secim": "İY Ev",
+      "puan": 4.33
+     },
+     {
+      "secim": "Dep Alt 0.5",
+      "puan": 4.22
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 3.76
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 3.61
+     },
+     {
+      "secim": "ÇŞ 1X",
+      "puan": 2.85
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 2.16
+     },
+     {
+      "secim": "İY KG Yok",
+      "puan": 1.2
+     }
+    ]
+   }
+  ]
+ },
+ "pencere": {
+  "tur": "21:15",
+  "kickoff_son": null,
+  "metin": "Pencere: kalan tüm maçlar"
+ },
+ "ortak": [],
+ "datagaffer_100": {
+  "kaldirildi": true,
+  "kayitlar": [],
+  "okunan_takim": 0
+ }
+}
