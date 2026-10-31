@@ -1,0 +1,1174 @@
+{
+ "surum": "2.0",
+ "tarih": "2026-10-31",
+ "uretim_zamani": "2026-10-31T19:25:00+03:00",
+ "baslik": "Agent Önerileri",
+ "ozet": "19:15 turu. Bültende 16 başlamamış maç; Meşin Yuvarlak 11 takım + 3 oyuncu önerisi (bu turda +0 takım, +1 oyuncu; net favori 0 aday, 4 elendi, 2 zaten kayıtlı), Agent Macau 1 yeni öneri (pencere 22:00'ye kadar; Porto ve Troyes pencere dışı).",
+ "bacaklar": [
+  {
+   "kod": "futbol",
+   "ad": "Meşin Yuvarlak",
+   "oneriler": [
+    {
+     "mac": "Udinese–AS Roma",
+     "lig": "İtalya Serie A",
+     "kickoff_trt": "20:00",
+     "market": "Maç Sonucu",
+     "secim": "2",
+     "oran": 1.44,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "tur": "takim",
+     "gerekce": "DataGaffer Roma'ya %61 kazanma şansı veriyor; bu seviyedeki favoriler bu sezon 135 maçın 104'ünü kazandı.",
+     "zayif_yani": "Roma'nın kazanma ihtimali %61 ile net favori eşiğinin hemen üstünde ve DataGaffer bu maçta beraberliğe %23 veriyor; Udinese evde 5 maçta maç başı yalnız 0,4 gol attı, yani maç tek golle de Roma'ya kalabilir, 0-0 da uzak değil.",
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 2,8 bekliyor, günün orta-alt bandında; Udinese evde 5 maçta maç başı 0,7 üretip 2,2 yiyor, Roma deplasmanda 4 maçta 1,9 üretip 1,0 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 57, günün ortalaması civarı; bu bantta 692 maçın %61'inde 3 ve üstü gol olmuş, maç sonucu seçiminde bu yalnız bilgi.",
+     "ev_sahasi": "Roma deplasmanda 89 puanlık güçte, Udinese kendi sahasında 12; aradaki 77 puanlık fark grubunda favori 61 maçın %79'unu kazanmış.",
+     "ters_bacak": null,
+     "kisa": "MS2"
+    },
+    {
+     "mac": "Real Betis–Malaga CF",
+     "lig": "İspanya La Liga",
+     "kickoff_trt": "20:30",
+     "market": "Maç Sonucu",
+     "secim": "1",
+     "oran": 1.2,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "tur": "takim",
+     "gerekce": "DataGaffer Betis'e %69 kazanma şansı veriyor; bu seviyedeki favoriler bu sezon 135 maçın 104'ünü kazandı.",
+     "zayif_yani": "Malaga bu sezon yükseldi, kendi profilimizde geçmişi yok ve futbol tarafı sadece DataGaffer'dan geliyor; Betis evde 5 maçta maç başı 1,4 gol yedi, tek bir hata beraberliğe yeter.",
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,1 bekliyor, günün ortasında ama 2,0'ı Betis tarafında; Betis evde 5 maçta maç başı 2,2 üretip 1,9 yiyor, Malaga deplasmanda 5 maçta 0,5 üretip 2,0 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 48, günün ortalamasının biraz altı; bu bantta 635 maçın %55'inde 3 ve üstü gol olmuş, maç sonucu seçiminde bu yalnız bilgi.",
+     "ev_sahasi": "Betis kendi sahasında 64 puanlık güçte, Malaga deplasmanda 11; aradaki 53 puanlık fark grubunda ev sahibi 304 maçın %67'sini kazanmış.",
+     "ters_bacak": null,
+     "kisa": "MS1"
+    },
+    {
+     "mac": "Bayern Münih–B. Dortmund",
+     "lig": "Almanya Bundesliga",
+     "kickoff_trt": "20:30",
+     "market": "Karşılıklı Gol",
+     "secim": "Var",
+     "oran": 1.4,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "tur": "takim",
+     "gerekce": "DataGaffer iki takımın da gol atmasına %74 ihtimal veriyor; Bayern'den 3,0, Dortmund'dan 1,5 gol bekleniyor, ikisi de iki takımın da skora katılması için aranan 1,3 sınırının üstünde.",
+     "zayif_yani": "Dortmund deplasmanda 3 maçta maç başı yalnız 0,8 gol değerinde isabetli şut üretti ve karşılıklı gol DataGaffer'ın en zayıf bildiği market; Bayern'in 3 ve üstü gol seçimi daha güçlüydü ama oranı 1,20'nin altında kaldığı için önerilmedi.",
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,5 bekliyor, günün en yüksek çeyreğinde; Bayern evde 3 maçta maç başı 4,3 üretip 0,6 yiyor, Dortmund deplasmanda 3 maçta 0,8 üretip 0,6 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 58, günün ortalaması civarı; bu bantta 692 maçın %60'ında iki takım da gol atmış, %61'inde 3 ve üstü gol olmuş.",
+     "ev_sahasi": "Bayern kendi sahasında 90 puanlık güçte, Dortmund deplasmanda 82; aradaki 8 puanlık fark grubunda favori 884 maçın yalnız %41'ini kazanmış, karşılıklı gol seçiminde bu yalnız bilgi.",
+     "ters_bacak": null,
+     "kisa": "KG VAR"
+    },
+    {
+     "mac": "PSV–Willem II",
+     "lig": "Hollanda Eredivisie",
+     "kickoff_trt": "20:45",
+     "market": "Alt/Üst 3.5",
+     "secim": "Üst",
+     "oran": 1.27,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "tur": "takim",
+     "gerekce": "DataGaffer bu maçta 4 ve üstü gole %75 ihtimal veriyor ve toplam 5,1 gol bekliyor, günün en yüksek gol beklentisi; PSV'den tek başına 3,8 gol bekleniyor.",
+     "zayif_yani": "Dört gol için ya PSV'nin farkı iyice açması ya da Willem II'nin skora katılması gerekiyor; Willem II deplasmanda 5 maçta maç başı 1,2 gol attı. Bu lig sisteme 6 Eylül'de eklendi; kendi geçmişimiz ve takım profilimiz yok, futbol tarafı yalnızca DataGaffer'dan geliyor.",
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,7 bekliyor, günün en yükseği; PSV evde 5 maçta maç başı 2,2 üretip 1,6 yiyor, Willem II deplasmanda 5 maçta 1,1 üretip 2,9 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 84, günün en yüksek ikincisi; bu bantta 211 maçın %51'inde 4 ve üstü, %72'sinde 3 ve üstü gol olmuş.",
+     "ev_sahasi": "PSV kendi sahasında 71 puanlık güçte, Willem II deplasmanda 11; aradaki 60 puanlık fark grubunda ev sahibi 229 maçın %76'sını kazanmış, gol toplamı seçiminde bu yalnız bilgi.",
+     "ters_bacak": null,
+     "kisa": "3.5 ÜST"
+    },
+    {
+     "mac": "Ajax–AZ Alkmaar",
+     "lig": "Hollanda Eredivisie",
+     "kickoff_trt": "23:00",
+     "market": "Alt/Üst 2.5",
+     "secim": "Üst",
+     "oran": 1.28,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "tur": "takim",
+     "gerekce": "DataGaffer bu maçta 3 ve üstü gole %73 ihtimal veriyor ve toplam 3,8 gol bekliyor; iki takımdan da 1,7'nin üstünde gol bekleniyor ve iki takımın da gol atmasına %72 veriyor.",
+     "zayif_yani": "Üst tarafı tek takıma değil iki tarafın da gol atmasına dayanıyor ve AZ deplasmanda 5 maçta maç başı 1,4 gol yedi, yani Ajax'ın gol bulması garanti değil. Bu lig sisteme 6 Eylül'de eklendi; kendi geçmişimiz ve takım profilimiz yok, futbol tarafı yalnızca DataGaffer'dan geliyor.",
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,7 bekliyor, günün en yüksek üçüncüsü; Ajax evde 5 maçta maç başı 2,1 üretip 1,8 yiyor, AZ deplasmanda 5 maçta 2,4 üretip 1,5 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 80, günün en yüksek dördüncüsü; bu bantta 211 maçın %72'sinde 3 ve üstü gol olmuş.",
+     "ev_sahasi": "Ajax kendi sahasında 39 puanlık güçte, AZ deplasmanda 60; aradaki 20 puanlık fark grubunda favori 704 maçın %47'sini kazanmış, gol toplamı seçiminde bu yalnız bilgi.",
+     "ters_bacak": null,
+     "kisa": "2.5 ÜST"
+    },
+    {
+     "mac": "SC Cambuur–Go Ahead Eagles",
+     "lig": "Hollanda Eredivisie",
+     "kickoff_trt": "23:00",
+     "market": "Alt/Üst 2.5",
+     "secim": "Üst",
+     "oran": 1.35,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "tur": "takim",
+     "gerekce": "DataGaffer bu maçı günün en hızlı tempolu maçı sayıyor, 3 ve üstü gole %79 ihtimal veriyor ve toplam 4,2 gol bekliyor; iki takımdan da 2 gole yakın beklenti var.",
+     "zayif_yani": "İki takım da bu sezon deplasmanda ve evde maç başı 2'den fazla gol yedi, yani üst tarafı savunma zaafına dayanıyor; Cambuur evde 5 maçta maç başı yalnız 1,6 gol attı. Bu lig sisteme 6 Eylül'de eklendi; kendi geçmişimiz ve takım profilimiz yok, futbol tarafı yalnızca DataGaffer'dan geliyor.",
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,7 bekliyor, günün en yüksek ikincisi; Cambuur evde 5 maçta maç başı 1,5 üretip 2,3 yiyor, Go Ahead deplasmanda 5 maçta 1,9 üretip 2,0 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 86, günün en yükseği; bu bantta 143 maçın %80'inde 3 ve üstü gol olmuş.",
+     "ev_sahasi": "Cambuur kendi sahasında 15 puanlık güçte, Go Ahead deplasmanda 41; aradaki 26 puanlık fark grubunda favori 671 maçın %52'sini kazanmış, gol toplamı seçiminde bu yalnız bilgi.",
+     "ters_bacak": null,
+     "kisa": "2.5 ÜST"
+    },
+    {
+     "mac": "SC Cambuur–Go Ahead Eagles",
+     "lig": "Hollanda Eredivisie",
+     "kickoff_trt": "23:00",
+     "market": "Oyuncu Kaleyi Bulan Şut Çeker (Uzt. Dahil)",
+     "secim": "Rafik El Arguioui 1+",
+     "oran": 1.24,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "tur": "oyuncu",
+     "gerekce": "DataGaffer El Arguioui'nin en az bir isabetli şut çekmesine %80 ihtimal veriyor; bu sezon 10 maçta 32 şutun 14'ünü kaleye gönderdi, her maç 90 dakika oynadı ve Cambuur'dan 2,0 gol bekleniyor, günün ortalamasının üstünde, maç günün en hızlı temposu.",
+     "zayif_yani": "DataGaffer maçı dengeli görüyor (Cambuur %35, Go Ahead %44); oyun Go Ahead tarafına kayarsa El Arguioui'nin şut sayısı düşebilir ve tek isabetli şut bile gelmeyebilir.",
+     "ters_bacak": null,
+     "kisa": "İŞUT: Rafik El Arguioui 1+"
+    },
+    {
+     "mac": "Ajax–AZ Alkmaar",
+     "lig": "Hollanda Eredivisie",
+     "kickoff_trt": "23:00",
+     "market": "Oyuncu Kaleyi Bulan Şut Çeker (Uzt. Dahil)",
+     "secim": "Julian Brandt 1+",
+     "oran": 1.24,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "tur": "oyuncu",
+     "gerekce": "DataGaffer Brandt'ın en az bir isabetli şut çekmesine %78 ihtimal veriyor; bu sezon 15 maçta 30 şutun 15'ini kaleye gönderdi, maç başı 68 dakika oynadı ve Ajax'tan 2,1 gol bekleniyor, günün ortalamasının üstünde, maç günün en hızlı dördüncü temposu.",
+     "zayif_yani": "Brandt maç başı 68 dakika oynuyor, yani son yarım saatte sık çıkıyor; erken alınırsa tek isabetli şut bile gelmeyebilir. Bu lig sisteme 6 Eylül'de eklendi; kendi geçmişimiz ve takım profilimiz yok, futbol tarafı yalnızca DataGaffer'dan geliyor.",
+     "ters_bacak": null,
+     "kisa": "İŞUT: Julian Brandt 1+"
+    }
+   ],
+   "bos_siniflar": [
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "",
+   "oyuncu_gerekce": "Gregoritsch'in maçı 17:30'da başladı ve rapordan çıktı, boşalan ikinci oyuncu yeri Brandt'a (Ajax, %78, 68 dk/maç) verildi; daha yüksek ihtimalli Arokodare (%93, 45 dk/maç) ve Bonny (%89, 31 dk) dakika şartından, Guirassy (%83) ve Niño (%88) takım beklentisi günün ortalamasının altında kaldığı için, Meerdink (%78) iddaa'da 1+ çizgisi olmadığı için elendi."
+  },
+  {
+   "kod": "hareket",
+   "ad": "Agent Macau",
+   "oneriler": [
+    {
+     "mac": "Tottenham–Crystal Palace",
+     "lig": "İngiltere Premier Lig",
+     "kickoff_trt": "20:30",
+     "market": "Ev Sahibi Alt/Üst 2.5",
+     "secim": "Alt",
+     "oran": 1.25,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "EV 2.5 ALT",
+     "gerekce": "Tottenham 2,5 Alt oranı 1,35'ten 1,25'e indi, olasılık 5,2 puan arttı ve maçın 2,5 Alt (2,19→1,95), 3,5 Alt (1,43→1,32), Tottenham 1.5 Alt (2,28→2,01), KG Yok (2,00→1,90) ve beraberlik (4,17→3,78) bahisleri de aynı yöne gitti; 2,5 Üst 1,46'dan 1,59'a açıldı.",
+     "zayif_yani": "Hareket 16:15'te de 5,2 puandı ve üç saatte bir adım ilerlemedi, eşiğin hemen üstünde duruyor; oran 1,25 ile çok düşük.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "puan": 5.2,
+     "band": "≥5p",
+     "olcum": "19:23"
+    }
+   ],
+   "bos_siniflar": [
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "",
+   "kontrol_saati": "19:18"
+  }
+ ],
+ "hareket_yorum": {
+  "gunun_en_iyisi": "Pencerenin (22:00'ye kadar başlayan maçlar) en iyi hareketi Tottenham–Crystal Palace (20:30) Tottenham 2,5 Alt: oran 1,35'ten 1,25'e indi (olasılık 5,2 puan arttı), 19:23'teki ikinci okumada 1,25'te durdu; aynı maçta 2,5 Alt 2,19'dan 1,95'e, 3,5 Alt 1,43'ten 1,32'ye, Tottenham 1.5 Alt 2,28'den 2,01'e, KG Yok 2,00'den 1,90'a indi, beraberlik 4,17'den 3,78'e ve Palace galibiyeti 4,93'ten 4,61'e geldi — kitap az gol ve Tottenham aleyhine kaydı. Ama bu hareket 16:15'ten beri yerinde sayıyor, hızlanmadı. 16:15 turunun üç önerisi (Schalke–Leipzig, Leverkusen–Stuttgart, Augsburg–Freiburg) 17:30'da başladı, rapordan çıktı.",
+  "ikincisi": "Pencerede ikinci bir aday yok: 20:00–20:45 maçlarında (Udinese–Roma, Standard–Kortrijk, Bayern–Dortmund, Betis–Malaga, Heerenveen–NEC, PSV–Willem II) eşiği geçen düşen taraf bulamadım; Bayern–Dortmund'da Dortmund 2.5 Üst öğleden sonra %19 düşmüştü, akşam %5'e geri geldi. Pencere dışında Porto–Estoril (23:30) 3,5 Üst 2,64'ten 1,99'a (10,9 puan), 2,5 Üst 1,60'tan 1,34'e (10,7 puan) ve Porto 2.5 Üst 2,07'den 1,69'a indi; Troyes–Le Mans (22:45) 2,5 Alt sabah ineli durmuş, 3,5 Üst 2,76'dan 3,07'ye açıldı — bunlara 21:15 turu bakar."
+ },
+ "karne": {
+  "satirlar": [
+   {
+    "ad": "Meşin Yuvarlak",
+    "kapanan": 154,
+    "tuttu": 99,
+    "isabet": 64.3,
+    "acik": 11,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 147,
+      "tuttu": 95
+     },
+     "PLASE": {
+      "kapanan": 7,
+      "tuttu": 4
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "Meşin Yuvarlak — Oyuncu",
+    "kapanan": 58,
+    "tuttu": 32,
+    "isabet": 55.2,
+    "acik": 4,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 51,
+      "tuttu": 29
+     },
+     "PLASE": {
+      "kapanan": 6,
+      "tuttu": 2
+     },
+     "SÜRPRİZ": {
+      "kapanan": 1,
+      "tuttu": 1
+     }
+    }
+   },
+   {
+    "ad": "Agent Macau",
+    "kapanan": 146,
+    "tuttu": 78,
+    "isabet": 53.4,
+    "acik": 5,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 89,
+      "tuttu": 56
+     },
+     "PLASE": {
+      "kapanan": 51,
+      "tuttu": 20
+     },
+     "SÜRPRİZ": {
+      "kapanan": 6,
+      "tuttu": 2
+     }
+    }
+   }
+  ]
+ },
+ "hareket_tablo": {
+  "esik": 7.0,
+  "saatler": [
+   "13:15",
+   "16:15",
+   "19:15"
+  ],
+  "son": "19:18",
+  "son_etiket": "19:15",
+  "limit": 15,
+  "kickoff_son": null,
+  "tablo_filtresi": "Tablolar oranı en az %7 değişen seçimleri gösterir; öneri eşiği puandır.",
+  "aciklama": "Öneri eşiği 5 puan: 5–7 puan dikkatle oyna · 7 puan üstü oyna. Puan, bahsin kazanma ihtimalinin açılıştan bu yana kaç puan arttığıdır; iddaa'nın kâr payı çıkarılarak hesaplanır (ör. ihtimal %50'den %57'ye çıktıysa +7 puan).",
+  "dusen_toplam": 51,
+  "yukselen_toplam": 66,
+  "dusenler": [
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "Üst 4.5",
+    "acilis": "4.99",
+    "simdi": "3.36",
+    "degisim": -32.7,
+    "puan": 8.47,
+    "zirve": -32.7,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "Üst 3.5",
+    "acilis": "2.64",
+    "simdi": "1.99",
+    "degisim": -24.6,
+    "puan": 10.94,
+    "zirve": -24.6,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "Dep Üst 1.5",
+    "acilis": "8.08",
+    "simdi": "6.09",
+    "degisim": -24.6,
+    "puan": null,
+    "zirve": -24.6,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "İY KG Var",
+    "acilis": "5.96",
+    "simdi": "4.74",
+    "degisim": -20.5,
+    "puan": null,
+    "zirve": -20.5,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "Ev Üst 2.5",
+    "acilis": "2.07",
+    "simdi": "1.69",
+    "degisim": -18.4,
+    "puan": 9.51,
+    "zirve": -18.4,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "PSV - Willem II",
+    "kickoff": "20:45",
+    "secim": "Alt 2.5",
+    "acilis": "6.03",
+    "simdi": "5.0",
+    "degisim": -17.1,
+    "puan": null,
+    "zirve": -17.1,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "İY Üst 1.5",
+    "acilis": "2.29",
+    "simdi": "1.91",
+    "degisim": -16.6,
+    "puan": 7.62,
+    "zirve": -16.6,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "KG Var",
+    "acilis": "2.38",
+    "simdi": "1.99",
+    "degisim": -16.4,
+    "puan": 7.07,
+    "zirve": -16.4,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "Üst 2.5",
+    "acilis": "1.6",
+    "simdi": "1.34",
+    "degisim": -16.2,
+    "puan": 10.66,
+    "zirve": -16.2,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Tottenham - Crystal Palace",
+    "kickoff": "20:30",
+    "secim": "Ev Alt 0.5",
+    "acilis": "6.43",
+    "simdi": "5.42",
+    "degisim": -15.7,
+    "puan": null,
+    "zirve": -15.7,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "PSV - Willem II",
+    "kickoff": "20:45",
+    "secim": "Alt 3.5",
+    "acilis": "3.07",
+    "simdi": "2.62",
+    "degisim": -14.7,
+    "puan": 4.9,
+    "zirve": -14.7,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Tottenham - Crystal Palace",
+    "kickoff": "20:30",
+    "secim": "Alt 1.5",
+    "acilis": "4.58",
+    "simdi": "3.92",
+    "degisim": -14.4,
+    "puan": 3.29,
+    "zirve": -14.4,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Barcelona - Alaves",
+    "kickoff": "23:00",
+    "secim": "Dep Üst 2.5",
+    "acilis": "17.9",
+    "simdi": "15.45",
+    "degisim": -13.7,
+    "puan": null,
+    "zirve": -13.7,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "Dep Üst 0.5",
+    "acilis": "2.16",
+    "simdi": "1.87",
+    "degisim": -13.4,
+    "puan": 6.38,
+    "zirve": -13.4,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Barcelona - Alaves",
+    "kickoff": "23:00",
+    "secim": "Dep Üst 1.5",
+    "acilis": "5.48",
+    "simdi": "4.79",
+    "degisim": -12.6,
+    "puan": null,
+    "zirve": -13.7,
+    "zirve_saat": "16:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   }
+  ],
+  "yukselenler": [
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "Alt 1.5",
+    "acilis": "3.85",
+    "simdi": "5.45",
+    "degisim": 41.6,
+    "puan": null,
+    "zirve": 41.6,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "Alt 2.5",
+    "acilis": "1.94",
+    "simdi": "2.54",
+    "degisim": 30.9,
+    "puan": -10.66,
+    "zirve": 30.9,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "Ev Alt 1.5",
+    "acilis": "2.73",
+    "simdi": "3.56",
+    "degisim": 30.4,
+    "puan": -7.51,
+    "zirve": 30.4,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "İY Alt 0.5",
+    "acilis": "3.25",
+    "simdi": "4.03",
+    "degisim": 24.0,
+    "puan": -5.22,
+    "zirve": 24.0,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Troyes - Le Mans",
+    "kickoff": "22:45",
+    "secim": "Dep Üst 2.5",
+    "acilis": "5.89",
+    "simdi": "7.14",
+    "degisim": 21.2,
+    "puan": null,
+    "zirve": 28.5,
+    "zirve_saat": "16:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Standard Liege - Kortrijk",
+    "kickoff": "20:15",
+    "secim": "Dep Üst 2.5",
+    "acilis": "8.01",
+    "simdi": "9.7",
+    "degisim": 21.1,
+    "puan": null,
+    "zirve": 21.1,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Tottenham - Crystal Palace",
+    "kickoff": "20:30",
+    "secim": "Üst 4.5",
+    "acilis": "4.05",
+    "simdi": "4.9",
+    "degisim": 21.0,
+    "puan": -3.88,
+    "zirve": 21.0,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "Alt 3.5",
+    "acilis": "1.31",
+    "simdi": "1.57",
+    "degisim": 19.8,
+    "puan": -10.94,
+    "zirve": 19.8,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "Ev Alt 2.5",
+    "acilis": "1.52",
+    "simdi": "1.82",
+    "degisim": 19.7,
+    "puan": -9.51,
+    "zirve": 19.7,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "Beraberlik",
+    "acilis": "5.92",
+    "simdi": "7.08",
+    "degisim": 19.6,
+    "puan": -2.45,
+    "zirve": 20.4,
+    "zirve_saat": "13:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Real Betis - Malaga CF",
+    "kickoff": "20:30",
+    "secim": "Deplasman",
+    "acilis": "6.9",
+    "simdi": "8.16",
+    "degisim": 18.3,
+    "puan": -1.96,
+    "zirve": 18.7,
+    "zirve_saat": "16:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Tottenham - Crystal Palace",
+    "kickoff": "20:30",
+    "secim": "Ev Üst 2.5",
+    "acilis": "2.47",
+    "simdi": "2.89",
+    "degisim": 17.0,
+    "puan": -5.15,
+    "zirve": 17.0,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Standard Liege - Kortrijk",
+    "kickoff": "20:15",
+    "secim": "Deplasman",
+    "acilis": "4.1",
+    "simdi": "4.76",
+    "degisim": 16.1,
+    "puan": -3.03,
+    "zirve": 16.1,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Troyes - Le Mans",
+    "kickoff": "22:45",
+    "secim": "Üst 4.5",
+    "acilis": "5.35",
+    "simdi": "6.18",
+    "degisim": 15.5,
+    "puan": null,
+    "zirve": 25.4,
+    "zirve_saat": "16:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Aston Villa - Fulham",
+    "kickoff": "23:00",
+    "secim": "Üst 4.5",
+    "acilis": "4.6",
+    "simdi": "5.31",
+    "degisim": 15.4,
+    "puan": null,
+    "zirve": 15.4,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   }
+  ],
+  "aday_esigi_puan": 5.0,
+  "adaylar": [
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "Üst 3.5",
+    "acilis": "2.64",
+    "simdi": "1.99",
+    "puan": 10.94,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -24.6,
+    "cekim": "19:18",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 2.5",
+      "puan": 10.66
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 9.51
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 8.47
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 7.62
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 7.51
+     },
+     {
+      "secim": "KG Var",
+      "puan": 7.07
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 6.38
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 5.22
+     }
+    ]
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "Üst 2.5",
+    "acilis": "1.6",
+    "simdi": "1.34",
+    "puan": 10.66,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -16.2,
+    "cekim": "19:18",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 3.5",
+      "puan": 10.94
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 9.51
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 8.47
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 7.62
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 7.51
+     },
+     {
+      "secim": "KG Var",
+      "puan": 7.07
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 6.38
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 5.22
+     }
+    ]
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "Ev Üst 2.5",
+    "acilis": "2.07",
+    "simdi": "1.69",
+    "puan": 9.51,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -18.4,
+    "cekim": "19:18",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 3.5",
+      "puan": 10.94
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 10.66
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 8.47
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 7.62
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 7.51
+     },
+     {
+      "secim": "KG Var",
+      "puan": 7.07
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 6.38
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 5.22
+     }
+    ]
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "Üst 4.5",
+    "acilis": "4.99",
+    "simdi": "3.36",
+    "puan": 8.47,
+    "band": "≥5p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -32.7,
+    "cekim": "19:18",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 3.5",
+      "puan": 10.94
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 10.66
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 9.51
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 7.62
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 7.51
+     },
+     {
+      "secim": "KG Var",
+      "puan": 7.07
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 6.38
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 5.22
+     }
+    ]
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "İY Üst 1.5",
+    "acilis": "2.29",
+    "simdi": "1.91",
+    "puan": 7.62,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -16.6,
+    "cekim": "19:18",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 3.5",
+      "puan": 10.94
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 10.66
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 9.51
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 8.47
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 7.51
+     },
+     {
+      "secim": "KG Var",
+      "puan": 7.07
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 6.38
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 5.22
+     }
+    ]
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "Ev Üst 1.5",
+    "acilis": "1.29",
+    "simdi": "1.16",
+    "puan": 7.51,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -10.1,
+    "cekim": "19:18",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 3.5",
+      "puan": 10.94
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 10.66
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 9.51
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 8.47
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 7.62
+     },
+     {
+      "secim": "KG Var",
+      "puan": 7.07
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 6.38
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 5.22
+     }
+    ]
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "KG Var",
+    "acilis": "2.38",
+    "simdi": "1.99",
+    "puan": 7.07,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -16.4,
+    "cekim": "19:18",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 3.5",
+      "puan": 10.94
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 10.66
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 9.51
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 8.47
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 7.62
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 7.51
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 6.38
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 5.22
+     }
+    ]
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "Dep Üst 0.5",
+    "acilis": "2.16",
+    "simdi": "1.87",
+    "puan": 6.38,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -13.4,
+    "cekim": "19:18",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 3.5",
+      "puan": 10.94
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 10.66
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 9.51
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 8.47
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 7.62
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 7.51
+     },
+     {
+      "secim": "KG Var",
+      "puan": 7.07
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 5.22
+     }
+    ]
+   },
+   {
+    "mac": "Porto - Estoril Praia",
+    "kickoff": "23:30",
+    "secim": "İY Üst 0.5",
+    "acilis": "1.2",
+    "simdi": "1.12",
+    "puan": 5.22,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -6.7,
+    "cekim": "19:18",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 3.5",
+      "puan": 10.94
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 10.66
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 9.51
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 8.47
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 7.62
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 7.51
+     },
+     {
+      "secim": "KG Var",
+      "puan": 7.07
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 6.38
+     }
+    ]
+   },
+   {
+    "mac": "Tottenham - Crystal Palace",
+    "kickoff": "20:30",
+    "secim": "Ev Alt 2.5",
+    "acilis": "1.35",
+    "simdi": "1.25",
+    "puan": 5.15,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -7.4,
+    "cekim": "19:18",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 4.99
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 4.98
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 4.92
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 3.88
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 3.46
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 3.29
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 2.85
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 2.51
+     }
+    ]
+   }
+  ]
+ },
+ "pencere": {
+  "tur": "19:15",
+  "kickoff_son": "22:00",
+  "metin": "Pencere: 22:00'ye kadar başlayan maçlar"
+ },
+ "ortak": [],
+ "datagaffer_100": {
+  "kaldirildi": true,
+  "kayitlar": [],
+  "okunan_takim": 0
+ }
+}
