@@ -1,0 +1,1455 @@
+{
+ "surum": "2.0",
+ "tarih": "2026-11-07",
+ "uretim_zamani": "2026-11-07T13:22:00+03:00",
+ "baslik": "Agent Önerileri",
+ "ozet": "13:15 turu. Bültende 38 maç; Meşin Yuvarlak 9 takım + 2 oyuncu önerisi (yeni: Roma MS1), Agent Macau 1 öneri (17:00'ye kadar başlayan maçlar).",
+ "bacaklar": [
+  {
+   "kod": "futbol",
+   "ad": "Meşin Yuvarlak",
+   "oneriler": [
+    {
+     "mac": "Leipzig–Augsburg",
+     "lig": "Almanya Bundesliga",
+     "kickoff_trt": "17:30",
+     "market": "Maç Sonucu",
+     "secim": "1",
+     "oran": 1.31,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "MS1",
+     "gerekce": "DataGaffer Leipzig'e %72 kazanma şansı veriyor; bu seviyedeki favoriler bu sezon 154 maçın 119'unu kazandı.",
+     "zayif_yani": "Augsburg deplasmanda 3 maçta maç başı 3 gol atmış ve DataGaffer ondan da 1,4 gol bekliyor; maç açık geçerse sürpriz payı artar.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 4,42 bekliyor, günün en yükseği; Leipzig evde 4 maçta maç başı 3,32 üretip 0,89 yiyor, Augsburg deplasmanda 3 maçta 2,63 üretip 3,71 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 91,2, günün en yükseği; bu tempodaki 64 maçın %88'i 2.5 üst bitti.",
+     "ev_sahasi": "Leipzig'in saha puanı 94, Augsburg'un deplasman puanı 45; aradaki 49 puanlık fark grubunda saha gücü üstün taraf 420 maçın %64'ünü kazandı.",
+     "gostergeler": [
+      "net favori"
+     ]
+    },
+    {
+     "mac": "B. Dortmund–Elversberg",
+     "lig": "Almanya Bundesliga",
+     "kickoff_trt": "17:30",
+     "market": "Maç Sonucu",
+     "secim": "1",
+     "oran": 1.22,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "MS1",
+     "gerekce": "DataGaffer Dortmund'a %71 kazanma şansı veriyor; bu seviyedeki favoriler bu sezon 154 maçın 119'unu kazandı.",
+     "zayif_yani": "DataGaffer'ın bu tahmine güveni 58 puanla Leipzig maçındaki 73'ün belirgin altında ve beraberliğe hâlâ %17 ihtimal bırakıyor.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 2,83 bekliyor, günün ortalarında; Dortmund evde 4 maçta maç başı 2,02 üretip 0,63 yiyor, Elversberg deplasmanda 4 maçta 1,26 üretip 1,52 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 52,2, günün 17.'si; bu tempodaki 633 maçın %56'sı 2.5 üst bitti.",
+     "ev_sahasi": "Dortmund'un saha puanı 85, Elversberg'in deplasman puanı 36; aradaki 49 puanlık fark grubunda saha gücü üstün taraf 420 maçın %64'ünü kazandı.",
+     "gostergeler": [
+      "net favori"
+     ]
+    },
+    {
+     "mac": "Parma–Bologna",
+     "lig": "İtalya Serie A",
+     "kickoff_trt": "20:00",
+     "market": "Alt/Üst 2.5",
+     "secim": "Alt",
+     "oran": 1.65,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "2.5 ALT",
+     "gerekce": "DataGaffer 2 ya da daha az gole %58 ihtimal veriyor ve maçı tempo ve kaleyi bulan şut değerinde günün en sakinlerinden sayıyor.",
+     "zayif_yani": "Bologna deplasmanda 78 saha puanıyla güçlü; tek taraflı bir skor da 3 gole ulaşabilir.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 2,13 bekliyor, günün en düşük ikincisi; Parma evde 5 maçta maç başı 0,92 üretip 1,41 yiyor, Bologna deplasmanda 5 maçta 1,05 üretip 0,74 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 19,3, günün en düşük dördüncüsü; bu tempodaki 115 maçın yalnız %34'ü 2.5 üst bitti.",
+     "ev_sahasi": "Parma'nın saha puanı 17, Bologna'nın deplasman puanı 78; aradaki 61 puanlık fark grubunda saha gücü üstün taraf 229 maçın %76'sını kazandı, ama bu gol sayısı için gerekçe değil.",
+     "gostergeler": [
+      "tempo",
+      "xGOT",
+      "büyük şans",
+      "ceza sahası içi şut"
+     ]
+    },
+    {
+     "mac": "Osasuna–Athletic Bilbao",
+     "lig": "İspanya La Liga",
+     "kickoff_trt": "20:30",
+     "market": "Alt/Üst 2.5",
+     "secim": "Alt",
+     "oran": 1.58,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "2.5 ALT",
+     "gerekce": "DataGaffer 2 ya da daha az gole %58 ihtimal veriyor ve maçı günün en yavaş tempolu maçlarından sayıyor.",
+     "zayif_yani": "Kaleyi bulan şut değeri beklentisi günün ortalarında kalıyor; tempo sakin olsa da şut kalitesi alt tarafını tam desteklemiyor.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 2,53 bekliyor, günün ortalarında; Osasuna evde 5 maçta maç başı 1,49 üretip 0,58 yiyor, Athletic deplasmanda 4 maçta 1,06 üretip 1,68 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 23,8, günün en düşük yedincisi; bu tempodaki 232 maçın %39'u 2.5 üst bitti.",
+     "ev_sahasi": "Osasuna'nın saha puanı 52, Athletic'in deplasman puanı 28; aradaki 24 puanlık fark grubunda saha gücü üstün taraf 704 maçın %47'sini kazandı, ama bu gol sayısı için gerekçe değil.",
+     "gostergeler": [
+      "tempo",
+      "büyük şans",
+      "ceza sahası içi şut"
+     ]
+    },
+    {
+     "mac": "ADO Den Haag–Sparta Rotterdam",
+     "lig": "Hollanda Eredivisie",
+     "kickoff_trt": "20:45",
+     "market": "Karşılıklı Gol",
+     "secim": "Var",
+     "oran": 1.36,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "KG VAR",
+     "gerekce": "DataGaffer iki takımın da gol atmasına %72 ihtimal veriyor ve iki taraftan da 1,8'in üstünde gol bekliyor.",
+     "zayif_yani": "ADO'nun saha puanı 19 ile düşük; ev sahibinin golü beklenenden zor gelebilir.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,68 bekliyor, günün ikincisi; ADO evde 5 maçta maç başı 1,58 üretip 1,82 yiyor, Sparta deplasmanda 5 maçta 2,09 üretip 2,06 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 76,7, günün dördüncüsü; bu tempodaki 303 maçın %71'inde iki takım da gol attı.",
+     "ev_sahasi": "ADO'nun saha puanı 19, Sparta'nın deplasman puanı 41; aradaki 21 puanlık fark grubunda saha gücü üstün taraf 704 maçın %47'sini kazandı, ama bu gol sayısı için gerekçe değil.",
+     "gostergeler": [
+      "tempo",
+      "xGOT",
+      "büyük şans",
+      "ceza sahası içi şut"
+     ]
+    },
+    {
+     "mac": "AJ Auxerre–Paris",
+     "lig": "Fransa Ligue 1",
+     "kickoff_trt": "21:00",
+     "market": "Alt/Üst 2.5",
+     "secim": "Alt",
+     "oran": 1.93,
+     "sinif": "PLASE",
+     "karar": "oyna",
+     "kisa": "2.5 ALT",
+     "gerekce": "DataGaffer 2 ya da daha az gole %61 ihtimal veriyor ve maçta günün en az net pozisyonlarından birini bekliyor.",
+     "zayif_yani": "Auxerre evde ve Paris FC deplasmanda 4'er maçta maç başı 1,25 gol yemiş; savunmalar beklenenden geçirgen olabilir.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 2,42 bekliyor, günün en düşük yedincisi; Auxerre evde 4 maçta maç başı 1,06 üretip 1,17 yiyor, Paris FC deplasmanda 4 maçta 1,14 üretip 1,38 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 31,9, günün en düşük dokuzuncusu; bu tempodaki 470 maçın %42'si 2.5 üst bitti.",
+     "ev_sahasi": "Auxerre'nin saha puanı 34, Paris FC'nin deplasman puanı 44; aradaki 10 puanlık fark grubunda saha gücü üstün taraf 884 maçın %41'ini kazandı, ama bu gol sayısı için gerekçe değil.",
+     "gostergeler": [
+      "xGOT",
+      "büyük şans",
+      "ceza sahası içi şut"
+     ]
+    },
+    {
+     "mac": "AS Roma–Sassuolo",
+     "lig": "İtalya Serie A",
+     "kickoff_trt": "22:45",
+     "market": "Alt/Üst 2.5",
+     "secim": "Üst",
+     "oran": 1.24,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "2.5 ÜST",
+     "gerekce": "DataGaffer 3 ve üstü gole %66 ihtimal veriyor ve maçı tempo, net pozisyon ve kaleyi bulan şut değerinde günün ilk üçünde görüyor.",
+     "zayif_yani": "DataGaffer Sassuolo'dan yalnız 0,9 gol bekliyor; golleri büyük ölçüde Roma atmak zorunda.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,55 bekliyor, günün üçüncüsü; Roma evde 5 maçta maç başı 2,75 üretip 1,23 yiyor, Sassuolo deplasmanda 5 maçta 1,54 üretip 2,20 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 83,5, günün üçüncüsü; bu tempodaki 211 maçın %72'si 2.5 üst bitti.",
+     "ev_sahasi": "Roma'nın saha puanı 83, Sassuolo'nun deplasman puanı 30; aradaki 53 puanlık fark grubunda saha gücü üstün taraf 304 maçın %67'sini kazandı, ama bu gol sayısı için gerekçe değil.",
+     "gostergeler": [
+      "tempo",
+      "xGOT",
+      "büyük şans",
+      "ceza sahası içi şut"
+     ]
+    },
+    {
+     "mac": "AS Roma–Sassuolo",
+     "lig": "İtalya Serie A",
+     "kickoff_trt": "22:45",
+     "market": "Maç Sonucu",
+     "secim": "1",
+     "oran": 1.2,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "MS1",
+     "gerekce": "DataGaffer Roma'ya %72 kazanma şansı veriyor; bu seviyedeki favoriler bu sezon 154 maçın 119'unu kazandı.",
+     "zayif_yani": "Oran 1,20 ile oynanabilir sınırın tam üstünde ve DataGaffer'ın bu tahmine güveni 56 puanla orta seviyede.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,55 bekliyor, günün üçüncüsü; Roma evde 5 maçta maç başı 2,75 üretip 1,23 yiyor, Sassuolo deplasmanda 5 maçta 1,54 üretip 2,20 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 83,5, günün üçüncüsü; bu tempodaki 211 maçın %72'si 2.5 üst bitti.",
+     "ev_sahasi": "Roma'nın saha puanı 83, Sassuolo'nun deplasman puanı 30; aradaki 53 puanlık fark grubunda ev sahibi 304 maçın %67'sini kazandı.",
+     "gostergeler": [
+      "net favori"
+     ]
+    },
+    {
+     "mac": "Excelsior–Go Ahead Eagles",
+     "lig": "Hollanda Eredivisie",
+     "kickoff_trt": "23:00",
+     "market": "Karşılıklı Gol",
+     "secim": "Var",
+     "oran": 1.37,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "KG VAR",
+     "gerekce": "DataGaffer iki takımın da gol atmasına %68 ihtimal veriyor ve maçta günün en çok net pozisyonlarından birini bekliyor.",
+     "zayif_yani": "Excelsior evde 5 maçta kaleyi bulan şut değerinde maç başı yalnız 0,79 üretiyor; ev sahibinin golü zor gelebilir.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,38 bekliyor, günün yedincisi; Excelsior evde 5 maçta maç başı 0,79 üretip 2,94 yiyor, Go Ahead deplasmanda 6 maçta 1,59 üretip 1,63 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 73,7, günün altıncısı; bu tempodaki 398 maçın %64'ünde iki takım da gol attı.",
+     "ev_sahasi": "Excelsior'un saha puanı 7, Go Ahead'in deplasman puanı 30; aradaki 23 puanlık fark grubunda saha gücü üstün taraf 704 maçın %47'sini kazandı, ama bu gol sayısı için gerekçe değil.",
+     "gostergeler": [
+      "tempo",
+      "xGOT",
+      "büyük şans",
+      "ceza sahası içi şut"
+     ]
+    },
+    {
+     "mac": "AS Roma–Sassuolo",
+     "lig": "İtalya Serie A",
+     "kickoff_trt": "22:45",
+     "market": "Oyuncu Gol Atar",
+     "secim": "Donyell Malen",
+     "oran": 1.4,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "GOL: Donyell Malen",
+     "gerekce": "DataGaffer Malen'e gol atma için %60 ihtimal veriyor ve Roma'dan günün en yüksek gol beklentilerinden birini (2,5) bekliyor.",
+     "zayif_yani": "Veride dakika bilgisi yok; Malen erken oyundan alınırsa ihtimal düşer.",
+     "tur": "oyuncu",
+     "ters_bacak": null
+    },
+    {
+     "mac": "Stuttgart–Werder Bremen",
+     "lig": "Almanya Bundesliga",
+     "kickoff_trt": "20:30",
+     "market": "Oyuncu Kaleyi Bulan Şut Çeker (Uzt. Dahil)",
+     "secim": "Niclas Fullkrug 1+",
+     "oran": 1.29,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "İŞUT: Niclas Fullkrug 1+",
+     "gerekce": "DataGaffer Füllkrug'un en az bir kez kaleyi bulmasına %93 ihtimal veriyor ve maçı günün en hızlı tempolu beşinci maçı sayıyor.",
+     "zayif_yani": "DataGaffer Bremen'den yalnız 1,4 gol bekliyor, günün ortasının biraz altında; dakika bilgisi de yok.",
+     "tur": "oyuncu",
+     "ters_bacak": null
+    }
+   ],
+   "bos_siniflar": [
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "",
+   "oyuncu_gerekce": "Oyuncu önerileri DataGaffer eşiğini geçen ve iddaa'da 1,20 üstü marketi olan oyunculardan seçildi: Malen'in takımı günün medyanının üstünde gol bekliyor, Füllkrug'un maçı günün en hızlı tempolularından; dakika sütunu veride olmadığı için ilk 11 riski zayıf yana yazıldı."
+  },
+  {
+   "kod": "hareket",
+   "ad": "Agent Macau",
+   "oneriler": [
+    {
+     "mac": "Cagliari–Frosinone",
+     "lig": "İtalya Serie A",
+     "kickoff_trt": "17:00",
+     "market": "Deplasman Alt/Üst 1.5",
+     "secim": "Üst",
+     "oran": 1.59,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "DEP 1.5 ÜST",
+     "gerekce": "Frosinone'nin en az 2 gol atması oranı 1,78'den 1,59'a indi, iddaa bu tarafın ihtimalini 6 puan artırdı ve Frosinone galibiyeti, 2.5 üst ve karşılıklı gol oranları da düştü.",
+     "zayif_yani": "DataGaffer Frosinone'den 1,4 gol bekliyor ve en az 2 gol atmasına yalnız %42 ihtimal veriyor.",
+     "tur": "takim",
+     "puan": 5.8,
+     "band": "≥5p",
+     "olcum": "13:22",
+     "ters_bacak": null,
+     "ilk": {
+      "oran": 1.59,
+      "puan": 5.8,
+      "olcum": "13:21"
+     },
+     "kontrol": {
+      "saat": "13:22",
+      "oran": 1.59,
+      "puan": 5.85,
+      "fark": 0.05,
+      "durum": "tutuyor"
+     },
+     "hiz": "sabit"
+    }
+   ],
+   "bos_siniflar": [
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "",
+   "kontrol_saati": "13:22"
+  },
+  {
+   "kod": "deger",
+   "ad": "Value Betting Agent",
+   "oneriler": [],
+   "bos_siniflar": [
+    "BANKO",
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": ""
+  },
+  {
+   "kod": "x",
+   "ad": "X — @futbolapexx",
+   "oneriler": [],
+   "bos_siniflar": [
+    "BANKO",
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": ""
+  }
+ ],
+ "karne": {
+  "satirlar": [
+   {
+    "ad": "Meşin Yuvarlak",
+    "kapanan": 209,
+    "tuttu": 137,
+    "isabet": 65.6,
+    "acik": 9,
+    "beklenen": 63.9,
+    "fark": 1.7,
+    "fark_pay": 6.4,
+    "beklenti_tahmini": false,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 199,
+      "tuttu": 130,
+      "beklenen": 64.7
+     },
+     "PLASE": {
+      "kapanan": 10,
+      "tuttu": 7,
+      "beklenen": 47.8
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "Meşin Yuvarlak — Oyuncu",
+    "kapanan": 72,
+    "tuttu": 40,
+    "isabet": 55.6,
+    "acik": 2,
+    "beklenen": 60.5,
+    "fark": -5.0,
+    "fark_pay": 11.1,
+    "beklenti_tahmini": true,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 59,
+      "tuttu": 34,
+      "beklenen": 63.9
+     },
+     "PLASE": {
+      "kapanan": 12,
+      "tuttu": 5,
+      "beklenen": 46.6
+     },
+     "SÜRPRİZ": {
+      "kapanan": 1,
+      "tuttu": 1,
+      "beklenen": 27.2
+     }
+    }
+   },
+   {
+    "ad": "Agent Macau",
+    "kapanan": 192,
+    "tuttu": 104,
+    "isabet": 54.2,
+    "acik": 1,
+    "beklenen": 53.4,
+    "fark": 0.8,
+    "fark_pay": 6.9,
+    "beklenti_tahmini": false,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 128,
+      "tuttu": 79,
+      "beklenen": 59.0
+     },
+     "PLASE": {
+      "kapanan": 57,
+      "tuttu": 23,
+      "beklenen": 43.8
+     },
+     "SÜRPRİZ": {
+      "kapanan": 7,
+      "tuttu": 2,
+      "beklenen": 29.9
+     }
+    }
+   },
+   {
+    "ad": "Value Betting Agent",
+    "kapanan": 0,
+    "tuttu": 0,
+    "isabet": null,
+    "acik": 0,
+    "beklenen": null,
+    "fark": null,
+    "fark_pay": null,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 0,
+      "tuttu": 0
+     },
+     "PLASE": {
+      "kapanan": 0,
+      "tuttu": 0
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "X — @futbolapexx",
+    "kapanan": 5,
+    "tuttu": 3,
+    "isabet": 60.0,
+    "acik": 0,
+    "beklenen": 46.5,
+    "fark": 13.5,
+    "fark_pay": 43.5,
+    "beklenti_tahmini": false,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 2,
+      "tuttu": 1,
+      "beklenen": 50.0
+     },
+     "PLASE": {
+      "kapanan": 3,
+      "tuttu": 2,
+      "beklenen": 44.1
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   }
+  ],
+  "olcum": [
+   {
+    "ad": "Agent Macau — ilk öneri (eşik altına inenler dahil)",
+    "kapanan": 211,
+    "tuttu": 116,
+    "isabet": 55.0,
+    "acik": 1,
+    "beklenen": 53.2,
+    "fark": 1.8,
+    "fark_pay": 6.6,
+    "beklenti_tahmini": false,
+    "siniflar": null
+   },
+   {
+    "ad": "İki Agent'ın ortak önerileri",
+    "kapanan": 2,
+    "tuttu": 1,
+    "isabet": 50.0,
+    "acik": 0,
+    "beklenen": 61.6,
+    "fark": -11.6,
+    "fark_pay": 67.4,
+    "beklenti_tahmini": false,
+    "siniflar": null
+   },
+   {
+    "ad": "Agent Macau — dünya fiyatı (Pinnacle) TEYİT etti",
+    "kapanan": 24,
+    "tuttu": 14,
+    "isabet": 58.3,
+    "acik": 0,
+    "beklenen": 54.5,
+    "fark": 3.9,
+    "fark_pay": 19.7,
+    "beklenti_tahmini": false,
+    "siniflar": null
+   },
+   {
+    "ad": "Agent Macau — dünya fiyatı teyit ETMEDİ",
+    "kapanan": 43,
+    "tuttu": 23,
+    "isabet": 53.5,
+    "acik": 0,
+    "beklenen": 56.1,
+    "fark": -2.6,
+    "fark_pay": 14.6,
+    "beklenti_tahmini": false,
+    "siniflar": null
+   }
+  ]
+ },
+ "datagaffer_100": {
+  "kaldirildi": true,
+  "kayitlar": [],
+  "okunan_takim": 0
+ },
+ "hareket_tablo": {
+  "esik": 7.0,
+  "saatler": [
+   "11:30",
+   "13:15"
+  ],
+  "son": "13:16",
+  "son_etiket": "13:15",
+  "limit": 15,
+  "kickoff_son": null,
+  "tablo_filtresi": "Tablolar oranı en az %7 değişen seçimleri gösterir; öneri eşiği puandır.",
+  "aciklama": "Öneri eşiği 5 puan; puanın daha büyük olması daha güçlü sinyal olduğunu göstermedi (2 Kas 2026 ölçümü). Puan, bahsin kazanma ihtimalinin açılıştan bu yana kaç puan arttığıdır; iddaa'nın kâr payı çıkarılarak hesaplanır (ör. ihtimal %50'den %57'ye çıktıysa +7 puan).",
+  "dusen_toplam": 81,
+  "yukselen_toplam": 114,
+  "dusenler": [
+   {
+    "mac": "Paris Saint Germain - Troyes",
+    "kickoff": "23:05",
+    "secim": "Deplasman",
+    "acilis": "17.9",
+    "simdi": "13.2",
+    "degisim": -26.3,
+    "puan": null,
+    "zirve": -26.3,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Paris Saint Germain - Troyes",
+    "kickoff": "23:05",
+    "secim": "İY Deplasman",
+    "acilis": "13.35",
+    "simdi": "9.85",
+    "degisim": -26.2,
+    "puan": 2.3,
+    "zirve": -26.2,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Paris Saint Germain - Troyes",
+    "kickoff": "23:05",
+    "secim": "ÇŞ X2",
+    "acilis": "5.88",
+    "simdi": "4.39",
+    "degisim": -25.3,
+    "puan": null,
+    "zirve": -25.3,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Paris Saint Germain - Troyes",
+    "kickoff": "23:05",
+    "secim": "Beraberlik",
+    "acilis": "9.93",
+    "simdi": "7.55",
+    "degisim": -24.0,
+    "puan": null,
+    "zirve": -24.0,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Stuttgart - Werder Bremen",
+    "kickoff": "20:30",
+    "secim": "Deplasman",
+    "acilis": "4.18",
+    "simdi": "3.36",
+    "degisim": -19.6,
+    "puan": 5.04,
+    "zirve": -21.5,
+    "zirve_saat": "11:30",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Paris Saint Germain - Troyes",
+    "kickoff": "23:05",
+    "secim": "Dep Üst 1.5",
+    "acilis": "6.18",
+    "simdi": "4.98",
+    "degisim": -19.4,
+    "puan": null,
+    "zirve": -22.3,
+    "zirve_saat": "11:30",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Pendikspor - İstanbulspor",
+    "kickoff": "19:00",
+    "secim": "Deplasman",
+    "acilis": "3.74",
+    "simdi": "3.02",
+    "degisim": -19.3,
+    "puan": 5.27,
+    "zirve": -19.3,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Cagliari - Frosinone",
+    "kickoff": "17:00",
+    "secim": "Dep Üst 2.5",
+    "acilis": "3.71",
+    "simdi": "3.05",
+    "degisim": -17.8,
+    "puan": 5.07,
+    "zirve": -17.8,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Paris Saint Germain - Troyes",
+    "kickoff": "23:05",
+    "secim": "Ev Alt 2.5",
+    "acilis": "2.46",
+    "simdi": "2.03",
+    "degisim": -17.5,
+    "puan": 7.39,
+    "zirve": -17.5,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Ankara Keçiörengücü - Manisa FK",
+    "kickoff": "13:30",
+    "secim": "Deplasman",
+    "acilis": "4.01",
+    "simdi": "3.35",
+    "degisim": -16.5,
+    "puan": 4.1,
+    "zirve": -16.5,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Samsunspor - Konyaspor",
+    "kickoff": "16:00",
+    "secim": "Üst 4.5",
+    "acilis": "6.35",
+    "simdi": "5.31",
+    "degisim": -16.4,
+    "puan": null,
+    "zirve": -16.4,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Paris Saint Germain - Troyes",
+    "kickoff": "23:05",
+    "secim": "Alt 1.5",
+    "acilis": "8.05",
+    "simdi": "6.75",
+    "degisim": -16.1,
+    "puan": null,
+    "zirve": -16.1,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Mainz - Bayern Münih",
+    "kickoff": "17:30",
+    "secim": "KG Yok",
+    "acilis": "2.58",
+    "simdi": "2.19",
+    "degisim": -15.1,
+    "puan": 5.99,
+    "zirve": -15.1,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Pendikspor - İstanbulspor",
+    "kickoff": "19:00",
+    "secim": "İY Deplasman",
+    "acilis": "4.17",
+    "simdi": "3.54",
+    "degisim": -15.1,
+    "puan": 3.57,
+    "zirve": -15.1,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Stuttgart - Werder Bremen",
+    "kickoff": "20:30",
+    "secim": "ÇŞ X2",
+    "acilis": "2.07",
+    "simdi": "1.77",
+    "degisim": -14.5,
+    "puan": 3.52,
+    "zirve": -15.5,
+    "zirve_saat": "11:30",
+    "zirve_ayri": true,
+    "sinif": "PLASE",
+    "durum": "YAVAŞLADI"
+   }
+  ],
+  "yukselenler": [
+   {
+    "mac": "Mainz - Bayern Münih",
+    "kickoff": "17:30",
+    "secim": "Ev Üst 2.5",
+    "acilis": "6.29",
+    "simdi": "8.17",
+    "degisim": 29.9,
+    "puan": null,
+    "zirve": 41.0,
+    "zirve_saat": "11:30",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Mainz - Bayern Münih",
+    "kickoff": "17:30",
+    "secim": "Ev sahibi",
+    "acilis": "6.52",
+    "simdi": "8.42",
+    "degisim": 29.1,
+    "puan": -3.02,
+    "zirve": 29.1,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Alverca FC - Casa Pia AC",
+    "kickoff": "21:00",
+    "secim": "Üst 4.5",
+    "acilis": "6.28",
+    "simdi": "7.97",
+    "degisim": 26.9,
+    "puan": null,
+    "zirve": 26.9,
+    "zirve_saat": "11:30",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Mainz - Bayern Münih",
+    "kickoff": "17:30",
+    "secim": "Ev Üst 1.5",
+    "acilis": "2.47",
+    "simdi": "3.1",
+    "degisim": 25.5,
+    "puan": -7.1,
+    "zirve": 25.5,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Eyüpspor - Kocaelispor",
+    "kickoff": "13:30",
+    "secim": "Ev Üst 2.5",
+    "acilis": "9.22",
+    "simdi": "11.3",
+    "degisim": 22.6,
+    "puan": null,
+    "zirve": 22.6,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Sporting Lizbon - Moreirense",
+    "kickoff": "23:30",
+    "secim": "Deplasman",
+    "acilis": "13.75",
+    "simdi": "16.7",
+    "degisim": 21.5,
+    "puan": null,
+    "zirve": 21.5,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Mainz - Bayern Münih",
+    "kickoff": "17:30",
+    "secim": "İY Ev",
+    "acilis": "5.69",
+    "simdi": "6.91",
+    "degisim": 21.4,
+    "puan": -2.72,
+    "zirve": 21.4,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Alverca FC - Casa Pia AC",
+    "kickoff": "21:00",
+    "secim": "Ev Üst 2.5",
+    "acilis": "3.53",
+    "simdi": "4.25",
+    "degisim": 20.4,
+    "puan": -4.16,
+    "zirve": 20.4,
+    "zirve_saat": "11:30",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Cagliari - Frosinone",
+    "kickoff": "17:00",
+    "secim": "Dep Alt 0.5",
+    "acilis": "4.3",
+    "simdi": "5.16",
+    "degisim": 20.0,
+    "puan": null,
+    "zirve": 20.0,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Eyüpspor - Kocaelispor",
+    "kickoff": "13:30",
+    "secim": "Ev Üst 1.5",
+    "acilis": "3.19",
+    "simdi": "3.82",
+    "degisim": 19.7,
+    "puan": -4.51,
+    "zirve": 19.7,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "N. Madeira - A. de Viseu ",
+    "kickoff": "18:30",
+    "secim": "Üst 4.5",
+    "acilis": "6.24",
+    "simdi": "7.46",
+    "degisim": 19.6,
+    "puan": null,
+    "zirve": 19.6,
+    "zirve_saat": "11:30",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Eyüpspor - Kocaelispor",
+    "kickoff": "13:30",
+    "secim": "Ev sahibi",
+    "acilis": "3.35",
+    "simdi": "3.96",
+    "degisim": 18.2,
+    "puan": -3.99,
+    "zirve": 18.2,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Mainz - Bayern Münih",
+    "kickoff": "17:30",
+    "secim": "ÇŞ 1X",
+    "acilis": "2.94",
+    "simdi": "3.44",
+    "degisim": 17.0,
+    "puan": null,
+    "zirve": 17.0,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Eyüpspor - Kocaelispor",
+    "kickoff": "13:30",
+    "secim": "İY Ev",
+    "acilis": "4.06",
+    "simdi": "4.71",
+    "degisim": 16.0,
+    "puan": -2.95,
+    "zirve": 16.0,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Stuttgart - Werder Bremen",
+    "kickoff": "20:30",
+    "secim": "Ev Üst 2.5",
+    "acilis": "2",
+    "simdi": "2.31",
+    "degisim": 15.5,
+    "puan": -5.77,
+    "zirve": 17.0,
+    "zirve_saat": "11:30",
+    "zirve_ayri": true,
+    "sinif": "PLASE",
+    "durum": "YAVAŞLADI"
+   }
+  ],
+  "aday_esigi_puan": 5.0,
+  "adaylar": [
+   {
+    "mac": "Paris Saint Germain - Troyes",
+    "kickoff": "23:05",
+    "secim": "Ev Alt 2.5",
+    "acilis": "2.46",
+    "simdi": "2.03",
+    "puan": 7.39,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -17.5,
+    "cekim": "13:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Alt 3.5",
+      "puan": 5.37
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 5.15
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 4.22
+     },
+     {
+      "secim": "KG Var",
+      "puan": 3.96
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 3.71
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 3.38
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 2.3
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 1.49
+     }
+    ]
+   },
+   {
+    "mac": "Mainz - Bayern Münih",
+    "kickoff": "17:30",
+    "secim": "Ev Alt 1.5",
+    "acilis": "1.34",
+    "simdi": "1.21",
+    "puan": 7.1,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -9.7,
+    "cekim": "13:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "KG Yok",
+      "puan": 5.99
+     },
+     {
+      "secim": "Ev Alt 0.5",
+      "puan": 4.88
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 4.34
+     },
+     {
+      "secim": "İY KG Yok",
+      "puan": 3.72
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.34
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 3.27
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 3.18
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 2.2
+     }
+    ]
+   },
+   {
+    "mac": "Mainz - Bayern Münih",
+    "kickoff": "17:30",
+    "secim": "KG Yok",
+    "acilis": "2.58",
+    "simdi": "2.19",
+    "puan": 5.99,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -15.1,
+    "cekim": "13:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 7.1
+     },
+     {
+      "secim": "Ev Alt 0.5",
+      "puan": 4.88
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 4.34
+     },
+     {
+      "secim": "İY KG Yok",
+      "puan": 3.72
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.34
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 3.27
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 3.18
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 2.2
+     }
+    ]
+   },
+   {
+    "mac": "Cagliari - Frosinone",
+    "kickoff": "17:00",
+    "secim": "Dep Üst 1.5",
+    "acilis": "1.78",
+    "simdi": "1.59",
+    "puan": 5.85,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -10.7,
+    "cekim": "13:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 2.5",
+      "puan": 5.07
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 4.55
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 4.19
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 4.09
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 3.75
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 3.39
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.23
+     },
+     {
+      "secim": "KG Var",
+      "puan": 2.82
+     }
+    ]
+   },
+   {
+    "mac": "Stuttgart - Werder Bremen",
+    "kickoff": "20:30",
+    "secim": "Ev Alt 2.5",
+    "acilis": "1.54",
+    "simdi": "1.4",
+    "puan": 5.77,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -9.1,
+    "cekim": "13:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Deplasman",
+      "puan": 5.04
+     },
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 5.0
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.17
+     },
+     {
+      "secim": "ÇŞ X2",
+      "puan": 3.52
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.42
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 2.8
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 2.09
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 2.01
+     }
+    ]
+   },
+   {
+    "mac": "Paris Saint Germain - Troyes",
+    "kickoff": "23:05",
+    "secim": "Alt 3.5",
+    "acilis": "1.98",
+    "simdi": "1.76",
+    "puan": 5.37,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -11.1,
+    "cekim": "13:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 7.39
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 5.15
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 4.22
+     },
+     {
+      "secim": "KG Var",
+      "puan": 3.96
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 3.71
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 3.38
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 2.3
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 1.49
+     }
+    ]
+   },
+   {
+    "mac": "Pendikspor - İstanbulspor",
+    "kickoff": "19:00",
+    "secim": "Deplasman",
+    "acilis": "3.74",
+    "simdi": "3.02",
+    "puan": 5.27,
+    "band": "≥5p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -19.3,
+    "cekim": "13:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 4.78
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.57
+     },
+     {
+      "secim": "ÇŞ X2",
+      "puan": 3.08
+     },
+     {
+      "secim": "KG Var",
+      "puan": 1.57
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 1.4
+     }
+    ]
+   },
+   {
+    "mac": "Paris Saint Germain - Troyes",
+    "kickoff": "23:05",
+    "secim": "Dep Üst 0.5",
+    "acilis": "1.88",
+    "simdi": "1.69",
+    "puan": 5.15,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -10.1,
+    "cekim": "13:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 7.39
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 5.37
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 4.22
+     },
+     {
+      "secim": "KG Var",
+      "puan": 3.96
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 3.71
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 3.38
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 2.3
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 1.49
+     }
+    ]
+   },
+   {
+    "mac": "Cagliari - Frosinone",
+    "kickoff": "17:00",
+    "secim": "Dep Üst 2.5",
+    "acilis": "3.71",
+    "simdi": "3.05",
+    "puan": 5.07,
+    "band": "≥5p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -17.8,
+    "cekim": "13:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 5.85
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 4.55
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 4.19
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 4.09
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 3.75
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 3.39
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.23
+     },
+     {
+      "secim": "KG Var",
+      "puan": 2.82
+     }
+    ]
+   },
+   {
+    "mac": "Stuttgart - Werder Bremen",
+    "kickoff": "20:30",
+    "secim": "Deplasman",
+    "acilis": "4.18",
+    "simdi": "3.36",
+    "puan": 5.04,
+    "band": "≥5p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -19.6,
+    "cekim": "13:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 5.77
+     },
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 5.0
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.17
+     },
+     {
+      "secim": "ÇŞ X2",
+      "puan": 3.52
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.42
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 2.8
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 2.09
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 2.01
+     }
+    ]
+   },
+   {
+    "mac": "Stuttgart - Werder Bremen",
+    "kickoff": "20:30",
+    "secim": "Ev Alt 1.5",
+    "acilis": "2.77",
+    "simdi": "2.39",
+    "puan": 5.0,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -13.7,
+    "cekim": "13:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 5.77
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 5.04
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.17
+     },
+     {
+      "secim": "ÇŞ X2",
+      "puan": 3.52
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.42
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 2.8
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 2.09
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 2.01
+     }
+    ]
+   }
+  ]
+ },
+ "pencere": {
+  "tur": "13:15",
+  "kickoff_son": "17:00",
+  "metin": "Pencere: 17:00'ye kadar başlayan maçlar"
+ },
+ "ortak": []
+}

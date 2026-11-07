@@ -1,0 +1,1125 @@
+{
+  "3270665": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:40.497Z",
+    "home": {
+      "name": "Everton",
+      "form": [
+        {
+          "res": "W",
+          "score": "0-1",
+          "opp": "Newcastle United FC"
+        },
+        {
+          "res": "L",
+          "score": "2-0",
+          "opp": "Arsenal FC"
+        }
+      ],
+      "gfTot": 1,
+      "gaTot": 2,
+      "gfAvg": "0.5",
+      "gaAvg": "1.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Coventry",
+      "form": [
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Sunderland AFC"
+        },
+        {
+          "res": "L",
+          "score": "0-1",
+          "opp": "Fulham FC"
+        },
+        {
+          "res": "L",
+          "score": "3-1",
+          "opp": "Tottenham Hotspur FC"
+        },
+        {
+          "res": "W",
+          "score": "4-1",
+          "opp": "Newcastle United FC"
+        }
+      ],
+      "gfTot": 8,
+      "gaTot": 6,
+      "gfAvg": "2.0",
+      "gaAvg": "1.5",
+      "missing": []
+    },
+    "league": "İngiltere Premier Lig"
+  },
+  "3270729": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:41.486Z",
+    "home": {
+      "name": "Sarıyer",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Iğdır FK",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Türkiye 1. Lig"
+  },
+  "3270794": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:43.024Z",
+    "home": {
+      "name": "AB Gladsaxe",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Vendsyssel",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Danimarka 1.Lig"
+  },
+  "3270882": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:42.698Z",
+    "home": {
+      "name": "HB Koege",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Aalborg BK",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Danimarka 1.Lig"
+  },
+  "3270903": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:42.368Z",
+    "home": {
+      "name": "Silkeborg",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Lyngby BK",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Danimarka Süper Lig"
+  },
+  "3270939": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:39.895Z",
+    "home": {
+      "name": "Venezia",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Udinese",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İtalya Serie A"
+  },
+  "3270983": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:44.031Z",
+    "home": {
+      "name": "Hamburg",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Monchengladbach",
+      "form": [
+        {
+          "res": "L",
+          "score": "0-2",
+          "opp": "Ferencvarosi TC"
+        }
+      ],
+      "gfTot": 0,
+      "gaTot": 2,
+      "gfAvg": "0.0",
+      "gaAvg": "2.0",
+      "missing": []
+    },
+    "league": "Almanya Bundesliga"
+  },
+  "3271076": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:38.476Z",
+    "home": {
+      "name": "Willem II",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Zwolle",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Hollanda Eredivisie"
+  },
+  "3271113": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:43.687Z",
+    "home": {
+      "name": "Standard Liege",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "SK Beveren",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Belçika Pro Lig"
+  },
+  "3271239": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:40.827Z",
+    "home": {
+      "name": "Toulouse",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Strasbourg",
+      "form": [
+        {
+          "res": "D",
+          "score": "2-2",
+          "opp": "Paris Saint Germain FC"
+        },
+        {
+          "res": "L",
+          "score": "2-3",
+          "opp": "Paris Saint Germain FC"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Juventus FC"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Juventus FC"
+        }
+      ],
+      "gfTot": 4,
+      "gaTot": 5,
+      "gfAvg": "1.0",
+      "gaAvg": "1.3",
+      "missing": []
+    },
+    "league": "Fransa Ligue 1"
+  },
+  "3271301": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:42.087Z",
+    "home": {
+      "name": "Vejle",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Fredericia",
+      "form": [
+        {
+          "res": "L",
+          "score": "5-1",
+          "opp": "FC Viktoria Plzen"
+        },
+        {
+          "res": "W",
+          "score": "3-0",
+          "opp": "FC Viktoria Plzen"
+        }
+      ],
+      "gfTot": 4,
+      "gaTot": 5,
+      "gfAvg": "2.0",
+      "gaAvg": "2.5",
+      "missing": []
+    },
+    "league": "Danimarka 1.Lig"
+  },
+  "3271342": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:39.256Z",
+    "home": {
+      "name": "Gaziantep FK",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Kasımpaşa",
+      "form": [
+        {
+          "res": "D",
+          "score": "2-2",
+          "opp": "Paris Saint Germain FC"
+        },
+        {
+          "res": "L",
+          "score": "2-3",
+          "opp": "Paris Saint Germain FC"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Juventus FC"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Juventus FC"
+        }
+      ],
+      "gfTot": 4,
+      "gaTot": 5,
+      "gfAvg": "1.0",
+      "gaAvg": "1.3",
+      "missing": []
+    },
+    "league": "Türkiye Süper Lig"
+  },
+  "3278453": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:38.844Z",
+    "home": {
+      "name": "Famalicao",
+      "form": [
+        {
+          "res": "L",
+          "score": "2-1",
+          "opp": "Real Club Deportivo de La Coruna"
+        },
+        {
+          "res": "L",
+          "score": "2-0",
+          "opp": "Sevilla FC"
+        }
+      ],
+      "gfTot": 1,
+      "gaTot": 4,
+      "gfAvg": "0.5",
+      "gaAvg": "2.0",
+      "missing": []
+    },
+    "away": {
+      "name": "FC Arouca",
+      "form": [
+        {
+          "res": "L",
+          "score": "2-1",
+          "opp": "Real Club Deportivo de La Coruna"
+        },
+        {
+          "res": "L",
+          "score": "2-0",
+          "opp": "Sevilla FC"
+        }
+      ],
+      "gfTot": 1,
+      "gaTot": 4,
+      "gfAvg": "0.5",
+      "gaAvg": "2.0",
+      "missing": []
+    },
+    "league": "Portekiz Premier Lig"
+  },
+  "3279781": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:40.206Z",
+    "home": {
+      "name": "Sevilla",
+      "form": [
+        {
+          "res": "L",
+          "score": "3-1",
+          "opp": "Getafe Club de Futbol"
+        },
+        {
+          "res": "W",
+          "score": "2-0",
+          "opp": "CA Osasuna"
+        },
+        {
+          "res": "L",
+          "score": "4-1",
+          "opp": "Real Madrid CF"
+        },
+        {
+          "res": "D",
+          "score": "3-3",
+          "opp": "Levante UD"
+        }
+      ],
+      "gfTot": 7,
+      "gaTot": 10,
+      "gfAvg": "1.8",
+      "gaAvg": "2.5",
+      "missing": []
+    },
+    "away": {
+      "name": "Alaves",
+      "form": [
+        {
+          "res": "L",
+          "score": "6-1",
+          "opp": "FC Barcelona"
+        }
+      ],
+      "gfTot": 1,
+      "gaTot": 6,
+      "gfAvg": "1.0",
+      "gaAvg": "6.0",
+      "missing": []
+    },
+    "league": "İspanya La Liga"
+  },
+  "3279877": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:41.152Z",
+    "home": {
+      "name": "Antalyaspor",
+      "form": [
+        {
+          "res": "D",
+          "score": "2-2",
+          "opp": "Paris Saint Germain FC"
+        },
+        {
+          "res": "L",
+          "score": "2-3",
+          "opp": "Paris Saint Germain FC"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Juventus FC"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Juventus FC"
+        }
+      ],
+      "gfTot": 4,
+      "gaTot": 5,
+      "gfAvg": "1.0",
+      "gaAvg": "1.3",
+      "missing": []
+    },
+    "away": {
+      "name": "Bursaspor",
+      "form": [
+        {
+          "res": "D",
+          "score": "2-2",
+          "opp": "Paris Saint Germain FC"
+        },
+        {
+          "res": "L",
+          "score": "2-3",
+          "opp": "Paris Saint Germain FC"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Juventus FC"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Juventus FC"
+        }
+      ],
+      "gfTot": 4,
+      "gaTot": 5,
+      "gfAvg": "1.0",
+      "gaAvg": "1.3",
+      "missing": []
+    },
+    "league": "Türkiye 1. Lig"
+  },
+  "3368932": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:46.418Z",
+    "home": {
+      "name": "Gaziantep FK",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Kasımpaşa",
+      "form": [
+        {
+          "res": "D",
+          "score": "2-2",
+          "opp": "Paris Saint Germain FC"
+        },
+        {
+          "res": "L",
+          "score": "2-3",
+          "opp": "Paris Saint Germain FC"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Juventus FC"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Juventus FC"
+        }
+      ],
+      "gfTot": 4,
+      "gaTot": 5,
+      "gfAvg": "1.0",
+      "gaAvg": "1.3",
+      "missing": []
+    },
+    "league": "Türkiye Süper Lig"
+  },
+  "3368941": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:44.733Z",
+    "home": {
+      "name": "Everton",
+      "form": [
+        {
+          "res": "W",
+          "score": "0-1",
+          "opp": "Newcastle United FC"
+        },
+        {
+          "res": "L",
+          "score": "2-0",
+          "opp": "Arsenal FC"
+        }
+      ],
+      "gfTot": 1,
+      "gaTot": 2,
+      "gfAvg": "0.5",
+      "gaAvg": "1.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Coventry",
+      "form": [
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "Sunderland AFC"
+        },
+        {
+          "res": "L",
+          "score": "0-1",
+          "opp": "Fulham FC"
+        },
+        {
+          "res": "L",
+          "score": "3-1",
+          "opp": "Tottenham Hotspur FC"
+        },
+        {
+          "res": "W",
+          "score": "4-1",
+          "opp": "Newcastle United FC"
+        }
+      ],
+      "gfTot": 8,
+      "gaTot": 6,
+      "gfAvg": "2.0",
+      "gaAvg": "1.5",
+      "missing": []
+    },
+    "league": "İngiltere Premier Lig"
+  },
+  "3368951": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:45.140Z",
+    "home": {
+      "name": "Toulouse FC",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "RC Strasbourg",
+      "form": [
+        {
+          "res": "D",
+          "score": "2-2",
+          "opp": "Paris Saint Germain FC"
+        },
+        {
+          "res": "L",
+          "score": "2-3",
+          "opp": "Paris Saint Germain FC"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Juventus FC"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Juventus FC"
+        }
+      ],
+      "gfTot": 4,
+      "gaTot": 5,
+      "gfAvg": "1.0",
+      "gaAvg": "1.3",
+      "missing": []
+    },
+    "league": "Fransa Ligue 1"
+  },
+  "3368960": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:44.894Z",
+    "home": {
+      "name": "Venezia",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Udinese",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İtalya Serie A"
+  },
+  "3376087": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:45.294Z",
+    "home": {
+      "name": "Standard Liege",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "SK Beveren",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Belçika Pro Lig"
+  },
+  "3376097": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:46.894Z",
+    "home": {
+      "name": "Vejle BK",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "FC Fredericia",
+      "form": [
+        {
+          "res": "L",
+          "score": "5-1",
+          "opp": "FC Viktoria Plzen"
+        },
+        {
+          "res": "W",
+          "score": "3-0",
+          "opp": "FC Viktoria Plzen"
+        }
+      ],
+      "gfTot": 4,
+      "gaTot": 5,
+      "gfAvg": "2.0",
+      "gaAvg": "2.5",
+      "missing": []
+    },
+    "league": "Danimarka 1.Lig"
+  },
+  "3376098": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:45.770Z",
+    "home": {
+      "name": "Akademisk Boldklub",
+      "form": [
+        {
+          "res": "L",
+          "score": "1-0",
+          "opp": "Bologna FC 1909"
+        }
+      ],
+      "gfTot": 0,
+      "gaTot": 1,
+      "gfAvg": "0.0",
+      "gaAvg": "1.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Vendsyssel FF",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Danimarka 1.Lig"
+  },
+  "3376099": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:46.009Z",
+    "home": {
+      "name": "HB Koge",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Aalborg BK",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Danimarka 1.Lig"
+  },
+  "3376100": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:46.262Z",
+    "home": {
+      "name": "Silkeborg IF",
+      "form": [
+        {
+          "res": "L",
+          "score": "0-3",
+          "opp": "Qarabag Agdam FK"
+        },
+        {
+          "res": "L",
+          "score": "3-0",
+          "opp": "Qarabag Agdam FK"
+        }
+      ],
+      "gfTot": 0,
+      "gaTot": 6,
+      "gfAvg": "0.0",
+      "gaAvg": "3.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Lyngby BK",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Danimarka Süper Lig"
+  },
+  "3376117": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:45.446Z",
+    "home": {
+      "name": "Willem II",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Zwolle",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Hollanda Eredivisie"
+  },
+  "3376123": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:44.562Z",
+    "home": {
+      "name": "Famalicao",
+      "form": [
+        {
+          "res": "L",
+          "score": "2-1",
+          "opp": "Real Club Deportivo de La Coruna"
+        },
+        {
+          "res": "L",
+          "score": "2-0",
+          "opp": "Sevilla FC"
+        }
+      ],
+      "gfTot": 1,
+      "gaTot": 4,
+      "gfAvg": "0.5",
+      "gaAvg": "2.0",
+      "missing": []
+    },
+    "away": {
+      "name": "FC Arouca",
+      "form": [
+        {
+          "res": "L",
+          "score": "2-1",
+          "opp": "Real Club Deportivo de La Coruna"
+        },
+        {
+          "res": "L",
+          "score": "2-0",
+          "opp": "Sevilla FC"
+        }
+      ],
+      "gfTot": 1,
+      "gaTot": 4,
+      "gfAvg": "0.5",
+      "gaAvg": "2.0",
+      "missing": []
+    },
+    "league": "Portekiz Premier Lig"
+  },
+  "3376129": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:46.736Z",
+    "home": {
+      "name": "Antalyaspor",
+      "form": [
+        {
+          "res": "D",
+          "score": "2-2",
+          "opp": "Paris Saint Germain FC"
+        },
+        {
+          "res": "L",
+          "score": "2-3",
+          "opp": "Paris Saint Germain FC"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Juventus FC"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Juventus FC"
+        }
+      ],
+      "gfTot": 4,
+      "gaTot": 5,
+      "gfAvg": "1.0",
+      "gaAvg": "1.3",
+      "missing": []
+    },
+    "away": {
+      "name": "Bursaspor",
+      "form": [
+        {
+          "res": "D",
+          "score": "2-2",
+          "opp": "Paris Saint Germain FC"
+        },
+        {
+          "res": "L",
+          "score": "2-3",
+          "opp": "Paris Saint Germain FC"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Juventus FC"
+        },
+        {
+          "res": "D",
+          "score": "0-0",
+          "opp": "Juventus FC"
+        }
+      ],
+      "gfTot": 4,
+      "gaTot": 5,
+      "gfAvg": "1.0",
+      "gaAvg": "1.3",
+      "missing": []
+    },
+    "league": "Türkiye 1. Lig"
+  },
+  "3376130": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:46.574Z",
+    "home": {
+      "name": "Sarıyer",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "Iğdır FK",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Türkiye 1. Lig"
+  },
+  "3376505": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:41.780Z",
+    "home": {
+      "name": "Süper Lig",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "11. Hafta (9 Maç)",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Türkiye Süper Lig Haftalık Bahisler"
+  },
+  "3376508": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:44.392Z",
+    "home": {
+      "name": "Premier Lig",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "10. Hafta (10 Maç)",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İngiltere Premier Lig Haftalık Bahisler"
+  },
+  "3378087": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:38.098Z",
+    "home": {
+      "name": "Bundesliga",
+      "form": [
+        {
+          "res": "W",
+          "score": "3-1",
+          "opp": "KKS Lech Poznan"
+        },
+        {
+          "res": "W",
+          "score": "1-4",
+          "opp": "AC Omonia Nicosia"
+        },
+        {
+          "res": "W",
+          "score": "4-1",
+          "opp": "Celtic FC"
+        }
+      ],
+      "gfTot": 11,
+      "gaTot": 3,
+      "gfAvg": "3.7",
+      "gaAvg": "1.0",
+      "missing": []
+    },
+    "away": {
+      "name": "9. Hafta (9 Maç)",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "Almanya Bundesliga Haftalık Bahisler"
+  },
+  "3378090": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:39.574Z",
+    "home": {
+      "name": "Serie A",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "11. Hafta (10 Maç)",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İtalya Serie A Haftalık Bahisler"
+  },
+  "3378093": {
+    "ok": true,
+    "updatedAt": "2026-11-06T12:45:43.348Z",
+    "home": {
+      "name": "LaLiga",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "away": {
+      "name": "12. Hafta (10 Maç)",
+      "form": [],
+      "gfTot": 0,
+      "gaTot": 0,
+      "gfAvg": "0.0",
+      "gaAvg": "0.0",
+      "missing": []
+    },
+    "league": "İspanya LaLiga Haftalık Bahisler"
+  }
+}
