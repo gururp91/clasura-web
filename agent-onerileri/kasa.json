@@ -1,0 +1,1076 @@
+{
+ "surum": "2.0",
+ "tarih": "2026-11-08",
+ "uretim_zamani": "2026-11-08T21:21:00+03:00",
+ "baslik": "Agent Önerileri",
+ "ozet": "21:15 turu (son tur). Bültende 7 başlamamış maç; Meşin Yuvarlak yeni takım önerisi yok, oyuncu yeni yok; Agent Macau 2 yeni öneri (pencere yok), net favori aday yok.",
+ "bacaklar": [
+  {
+   "kod": "futbol",
+   "ad": "Meşin Yuvarlak",
+   "oneriler": [
+    {
+     "mac": "Atletico Madrid–Barcelona",
+     "lig": "İspanya La Liga",
+     "kickoff_trt": "23:00",
+     "market": "Alt/Üst 2.5",
+     "secim": "Üst",
+     "oran": 1.21,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "2.5 ÜST",
+     "gerekce": "DataGaffer 3 ve üstü gole %79 ihtimal veriyor; iki takımdan toplam 4,2 gol ve günün en yüksek kaleyi bulan şut değerini bekliyor.",
+     "zayif_yani": "DataGaffer'ın %79'u beşte birlik boşluk bırakıyor; iki takım kontrollü oynarsa gol beklentinin altında kalır.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,97 bekliyor, günün en yükseği; Atletico evde 5 maçta maç başı 2,63 üretip 1,00 yiyor, Barcelona deplasmanda 5 maçta 3,58 üretip 1,16 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 69,4, günün sekizincisi; bu tempodaki 510 maçta 2.5 üst oranı %62.",
+     "ev_sahasi": "Atletico saha puanı 86, Barcelona deplasman puanı 81; aradaki 5 puanlık fark grubunda saha gücü üstün tarafın kazanma oranı %41 (884 maç), ama bu gol sayısı için gerekçe değil.",
+     "gostergeler": [
+      "tempo",
+      "xGOT",
+      "büyük şans",
+      "şut kalitesi"
+     ]
+    },
+    {
+     "mac": "CF Estrela–Benfica",
+     "lig": "Portekiz Premier Lig",
+     "kickoff_trt": "23:30",
+     "market": "Oyuncu Gol Atar",
+     "secim": "Vangelis Pavlidis",
+     "oran": 1.4,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "GOL: Vangelis Pavlidis",
+     "gerekce": "DataGaffer Pavlidis'e gol atma için %57 ihtimal veriyor ve Benfica'dan günün en yüksek gol beklentilerinden birini (2,5) bekliyor.",
+     "zayif_yani": "Veride dakika bilgisi yok ve maçın temposu orta sırada; rotasyon ihtimali zayıf yan.",
+     "tur": "oyuncu",
+     "ters_bacak": null
+    },
+    {
+     "mac": "Utrecht–NEC Nijmegen",
+     "lig": "Hollanda Eredivisie",
+     "kickoff_trt": "22:00",
+     "market": "Karşılıklı Gol",
+     "secim": "Var",
+     "oran": 1.31,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "KG VAR",
+     "tur": "takim",
+     "ters_bacak": null,
+     "gerekce": "DataGaffer iki takımın da gol atmasına %64 ihtimal veriyor ve her iki takıma da 1,5 ve üstü gol biçiyor; maçın temposu günün en yükseklerinden.",
+     "zayif_yani": "Takımların yalnız 5'er maçlık ev ve deplasman profili var; Utrecht evinde saha gücünde rakibinin çok gerisinde.",
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,1 bekliyor, günün ortalarında; Utrecht evde 5 maçta maç başı 1,25 üretip 2,28 yiyor, NEC deplasmanda 5 maçta 1,40 üretip 1,20 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 75,1, günün 4. en yükseği; bu tempodaki 303 maçın %71'inde iki takım da gol attı.",
+     "ev_sahasi": "NEC'in deplasman gücü 77,2, Utrecht'in ev gücü 28,6; bu 48,5 puanlık fark grubunda favori maçların %64'ünü kazandı (n=420).",
+     "gostergeler": [
+      "tempo",
+      "büyük şans",
+      "ceza sahası içi şut",
+      "şut kalitesi"
+     ]
+    }
+   ],
+   "bos_siniflar": [
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "",
+   "oyuncu_gerekce": "Oyuncu önerileri DataGaffer'ın gol eşiğini geçen ve takımı günün medyanının üstünde gol beklenen iki forvetten seçildi; dakika sütunu veride olmadığı için ilk 11 riski zayıf yana yazıldı."
+  },
+  {
+   "kod": "hareket",
+   "ad": "Agent Macau",
+   "oneriler": [
+    {
+     "mac": "RC Lens–Marsilya",
+     "lig": "Fransa Ligue 1",
+     "kickoff_trt": "22:45",
+     "market": "Alt/Üst 3.5",
+     "secim": "Alt",
+     "oran": 1.38,
+     "sinif": "BANKO",
+     "puan": 6.3,
+     "band": "≥5p",
+     "olcum": "21:21",
+     "karar": "dikkatle oyna",
+     "kisa": "3.5 ALT",
+     "tur": "takim",
+     "ters_bacak": null,
+     "gerekce": "Maçta 3,5 alt oranı 1,53'ten 1,38'e indi, iddaa bu tarafın ihtimalini 6 puan artırdı; 2,5 alt, 4,5 alt ve Lens'in 1,5 alt oranları da aynı yönde düştü.",
+     "zayif_yani": "Düşüş az golü söylüyor, oysa DataGaffer bu maça günün üst sıralarında tempo veriyor; iki kaynak aynı yönde değil."
+    },
+    {
+     "mac": "CF Estrela–Benfica",
+     "lig": "Portekiz Premier Lig",
+     "kickoff_trt": "23:30",
+     "market": "Deplasman Alt/Üst 2.5",
+     "secim": "Üst",
+     "oran": 1.59,
+     "sinif": "BANKO",
+     "puan": 5.1,
+     "band": "≥5p",
+     "olcum": "21:21",
+     "karar": "dikkatle oyna",
+     "kisa": "DEP 2.5 ÜST",
+     "tur": "takim",
+     "ters_bacak": null,
+     "gerekce": "Benfica'nın 2,5 gol üstü oranı 1,75'ten 1,59'a indi, iddaa bu tarafın ihtimalini 5 puan artırdı; maç toplamında 2,5, 3,5 ve 4,5 üst oranları da düştü.",
+     "zayif_yani": "Puan eşiğin hemen üstünde; Benfica üç gol bulamazsa bahis tutmaz, küçük bir geri çekilme bile öneriyi düşürür."
+    }
+   ],
+   "bos_siniflar": [
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "",
+   "kontrol_saati": "21:20"
+  },
+  {
+   "kod": "deger",
+   "ad": "Value Betting Agent",
+   "oneriler": [],
+   "bos_siniflar": [
+    "BANKO",
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": ""
+  },
+  {
+   "kod": "x",
+   "ad": "X — @futbolapexx",
+   "oneriler": [],
+   "bos_siniflar": [
+    "BANKO",
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "",
+   "uyarilar": [
+    "⚽ MİLLİ ARA — KAPALIYIZ! Meşin Yuvarlak kampa girdi, Agent Macau yatta şampanya patlatıyor. Düdük 20 Kasım Cuma akşamı yeniden çalıyor."
+   ]
+  }
+ ],
+ "karne": {
+  "satirlar": [
+   {
+    "ad": "Meşin Yuvarlak",
+    "kapanan": 234,
+    "tuttu": 151,
+    "isabet": 64.5,
+    "acik": 0,
+    "beklenen": 63.4,
+    "fark": 1.2,
+    "fark_pay": 6.1,
+    "beklenti_tahmini": false,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 220,
+      "tuttu": 142,
+      "beklenen": 64.4
+     },
+     "PLASE": {
+      "kapanan": 14,
+      "tuttu": 9,
+      "beklenen": 47.8
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "Meşin Yuvarlak — Oyuncu",
+    "kapanan": 76,
+    "tuttu": 43,
+    "isabet": 56.6,
+    "acik": 0,
+    "beklenen": 60.7,
+    "fark": -4.1,
+    "fark_pay": 10.8,
+    "beklenti_tahmini": true,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 63,
+      "tuttu": 37,
+      "beklenen": 63.9
+     },
+     "PLASE": {
+      "kapanan": 12,
+      "tuttu": 5,
+      "beklenen": 46.6
+     },
+     "SÜRPRİZ": {
+      "kapanan": 1,
+      "tuttu": 1,
+      "beklenen": 27.2
+     }
+    }
+   },
+   {
+    "ad": "Agent Macau",
+    "kapanan": 207,
+    "tuttu": 115,
+    "isabet": 55.6,
+    "acik": 0,
+    "beklenen": 53.5,
+    "fark": 2.0,
+    "fark_pay": 6.7,
+    "beklenti_tahmini": false,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 140,
+      "tuttu": 89,
+      "beklenen": 58.9
+     },
+     "PLASE": {
+      "kapanan": 60,
+      "tuttu": 24,
+      "beklenen": 43.8
+     },
+     "SÜRPRİZ": {
+      "kapanan": 7,
+      "tuttu": 2,
+      "beklenen": 29.9
+     }
+    }
+   },
+   {
+    "ad": "Value Betting Agent",
+    "kapanan": 0,
+    "tuttu": 0,
+    "isabet": null,
+    "acik": 0,
+    "beklenen": null,
+    "fark": null,
+    "fark_pay": null,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 0,
+      "tuttu": 0
+     },
+     "PLASE": {
+      "kapanan": 0,
+      "tuttu": 0
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "X — @futbolapexx",
+    "kapanan": 7,
+    "tuttu": 4,
+    "isabet": 57.1,
+    "acik": 0,
+    "beklenen": 46.1,
+    "fark": 11.1,
+    "fark_pay": 36.7,
+    "beklenti_tahmini": false,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 2,
+      "tuttu": 1,
+      "beklenen": 50.0
+     },
+     "PLASE": {
+      "kapanan": 5,
+      "tuttu": 3,
+      "beklenen": 44.5
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   }
+  ],
+  "olcum": [
+   {
+    "ad": "Agent Macau — ilk öneri (eşik altına inenler dahil)",
+    "kapanan": 226,
+    "tuttu": 127,
+    "isabet": 56.2,
+    "acik": 0,
+    "beklenen": 53.3,
+    "fark": 2.9,
+    "fark_pay": 6.4,
+    "beklenti_tahmini": false,
+    "siniflar": null
+   },
+   {
+    "ad": "İki Agent'ın ortak önerileri",
+    "kapanan": 2,
+    "tuttu": 1,
+    "isabet": 50.0,
+    "acik": 0,
+    "beklenen": 61.6,
+    "fark": -11.6,
+    "fark_pay": 67.4,
+    "beklenti_tahmini": false,
+    "siniflar": null
+   },
+   {
+    "ad": "Agent Macau — dünya fiyatı (Pinnacle) TEYİT etti",
+    "kapanan": 25,
+    "tuttu": 15,
+    "isabet": 60.0,
+    "acik": 0,
+    "beklenen": 54.5,
+    "fark": 5.5,
+    "fark_pay": 19.3,
+    "beklenti_tahmini": false,
+    "siniflar": null
+   },
+   {
+    "ad": "Agent Macau — dünya fiyatı teyit ETMEDİ",
+    "kapanan": 56,
+    "tuttu": 33,
+    "isabet": 58.9,
+    "acik": 0,
+    "beklenen": 55.9,
+    "fark": 3.0,
+    "fark_pay": 12.8,
+    "beklenti_tahmini": false,
+    "siniflar": null
+   }
+  ],
+  "not": "Karne milli ara öncesi son haliyle donduruldu (8 Kasım maçları dahil). 17 Eylül'den beri 1.20 altı oranlı kayıtlar karnede sayılmıyor."
+ },
+ "hareket_tablo": {
+  "esik": 7.0,
+  "saatler": [
+   "11:30",
+   "13:15",
+   "16:15",
+   "19:15",
+   "21:15"
+  ],
+  "son": "21:16",
+  "son_etiket": "21:15",
+  "limit": 15,
+  "kickoff_son": null,
+  "tablo_filtresi": "Tablolar oranı en az %7 değişen seçimleri gösterir; öneri eşiği puandır.",
+  "aciklama": "Öneri eşiği 5 puan; puanın daha büyük olması daha güçlü sinyal olduğunu göstermedi (2 Kas 2026 ölçümü). Puan, bahsin kazanma ihtimalinin açılıştan bu yana kaç puan arttığıdır; iddaa'nın kâr payı çıkarılarak hesaplanır (ör. ihtimal %50'den %57'ye çıktıysa +7 puan).",
+  "dusen_toplam": 26,
+  "yukselen_toplam": 39,
+  "dusenler": [
+   {
+    "mac": "RC Lens - Marsilya",
+    "kickoff": "22:45",
+    "secim": "Alt 1.5",
+    "acilis": "5.26",
+    "simdi": "4.3",
+    "degisim": -18.3,
+    "puan": null,
+    "zirve": -18.3,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "RC Lens - Marsilya",
+    "kickoff": "22:45",
+    "secim": "Ev Alt 0.5",
+    "acilis": "5.02",
+    "simdi": "4.21",
+    "degisim": -16.1,
+    "puan": null,
+    "zirve": -16.7,
+    "zirve_saat": "11:30",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Rio Ave - Braga",
+    "kickoff": "23:30",
+    "secim": "Üst 4.5",
+    "acilis": "5.45",
+    "simdi": "4.64",
+    "degisim": -14.9,
+    "puan": null,
+    "zirve": -14.9,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Utrecht - NEC Nijmegen",
+    "kickoff": "22:00",
+    "secim": "Dep Üst 2.5",
+    "acilis": "3.83",
+    "simdi": "3.27",
+    "degisim": -14.6,
+    "puan": 3.73,
+    "zirve": -14.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "RC Lens - Marsilya",
+    "kickoff": "22:45",
+    "secim": "Alt 2.5",
+    "acilis": "2.41",
+    "simdi": "2.07",
+    "degisim": -14.1,
+    "puan": 5.78,
+    "zirve": -14.1,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "RC Lens - Marsilya",
+    "kickoff": "22:45",
+    "secim": "İY Alt 0.5",
+    "acilis": "3.6",
+    "simdi": "3.19",
+    "degisim": -11.4,
+    "puan": 2.96,
+    "zirve": -11.4,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "RC Lens - Marsilya",
+    "kickoff": "22:45",
+    "secim": "Ev Alt 1.5",
+    "acilis": "1.89",
+    "simdi": "1.68",
+    "degisim": -11.1,
+    "puan": 5.72,
+    "zirve": -12.2,
+    "zirve_saat": "11:30",
+    "zirve_ayri": true,
+    "sinif": "BANKO",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Rio Ave - Braga",
+    "kickoff": "23:30",
+    "secim": "Üst 3.5",
+    "acilis": "2.81",
+    "simdi": "2.5",
+    "degisim": -11.0,
+    "puan": 3.94,
+    "zirve": -11.0,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Rio Ave - Braga",
+    "kickoff": "23:30",
+    "secim": "Dep Üst 2.5",
+    "acilis": "2.82",
+    "simdi": "2.51",
+    "degisim": -11.0,
+    "puan": 3.92,
+    "zirve": -11.0,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "CF Estrela - Benfica",
+    "kickoff": "23:30",
+    "secim": "Üst 4.5",
+    "acilis": "3.2",
+    "simdi": "2.85",
+    "degisim": -10.9,
+    "puan": 3.38,
+    "zirve": -10.9,
+    "zirve_saat": "11:30",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "RC Lens - Marsilya",
+    "kickoff": "22:45",
+    "secim": "KG Yok",
+    "acilis": "2.51",
+    "simdi": "2.24",
+    "degisim": -10.8,
+    "puan": 4.33,
+    "zirve": -10.8,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "RC Lens - Marsilya",
+    "kickoff": "22:45",
+    "secim": "Alt 3.5",
+    "acilis": "1.53",
+    "simdi": "1.38",
+    "degisim": -9.8,
+    "puan": 6.22,
+    "zirve": -9.8,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "RC Lens - Marsilya",
+    "kickoff": "22:45",
+    "secim": "Dep Alt 0.5",
+    "acilis": "3.82",
+    "simdi": "3.46",
+    "degisim": -9.4,
+    "puan": 2.28,
+    "zirve": -9.9,
+    "zirve_saat": "16:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Utrecht - NEC Nijmegen",
+    "kickoff": "22:00",
+    "secim": "Deplasman",
+    "acilis": "2.44",
+    "simdi": "2.21",
+    "degisim": -9.4,
+    "puan": 3.77,
+    "zirve": -9.4,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "CF Estrela - Benfica",
+    "kickoff": "23:30",
+    "secim": "Dep Üst 2.5",
+    "acilis": "1.75",
+    "simdi": "1.59",
+    "degisim": -9.1,
+    "puan": 5.13,
+    "zirve": -9.1,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "HIZLANDI"
+   }
+  ],
+  "yukselenler": [
+   {
+    "mac": "RC Lens - Marsilya",
+    "kickoff": "22:45",
+    "secim": "Üst 4.5",
+    "acilis": "3.45",
+    "simdi": "4.35",
+    "degisim": 26.1,
+    "puan": -5.27,
+    "zirve": 26.1,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "RC Lens - Marsilya",
+    "kickoff": "22:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "3.11",
+    "simdi": "3.79",
+    "degisim": 21.9,
+    "puan": -5.04,
+    "zirve": 23.2,
+    "zirve_saat": "11:30",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "RC Lens - Marsilya",
+    "kickoff": "22:45",
+    "secim": "Üst 3.5",
+    "acilis": "2.01",
+    "simdi": "2.35",
+    "degisim": 16.9,
+    "puan": -6.22,
+    "zirve": 16.9,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Hoffenheim - Schalke 04",
+    "kickoff": "21:30",
+    "secim": "Dep Üst 2.5",
+    "acilis": "6.98",
+    "simdi": "8.16",
+    "degisim": 16.9,
+    "puan": null,
+    "zirve": 16.9,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "CF Estrela - Benfica",
+    "kickoff": "23:30",
+    "secim": "Ev sahibi",
+    "acilis": "9.49",
+    "simdi": "11.0",
+    "degisim": 15.9,
+    "puan": -1.35,
+    "zirve": 15.9,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "CF Estrela - Benfica",
+    "kickoff": "23:30",
+    "secim": "Alt 1.5",
+    "acilis": "5.62",
+    "simdi": "6.51",
+    "degisim": 15.8,
+    "puan": null,
+    "zirve": 15.8,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Utrecht - NEC Nijmegen",
+    "kickoff": "22:00",
+    "secim": "Dep Alt 0.5",
+    "acilis": "4.16",
+    "simdi": "4.79",
+    "degisim": 15.1,
+    "puan": -2.65,
+    "zirve": 15.1,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "CF Estrela - Benfica",
+    "kickoff": "23:30",
+    "secim": "Dep Alt 1.5",
+    "acilis": "3.28",
+    "simdi": "3.76",
+    "degisim": 14.6,
+    "puan": -3.35,
+    "zirve": 14.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Hoffenheim - Schalke 04",
+    "kickoff": "21:30",
+    "secim": "Deplasman",
+    "acilis": "4.43",
+    "simdi": "5.07",
+    "degisim": 14.4,
+    "puan": -2.49,
+    "zirve": 14.4,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "CF Estrela - Benfica",
+    "kickoff": "23:30",
+    "secim": "Beraberlik",
+    "acilis": "5.91",
+    "simdi": "6.76",
+    "degisim": 14.4,
+    "puan": -2.0,
+    "zirve": 14.4,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "RC Lens - Marsilya",
+    "kickoff": "22:45",
+    "secim": "Dep Üst 2.5",
+    "acilis": "4.27",
+    "simdi": "4.88",
+    "degisim": 14.3,
+    "puan": -2.49,
+    "zirve": 15.9,
+    "zirve_saat": "16:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Rio Ave - Braga",
+    "kickoff": "23:30",
+    "secim": "Dep Alt 0.5",
+    "acilis": "5.46",
+    "simdi": "6.21",
+    "degisim": 13.7,
+    "puan": null,
+    "zirve": 13.7,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "CF Estrela - Benfica",
+    "kickoff": "23:30",
+    "secim": "ÇŞ 1X",
+    "acilis": "3.42",
+    "simdi": "3.88",
+    "degisim": 13.5,
+    "puan": null,
+    "zirve": 13.5,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Rio Ave - Braga",
+    "kickoff": "23:30",
+    "secim": "Alt 1.5",
+    "acilis": "3.55",
+    "simdi": "4.03",
+    "degisim": 13.5,
+    "puan": -2.87,
+    "zirve": 13.5,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "CF Estrela - Benfica",
+    "kickoff": "23:30",
+    "secim": "Alt 2.5",
+    "acilis": "2.59",
+    "simdi": "2.92",
+    "degisim": 12.7,
+    "puan": -3.78,
+    "zirve": 12.7,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   }
+  ],
+  "aday_esigi_puan": 5.0,
+  "adaylar": [
+   {
+    "mac": "RC Lens - Marsilya",
+    "kickoff": "22:45",
+    "secim": "Alt 3.5",
+    "acilis": "1.53",
+    "simdi": "1.38",
+    "puan": 6.22,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -9.8,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Alt 2.5",
+      "puan": 5.78
+     },
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 5.72
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 5.27
+     },
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 5.04
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 4.39
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 4.33
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 3.39
+     },
+     {
+      "secim": "İY KG Yok",
+      "puan": 3.28
+     }
+    ]
+   },
+   {
+    "mac": "RC Lens - Marsilya",
+    "kickoff": "22:45",
+    "secim": "Alt 2.5",
+    "acilis": "2.41",
+    "simdi": "2.07",
+    "puan": 5.78,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -14.1,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Alt 3.5",
+      "puan": 6.22
+     },
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 5.72
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 5.27
+     },
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 5.04
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 4.39
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 4.33
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 3.39
+     },
+     {
+      "secim": "İY KG Yok",
+      "puan": 3.28
+     }
+    ]
+   },
+   {
+    "mac": "RC Lens - Marsilya",
+    "kickoff": "22:45",
+    "secim": "Ev Alt 1.5",
+    "acilis": "1.89",
+    "simdi": "1.68",
+    "puan": 5.72,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -11.1,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Alt 3.5",
+      "puan": 6.22
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 5.78
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 5.27
+     },
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 5.04
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 4.39
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 4.33
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 3.39
+     },
+     {
+      "secim": "İY KG Yok",
+      "puan": 3.28
+     }
+    ]
+   },
+   {
+    "mac": "RC Lens - Marsilya",
+    "kickoff": "22:45",
+    "secim": "Alt 4.5",
+    "acilis": "1.16",
+    "simdi": "1.08",
+    "puan": 5.27,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -6.9,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Alt 3.5",
+      "puan": 6.22
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 5.78
+     },
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 5.72
+     },
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 5.04
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 4.39
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 4.33
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 3.39
+     },
+     {
+      "secim": "İY KG Yok",
+      "puan": 3.28
+     }
+    ]
+   },
+   {
+    "mac": "CF Estrela - Benfica",
+    "kickoff": "23:30",
+    "secim": "Dep Üst 2.5",
+    "acilis": "1.75",
+    "simdi": "1.59",
+    "puan": 5.13,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -9.1,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 3.5",
+      "puan": 4.41
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 3.78
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 3.38
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 3.35
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 3.34
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 3.29
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.09
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 2.05
+     }
+    ]
+   },
+   {
+    "mac": "RC Lens - Marsilya",
+    "kickoff": "22:45",
+    "secim": "Ev Alt 2.5",
+    "acilis": "1.21",
+    "simdi": "1.13",
+    "puan": 5.04,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -6.6,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Alt 3.5",
+      "puan": 6.22
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 5.78
+     },
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 5.72
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 5.27
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 4.39
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 4.33
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 3.39
+     },
+     {
+      "secim": "İY KG Yok",
+      "puan": 3.28
+     }
+    ]
+   }
+  ]
+ },
+ "pencere": {
+  "tur": "21:15",
+  "kickoff_son": null,
+  "metin": "Pencere: kalan tüm maçlar"
+ },
+ "ortak": [],
+ "datagaffer_100": {
+  "kaldirildi": true,
+  "kayitlar": [],
+  "okunan_takim": 0
+ }
+}
