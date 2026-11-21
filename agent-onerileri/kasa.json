@@ -1,0 +1,1741 @@
+{
+ "surum": "2.0",
+ "tarih": "2026-11-21",
+ "uretim_zamani": "2026-11-21T16:25:00+03:00",
+ "baslik": "Agent Önerileri",
+ "ozet": "16:15 turu. Bültende 35 maç (34'ü DataGaffer'da); Meşin Yuvarlak 9 takım + 2 oyuncu önerisi (11:30'dan sürüyor, net favori yeni aday yok), Agent Macau 4 yeni öneri (pencere ≤20:00).",
+ "bacaklar": [
+  {
+   "kod": "futbol",
+   "ad": "Meşin Yuvarlak",
+   "oneriler": [
+    {
+     "mac": "NEC Nijmegen–PSV",
+     "lig": "Hollanda Eredivisie",
+     "kickoff_trt": "18:30",
+     "market": "Alt/Üst 3.5",
+     "secim": "Üst",
+     "oran": 1.55,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "3.5 ÜST",
+     "gerekce": "DataGaffer 4 ve üstü gole %69 ihtimal veriyor ve bu maçı günün en hızlı tempolu maçı sayıyor.",
+     "zayif_yani": "Nijmegen evde 6 maçta maç başı 1,5 gol atıyor; ev sahibi gol bulamazsa dördüncü gol zorlaşır.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,45 bekliyor, günün beşincisi; Nijmegen evde 6 maçta maç başı 1,80 üretip 1,63 yiyor, PSV deplasmanda 6 maçta 2,37 üretip 0,98 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 87,9, günün en yükseği; bu tempodaki 143 maçın %59'unda 4 ve üstü gol olmuş (genel ortalama %33).",
+     "ev_sahasi": "Nijmegen'in saha puanı 37, PSV'nin deplasman puanı 86; bu 49 puanlık fark grubunda saha gücü üstün taraf 420 maçın %64'ünü kazanmış, ama gol sayısı için gerekçe değil.",
+     "gostergeler": [
+      "tempo",
+      "xGOT",
+      "isabetli şut",
+      "büyük şans"
+     ]
+    },
+    {
+     "mac": "Eintracht Frankfurt–Hoffenheim",
+     "lig": "Almanya Bundesliga",
+     "kickoff_trt": "17:30",
+     "market": "Alt/Üst 3.5",
+     "secim": "Üst",
+     "oran": 1.62,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "3.5 ÜST",
+     "gerekce": "DataGaffer 4 ve üstü gole %65 ihtimal veriyor; iki takımdan toplam 4,5 gol ve günün en yüksek kaleyi bulan şut değerini bekliyor.",
+     "zayif_yani": "Hoffenheim deplasmanda 4 maçta maç başı yalnız 1,25 gol atıyor; yük tek taraftan gelirse dördüncü gol gelmeyebilir.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,75 bekliyor, günün en yükseği; Frankfurt evde 4 maçta maç başı 2,58 üretip 2,11 yiyor, Hoffenheim deplasmanda 4 maçta 1,33 üretip 2,04 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 81,7, günün üçüncüsü; bu tempodaki 211 maçın %51'inde 4 ve üstü gol olmuş (genel ortalama %33).",
+     "ev_sahasi": "Frankfurt'un saha puanı 38, Hoffenheim'ın deplasman puanı 36; bu 1 puanlık fark grubunda saha gücü üstün taraf 907 maçın %40'ını kazanmış, gol sayısı için gerekçe değil.",
+     "gostergeler": [
+      "tempo",
+      "xGOT",
+      "isabetli şut",
+      "ceza sahası içi şut"
+     ]
+    },
+    {
+     "mac": "Utrecht–SC Cambuur",
+     "lig": "Hollanda Eredivisie",
+     "kickoff_trt": "20:45",
+     "market": "Alt/Üst 2.5",
+     "secim": "Üst",
+     "oran": 1.32,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "2.5 ÜST",
+     "gerekce": "DataGaffer 3 ve üstü gole %73 ihtimal veriyor; maçı günün dördüncü en hızlı tempolu ve en çok isabetli şutlu maçı sayıyor.",
+     "zayif_yani": "Utrecht evde 6 maçta kaleyi bulan şut değerinde maç başı yalnız 1,28 üretiyor; ev sahibi katkı vermezse üçüncü gol zorlaşır.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,35 bekliyor, günün yedincisi; Utrecht evde 6 maçta maç başı 1,28 üretip 2,32 yiyor, Cambuur deplasmanda 5 maçta 1,64 üretip 1,57 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 80,7, günün dördüncüsü; bu tempodaki 211 maçın %72'sinde 3 ve üstü gol olmuş (genel ortalama %56).",
+     "ev_sahasi": "Utrecht'in saha puanı 25, Cambuur'un deplasman puanı 84; bu 60 puanlık fark grubunda saha gücü üstün taraf 274 maçın %72'sini kazanmış, ama gol sayısı için gerekçe değil.",
+     "gostergeler": [
+      "tempo",
+      "xGOT",
+      "isabetli şut",
+      "verimlilik"
+     ]
+    },
+    {
+     "mac": "Groningen–Heerenveen",
+     "lig": "Hollanda Eredivisie",
+     "kickoff_trt": "23:00",
+     "market": "Karşılıklı Gol",
+     "secim": "Var",
+     "oran": 1.28,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "KG VAR",
+     "gerekce": "DataGaffer iki takımın da gol atmasına %71 ihtimal veriyor; iki taraftan da 1,8-1,9 gol ve günün en çok net pozisyonunu bekliyor.",
+     "zayif_yani": "DataGaffer'a göre Heerenveen saha gücünde belirgin üstün; maç tek tarafa dönerse Groningen gol bulamayabilir.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,32 bekliyor, günün dokuzuncusu; Groningen evde 6 maçta maç başı 1,77 üretip 1,71 yiyor, Heerenveen deplasmanda 5 maçta 2,10 üretip 1,11 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 84,3, günün ikincisi; bu tempodaki 211 maçın %64'ünde iki takım da gol atmış (genel ortalama %57).",
+     "ev_sahasi": "Groningen'in saha puanı 39, Heerenveen'in deplasman puanı 77; bu 39 puanlık fark grubunda saha gücü üstün taraf 548 maçın %54'ünü kazanmış, karşılıklı gol için gerekçe değil.",
+     "gostergeler": [
+      "tempo",
+      "büyük şans",
+      "xGOT",
+      "isabetli şut"
+     ]
+    },
+    {
+     "mac": "Lille–Lyon",
+     "lig": "Fransa Ligue 1",
+     "kickoff_trt": "22:45",
+     "market": "Alt/Üst 2.5",
+     "secim": "Alt",
+     "oran": 1.62,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "2.5 ALT",
+     "gerekce": "DataGaffer bu maçı günün en az gollü maçı sayıyor ve bu tempodaki maçların %61'inde en fazla 2 gol olmuş.",
+     "zayif_yani": "DataGaffer'ın en fazla 2 gol ihtimali yalnız %56; tek erken gol maçı açabilir.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 2,40 bekliyor, günün en düşük üçüncüsü; Lille evde 5 maçta maç başı 1,73 üretip yalnız 0,48 yiyor, Lyon deplasmanda 5 maçta 0,96 üretip 1,34 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 23,9, günün en düşük ikincisi; bu tempodaki 232 maçın yalnız %39'unda 3 ve üstü gol olmuş (genel ortalama %56).",
+     "ev_sahasi": "Lille'in saha puanı 71, Lyon'un deplasman puanı 58; bu 12 puanlık fark grubunda saha gücü üstün taraf 837 maçın %42'sini kazanmış, gol sayısı için gerekçe değil.",
+     "gostergeler": [
+      "tempo",
+      "xGOT",
+      "büyük şans",
+      "ceza sahası içi şut"
+     ]
+    },
+    {
+     "mac": "Napoli–Torino",
+     "lig": "İtalya Serie A",
+     "kickoff_trt": "22:45",
+     "market": "Alt/Üst 3.5",
+     "secim": "Alt",
+     "oran": 1.35,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "3.5 ALT",
+     "gerekce": "DataGaffer en fazla 3 gole %75 ihtimal veriyor ve maçı günün en az net pozisyonlu maçı sayıyor.",
+     "zayif_yani": "Napoli'den 1,7 gol bekleniyor; ev sahibi erken açılırsa maç dördüncü gole gidebilir.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 2,60 bekliyor, günün en düşük altıncısı; Napoli evde 5 maçta maç başı 1,72 üretip 1,04 yiyor, Torino deplasmanda 5 maçta 1,32 üretip 1,09 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 30,0, günün en düşük beşincisi; bu tempodaki 470 maçın %81'inde en fazla 3 gol olmuş.",
+     "ev_sahasi": "Napoli'nin saha puanı 67, Torino'nun deplasman puanı 61; bu 6 puanlık fark grubunda saha gücü üstün taraf 884 maçın %41'ini kazanmış, gol sayısı için gerekçe değil.",
+     "gostergeler": [
+      "tempo",
+      "xGOT",
+      "büyük şans"
+     ]
+    },
+    {
+     "mac": "KRC Genk–RAAL La Louviere",
+     "lig": "Belçika Pro Lig",
+     "kickoff_trt": "20:15",
+     "market": "Maç Sonucu",
+     "secim": "1",
+     "oran": 1.26,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "MS1",
+     "gerekce": "DataGaffer Genk'e %73 kazanma şansı veriyor; bu seviyedeki favoriler bu sezon 154 maçın 119'unu kazandı.",
+     "zayif_yani": "DataGaffer'a göre Genk'in kazanamama ihtimali hâlâ %27; erken gol gelmezse maç kilitlenebilir.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,04 bekliyor, günün ortasında; Genk evde 5 maçta maç başı 2,61 üretip 0,57 yiyor, La Louvière deplasmanda 5 maçta 0,93 üretip 2,07 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 49,4, günün ortasında; bu tempodaki 635 maçın %55'inde 3 ve üstü gol olmuş.",
+     "ev_sahasi": "Genk'in saha puanı 77, La Louvière'in deplasman puanı 11; bu 65 puanlık fark grubunda ev sahibi 155 maçın %77'sini kazanmış.",
+     "gostergeler": [
+      "net favori"
+     ]
+    },
+    {
+     "mac": "Mechelen–Club Brugge",
+     "lig": "Belçika Pro Lig",
+     "kickoff_trt": "22:45",
+     "market": "Maç Sonucu",
+     "secim": "2",
+     "oran": 1.25,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "MS2",
+     "gerekce": "DataGaffer Club Brugge'e %67 kazanma şansı veriyor; bu seviyedeki favoriler bu sezon 154 maçın 119'unu kazandı.",
+     "zayif_yani": "Brugge deplasmanda oynuyor ve DataGaffer'a göre kazanamama ihtimali %33; Mechelen evde 5 maçta maç başı 1,6 gol atıyor.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,18 bekliyor, günün on birincisi; Mechelen evde 5 maçta maç başı 0,96 üretip 2,05 yiyor, Club Brugge deplasmanda 5 maçta 2,41 üretip 1,09 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 60,2, günün on birincisi; bu tempodaki 593 maçın %60'ında 3 ve üstü gol olmuş.",
+     "ev_sahasi": "Mechelen'in saha puanı 26, Club Brugge'ün deplasman puanı 86; bu 60 puanlık fark grubunda saha gücü üstün taraf 229 maçın %76'sını kazanmış.",
+     "gostergeler": [
+      "net favori"
+     ]
+    },
+    {
+     "mac": "Monaco–AJ Auxerre",
+     "lig": "Fransa Ligue 1",
+     "kickoff_trt": "22:45",
+     "market": "Maç Sonucu",
+     "secim": "1",
+     "oran": 1.26,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "MS1",
+     "gerekce": "DataGaffer Monaco'ya %65 kazanma şansı veriyor; bu seviyedeki favoriler bu sezon 154 maçın 119'unu kazandı.",
+     "zayif_yani": "Auxerre deplasmanda 5 maçta maç başı 1,6 gol atıyor; DataGaffer'a göre Monaco'nun kazanamama ihtimali %35.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,49 bekliyor, günün üçüncüsü; Monaco evde 4 maçta maç başı 2,12 üretip 1,06 yiyor, Auxerre deplasmanda 5 maçta 1,53 üretip 2,71 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 38,4, günün en düşük onuncusu; bu tempodaki 530 maçın %48'inde 3 ve üstü gol olmuş.",
+     "ev_sahasi": "Monaco'nun saha puanı 69, Auxerre'in deplasman puanı 23; bu 46 puanlık fark grubunda ev sahibi 420 maçın %64'ünü kazanmış.",
+     "gostergeler": [
+      "net favori"
+     ]
+    },
+    {
+     "mac": "B. Leverkusen–Paderborn",
+     "lig": "Almanya Bundesliga",
+     "kickoff_trt": "17:30",
+     "market": "Oyuncu Gol Atar",
+     "secim": "Patrik Schick",
+     "oran": 1.4,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "GOL: Patrik Schick",
+     "gerekce": "DataGaffer Schick'e gol atma için %66 ihtimal veriyor ve Leverkusen'den günün üst sıralarında, 2,5 gol bekliyor.",
+     "zayif_yani": "Veride dakika bilgisi yok; Schick erken oyundan çıkarsa ya da rotasyona girerse bahis yanar.",
+     "tur": "oyuncu",
+     "ters_bacak": null
+    },
+    {
+     "mac": "Groningen–Heerenveen",
+     "lig": "Hollanda Eredivisie",
+     "kickoff_trt": "23:00",
+     "market": "Oyuncu Şut Çeker (Uzt. Dahil)",
+     "secim": "Maxence Rivera 2+",
+     "oran": 1.23,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "ŞUT: Maxence Rivera 2+",
+     "gerekce": "DataGaffer Rivera'ya en az 2 şut için %90 ihtimal veriyor ve maç günün en hızlı ikinci tempolu maçı.",
+     "zayif_yani": "Veride dakika bilgisi yok; Rivera ilk 11'de başlamazsa ya da erken çıkarsa iki şuta ulaşmayabilir.",
+     "tur": "oyuncu",
+     "ters_bacak": null
+    }
+   ],
+   "bos_siniflar": [
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "",
+   "oyuncu_gerekce": "İki oyuncu önerisi var; bacak sınırı iki olduğu için DataGaffer ihtimali en yüksek ve iddaa'da birebir karşılığı olan iki aday alındı, dakika verisi yok."
+  },
+  {
+   "kod": "hareket",
+   "ad": "Agent Macau",
+   "oneriler": [
+    {
+     "mac": "B. Leverkusen–Paderborn",
+     "lig": "Almanya Bundesliga",
+     "kickoff_trt": "17:30",
+     "market": "Deplasman Alt/Üst 0.5",
+     "secim": "Üst",
+     "oran": 1.3,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "DEP 0.5 ÜST",
+     "gerekce": "Paderborn'un en az bir gol atma oranı 1,44'ten 1,30'a indi; iddaa bu tarafın ihtimalini 6,4 puan artırdı, KG Var ve Paderborn 1,5 üst de aynı yöne döndü.",
+     "zayif_yani": "DataGaffer Paderborn'dan maç başı bir golün altında bekliyor; deplasman takımı gol bulamazsa bahis yanar.",
+     "tur": "takim",
+     "puan": 6.4,
+     "band": "≥5p",
+     "olcum": "16:21",
+     "ters_bacak": null
+    },
+    {
+     "mac": "Parma–AS Roma",
+     "lig": "İtalya Serie A",
+     "kickoff_trt": "20:00",
+     "market": "Deplasman Alt/Üst 2.5",
+     "secim": "Üst",
+     "oran": 1.71,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "DEP 2.5 ÜST",
+     "gerekce": "Roma'nın üç ve üstü gol atma oranı 1,93'ten 1,71'e indi; iddaa bu tarafın ihtimalini 5,6 puan artırdı, maçın üst ve Roma kazanır bahisleri de aynı yöne gitti.",
+     "zayif_yani": "Tek takımdan üç gol beklemek yüksek bir çıta; Roma iki golde kalırsa bahis yanar.",
+     "tur": "takim",
+     "puan": 5.6,
+     "band": "≥5p",
+     "olcum": "16:21",
+     "ters_bacak": null
+    },
+    {
+     "mac": "Chelsea–Leeds United",
+     "lig": "İngiltere Premier Lig",
+     "kickoff_trt": "18:00",
+     "market": "Ev Sahibi Alt/Üst 1.5",
+     "secim": "Alt",
+     "oran": 1.63,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "EV 1.5 ALT",
+     "gerekce": "Chelsea'nin en fazla bir gol atma oranı 1,82'den 1,63'e indi; iddaa bu tarafın ihtimalini 5,3 puan artırdı ve maçın alt bahisleri de aynı yöne döndü.",
+     "zayif_yani": "Chelsea evinde favori ve DataGaffer ondan yaklaşık iki gol bekliyor; ikinci gol gelirse bahis yanar.",
+     "tur": "takim",
+     "puan": 5.3,
+     "band": "≥5p",
+     "olcum": "16:21",
+     "ters_bacak": null
+    },
+    {
+     "mac": "Bournemouth–Nottingham Forest",
+     "lig": "İngiltere Premier Lig",
+     "kickoff_trt": "18:00",
+     "market": "Alt/Üst 2.5",
+     "secim": "Alt",
+     "oran": 1.64,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "2.5 ALT",
+     "gerekce": "Maçın 2,5 alt oranı 1,82'den 1,64'e indi; iddaa bu tarafın ihtimalini 5,0 puan artırdı, KG Yok ve Forest'ın alt bahisleri de aynı yöne döndü.",
+     "zayif_yani": "Puan eşiğin tam sınırında; küçük bir geri dönüş bu öneriyi rapordan düşürür.",
+     "tur": "takim",
+     "puan": 5.0,
+     "band": "≥5p",
+     "olcum": "16:21",
+     "ters_bacak": null
+    }
+   ],
+   "bos_siniflar": [
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "",
+   "kontrol_saati": "16:21"
+  },
+  {
+   "kod": "deger",
+   "ad": "Value Betting Agent",
+   "oneriler": [],
+   "bos_siniflar": [
+    "BANKO",
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": ""
+  },
+  {
+   "kod": "x",
+   "ad": "X — @futbolapexx",
+   "oneriler": [],
+   "bos_siniflar": [
+    "BANKO",
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": ""
+  }
+ ],
+ "karne": {
+  "satirlar": [
+   {
+    "ad": "Meşin Yuvarlak",
+    "kapanan": 237,
+    "tuttu": 152,
+    "isabet": 64.1,
+    "acik": 9,
+    "beklenen": 63.4,
+    "fark": 0.7,
+    "fark_pay": 6.1,
+    "beklenti_tahmini": false,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 223,
+      "tuttu": 143,
+      "beklenen": 64.4
+     },
+     "PLASE": {
+      "kapanan": 14,
+      "tuttu": 9,
+      "beklenen": 47.8
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "Meşin Yuvarlak — Oyuncu",
+    "kapanan": 78,
+    "tuttu": 43,
+    "isabet": 55.1,
+    "acik": 2,
+    "beklenen": 60.0,
+    "fark": -4.8,
+    "fark_pay": 10.6,
+    "beklenti_tahmini": true,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 63,
+      "tuttu": 37,
+      "beklenen": 63.9
+     },
+     "PLASE": {
+      "kapanan": 13,
+      "tuttu": 5,
+      "beklenen": 46.0
+     },
+     "SÜRPRİZ": {
+      "kapanan": 2,
+      "tuttu": 1,
+      "beklenen": 26.1
+     }
+    }
+   },
+   {
+    "ad": "Agent Macau",
+    "kapanan": 209,
+    "tuttu": 115,
+    "isabet": 55.0,
+    "acik": 6,
+    "beklenen": 53.5,
+    "fark": 1.5,
+    "fark_pay": 6.6,
+    "beklenti_tahmini": false,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 142,
+      "tuttu": 89,
+      "beklenen": 58.8
+     },
+     "PLASE": {
+      "kapanan": 60,
+      "tuttu": 24,
+      "beklenen": 43.8
+     },
+     "SÜRPRİZ": {
+      "kapanan": 7,
+      "tuttu": 2,
+      "beklenen": 29.9
+     }
+    }
+   },
+   {
+    "ad": "Value Betting Agent",
+    "kapanan": 0,
+    "tuttu": 0,
+    "isabet": null,
+    "acik": 0,
+    "beklenen": null,
+    "fark": null,
+    "fark_pay": null,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 0,
+      "tuttu": 0
+     },
+     "PLASE": {
+      "kapanan": 0,
+      "tuttu": 0
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "X — @futbolapexx",
+    "kapanan": 14,
+    "tuttu": 6,
+    "isabet": 42.9,
+    "acik": 0,
+    "beklenen": 45.5,
+    "fark": -2.7,
+    "fark_pay": 26.0,
+    "beklenti_tahmini": false,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 2,
+      "tuttu": 1,
+      "beklenen": 50.0
+     },
+     "PLASE": {
+      "kapanan": 12,
+      "tuttu": 5,
+      "beklenen": 44.8
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   }
+  ],
+  "olcum": [
+   {
+    "ad": "Agent Macau — ilk öneri (eşik altına inenler dahil)",
+    "kapanan": 228,
+    "tuttu": 127,
+    "isabet": 55.7,
+    "acik": 6,
+    "beklenen": 53.3,
+    "fark": 2.4,
+    "fark_pay": 6.4,
+    "beklenti_tahmini": false,
+    "siniflar": null
+   },
+   {
+    "ad": "İki Agent'ın ortak önerileri",
+    "kapanan": 2,
+    "tuttu": 1,
+    "isabet": 50.0,
+    "acik": 0,
+    "beklenen": 61.6,
+    "fark": -11.6,
+    "fark_pay": 67.4,
+    "beklenti_tahmini": false,
+    "siniflar": null
+   },
+   {
+    "ad": "Agent Macau — dünya fiyatı (Pinnacle) TEYİT etti",
+    "kapanan": 25,
+    "tuttu": 15,
+    "isabet": 60.0,
+    "acik": 0,
+    "beklenen": 54.5,
+    "fark": 5.5,
+    "fark_pay": 19.3,
+    "beklenti_tahmini": false,
+    "siniflar": null
+   },
+   {
+    "ad": "Agent Macau — dünya fiyatı teyit ETMEDİ",
+    "kapanan": 58,
+    "tuttu": 33,
+    "isabet": 56.9,
+    "acik": 2,
+    "beklenen": 55.9,
+    "fark": 1.0,
+    "fark_pay": 12.6,
+    "beklenti_tahmini": false,
+    "siniflar": null
+   }
+  ]
+ },
+ "hareket_tablo": {
+  "esik": 7.0,
+  "saatler": [
+   "11:30",
+   "13:15",
+   "16:15"
+  ],
+  "son": "16:17",
+  "son_etiket": "16:15",
+  "limit": 15,
+  "kickoff_son": null,
+  "tablo_filtresi": "Tablolar oranı en az %7 değişen seçimleri gösterir; öneri eşiği puandır.",
+  "aciklama": "Öneri eşiği 5 puan; puanın daha büyük olması daha güçlü sinyal olduğunu göstermedi (2 Kas 2026 ölçümü). Puan, bahsin kazanma ihtimalinin açılıştan bu yana kaç puan arttığıdır; iddaa'nın kâr payı çıkarılarak hesaplanır (ör. ihtimal %50'den %57'ye çıktıysa +7 puan).",
+  "dusen_toplam": 106,
+  "yukselen_toplam": 147,
+  "dusenler": [
+   {
+    "mac": "B. Leverkusen - Paderborn",
+    "kickoff": "17:30",
+    "secim": "Dep Üst 2.5",
+    "acilis": "10.5",
+    "simdi": "7.54",
+    "degisim": -28.2,
+    "puan": null,
+    "zirve": -28.2,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "RC Lens - Toulouse",
+    "kickoff": "22:45",
+    "secim": "Ev Alt 0.5",
+    "acilis": "5.22",
+    "simdi": "3.98",
+    "degisim": -23.8,
+    "puan": null,
+    "zirve": -23.8,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Lazio - Lecce",
+    "kickoff": "17:00",
+    "secim": "Deplasman",
+    "acilis": "6.64",
+    "simdi": "5.14",
+    "degisim": -22.6,
+    "puan": 3.86,
+    "zirve": -22.6,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "B. Leverkusen - Paderborn",
+    "kickoff": "17:30",
+    "secim": "Dep Üst 1.5",
+    "acilis": "3.51",
+    "simdi": "2.78",
+    "degisim": -20.8,
+    "puan": 6.34,
+    "zirve": -20.8,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "RC Lens - Toulouse",
+    "kickoff": "22:45",
+    "secim": "Deplasman",
+    "acilis": "3.63",
+    "simdi": "2.93",
+    "degisim": -19.3,
+    "puan": 5.73,
+    "zirve": -19.3,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Monaco - AJ Auxerre",
+    "kickoff": "22:45",
+    "secim": "Alt 1.5",
+    "acilis": "5.05",
+    "simdi": "4.16",
+    "degisim": -17.6,
+    "puan": null,
+    "zirve": -19.0,
+    "zirve_saat": "13:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "RC Lens - Toulouse",
+    "kickoff": "22:45",
+    "secim": "Ev Alt 1.5",
+    "acilis": "1.94",
+    "simdi": "1.61",
+    "degisim": -17.0,
+    "puan": 9.03,
+    "zirve": -17.0,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "B. Leverkusen - Paderborn",
+    "kickoff": "17:30",
+    "secim": "Deplasman",
+    "acilis": "8.27",
+    "simdi": "6.87",
+    "degisim": -16.9,
+    "puan": 2.09,
+    "zirve": -16.9,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Chelsea - Leeds United",
+    "kickoff": "18:00",
+    "secim": "Ev Alt 0.5",
+    "acilis": "4.73",
+    "simdi": "3.93",
+    "degisim": -16.9,
+    "puan": 3.56,
+    "zirve": -16.9,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Strasbourg - Brest",
+    "kickoff": "22:45",
+    "secim": "Alt 1.5",
+    "acilis": "4.19",
+    "simdi": "3.48",
+    "degisim": -16.9,
+    "puan": 4.19,
+    "zirve": -16.9,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Lazio - Lecce",
+    "kickoff": "17:00",
+    "secim": "İY Deplasman",
+    "acilis": "6.34",
+    "simdi": "5.28",
+    "degisim": -16.7,
+    "puan": 2.74,
+    "zirve": -16.7,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Lazio - Lecce",
+    "kickoff": "17:00",
+    "secim": "ÇŞ X2",
+    "acilis": "2.63",
+    "simdi": "2.21",
+    "degisim": -16.0,
+    "puan": null,
+    "zirve": -16.0,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "RC Lens - Toulouse",
+    "kickoff": "22:45",
+    "secim": "Alt 1.5",
+    "acilis": "4.35",
+    "simdi": "3.66",
+    "degisim": -15.9,
+    "puan": 3.7,
+    "zirve": -16.6,
+    "zirve_saat": "13:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Lazio - Lecce",
+    "kickoff": "17:00",
+    "secim": "Dep Üst 2.5",
+    "acilis": "12.25",
+    "simdi": "10.35",
+    "degisim": -15.5,
+    "puan": null,
+    "zirve": -15.5,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Parma - AS Roma",
+    "kickoff": "20:00",
+    "secim": "Üst 4.5",
+    "acilis": "3.75",
+    "simdi": "3.18",
+    "degisim": -15.2,
+    "puan": 4.07,
+    "zirve": -15.2,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   }
+  ],
+  "yukselenler": [
+   {
+    "mac": "Fatih Karagümrük - Boluspor",
+    "kickoff": "19:00",
+    "secim": "Deplasman",
+    "acilis": "10.4",
+    "simdi": "17.8",
+    "degisim": 71.2,
+    "puan": -3.37,
+    "zirve": 71.2,
+    "zirve_saat": "11:30",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "RC Lens - Toulouse",
+    "kickoff": "22:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "2.94",
+    "simdi": "3.99",
+    "degisim": 35.7,
+    "puan": -7.89,
+    "zirve": 35.7,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Fatih Karagümrük - Boluspor",
+    "kickoff": "19:00",
+    "secim": "İY Deplasman",
+    "acilis": "8.99",
+    "simdi": "11.65",
+    "degisim": 29.6,
+    "puan": -2.1,
+    "zirve": 29.6,
+    "zirve_saat": "11:30",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Bournemouth - Nottingham Forest",
+    "kickoff": "18:00",
+    "secim": "Üst 4.5",
+    "acilis": "5.33",
+    "simdi": "6.71",
+    "degisim": 25.9,
+    "puan": null,
+    "zirve": 25.9,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Monaco - AJ Auxerre",
+    "kickoff": "22:45",
+    "secim": "Dep Üst 2.5",
+    "acilis": "10.45",
+    "simdi": "13.05",
+    "degisim": 24.9,
+    "puan": null,
+    "zirve": 27.3,
+    "zirve_saat": "11:30",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Bournemouth - Nottingham Forest",
+    "kickoff": "18:00",
+    "secim": "Dep Üst 2.5",
+    "acilis": "7.42",
+    "simdi": "9.26",
+    "degisim": 24.8,
+    "puan": null,
+    "zirve": 24.8,
+    "zirve_saat": "11:30",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Monaco - AJ Auxerre",
+    "kickoff": "22:45",
+    "secim": "Üst 4.5",
+    "acilis": "3.53",
+    "simdi": "4.4",
+    "degisim": 24.6,
+    "puan": -4.86,
+    "zirve": 24.6,
+    "zirve_saat": "11:30",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "RC Lens - Toulouse",
+    "kickoff": "22:45",
+    "secim": "Üst 4.5",
+    "acilis": "4.2",
+    "simdi": "5.22",
+    "degisim": 24.3,
+    "puan": null,
+    "zirve": 25.7,
+    "zirve_saat": "13:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Chelsea - Leeds United",
+    "kickoff": "18:00",
+    "secim": "Ev Üst 2.5",
+    "acilis": "3.25",
+    "simdi": "4.02",
+    "degisim": 23.7,
+    "puan": -4.99,
+    "zirve": 24.3,
+    "zirve_saat": "13:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Strasbourg - Brest",
+    "kickoff": "22:45",
+    "secim": "Üst 4.5",
+    "acilis": "4.4",
+    "simdi": "5.4",
+    "degisim": 22.7,
+    "puan": null,
+    "zirve": 22.7,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Chelsea - Leeds United",
+    "kickoff": "18:00",
+    "secim": "Üst 4.5",
+    "acilis": "4.91",
+    "simdi": "6.01",
+    "degisim": 22.4,
+    "puan": null,
+    "zirve": 22.4,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "RC Lens - Toulouse",
+    "kickoff": "22:45",
+    "secim": "Ev sahibi",
+    "acilis": "1.66",
+    "simdi": "1.98",
+    "degisim": 19.3,
+    "puan": -8.36,
+    "zirve": 19.3,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "RC Lens - Toulouse",
+    "kickoff": "22:45",
+    "secim": "Ev Üst 1.5",
+    "acilis": "1.56",
+    "simdi": "1.86",
+    "degisim": 19.2,
+    "puan": -9.03,
+    "zirve": 19.2,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Charleroi - St. Truidense",
+    "kickoff": "18:00",
+    "secim": "Üst 4.5",
+    "acilis": "3.85",
+    "simdi": "4.59",
+    "degisim": 19.2,
+    "puan": -3.47,
+    "zirve": 19.2,
+    "zirve_saat": "13:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "B. Leverkusen - Paderborn",
+    "kickoff": "17:30",
+    "secim": "Dep Alt 0.5",
+    "acilis": "2.16",
+    "simdi": "2.57",
+    "degisim": 19.0,
+    "puan": -6.41,
+    "zirve": 19.0,
+    "zirve_saat": "16:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   }
+  ],
+  "aday_esigi_puan": 5.0,
+  "adaylar": [
+   {
+    "mac": "RC Lens - Toulouse",
+    "kickoff": "22:45",
+    "secim": "Ev Alt 1.5",
+    "acilis": "1.94",
+    "simdi": "1.61",
+    "puan": 9.03,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -17.0,
+    "cekim": "16:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 7.89
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 5.73
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 5.52
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 5.49
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 4.0
+     },
+     {
+      "secim": "ÇŞ X2",
+      "puan": 3.94
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 3.7
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 3.57
+     }
+    ]
+   },
+   {
+    "mac": "RC Lens - Toulouse",
+    "kickoff": "22:45",
+    "secim": "Ev Alt 2.5",
+    "acilis": "1.23",
+    "simdi": "1.1",
+    "puan": 7.89,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -10.6,
+    "cekim": "16:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 9.03
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 5.73
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 5.52
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 5.49
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 4.0
+     },
+     {
+      "secim": "ÇŞ X2",
+      "puan": 3.94
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 3.7
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 3.57
+     }
+    ]
+   },
+   {
+    "mac": "B. Leverkusen - Paderborn",
+    "kickoff": "17:30",
+    "secim": "Dep Üst 0.5",
+    "acilis": "1.44",
+    "simdi": "1.3",
+    "puan": 6.41,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -9.7,
+    "cekim": "16:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 6.34
+     },
+     {
+      "secim": "KG Var",
+      "puan": 6.19
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 4.85
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 4.47
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 3.73
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 3.68
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 3.03
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 2.09
+     }
+    ]
+   },
+   {
+    "mac": "B. Leverkusen - Paderborn",
+    "kickoff": "17:30",
+    "secim": "Dep Üst 1.5",
+    "acilis": "3.51",
+    "simdi": "2.78",
+    "puan": 6.34,
+    "band": "≥5p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -20.8,
+    "cekim": "16:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 6.41
+     },
+     {
+      "secim": "KG Var",
+      "puan": 6.19
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 4.85
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 4.47
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 3.73
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 3.68
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 3.03
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 2.09
+     }
+    ]
+   },
+   {
+    "mac": "B. Leverkusen - Paderborn",
+    "kickoff": "17:30",
+    "secim": "KG Var",
+    "acilis": "1.53",
+    "simdi": "1.38",
+    "puan": 6.19,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -9.8,
+    "cekim": "16:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 6.41
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 6.34
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 4.85
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 4.47
+     },
+     {
+      "secim": "İY KG Var",
+      "puan": 3.73
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 3.68
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 3.03
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 2.09
+     }
+    ]
+   },
+   {
+    "mac": "Monaco - AJ Auxerre",
+    "kickoff": "22:45",
+    "secim": "Alt 3.5",
+    "acilis": "1.5",
+    "simdi": "1.35",
+    "puan": 6.13,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -10.0,
+    "cekim": "16:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Alt 2.5",
+      "puan": 5.91
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 4.86
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 4.73
+     },
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 4.58
+     },
+     {
+      "secim": "Dep Alt 0.5",
+      "puan": 4.26
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 4.15
+     },
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 3.96
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 3.8
+     }
+    ]
+   },
+   {
+    "mac": "Strasbourg - Brest",
+    "kickoff": "22:45",
+    "secim": "Alt 2.5",
+    "acilis": "2.03",
+    "simdi": "1.78",
+    "puan": 6.06,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -12.3,
+    "cekim": "16:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Alt 3.5",
+      "puan": 5.53
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 4.95
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 4.85
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 4.19
+     },
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 4.11
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 4.1
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 3.33
+     },
+     {
+      "secim": "Dep Alt 0.5",
+      "puan": 3.17
+     }
+    ]
+   },
+   {
+    "mac": "Monaco - AJ Auxerre",
+    "kickoff": "22:45",
+    "secim": "Alt 2.5",
+    "acilis": "2.37",
+    "simdi": "2.04",
+    "puan": 5.91,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -13.9,
+    "cekim": "16:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Alt 3.5",
+      "puan": 6.13
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 4.86
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 4.73
+     },
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 4.58
+     },
+     {
+      "secim": "Dep Alt 0.5",
+      "puan": 4.26
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 4.15
+     },
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 3.96
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 3.8
+     }
+    ]
+   },
+   {
+    "mac": "RC Lens - Toulouse",
+    "kickoff": "22:45",
+    "secim": "Deplasman",
+    "acilis": "3.63",
+    "simdi": "2.93",
+    "puan": 5.73,
+    "band": "≥5p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -19.3,
+    "cekim": "16:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 9.03
+     },
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 7.89
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 5.52
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 5.49
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 4.0
+     },
+     {
+      "secim": "ÇŞ X2",
+      "puan": 3.94
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 3.7
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 3.57
+     }
+    ]
+   },
+   {
+    "mac": "Parma - AS Roma",
+    "kickoff": "20:00",
+    "secim": "Dep Üst 2.5",
+    "acilis": "1.93",
+    "simdi": "1.71",
+    "puan": 5.58,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -11.4,
+    "cekim": "16:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Üst 3.5",
+      "puan": 4.88
+     },
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 4.81
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 4.47
+     },
+     {
+      "secim": "Üst 4.5",
+      "puan": 4.07
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 3.73
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.55
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 3.5
+     },
+     {
+      "secim": "İY Üst 0.5",
+      "puan": 2.25
+     }
+    ]
+   },
+   {
+    "mac": "Strasbourg - Brest",
+    "kickoff": "22:45",
+    "secim": "Alt 3.5",
+    "acilis": "1.35",
+    "simdi": "1.25",
+    "puan": 5.53,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -7.4,
+    "cekim": "16:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Alt 2.5",
+      "puan": 6.06
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 4.95
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 4.85
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 4.19
+     },
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 4.11
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 4.1
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 3.33
+     },
+     {
+      "secim": "Dep Alt 0.5",
+      "puan": 3.17
+     }
+    ]
+   },
+   {
+    "mac": "RC Lens - Toulouse",
+    "kickoff": "22:45",
+    "secim": "Alt 2.5",
+    "acilis": "2.09",
+    "simdi": "1.84",
+    "puan": 5.52,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -12.0,
+    "cekim": "16:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 9.03
+     },
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 7.89
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 5.73
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 5.49
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 4.0
+     },
+     {
+      "secim": "ÇŞ X2",
+      "puan": 3.94
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 3.7
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 3.57
+     }
+    ]
+   },
+   {
+    "mac": "RC Lens - Toulouse",
+    "kickoff": "22:45",
+    "secim": "Alt 3.5",
+    "acilis": "1.38",
+    "simdi": "1.27",
+    "puan": 5.49,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -8.0,
+    "cekim": "16:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 9.03
+     },
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 7.89
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 5.73
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 5.52
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 4.0
+     },
+     {
+      "secim": "ÇŞ X2",
+      "puan": 3.94
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 3.7
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 3.57
+     }
+    ]
+   },
+   {
+    "mac": "Chelsea - Leeds United",
+    "kickoff": "18:00",
+    "secim": "Ev Alt 1.5",
+    "acilis": "1.82",
+    "simdi": "1.63",
+    "puan": 5.32,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -10.4,
+    "cekim": "16:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 4.99
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 4.89
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 4.37
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 3.59
+     },
+     {
+      "secim": "Ev Alt 0.5",
+      "puan": 3.56
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 3.19
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 2.94
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 2.77
+     }
+    ]
+   },
+   {
+    "mac": "Bournemouth - Nottingham Forest",
+    "kickoff": "18:00",
+    "secim": "Alt 2.5",
+    "acilis": "1.82",
+    "simdi": "1.64",
+    "puan": 5.05,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -9.9,
+    "cekim": "16:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Alt 3.5",
+      "puan": 4.62
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 4.58
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 4.28
+     },
+     {
+      "secim": "Dep Alt 0.5",
+      "puan": 4.12
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 3.56
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 3.23
+     },
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 3.01
+     },
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 2.9
+     }
+    ]
+   },
+   {
+    "mac": "Groningen - Heerenveen",
+    "kickoff": "23:00",
+    "secim": "Ev Alt 1.5",
+    "acilis": "1.89",
+    "simdi": "1.7",
+    "puan": 5.03,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -10.1,
+    "cekim": "16:17",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 4.46
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 4.17
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 2.71
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 2.66
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 2.38
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 2.32
+     },
+     {
+      "secim": "ÇŞ X2",
+      "puan": 2.25
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 1.86
+     }
+    ]
+   }
+  ]
+ },
+ "pencere": {
+  "tur": "16:15",
+  "kickoff_son": "20:00",
+  "metin": "Pencere: 20:00'ye kadar başlayan maçlar"
+ },
+ "ortak": [],
+ "datagaffer_100": {
+  "kaldirildi": true,
+  "kayitlar": [],
+  "okunan_takim": 0
+ }
+}
