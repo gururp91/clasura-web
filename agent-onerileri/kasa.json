@@ -1,0 +1,1555 @@
+{
+ "surum": "2.0",
+ "tarih": "2026-11-28",
+ "uretim_zamani": "2026-11-28T21:15:00+03:00",
+ "baslik": "Agent Önerileri",
+ "ozet": "21:15 turu (son tur). Bültende 10 maç; Meşin Yuvarlak önceki turların açık önerileri sürüyor (yeni net favori yok), Agent Macau 5 yeni öneri (kalan tüm maçlar).",
+ "bacaklar": [
+  {
+   "kod": "futbol",
+   "ad": "Meşin Yuvarlak",
+   "oneriler": [
+    {
+     "mac": "SC Cambuur–Sparta Rotterdam",
+     "lig": "Hollanda Eredivisie",
+     "kickoff_trt": "23:00",
+     "market": "Karşılıklı Gol",
+     "secim": "Var",
+     "oran": 1.26,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "KG VAR",
+     "gerekce": "DataGaffer iki takıma da 2,1'er gol bekliyor ve karşılıklı gole %77 ihtimal veriyor; maçı günün en hızlı tempolu maçı sayıyor.",
+     "zayif_yani": "Sparta evde çok gol yese de deplasmanda bu sezon yalnız 6 maç oynadı; erken bir gol maçı tek tarafa kilitleyebilir.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,85 bekliyor, günün en yükseği; Cambuur evde 7 maçta maç başı 1,5 üretip 2,2 yiyor, Sparta deplasmanda 6 maçta 1,9 üretip 2,2 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 90,7, günün en yükseği; bu tempodaki 64 maçın %78'inde iki takım da gol atmış (genel ortalama %57).",
+     "ev_sahasi": "Cambuur'un saha puanı 21,4, Sparta'nın deplasman puanı 34,2; bu 13 puanlık fark grubunda saha gücü üstün taraf 837 maçın %42'sini kazanmış, gol için gerekçe değil.",
+     "gostergeler": [
+      "tempo",
+      "xGOT",
+      "büyük şans",
+      "iki takım beklenen gol ≥1,3"
+     ]
+    },
+    {
+     "mac": "Charleroi–SK Beveren",
+     "lig": "Belçika Pro Lig",
+     "kickoff_trt": "22:45",
+     "market": "Maç Sonucu",
+     "secim": "1",
+     "oran": 1.45,
+     "sinif": "BANKO",
+     "karar": "oyna",
+     "kisa": "MS1",
+     "gerekce": "DataGaffer Charleroi'ye %70 kazanma şansı veriyor; bu seviyedeki favoriler bu sezon 199 maçın 154'ünü kazandı.",
+     "zayif_yani": "Beveren deplasmanda maç başı 3 gol yiyor ama Charleroi evde de 1,7 gol yiyor; beraberliğe hâlâ %18 ihtimal var.",
+     "tur": "takim",
+     "ters_bacak": null,
+     "xgot": "DataGaffer bu maçta kaleyi bulan şutların gol değerini toplam 3,65 bekliyor, günün dördüncüsü; Charleroi evde 6 maçta maç başı 2,3 üretip 1,7 yiyor, Beveren deplasmanda 6 maçta 0,7 üretip 2,8 yiyor.",
+     "tempo": "DataGaffer'ın tempo puanı 53,9, günün 14.'sü; bu tempodaki 633 maçın %56'sında 3 ve üstü gol olmuş, kazanan için gerekçe değil.",
+     "ev_sahasi": "Charleroi'nin saha puanı 60,4, Beveren'in deplasman puanı 10,5; bu 50 puanlık fark grubunda saha gücü üstün taraf 420 maçın %64'ünü kazanmış.",
+     "gostergeler": [
+      "net favori"
+     ]
+    },
+    {
+     "mac": "Real Madrid–Alaves",
+     "lig": "İspanya La Liga",
+     "kickoff_trt": "23:00",
+     "market": "Oyuncu Gol Atar",
+     "secim": "Kylian Mbappe",
+     "oran": 1.21,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "GOL: Kylian Mbappe",
+     "gerekce": "DataGaffer Mbappé'nin gol atmasına %71 ihtimal veriyor; Real Madrid'den bu maçta 3 gol bekliyor.",
+     "zayif_yani": "Kaç dakika oynayacağı verimizde yok; maç erken koparsa dinlendirilebilir.",
+     "tur": "oyuncu",
+     "ters_bacak": null
+    }
+   ],
+   "bos_siniflar": [
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": "",
+   "oyuncu_gerekce": "Gol ihtimali en yüksek ve takımından yüksek gol beklenen iki isim seçildi; şut ve kaleyi bulan şut çizgilerinin çoğu 1.20'nin altında."
+  },
+  {
+   "kod": "hareket",
+   "ad": "Agent Macau",
+   "oneriler": [
+    {
+     "mac": "SC Cambuur–Sparta Rotterdam",
+     "lig": "Hollanda Eredivisie",
+     "kickoff_trt": "23:00",
+     "market": "Maç Sonucu",
+     "secim": "1",
+     "oran": 1.69,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "MS1",
+     "gerekce": "Cambuur'un kazanma oranı 2,00'den 1,69'a indi; ev sahibinin 1,5 ve 2,5 üst gol ve ilk yarı galibiyet oranları da aynı yönde düştü.",
+     "zayif_yani": "Sparta deplasmanda maç başı 1,9 gol değeri üretiyor ve Meşin Yuvarlak iki takımın da gol atmasını bekliyor; tek gollü bir fark beraberliğe dönebilir.",
+     "tur": "takim",
+     "puan": 8.0,
+     "band": "≥5p",
+     "olcum": "21:22",
+     "ters_bacak": null,
+     "ilk": {
+      "oran": 1.69,
+      "puan": 8.0,
+      "olcum": "21:21"
+     },
+     "kontrol": {
+      "saat": "21:22",
+      "oran": 1.69,
+      "puan": 7.95,
+      "fark": -0.05,
+      "durum": "tutuyor"
+     },
+     "hiz": "sabit"
+    },
+    {
+     "mac": "Vitoria Guimaraes–CF Estrela",
+     "lig": "Portekiz Premier Lig",
+     "kickoff_trt": "23:30",
+     "market": "Deplasman Alt/Üst 1.5",
+     "secim": "Üst",
+     "oran": 2.57,
+     "sinif": "SÜRPRİZ",
+     "karar": "dikkatle oyna",
+     "kisa": "DEP 1.5 ÜST",
+     "gerekce": "Estrela'nın en az 2 gol atma oranı 3,35'ten 2,57'ye indi; deplasman 0,5 üst, karşılıklı gol, 2,5 ve 3,5 üst oranları da düştü.",
+     "zayif_yani": "Oran hâlâ 2,57 — iddaa bu ihtimali yüzde 40'ın altında görüyor; deplasman takımının iki gol atması zor bir eşik.",
+     "tur": "takim",
+     "puan": 7.7,
+     "band": "≥5p",
+     "olcum": "21:22",
+     "ters_bacak": null,
+     "ilk": {
+      "oran": 2.57,
+      "puan": 7.7,
+      "olcum": "21:21"
+     },
+     "kontrol": {
+      "saat": "21:22",
+      "oran": 2.57,
+      "puan": 7.71,
+      "fark": 0.01,
+      "durum": "tutuyor"
+     },
+     "hiz": "sabit"
+    },
+    {
+     "mac": "Lommel SK–Zulte Waregem",
+     "lig": "Belçika Pro Lig",
+     "kickoff_trt": "22:45",
+     "market": "Ev Sahibi Alt/Üst 1.5",
+     "secim": "Alt",
+     "oran": 1.39,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "EV 1.5 ALT",
+     "gerekce": "Lommel'in en fazla 1 gol atma oranı 1,58'den 1,39'a indi; ev sahibinin hiç gol atmaması, maçın 2,5 ve 3,5 alt oranları da aynı yönde düştü.",
+     "zayif_yani": "Maçın genel alt oranlarındaki düşüş 5 puanın altında kaldı; hareketin en güçlü kısmı yalnız ev sahibinin gol marketinde.",
+     "tur": "takim",
+     "puan": 7.4,
+     "band": "≥5p",
+     "olcum": "21:22",
+     "ters_bacak": null,
+     "ilk": {
+      "oran": 1.39,
+      "puan": 7.4,
+      "olcum": "21:21"
+     },
+     "kontrol": {
+      "saat": "21:22",
+      "oran": 1.39,
+      "puan": 7.4,
+      "fark": 0.0,
+      "durum": "tutuyor"
+     },
+     "hiz": "sabit"
+    },
+    {
+     "mac": "Charleroi–SK Beveren",
+     "lig": "Belçika Pro Lig",
+     "kickoff_trt": "22:45",
+     "market": "Ev Sahibi Alt/Üst 2.5",
+     "secim": "Alt",
+     "oran": 1.24,
+     "sinif": "BANKO",
+     "karar": "dikkatle oyna",
+     "kisa": "EV 2.5 ALT",
+     "gerekce": "Charleroi'nin en fazla 2 gol atma oranı 1,34'ten 1,24'e indi; ev sahibinin 1,5 alt ve maçın 2,5 alt oranları da aynı yönde düştü.",
+     "zayif_yani": "Oran 1,24 ile tabana yakın ve beraberlik ile deplasman oranları da düşüyor; Meşin Yuvarlak'ın Charleroi galibiyeti önerisiyle aynı hikâyeyi anlatmıyor.",
+     "tur": "takim",
+     "puan": 5.4,
+     "band": "≥5p",
+     "olcum": "21:22",
+     "ters_bacak": null,
+     "ilk": {
+      "oran": 1.24,
+      "puan": 5.4,
+      "olcum": "21:21"
+     },
+     "kontrol": {
+      "saat": "21:22",
+      "oran": 1.24,
+      "puan": 5.37,
+      "fark": -0.03,
+      "durum": "tutuyor"
+     },
+     "hiz": "sabit"
+    },
+    {
+     "mac": "Nice–Troyes",
+     "lig": "Fransa Ligue 1",
+     "kickoff_trt": "22:45",
+     "market": "Alt/Üst 2.5",
+     "secim": "Alt",
+     "oran": 1.82,
+     "sinif": "PLASE",
+     "karar": "dikkatle oyna",
+     "kisa": "2.5 ALT",
+     "gerekce": "Maçın 2,5 alt oranı 2,03'ten 1,82'ye indi; 3,5 alt, ev sahibi 1,5 alt ve karşılıklı gol yok oranları da aynı yönde düştü.",
+     "zayif_yani": "Puan eşiğin hemen üstünde (5,1) ve diğer alt marketlerinin hiçbiri tek başına 5 puana ulaşmadı.",
+     "tur": "takim",
+     "puan": 5.1,
+     "band": "≥5p",
+     "olcum": "21:22",
+     "ters_bacak": null,
+     "ilk": {
+      "oran": 1.82,
+      "puan": 5.1,
+      "olcum": "21:21"
+     },
+     "kontrol": {
+      "saat": "21:22",
+      "oran": 1.82,
+      "puan": 5.06,
+      "fark": -0.04,
+      "durum": "tutuyor"
+     },
+     "hiz": "sabit"
+    }
+   ],
+   "bos_siniflar": [],
+   "oyuncu_notu": "",
+   "kontrol_saati": "21:22"
+  },
+  {
+   "kod": "deger",
+   "ad": "Value Betting Agent",
+   "oneriler": [],
+   "bos_siniflar": [
+    "BANKO",
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": ""
+  },
+  {
+   "kod": "x",
+   "ad": "X — @futbolapexx",
+   "oneriler": [],
+   "bos_siniflar": [
+    "BANKO",
+    "PLASE",
+    "SÜRPRİZ"
+   ],
+   "oyuncu_notu": ""
+  }
+ ],
+ "karne": {
+  "satirlar": [
+   {
+    "ad": "Meşin Yuvarlak",
+    "kapanan": 277,
+    "tuttu": 180,
+    "isabet": 65.0,
+    "acik": 9,
+    "beklenen": 63.4,
+    "fark": 1.6,
+    "fark_pay": 5.6,
+    "beklenti_tahmini": false,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 262,
+      "tuttu": 171,
+      "beklenen": 64.3
+     },
+     "PLASE": {
+      "kapanan": 15,
+      "tuttu": 9,
+      "beklenen": 48.3
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "Meşin Yuvarlak — Oyuncu",
+    "kapanan": 92,
+    "tuttu": 47,
+    "isabet": 51.1,
+    "acik": 2,
+    "beklenen": 59.5,
+    "fark": -8.4,
+    "fark_pay": 9.8,
+    "beklenti_tahmini": true,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 73,
+      "tuttu": 41,
+      "beklenen": 64.0
+     },
+     "PLASE": {
+      "kapanan": 15,
+      "tuttu": 5,
+      "beklenen": 46.1
+     },
+     "SÜRPRİZ": {
+      "kapanan": 4,
+      "tuttu": 1,
+      "beklenen": 27.6
+     }
+    }
+   },
+   {
+    "ad": "Agent Macau",
+    "kapanan": 238,
+    "tuttu": 137,
+    "isabet": 57.6,
+    "acik": 13,
+    "beklenen": 54.1,
+    "fark": 3.5,
+    "fark_pay": 6.2,
+    "beklenti_tahmini": false,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 167,
+      "tuttu": 110,
+      "beklenen": 59.0
+     },
+     "PLASE": {
+      "kapanan": 64,
+      "tuttu": 25,
+      "beklenen": 43.8
+     },
+     "SÜRPRİZ": {
+      "kapanan": 7,
+      "tuttu": 2,
+      "beklenen": 29.9
+     }
+    }
+   },
+   {
+    "ad": "Value Betting Agent",
+    "kapanan": 0,
+    "tuttu": 0,
+    "isabet": null,
+    "acik": 0,
+    "beklenen": null,
+    "fark": null,
+    "fark_pay": null,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 0,
+      "tuttu": 0
+     },
+     "PLASE": {
+      "kapanan": 0,
+      "tuttu": 0
+     },
+     "SÜRPRİZ": {
+      "kapanan": 0,
+      "tuttu": 0
+     }
+    }
+   },
+   {
+    "ad": "X — @futbolapexx",
+    "kapanan": 20,
+    "tuttu": 8,
+    "isabet": 40.0,
+    "acik": 1,
+    "beklenen": 43.3,
+    "fark": -3.3,
+    "fark_pay": 21.5,
+    "beklenti_tahmini": false,
+    "siniflar": {
+     "BANKO": {
+      "kapanan": 2,
+      "tuttu": 1,
+      "beklenen": 50.0
+     },
+     "PLASE": {
+      "kapanan": 17,
+      "tuttu": 7,
+      "beklenen": 43.8
+     },
+     "SÜRPRİZ": {
+      "kapanan": 1,
+      "tuttu": 0,
+      "beklenen": 21.2
+     }
+    }
+   }
+  ],
+  "olcum": [
+   {
+    "ad": "Agent Macau — ilk öneri (eşik altına inenler dahil)",
+    "kapanan": 260,
+    "tuttu": 151,
+    "isabet": 58.1,
+    "acik": 14,
+    "beklenen": 53.7,
+    "fark": 4.4,
+    "fark_pay": 5.9,
+    "beklenti_tahmini": false,
+    "siniflar": null
+   },
+   {
+    "ad": "İki Agent'ın ortak önerileri",
+    "kapanan": 2,
+    "tuttu": 1,
+    "isabet": 50.0,
+    "acik": 0,
+    "beklenen": 61.6,
+    "fark": -11.6,
+    "fark_pay": 67.4,
+    "beklenti_tahmini": false,
+    "siniflar": null
+   },
+   {
+    "ad": "Agent Macau — dünya fiyatı (Pinnacle) TEYİT etti",
+    "kapanan": 26,
+    "tuttu": 16,
+    "isabet": 61.5,
+    "acik": 0,
+    "beklenen": 54.8,
+    "fark": 6.7,
+    "fark_pay": 18.9,
+    "beklenti_tahmini": false,
+    "siniflar": null
+   },
+   {
+    "ad": "Agent Macau — dünya fiyatı teyit ETMEDİ",
+    "kapanan": 77,
+    "tuttu": 48,
+    "isabet": 62.3,
+    "acik": 8,
+    "beklenen": 56.3,
+    "fark": 6.1,
+    "fark_pay": 10.9,
+    "beklenti_tahmini": false,
+    "siniflar": null
+   }
+  ]
+ },
+ "hareket_tablo": {
+  "esik": 7.0,
+  "saatler": [
+   "11:30",
+   "13:15",
+   "16:15",
+   "19:15",
+   "21:15"
+  ],
+  "son": "21:16",
+  "son_etiket": "21:15",
+  "limit": 15,
+  "kickoff_son": null,
+  "tablo_filtresi": "Tablolar oranı en az %7 değişen seçimleri gösterir; öneri eşiği puandır.",
+  "aciklama": "Öneri eşiği 5 puan; puanın daha büyük olması daha güçlü sinyal olduğunu göstermedi (2 Kas 2026 ölçümü). Puan, bahsin kazanma ihtimalinin açılıştan bu yana kaç puan arttığıdır; iddaa'nın kâr payı çıkarılarak hesaplanır (ör. ihtimal %50'den %57'ye çıktıysa +7 puan).",
+  "dusen_toplam": 56,
+  "yukselen_toplam": 58,
+  "dusenler": [
+   {
+    "mac": "Vitoria Guimaraes - CF Estrela",
+    "kickoff": "23:30",
+    "secim": "Dep Üst 2.5",
+    "acilis": "9.88",
+    "simdi": "6.76",
+    "degisim": -31.6,
+    "puan": null,
+    "zirve": -31.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Vitoria Guimaraes - CF Estrela",
+    "kickoff": "23:30",
+    "secim": "Dep Üst 1.5",
+    "acilis": "3.35",
+    "simdi": "2.57",
+    "degisim": -23.3,
+    "puan": 7.71,
+    "zirve": -23.3,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Vitoria Guimaraes - CF Estrela",
+    "kickoff": "23:30",
+    "secim": "Üst 4.5",
+    "acilis": "5.43",
+    "simdi": "4.38",
+    "degisim": -19.3,
+    "puan": null,
+    "zirve": -19.3,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Lommel SK - Zulte Waregem",
+    "kickoff": "22:45",
+    "secim": "Ev Alt 0.5",
+    "acilis": "3.83",
+    "simdi": "3.13",
+    "degisim": -18.3,
+    "puan": 5.08,
+    "zirve": -18.3,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Vitoria Guimaraes - CF Estrela",
+    "kickoff": "23:30",
+    "secim": "Deplasman",
+    "acilis": "4.41",
+    "simdi": "3.62",
+    "degisim": -17.9,
+    "puan": 4.28,
+    "zirve": -17.9,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "SC Cambuur - Sparta Rotterdam",
+    "kickoff": "23:00",
+    "secim": "Ev Üst 2.5",
+    "acilis": "2.91",
+    "simdi": "2.39",
+    "degisim": -17.9,
+    "puan": 6.39,
+    "zirve": -18.9,
+    "zirve_saat": "16:15",
+    "zirve_ayri": true,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Vitoria Guimaraes - CF Estrela",
+    "kickoff": "23:30",
+    "secim": "İY Deplasman",
+    "acilis": "4.82",
+    "simdi": "4.02",
+    "degisim": -16.6,
+    "puan": 3.57,
+    "zirve": -16.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Charleroi - SK Beveren",
+    "kickoff": "22:45",
+    "secim": "Ev Alt 0.5",
+    "acilis": "6.37",
+    "simdi": "5.35",
+    "degisim": -16.0,
+    "puan": null,
+    "zirve": -16.0,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "SC Cambuur - Sparta Rotterdam",
+    "kickoff": "23:00",
+    "secim": "Ev sahibi",
+    "acilis": "2",
+    "simdi": "1.69",
+    "degisim": -15.5,
+    "puan": 7.95,
+    "zirve": -15.5,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Charleroi - SK Beveren",
+    "kickoff": "22:45",
+    "secim": "Deplasman",
+    "acilis": "5.17",
+    "simdi": "4.37",
+    "degisim": -15.5,
+    "puan": 3.0,
+    "zirve": -16.2,
+    "zirve_saat": "19:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Le Mans - Lille",
+    "kickoff": "22:45",
+    "secim": "Üst 4.5",
+    "acilis": "7.25",
+    "simdi": "6.17",
+    "degisim": -14.9,
+    "puan": null,
+    "zirve": -15.3,
+    "zirve_saat": "16:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Vitoria Guimaraes - CF Estrela",
+    "kickoff": "23:30",
+    "secim": "Üst 3.5",
+    "acilis": "2.79",
+    "simdi": "2.38",
+    "degisim": -14.7,
+    "puan": 5.42,
+    "zirve": -14.7,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Le Mans - Lille",
+    "kickoff": "22:45",
+    "secim": "Dep Üst 2.5",
+    "acilis": "4.51",
+    "simdi": "3.85",
+    "degisim": -14.6,
+    "puan": 3.2,
+    "zirve": -14.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Lommel SK - Zulte Waregem",
+    "kickoff": "22:45",
+    "secim": "Alt 1.5",
+    "acilis": "4.57",
+    "simdi": "3.91",
+    "degisim": -14.4,
+    "puan": 3.14,
+    "zirve": -14.4,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Vitoria Guimaraes - CF Estrela",
+    "kickoff": "23:30",
+    "secim": "İY KG Var",
+    "acilis": "4.26",
+    "simdi": "3.65",
+    "degisim": -14.3,
+    "puan": 3.27,
+    "zirve": -14.3,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   }
+  ],
+  "yukselenler": [
+   {
+    "mac": "Lommel SK - Zulte Waregem",
+    "kickoff": "22:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "4.22",
+    "simdi": "5.6",
+    "degisim": 32.7,
+    "puan": null,
+    "zirve": 32.7,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "SC Cambuur - Sparta Rotterdam",
+    "kickoff": "23:00",
+    "secim": "Deplasman",
+    "acilis": "2.65",
+    "simdi": "3.36",
+    "degisim": 26.8,
+    "puan": -6.87,
+    "zirve": 26.8,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "SC Cambuur - Sparta Rotterdam",
+    "kickoff": "23:00",
+    "secim": "Ev Alt 0.5",
+    "acilis": "5.3",
+    "simdi": "6.59",
+    "degisim": 24.3,
+    "puan": null,
+    "zirve": 26.8,
+    "zirve_saat": "16:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Vitoria Guimaraes - CF Estrela",
+    "kickoff": "23:30",
+    "secim": "Dep Alt 0.5",
+    "acilis": "2.25",
+    "simdi": "2.78",
+    "degisim": 23.6,
+    "puan": -7.51,
+    "zirve": 23.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Lommel SK - Zulte Waregem",
+    "kickoff": "22:45",
+    "secim": "Üst 4.5",
+    "acilis": "3.99",
+    "simdi": "4.81",
+    "degisim": 20.6,
+    "puan": -3.69,
+    "zirve": 20.6,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Nice - Troyes",
+    "kickoff": "22:45",
+    "secim": "Üst 4.5",
+    "acilis": "4.41",
+    "simdi": "5.28",
+    "degisim": 19.7,
+    "puan": null,
+    "zirve": 30.4,
+    "zirve_saat": "11:30",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Lommel SK - Zulte Waregem",
+    "kickoff": "22:45",
+    "secim": "Ev Üst 1.5",
+    "acilis": "1.91",
+    "simdi": "2.28",
+    "degisim": 19.4,
+    "puan": -7.4,
+    "zirve": 19.4,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "Vitoria Guimaraes - CF Estrela",
+    "kickoff": "23:30",
+    "secim": "Alt 1.5",
+    "acilis": "3.54",
+    "simdi": "4.21",
+    "degisim": 18.9,
+    "puan": -3.79,
+    "zirve": 18.9,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "SC Cambuur - Sparta Rotterdam",
+    "kickoff": "23:00",
+    "secim": "Dep Üst 2.5",
+    "acilis": "3.78",
+    "simdi": "4.48",
+    "degisim": 18.5,
+    "puan": -3.58,
+    "zirve": 21.4,
+    "zirve_saat": "19:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "SC Cambuur - Sparta Rotterdam",
+    "kickoff": "23:00",
+    "secim": "İY Deplasman",
+    "acilis": "3.05",
+    "simdi": "3.61",
+    "degisim": 18.4,
+    "puan": -4.44,
+    "zirve": 19.0,
+    "zirve_saat": "19:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "Charleroi - SK Beveren",
+    "kickoff": "22:45",
+    "secim": "Ev Üst 2.5",
+    "acilis": "2.43",
+    "simdi": "2.87",
+    "degisim": 18.1,
+    "puan": -5.37,
+    "zirve": 18.1,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "SÜRPRİZ",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Paris Saint Germain - Lorient",
+    "kickoff": "22:45",
+    "secim": "Dep Üst 1.5",
+    "acilis": "5.06",
+    "simdi": "5.91",
+    "degisim": 16.8,
+    "puan": null,
+    "zirve": 20.8,
+    "zirve_saat": "16:15",
+    "zirve_ayri": true,
+    "sinif": "SÜRPRİZ",
+    "durum": "YAVAŞLADI"
+   },
+   {
+    "mac": "SC Cambuur - Sparta Rotterdam",
+    "kickoff": "23:00",
+    "secim": "Ev Alt 1.5",
+    "acilis": "1.96",
+    "simdi": "2.29",
+    "degisim": 16.8,
+    "puan": -6.39,
+    "zirve": 18.4,
+    "zirve_saat": "13:15",
+    "zirve_ayri": true,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   },
+   {
+    "mac": "SC Cambuur - Sparta Rotterdam",
+    "kickoff": "23:00",
+    "secim": "ÇŞ X2",
+    "acilis": "1.5",
+    "simdi": "1.74",
+    "degisim": 16.0,
+    "puan": -3.93,
+    "zirve": 16.0,
+    "zirve_saat": "19:15",
+    "zirve_ayri": false,
+    "sinif": "BANKO",
+    "durum": "SABİT"
+   },
+   {
+    "mac": "Vitoria Guimaraes - CF Estrela",
+    "kickoff": "23:30",
+    "secim": "KG Yok",
+    "acilis": "1.81",
+    "simdi": "2.09",
+    "degisim": 15.5,
+    "puan": -6.55,
+    "zirve": 15.5,
+    "zirve_saat": "21:15",
+    "zirve_ayri": false,
+    "sinif": "PLASE",
+    "durum": "HIZLANDI"
+   }
+  ],
+  "aday_esigi_puan": 5.0,
+  "adaylar": [
+   {
+    "mac": "SC Cambuur - Sparta Rotterdam",
+    "kickoff": "23:00",
+    "secim": "Ev sahibi",
+    "acilis": "2",
+    "simdi": "1.69",
+    "puan": 7.95,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -15.5,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 6.39
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 6.39
+     },
+     {
+      "secim": "İY Ev",
+      "puan": 5.67
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 4.39
+     },
+     {
+      "secim": "Dep Alt 2.5",
+      "puan": 3.58
+     },
+     {
+      "secim": "ÇŞ 1X",
+      "puan": 3.22
+     },
+     {
+      "secim": "Dep Alt 0.5",
+      "puan": 2.91
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 2.16
+     }
+    ]
+   },
+   {
+    "mac": "Vitoria Guimaraes - CF Estrela",
+    "kickoff": "23:30",
+    "secim": "Dep Üst 1.5",
+    "acilis": "3.35",
+    "simdi": "2.57",
+    "puan": 7.71,
+    "band": "≥5p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -23.3,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 7.51
+     },
+     {
+      "secim": "KG Var",
+      "puan": 6.55
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 5.42
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 5.35
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 4.28
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 3.79
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 3.59
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.57
+     }
+    ]
+   },
+   {
+    "mac": "Vitoria Guimaraes - CF Estrela",
+    "kickoff": "23:30",
+    "secim": "Dep Üst 0.5",
+    "acilis": "1.41",
+    "simdi": "1.25",
+    "puan": 7.51,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -11.3,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 7.71
+     },
+     {
+      "secim": "KG Var",
+      "puan": 6.55
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 5.42
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 5.35
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 4.28
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 3.79
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 3.59
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.57
+     }
+    ]
+   },
+   {
+    "mac": "Lommel SK - Zulte Waregem",
+    "kickoff": "22:45",
+    "secim": "Ev Alt 1.5",
+    "acilis": "1.58",
+    "simdi": "1.39",
+    "puan": 7.4,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -12.0,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 0.5",
+      "puan": 5.08
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 4.99
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 4.87
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 4.27
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 3.98
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 3.69
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 3.38
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 3.14
+     }
+    ]
+   },
+   {
+    "mac": "Vitoria Guimaraes - CF Estrela",
+    "kickoff": "23:30",
+    "secim": "KG Var",
+    "acilis": "1.66",
+    "simdi": "1.47",
+    "puan": 6.55,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -11.4,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 7.71
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 7.51
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 5.42
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 5.35
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 4.28
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 3.79
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 3.59
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.57
+     }
+    ]
+   },
+   {
+    "mac": "SC Cambuur - Sparta Rotterdam",
+    "kickoff": "23:00",
+    "secim": "Ev Üst 1.5",
+    "acilis": "1.55",
+    "simdi": "1.39",
+    "puan": 6.39,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -10.3,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev sahibi",
+      "puan": 7.95
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 6.39
+     },
+     {
+      "secim": "İY Ev",
+      "puan": 5.67
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 4.39
+     },
+     {
+      "secim": "Dep Alt 2.5",
+      "puan": 3.58
+     },
+     {
+      "secim": "ÇŞ 1X",
+      "puan": 3.22
+     },
+     {
+      "secim": "Dep Alt 0.5",
+      "puan": 2.91
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 2.16
+     }
+    ]
+   },
+   {
+    "mac": "SC Cambuur - Sparta Rotterdam",
+    "kickoff": "23:00",
+    "secim": "Ev Üst 2.5",
+    "acilis": "2.91",
+    "simdi": "2.39",
+    "puan": 6.39,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -17.9,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev sahibi",
+      "puan": 7.95
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 6.39
+     },
+     {
+      "secim": "İY Ev",
+      "puan": 5.67
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 4.39
+     },
+     {
+      "secim": "Dep Alt 2.5",
+      "puan": 3.58
+     },
+     {
+      "secim": "ÇŞ 1X",
+      "puan": 3.22
+     },
+     {
+      "secim": "Dep Alt 0.5",
+      "puan": 2.91
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 2.16
+     }
+    ]
+   },
+   {
+    "mac": "SC Cambuur - Sparta Rotterdam",
+    "kickoff": "23:00",
+    "secim": "İY Ev",
+    "acilis": "2.44",
+    "simdi": "2.1",
+    "puan": 5.67,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -13.9,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev sahibi",
+      "puan": 7.95
+     },
+     {
+      "secim": "Ev Üst 1.5",
+      "puan": 6.39
+     },
+     {
+      "secim": "Ev Üst 2.5",
+      "puan": 6.39
+     },
+     {
+      "secim": "Dep Alt 1.5",
+      "puan": 4.39
+     },
+     {
+      "secim": "Dep Alt 2.5",
+      "puan": 3.58
+     },
+     {
+      "secim": "ÇŞ 1X",
+      "puan": 3.22
+     },
+     {
+      "secim": "Dep Alt 0.5",
+      "puan": 2.91
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 2.16
+     }
+    ]
+   },
+   {
+    "mac": "Vitoria Guimaraes - CF Estrela",
+    "kickoff": "23:30",
+    "secim": "Üst 3.5",
+    "acilis": "2.79",
+    "simdi": "2.38",
+    "puan": 5.42,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -14.7,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 7.71
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 7.51
+     },
+     {
+      "secim": "KG Var",
+      "puan": 6.55
+     },
+     {
+      "secim": "Üst 2.5",
+      "puan": 5.35
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 4.28
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 3.79
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 3.59
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.57
+     }
+    ]
+   },
+   {
+    "mac": "Charleroi - SK Beveren",
+    "kickoff": "22:45",
+    "secim": "Ev Alt 2.5",
+    "acilis": "1.34",
+    "simdi": "1.24",
+    "puan": 5.37,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -7.5,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 5.23
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 3.39
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 3.11
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 3.0
+     },
+     {
+      "secim": "ÇŞ X2",
+      "puan": 2.99
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 2.89
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 2.37
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 2.25
+     }
+    ]
+   },
+   {
+    "mac": "Vitoria Guimaraes - CF Estrela",
+    "kickoff": "23:30",
+    "secim": "Üst 2.5",
+    "acilis": "1.66",
+    "simdi": "1.5",
+    "puan": 5.35,
+    "band": "≥5p",
+    "sinif": "BANKO",
+    "degisim": -9.6,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Dep Üst 1.5",
+      "puan": 7.71
+     },
+     {
+      "secim": "Dep Üst 0.5",
+      "puan": 7.51
+     },
+     {
+      "secim": "KG Var",
+      "puan": 6.55
+     },
+     {
+      "secim": "Üst 3.5",
+      "puan": 5.42
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 4.28
+     },
+     {
+      "secim": "Üst 1.5",
+      "puan": 3.79
+     },
+     {
+      "secim": "İY Üst 1.5",
+      "puan": 3.59
+     },
+     {
+      "secim": "İY Deplasman",
+      "puan": 3.57
+     }
+    ]
+   },
+   {
+    "mac": "Charleroi - SK Beveren",
+    "kickoff": "22:45",
+    "secim": "Ev Alt 1.5",
+    "acilis": "2.25",
+    "simdi": "1.98",
+    "puan": 5.23,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -12.0,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 5.37
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 3.39
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 3.11
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 3.0
+     },
+     {
+      "secim": "ÇŞ X2",
+      "puan": 2.99
+     },
+     {
+      "secim": "Beraberlik",
+      "puan": 2.89
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 2.37
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 2.25
+     }
+    ]
+   },
+   {
+    "mac": "Lommel SK - Zulte Waregem",
+    "kickoff": "22:45",
+    "secim": "Ev Alt 0.5",
+    "acilis": "3.83",
+    "simdi": "3.13",
+    "puan": 5.08,
+    "band": "≥5p",
+    "sinif": "SÜRPRİZ",
+    "degisim": -18.3,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 7.4
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 4.99
+     },
+     {
+      "secim": "Alt 2.5",
+      "puan": 4.87
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 4.27
+     },
+     {
+      "secim": "Deplasman",
+      "puan": 3.98
+     },
+     {
+      "secim": "Alt 4.5",
+      "puan": 3.69
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 3.38
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 3.14
+     }
+    ]
+   },
+   {
+    "mac": "Nice - Troyes",
+    "kickoff": "22:45",
+    "secim": "Alt 2.5",
+    "acilis": "2.03",
+    "simdi": "1.82",
+    "puan": 5.06,
+    "band": "≥5p",
+    "sinif": "PLASE",
+    "degisim": -10.3,
+    "cekim": "21:16",
+    "ayni_macta_dusen": [
+     {
+      "secim": "Ev Alt 1.5",
+      "puan": 4.6
+     },
+     {
+      "secim": "Alt 3.5",
+      "puan": 4.6
+     },
+     {
+      "secim": "Ev Alt 2.5",
+      "puan": 4.07
+     },
+     {
+      "secim": "Alt 1.5",
+      "puan": 3.33
+     },
+     {
+      "secim": "İY Alt 1.5",
+      "puan": 3.23
+     },
+     {
+      "secim": "KG Yok",
+      "puan": 2.94
+     },
+     {
+      "secim": "İY Alt 0.5",
+      "puan": 2.77
+     },
+     {
+      "secim": "İY Beraberlik",
+      "puan": 2.18
+     }
+    ]
+   }
+  ]
+ },
+ "pencere": {
+  "tur": "21:15",
+  "kickoff_son": null,
+  "metin": "Pencere: kalan tüm maçlar"
+ },
+ "ortak": [],
+ "datagaffer_100": {
+  "kaldirildi": true,
+  "kayitlar": [],
+  "okunan_takim": 0
+ }
+}
